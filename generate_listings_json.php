@@ -104,6 +104,7 @@ foreach ($idList as $index => $item) {
         'garage' => isset($l['garage']) ? (int)(bool)$l['garage'] : null,
         'garage_parking_price' => isset($l['garageParkingPrice']['amount']) ? $l['garageParkingPrice']['amount'] : null,
         'short_description' => isset($l['headerAdvertisement']) ? $l['headerAdvertisement'] : null,
+        'headerAdvertisement' => isset($l['headerAdvertisement']) ? $l['headerAdvertisement'] : null,
         'kitchen_type' => isset($l['kitchenType']) ? $l['kitchenType'] : null,
         'location_name' => isset($l['location']['name']) ? $l['location']['name'] : null,
         'location_province' => isset($l['location']['province']) ? $l['location']['province'] : null,
