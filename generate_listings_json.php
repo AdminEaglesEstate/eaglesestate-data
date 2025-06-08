@@ -3,6 +3,17 @@
  * CRON: eksportuje wszystkie ogłoszenia z Asari do listings.json i wrzuca je automatycznie na GitHuba
  */
 
+
+if (file_exists(__DIR__ . '/.env')) {
+    $lines = file(__DIR__ . '/.env');
+    foreach ($lines as $line) {
+        if (trim($line) === '' || str_starts_with(trim($line), '#')) continue;
+        putenv(trim($line));
+    }
+}
+$token = getenv('GITHUB_TOKEN');
+
+
 date_default_timezone_set('Europe/Warsaw');
 
 $siteAuth = '72663:b4l86pBydW4yn53tgl1Hk03csh1YCN113Yv2mZb7';
