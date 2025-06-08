@@ -154,7 +154,7 @@ function githubPush($token, $repo, $path, $content, $message)
 
     $headers = [
         "Authorization: token $token",
-        "User-Agent: EaglesEstateCron",
+        "User-Agent: AdminEaglesEstate",
         "Accept: application/vnd.github.v3+json"
     ];
 
