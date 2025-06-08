@@ -7,8 +7,9 @@
 if (file_exists(__DIR__ . '/.env')) {
     $lines = file(__DIR__ . '/.env');
     foreach ($lines as $line) {
-        if (trim($line) === '' || str_starts_with(trim($line), '#')) continue;
-        putenv(trim($line));
+        $trimmed = trim($line);
+        if ($trimmed === '' || strpos($trimmed, '#') === 0) continue;
+        putenv($trimmed);
     }
 }
 $token = getenv('GITHUB_TOKEN');
