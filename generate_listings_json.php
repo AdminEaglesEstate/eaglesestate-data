@@ -75,7 +75,7 @@ logInfo("Pobrano " . count($idList) . " ID ogłoszeń");
 $listings = [];
 
 foreach ($idList as $index => $item) {
-    $listingId = $item['id'] ?? null;
+    $listingId = isset($item['id']) ? $item['id'] : null;
     if (!$listingId) continue;
 
     logInfo("Przetwarzam $index / " . count($idList) . " (ID: $listingId)");
@@ -88,43 +88,43 @@ foreach ($idList as $index => $item) {
     );
     if (!$response) continue;
     $json = json_decode($response, true);
-    $l = $json['data'] ?? null;
+    $l = isset($json['data']) ? $json['data'] : null;
     if (!$l || !isset($l['id'])) continue;
 
     $listings[] = [
         'id' => $l['id'],
-        'title' => $l['name'] ?? '',
-        'price' => $l['price']['amount'] ?? 0,
+        'title' => isset($l['name']) ? $l['name'] : '',
+        'price' => isset($l['price']['amount']) ? $l['price']['amount'] : 0,
         'is_special' => isset($l['isSpecial']) ? (int)(bool)$l['isSpecial'] : 0,
-        'building_type' => $l['buildingType'] ?? null,
-        'country_name' => $l['country']['name'] ?? null,
-        'description' => $l['description'] ?? null,
+        'building_type' => isset($l['buildingType']) ? $l['buildingType'] : null,
+        'country_name' => isset($l['country']['name']) ? $l['country']['name'] : null,
+        'description' => isset($l['description']) ? $l['description'] : null,
         'elevator' => isset($l['elevator']) ? (int)(bool)$l['elevator'] : null,
-        'floor_no' => $l['floorNo'] ?? null,
+        'floor_no' => isset($l['floorNo']) ? $l['floorNo'] : null,
         'garage' => isset($l['garage']) ? (int)(bool)$l['garage'] : null,
-        'garage_parking_price' => $l['garageParkingPrice']['amount'] ?? null,
-        'short_description' => $l['headerAdvertisement'] ?? null,
-        'kitchen_type' => $l['kitchenType'] ?? null,
-        'location_name' => $l['location']['name'] ?? null,
-        'location_province' => $l['location']['province'] ?? null,
-        'location_locality' => $l['location']['locality'] ?? null,
-        'location_quarter' => $l['location']['quarter'] ?? null,
-        'material' => $l['material'] ?? null,
-        'mortgage_market' => $l['mortgageMarket'] ?? null,
-        'no_of_rooms' => $l['noOfRooms'] ?? null,
-        'ownership_type' => $l['ownershipType'] ?? null,
-        'parking_spaces_no' => $l['parkingSpacesNo'] ?? null,
-        'price_m2' => $l['priceM2']['amount'] ?? null,
-        'provision_amount' => $l['provisionAmount'] ?? null,
-        'section' => $l['section'] ?? null,
-        'status' => $l['status'] ?? null,
-        'total_area' => $l['totalArea'] ?? null,
-        'year_built' => $l['yearBuilt'] ?? null,
-        'street_name' => $l['street']['name'] ?? null,
-        'street_full_name' => $l['street']['fullName'] ?? null,
-        'images' => $l['images'] ?? [],
-        'listing_offer_id' => $l['listingId'] ?? null,
-        'no_of_floors' => $l['noOfFloors'] ?? null,
+        'garage_parking_price' => isset($l['garageParkingPrice']['amount']) ? $l['garageParkingPrice']['amount'] : null,
+        'short_description' => isset($l['headerAdvertisement']) ? $l['headerAdvertisement'] : null,
+        'kitchen_type' => isset($l['kitchenType']) ? $l['kitchenType'] : null,
+        'location_name' => isset($l['location']['name']) ? $l['location']['name'] : null,
+        'location_province' => isset($l['location']['province']) ? $l['location']['province'] : null,
+        'location_locality' => isset($l['location']['locality']) ? $l['location']['locality'] : null,
+        'location_quarter' => isset($l['location']['quarter']) ? $l['location']['quarter'] : null,
+        'material' => isset($l['material']) ? $l['material'] : null,
+        'mortgage_market' => isset($l['mortgageMarket']) ? $l['mortgageMarket'] : null,
+        'no_of_rooms' => isset($l['noOfRooms']) ? $l['noOfRooms'] : null,
+        'ownership_type' => isset($l['ownershipType']) ? $l['ownershipType'] : null,
+        'parking_spaces_no' => isset($l['parkingSpacesNo']) ? $l['parkingSpacesNo'] : null,
+        'price_m2' => isset($l['priceM2']['amount']) ? $l['priceM2']['amount'] : null,
+        'provision_amount' => isset($l['provisionAmount']) ? $l['provisionAmount'] : null,
+        'section' => isset($l['section']) ? $l['section'] : null,
+        'status' => isset($l['status']) ? $l['status'] : null,
+        'total_area' => isset($l['totalArea']) ? $l['totalArea'] : null,
+        'year_built' => isset($l['yearBuilt']) ? $l['yearBuilt'] : null,
+        'street_name' => isset($l['street']['name']) ? $l['street']['name'] : null,
+        'street_full_name' => isset($l['street']['fullName']) ? $l['street']['fullName'] : null,
+        'images' => isset($l['images']) ? $l['images'] : [],
+        'listing_offer_id' => isset($l['listingId']) ? $l['listingId'] : null,
+        'no_of_floors' => isset($l['noOfFloors']) ? $l['noOfFloors'] : null,
         'last_updated' => date('Y-m-d H:i:s'),
     ];
 
