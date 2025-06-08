@@ -167,7 +167,7 @@ function githubPush($token, $repo, $path, $content, $message)
     $response = curl_exec($ch);
     curl_close($ch);
     $existing = json_decode($response, true);
-    $sha = $existing['sha'] ?? null;
+    $sha = isset($existing['sha']) ? $existing['sha'] : null;
 
     $data = json_encode([
         "message" => $message,
