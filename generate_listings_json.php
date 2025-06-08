@@ -158,6 +158,8 @@ function githubPush($token, $repo, $path, $content, $message)
         "Accept: application/vnd.github.v3+json"
     ];
 
+    logInfo("TOKEN: " . getenv('GITHUB_TOKEN'));
+
     // Pobierz sha istniejącego pliku
     $ch = curl_init();
     curl_setopt_array($ch, [
