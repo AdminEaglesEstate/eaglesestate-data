@@ -68,7 +68,7 @@ $idResponse = postForm(
 if (!$idResponse) exit("Brak odpowiedzi z exportedListingIdList\n");
 $idJson = json_decode($idResponse, true);
 if (!is_array($idJson) || !isset($idJson['data'])) exit("Błąd JSON\n");
-$idList = array_slice($idJson['data'], 0, 10);
+$idList = array_slice($idJson['data'], 0, 5);
 
 logInfo("Pobrano " . count($idList) . " ID ogłoszeń");
 
@@ -135,6 +135,14 @@ $target = __DIR__ . '/listings.json';
 file_put_contents($target, json_encode($listings, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 logInfo("Zapisano " . count($listings) . " ogłoszeń do $target");
 
-exec("git add listings.json && git commit -m 'Auto update '" . date('Y-m-d H:i:s') . " && git push origin main 2>&1", $output, $code);
+$commitMsg = "Auto update " . date('Y-m-d H:i:s');
+exec("git add listings.json && git commit -m \"" . addslashes($commitMsg) . "\" && git push origin main 2>&1", $output, $code);
+
+if ($code !== 0) {
+    logInfo("Git push zakonczony kodem $code");
+    foreach ($output as $line) logInfo($line);
+    exit("Git push zakonczony kodem $code\n");
+}
+
 logInfo("Git push zakończony kodem $code");
 foreach ($output as $line) logInfo($line);
