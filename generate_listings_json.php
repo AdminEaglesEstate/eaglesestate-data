@@ -68,7 +68,7 @@ $idResponse = postForm(
 if (!$idResponse) exit("Brak odpowiedzi z exportedListingIdList\n");
 $idJson = json_decode($idResponse, true);
 if (!is_array($idJson) || !isset($idJson['data'])) exit("Błąd JSON\n");
-$idList = $idJson['data'];
+$idList = array_slice($idJson['data'], 0, 10);
 
 logInfo("Pobrano " . count($idList) . " ID ogłoszeń");
 
