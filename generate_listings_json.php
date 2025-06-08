@@ -80,7 +80,7 @@ $idResponse = postForm(
 if (!$idResponse) exit("Brak odpowiedzi z exportedListingIdList\n");
 $idJson = json_decode($idResponse, true);
 if (!is_array($idJson) || !isset($idJson['data'])) exit("Błąd JSON\n");
-$idList = array_slice($idJson['data'], 0, 2);
+$idList = $idJson['data'];
 
 logInfo("Pobrano " . count($idList) . " ID ogłoszeń");
 
@@ -157,8 +157,6 @@ function githubPush($token, $repo, $path, $content, $message)
         "User-Agent: AdminEaglesEstate",
         "Accept: application/vnd.github.v3+json"
     ];
-
-    logInfo("TOKEN: " . getenv('GITHUB_TOKEN'));
 
     // Pobierz sha istniejącego pliku
     $ch = curl_init();
