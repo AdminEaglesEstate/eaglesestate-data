@@ -136,14 +136,64 @@ $target = __DIR__ . '/listings.json';
 file_put_contents($target, json_encode($listings, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 logInfo("Zapisano " . count($listings) . " ogłoszeń do $target");
 
-$commitMsg = "Auto update " . date('Y-m-d H:i:s');
-exec("git add listings.json && git commit -m \"" . addslashes($commitMsg) . "\" && git push origin main 2>&1", $output, $code);
+function githubPush($token, $repo, $path, $content, $message)
+{
+    $url = "https://api.github.com/repos/$repo/contents/$path";
 
-if ($code !== 0) {
-    logInfo("Git push zakonczony kodem $code");
-    foreach ($output as $line) logInfo($line);
-    exit("Git push zakonczony kodem $code\n");
+    $headers = [
+        "Authorization: token $token",
+        "User-Agent: EaglesEstateCron",
+        "Accept: application/vnd.github.v3+json"
+    ];
+
+    // Pobierz sha istniejącego pliku
+    $ch = curl_init();
+    curl_setopt_array($ch, [
+        CURLOPT_URL => $url,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_HTTPHEADER => $headers,
+    ]);
+    $response = curl_exec($ch);
+    curl_close($ch);
+    $existing = json_decode($response, true);
+    $sha = $existing['sha'] ?? null;
+
+    $data = json_encode([
+        "message" => $message,
+        "content" => base64_encode($content),
+        "branch" => "main",
+        "sha" => $sha
+    ], JSON_UNESCAPED_UNICODE);
+
+    $ch = curl_init();
+    curl_setopt_array($ch, [
+        CURLOPT_URL => $url,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_CUSTOMREQUEST => "PUT",
+        CURLOPT_POSTFIELDS => $data,
+        CURLOPT_HTTPHEADER => array_merge($headers, [
+            "Content-Type: application/json"
+        ])
+    ]);
+    $response = curl_exec($ch);
+    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    curl_close($ch);
+
+    logInfo("GitHub API response code: $httpCode");
+    if ($httpCode !== 200 && $httpCode !== 201) {
+        logInfo("GitHub API error: $response");
+    } else {
+        logInfo("Wysłano listings.json do GitHuba przez API");
+    }
 }
 
-logInfo("Git push zakończony kodem $code");
-foreach ($output as $line) logInfo($line);
+// Wywołanie
+$token = getenv('GITHUB_TOKEN');
+$repo = 'AdminEaglesEstate/eaglesestate-data';
+$path = 'listings.json';
+$content = file_get_contents($target);
+$message = "Auto update " . date('Y-m-d H:i:s');
+githubPush($token, $repo, $path, $content, $message);
+
+$message = "Auto update " . date('Y-m-d H:i:s');
+githubPush($token, $repo, $path, $content, $message);
