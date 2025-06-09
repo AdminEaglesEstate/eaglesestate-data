@@ -138,6 +138,7 @@ foreach ($idList as $index => $item) {
         'images' => isset($l['images']) ? $l['images'] : [],
         'listing_offer_id' => isset($l['listingId']) ? $l['listingId'] : null,
         'no_of_floors' => isset($l['noOfFloors']) ? $l['noOfFloors'] : null,
+        'actualisation_date' => isset($l['actualisationDate']) ? $l['actualisationDate'] : null,
         'last_updated' => date('Y-m-d H:i:s'),
     ];
 
@@ -147,6 +148,18 @@ foreach ($idList as $index => $item) {
 $target = __DIR__ . '/listings.json';
 file_put_contents($target, json_encode($listings, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 logInfo("Zapisano " . count($listings) . " ogłoszeń do $target");
+
+// Sortuj po actualisation_date i zapisz 30 najnowszych do new30.json
+usort($listings, function($a, $b) {
+    $dateA = $a['actualisation_date'] ?? '';
+    $dateB = $b['actualisation_date'] ?? '';
+    return strcmp($dateB, $dateA); // sortowanie malejąco (najnowsze pierwsze)
+});
+
+$newest30 = array_slice($listings, 0, 30);
+$target30 = __DIR__ . '/new30.json';
+file_put_contents($target30, json_encode($newest30, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+logInfo("Zapisano 30 najnowszych ogłoszeń do $target30");
 
 function githubPush($token, $repo, $path, $content, $message)
 {
@@ -207,5 +220,8 @@ $content = file_get_contents($target);
 $message = "Auto update " . date('Y-m-d H:i:s');
 githubPush($token, $repo, $path, $content, $message);
 
-$message = "Auto update " . date('Y-m-d H:i:s');
-githubPush($token, $repo, $path, $content, $message);
+// Dodaj wysyłanie new30.json do GitHuba
+$pathNew30 = 'new30.json';
+$contentNew30 = file_get_contents($target30);
+$messageNew30 = "Auto update new30 " . date('Y-m-d H:i:s');
+githubPush($token, $repo, $pathNew30, $contentNew30, $messageNew30);
