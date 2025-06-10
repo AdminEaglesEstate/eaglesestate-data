@@ -130,8 +130,107 @@
         ],
         "listing_offer_id": "657\/17058\/OMS",
         "no_of_floors": 2,
-        "actualisation_date": "2025-06-10 12:05:03",
-        "last_updated": "2025-06-10 12:14:19"
+        "actualisation_date": "2025-06-10 12:44:10",
+        "last_updated": "2025-06-10 12:44:21"
+    },
+    {
+        "id": 12016329,
+        "title": "",
+        "price": 499000,
+        "is_special": 0,
+        "building_type": "ApartmentOfficeBuilding",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości&nbsp;<b>Eagles Estate<\/b>&nbsp;prezentuje Państwu 3-pokojowe mieszkanie o powierzchni 58,8m2, usytuowane na 2 piętrze w 4 piętrowym bloku.<br><br>Nieruchomość zlokalizowana jest przy ul. Jacka Malczewskiego w Rzeszowie. Mieszkanie znajduje się w niedalekiej odległości od kluczowych punktów handlowo-usługowych, placówek edukacyjnych, przystanków komunikacji miejskiej oraz terenów rekreacyjnych.<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI:<\/b><br>- Salon<br>-Pokój<br>- Sypialnia&nbsp;<br>-Kuchnia&nbsp;<br>- Łazienka<br>-Toaleta<br>-Przedpokój<br>-Balkon<br><br><b>ATUTY NIERUCHOMOŚCI:<\/b><br>- dostępność punktów usługo - handlowych&nbsp;<br>- spokojne i bezpieczne osiedle<br>- duży parking dostępny dla mieszkańców<br><b><br>LOKALIZACJA:<br><\/b>-sklepy<br>-poczta<br>-fryzjer\/kosmetyczka<br>-kościół<br>-szkoła<br>-przedszkole<br>-żłobek<br>-przystanek autobusowy<br><br>Mieszkanie sprawdzi się dla rodzin, a także jako inwestycja.<br>Do mieszkania przynależy piwnica<br>&nbsp;<br>Po więcej informacji zapraszam do kontaktu.<br><br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży\/zakupie nieruchomości.&nbsp;",
+        "elevator": 0,
+        "floor_no": 2,
+        "garage": 0,
+        "garage_parking_price": null,
+        "short_description": "3 pokoje w świetnej lokalizacji – Rzeszów!",
+        "headerAdvertisement": "3 pokoje w świetnej lokalizacji – Rzeszów!",
+        "kitchen_type": "Separate",
+        "location_name": "\/Podkarpackie\/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "PrecastConcreteSlabs",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 8486.39,
+        "provision_amount": 9980,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 58.8,
+        "year_built": 1977,
+        "street_name": "Jacka Malczewskiego",
+        "street_full_name": "ul. Jacka Malczewskiego",
+        "images": [
+            {
+                "id": 104838418,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105038865,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104838414,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104838415,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104838417,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104838419,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104838420,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104838421,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104838422,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104838423,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104838424,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104838425,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "313\/17058\/OMS",
+        "no_of_floors": 4,
+        "actualisation_date": "2025-06-10 12:39:13",
+        "last_updated": "2025-06-10 12:41:15"
     },
     {
         "id": 12232918,
@@ -220,7 +319,7 @@
         "listing_offer_id": "937\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-10 11:07:08",
-        "last_updated": "2025-06-10 12:18:18"
+        "last_updated": "2025-06-10 12:48:24"
     },
     {
         "id": 11976362,
@@ -279,7 +378,7 @@
         "listing_offer_id": "50\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-10 10:59:02",
-        "last_updated": "2025-06-10 12:04:00"
+        "last_updated": "2025-06-10 12:34:03"
     },
     {
         "id": 11976007,
@@ -338,7 +437,7 @@
         "listing_offer_id": "49\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-10 10:50:33",
-        "last_updated": "2025-06-10 12:03:00"
+        "last_updated": "2025-06-10 12:32:58"
     },
     {
         "id": 12230105,
@@ -417,7 +516,7 @@
         "listing_offer_id": "927\/17058\/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-09 15:52:55",
-        "last_updated": "2025-06-10 12:18:13"
+        "last_updated": "2025-06-10 12:48:19"
     },
     {
         "id": 11999441,
@@ -526,7 +625,7 @@
         "listing_offer_id": "270\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-09 11:14:47",
-        "last_updated": "2025-06-10 12:09:53"
+        "last_updated": "2025-06-10 12:39:58"
     },
     {
         "id": 12235142,
@@ -620,7 +719,7 @@
         "listing_offer_id": "13\/17058\/OLS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 15:15:06",
-        "last_updated": "2025-06-10 12:18:26"
+        "last_updated": "2025-06-10 12:48:32"
     },
     {
         "id": 12101818,
@@ -709,7 +808,7 @@
         "listing_offer_id": "621\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 13:54:10",
-        "last_updated": "2025-06-10 12:13:44"
+        "last_updated": "2025-06-10 12:43:49"
     },
     {
         "id": 12108039,
@@ -828,7 +927,7 @@
         "listing_offer_id": "650\/17058\/OMS",
         "no_of_floors": 11,
         "actualisation_date": "2025-06-06 12:51:43",
-        "last_updated": "2025-06-10 12:14:05"
+        "last_updated": "2025-06-10 12:44:12"
     },
     {
         "id": 12062536,
@@ -872,7 +971,7 @@
         "listing_offer_id": "543\/17058\/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-06-05 15:20:40",
-        "last_updated": "2025-06-10 12:08:24"
+        "last_updated": "2025-06-10 12:38:28"
     },
     {
         "id": 12229844,
@@ -966,7 +1065,7 @@
         "listing_offer_id": "924\/17058\/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-05 14:33:04",
-        "last_updated": "2025-06-10 12:18:05"
+        "last_updated": "2025-06-10 12:48:11"
     },
     {
         "id": 12224251,
@@ -1050,7 +1149,7 @@
         "listing_offer_id": "897\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-05 13:30:53",
-        "last_updated": "2025-06-10 12:02:38"
+        "last_updated": "2025-06-10 12:32:37"
     },
     {
         "id": 11884666,
@@ -1144,7 +1243,7 @@
         "listing_offer_id": "25\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-05 10:47:55",
-        "last_updated": "2025-06-10 12:03:23"
+        "last_updated": "2025-06-10 12:33:24"
     },
     {
         "id": 12205809,
@@ -1228,7 +1327,7 @@
         "listing_offer_id": "868\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-05 08:50:33",
-        "last_updated": "2025-06-10 12:17:21"
+        "last_updated": "2025-06-10 12:47:27"
     },
     {
         "id": 12233305,
@@ -1332,7 +1431,7 @@
         "listing_offer_id": "938\/17058\/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-04 14:47:25",
-        "last_updated": "2025-06-10 12:18:20"
+        "last_updated": "2025-06-10 12:48:25"
     },
     {
         "id": 11988912,
@@ -1401,7 +1500,7 @@
         "listing_offer_id": "246\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 14:00:57",
-        "last_updated": "2025-06-10 12:02:25"
+        "last_updated": "2025-06-10 12:32:24"
     },
     {
         "id": 12233360,
@@ -1505,7 +1604,7 @@
         "listing_offer_id": "939\/17058\/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-04 13:50:07",
-        "last_updated": "2025-06-10 12:18:25"
+        "last_updated": "2025-06-10 12:48:30"
     },
     {
         "id": 11917878,
@@ -1604,7 +1703,7 @@
         "listing_offer_id": "54\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-04 10:27:22",
-        "last_updated": "2025-06-10 12:03:52"
+        "last_updated": "2025-06-10 12:33:52"
     },
     {
         "id": 12230356,
@@ -1703,7 +1802,7 @@
         "listing_offer_id": "928\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-04 10:26:18",
-        "last_updated": "2025-06-10 12:18:12"
+        "last_updated": "2025-06-10 12:48:17"
     },
     {
         "id": 11897561,
@@ -1772,7 +1871,7 @@
         "listing_offer_id": "12\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:46:17",
-        "last_updated": "2025-06-10 12:03:42"
+        "last_updated": "2025-06-10 12:33:40"
     },
     {
         "id": 11940618,
@@ -1856,7 +1955,7 @@
         "listing_offer_id": "107\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:43:58",
-        "last_updated": "2025-06-10 12:05:45"
+        "last_updated": "2025-06-10 12:35:51"
     },
     {
         "id": 11942057,
@@ -1935,7 +2034,7 @@
         "listing_offer_id": "116\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:42:29",
-        "last_updated": "2025-06-10 12:06:13"
+        "last_updated": "2025-06-10 12:36:18"
     },
     {
         "id": 11949561,
@@ -2014,7 +2113,7 @@
         "listing_offer_id": "151\/17058\/OMS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-04 09:37:26",
-        "last_updated": "2025-06-10 12:07:41"
+        "last_updated": "2025-06-10 12:37:48"
     },
     {
         "id": 11949581,
@@ -2083,7 +2182,7 @@
         "listing_offer_id": "152\/17058\/OMS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-04 09:36:50",
-        "last_updated": "2025-06-10 12:07:42"
+        "last_updated": "2025-06-10 12:37:49"
     },
     {
         "id": 11988684,
@@ -2177,7 +2276,7 @@
         "listing_offer_id": "245\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:33:08",
-        "last_updated": "2025-06-10 12:02:18"
+        "last_updated": "2025-06-10 12:32:20"
     },
     {
         "id": 12006107,
@@ -2281,7 +2380,7 @@
         "listing_offer_id": "280\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:32:29",
-        "last_updated": "2025-06-10 12:10:33"
+        "last_updated": "2025-06-10 12:40:37"
     },
     {
         "id": 12006475,
@@ -2345,7 +2444,7 @@
         "listing_offer_id": "289\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:31:31",
-        "last_updated": "2025-06-10 12:10:56"
+        "last_updated": "2025-06-10 12:41:01"
     },
     {
         "id": 12074802,
@@ -2474,7 +2573,7 @@
         "listing_offer_id": "81\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:29:27",
-        "last_updated": "2025-06-10 12:13:26"
+        "last_updated": "2025-06-10 12:43:30"
     },
     {
         "id": 12120847,
@@ -2583,170 +2682,6 @@
         "listing_offer_id": "89\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:27:13",
-        "last_updated": "2025-06-10 12:01:47"
-    },
-    {
-        "id": 12174715,
-        "title": "",
-        "price": 698117.33,
-        "is_special": 0,
-        "building_type": null,
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości Eagles Estate ma przyjemność przedstawić Państwu na sprzedaż komfortowe domy w zabudowie bliźniaczej, zlokalizowane w spokojnej i zielonej okolicy miejscowości Krasne, zaledwie kilkanaście minut od centrum Rzeszowa. <br><br>To idealna propozycja dla osób ceniących ciszę i prywatność, a jednocześnie chcących mieć szybki dostęp do miasta oraz głównych arterii komunikacyjnych — autostrady A4 i drogi ekspresowej S19.<br><br> Kluczowe informacje: <ul> <li> Powierzchnia domu: 144,31 m²<br> <\/li> <li> Powierzchnia działki: ok. 4,5 ara<br> <\/li> <li> Liczba domów w inwestycji: 8<br> <\/li> <li> Termin oddania stanu surowego zamkniętego: II kwartał 2025 r.<br> <\/li> <li> Możliwość wykończenia domów do stanu deweloperskiego<\/li> <\/ul><br>&nbsp;Przemyślany układ pomieszczeń: <br>Parter:<br> <ul> <li> Wiatrołap 4,20 m2<br> <\/li> <li> Toaleta 1,63 m2&nbsp;<br> <\/li> <li> Przestronny salon z aneksem kuchennym 46,02 m2 + 10,04 m2<br> <\/li> <li> Pokój (np. gabinet lub dodatkowa sypialnia) 10,08 m2&nbsp;<br> <\/li> <li> Hol 2,24 m2<br> <\/li> <li> Garaż na dwuślady w bryle budynku 8 m2 (możliwość wykonania garażu pełnometrażowego)<br> <\/li> <\/ul> Piętro:<br> <ul> <li> 3 ustawne sypialnie 17,84 m2, 11,46 m2, 11,03 m2&nbsp;<br> <\/li> <li> Duża łazienka 6,61 m2<br> <\/li> <li> Pomieszczenie gospodarcze 2,27 m2<br> <\/li> <li> Hol 12,89 m2&nbsp;<\/li><li>Taras na piętrze z pięknym widokiem ok 39,62 m2<\/li> <\/ul><br>&nbsp;Standard stanu surowego zamkniętego obejmuje m.in.: <ul> <li> Okna trzyszybowe z roletami zewnętrznymi<br> <\/li> <li> Brama garażowa segmentowa bez napędu i drzwi wejściowe<br> <\/li> <li> Wykonana elewacja ze styropianem grubości 20 cm<br> <\/li> <li> Dach pokryty blachodachówką<br> <\/li> <li> Ogrodzenie działki z trzech stron<br> <\/li> <li> Kostka brukowa – podjazd, taras, odbojówka (ok. 100–110 m²)<br> <\/li> <li> Media doprowadzone do budynku: prąd, woda, kanalizacja sanitarna i deszczowa<br> <\/li> <li> Zbiorniki retencyjne, balustrady na górnym tarasie, zabezpieczenie papą<br> <\/li> <li> Teren wyrównany i przygotowany do aranżacji ogrodu<br> <\/li><li>Przyłącz energetyczny w ogrodzeniu<br><\/li> <\/ul> Ceny: <ul> <li> Stan surowy zamknięty: 698 117,33 zł (dodatkowo udział w drodze – 23 283 zł) - łącznie 721 400 zł brutto<br> <\/li> <li> Stan deweloperski: do ustalenia w zależności od wybranego standardu wykończenia<\/li> <\/ul><br>Jeśli szukasz nowoczesnego domu w spokojnej lokalizacji, z szybkim dojazdem do Rzeszowa i pełnym zapleczem infrastrukturalnym – ta oferta jest dla Ciebie.<br><br>Bez prowizji i podatku PCC.<br><br>Zapraszamy do kontaktu oraz prezentacji nieruchomości.   Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.  Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.",
-        "elevator": null,
-        "floor_no": null,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Nowoczesne domy Krasne 144 m2 4,5 ar",
-        "headerAdvertisement": "Nowoczesne domy Krasne 144 m2 4,5 ar",
-        "kitchen_type": "Open",
-        "location_name": "\/Podkarpackie\/Rzeszowski\/Krasne",
-        "location_province": "Podkarpackie",
-        "location_locality": "Krasne",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 4,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 4837.62,
-        "provision_amount": 0,
-        "section": "HouseSale",
-        "status": "Active",
-        "total_area": 144.31,
-        "year_built": 2026,
-        "street_name": null,
-        "street_full_name": null,
-        "images": [
-            {
-                "id": 105589336,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390257,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105348814,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105589378,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390249,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390579,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390283,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390293,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390521,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390566,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390570,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390387,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390394,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390485,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390603,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390648,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390663,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390671,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390682,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390689,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105390696,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105589383,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105589403,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105589413,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105589419,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "107\/17058\/ODS",
-        "no_of_floors": 1,
-        "actualisation_date": "2025-06-04 09:16:02",
-        "last_updated": "2025-06-10 12:15:50"
+        "last_updated": "2025-06-10 12:31:47"
     }
 ]
