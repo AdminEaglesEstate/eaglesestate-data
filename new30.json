@@ -1,5 +1,89 @@
 [
     {
+        "id": 12006360,
+        "title": "",
+        "price": 769000,
+        "is_special": 0,
+        "building_type": null,
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate z dumą prezentuje niepowtarzalną nowopowstającą inwestycję składającą się z jednorodzinnych domów w zabudowie szeregowej zlokalizowaną w Rzeszowie na osiedlu Budziwój, w zielonym i spokojnym otoczeniu.&nbsp;<br><br>Wyjątkowa Lokalizacja:<br>Osiedle położone jest w cichej, zielonej okolicy, idealnej do życia i odpoczynku. Bliskość rekreacyjnych terenów zielonych, malownicze otoczenie, z jednocześnie doskonałym dostępem do głównych dróg, sprawia, że dojazd do ścisłego centrum Rzeszowa jest szybki (zajmuje około 15 min) i wygodny. Najbliższa okolica zapewnia dostęp do podstawowych usług, takich jak sklepy, apteka, szkoła, przedszkole, kościół, przychodnia lekarska i przystanki autobusowe.<br>&nbsp;<br>Nieruchomość:<br>Osiedle docelowo będzie składało się 33 domów, a inwestycja została podzielona na dwa etapy. Dwukondygnacyjne budynki zostały zaprojektowane z myślą o oryginalności bryły i najlepszego wykończenia, zapewniając jednocześnie niezależność. To harmonijne połączenie nowoczesności i elegancji. Prosta bryła, biała elewacja z szarymi i drewnianymi akcentami oraz grafitowa stolarka okienna i drzwiowa tworzą spójną całość. Wejście w podcieniu dodaje budynkom charakteru i praktyczności, a dach z szarej blachy na rąbek podkreśla nowoczesny design.<br>Każdy z segmentów to około 125 m2 powierzchni bez uciążliwych i trudnych do adaptacji skosów.&nbsp;<br>Na parterze znajduje się przestronny wiatrołap z garderobą, funkcjonalna kuchnia z praktyczną spiżarnią, elegancki salon z jadalnią i bezpośrednim dostępem do ogrodu oraz toaleta dla wygody gości. Znajdziemy tu również jednostanowiskowy garaż w bryle budynku wraz z kotłownią. Piętro oferuje w zależności od potrzeb układ z dwoma, trzema lub czterema sypialniami, łazienkę oraz korytarz, z którego możemy wejść na strych do własnej aranżacji. W układzie 2 i 3 sypialnianym mamy możliwość wyodrębnienia dodatkowej łazienki i garderoby przynależnej do głównej sypialni.<br><br>Prezentowany segment to dom skrajny z ogrodem o powierzchni 79 m2.<br>&nbsp;<br>Nowoczesna Infrastruktura:<br>Osiedle zostało starannie zaprojektowane z myślą o wygodzie i bezpieczeństwie mieszkańców. Bezpośredni zjazd z asfaltowej drogi ułatwia dostęp do domów, a dodatkowe udogodnienia, takie jak stacje ładowania samochodów elektrycznych oraz plac zabaw dla dzieci podnoszą komfort życia. Każdy segment posiada dodatkowe miejsce postojowe na podjeździe, a dla gości przewidziany jest ogólnodostępny parking.<br>&nbsp;&nbsp;<br>Stan Deweloperski<br>Dom oferowany jest w stanie deweloperskim, z planowanym zakończeniem budowy w IV kwartale 2025 roku. To idealna okazja, aby dostosować wnętrze do własnych potrzeb i gustów. Sterowane ogrzewanie podłogowe, ciepłe drzwi antywłamaniowe z antabą, podtynkowe skrzynki pod rolety, kanalizacja deszczowa, automatyczna brama garażowa z napędem Wiśniowski, przygotowana instalacja pod fotowoltaikę oraz pompę ciepła to tylko niektóre z udogodnień, jakie oferuje ta inwestycja.",
+        "elevator": null,
+        "floor_no": null,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "Nowa Inwestycja na Południu Rzeszowa",
+        "headerAdvertisement": "Nowa Inwestycja na Południu Rzeszowa",
+        "kitchen_type": "Open",
+        "location_name": "\/Podkarpackie\/Rzeszów\/Budziwój",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Budziwój",
+        "material": "AirBrick",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 4,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 6148.07,
+        "provision_amount": 0,
+        "section": "HouseSale",
+        "status": "Active",
+        "total_area": 125.08,
+        "year_built": 2024,
+        "street_name": null,
+        "street_full_name": null,
+        "images": [
+            {
+                "id": 106259033,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103553618,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103553619,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103553617,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103553620,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106259028,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106259039,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106259041,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106259043,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "67\/17058\/ODS",
+        "no_of_floors": 1,
+        "actualisation_date": "2025-06-12 14:29:09",
+        "last_updated": "2025-06-12 14:40:58"
+    },
+    {
         "id": 11943999,
         "title": "",
         "price": 494844,
@@ -136,7 +220,7 @@
         "listing_offer_id": "125\/17058\/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-06-12 13:52:22",
-        "last_updated": "2025-06-12 14:06:39"
+        "last_updated": "2025-06-12 14:36:40"
     },
     {
         "id": 12240878,
@@ -225,7 +309,7 @@
         "listing_offer_id": "956\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 13:50:02",
-        "last_updated": "2025-06-12 14:18:52"
+        "last_updated": "2025-06-12 14:48:54"
     },
     {
         "id": 12242522,
@@ -314,7 +398,7 @@
         "listing_offer_id": "970\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-12 13:17:27",
-        "last_updated": "2025-06-12 14:01:42"
+        "last_updated": "2025-06-12 14:31:44"
     },
     {
         "id": 12069567,
@@ -443,7 +527,7 @@
         "listing_offer_id": "575\/17058\/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-12 10:50:22",
-        "last_updated": "2025-06-12 14:13:16"
+        "last_updated": "2025-06-12 14:43:20"
     },
     {
         "id": 11870529,
@@ -532,7 +616,7 @@
         "listing_offer_id": "3\/17058\/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 09:22:53",
-        "last_updated": "2025-06-12 14:02:32"
+        "last_updated": "2025-06-12 14:32:32"
     },
     {
         "id": 11873058,
@@ -641,7 +725,7 @@
         "listing_offer_id": "5\/17058\/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 09:22:27",
-        "last_updated": "2025-06-12 14:02:34"
+        "last_updated": "2025-06-12 14:32:33"
     },
     {
         "id": 12240742,
@@ -720,7 +804,7 @@
         "listing_offer_id": "955\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 15:58:00",
-        "last_updated": "2025-06-12 14:18:59"
+        "last_updated": "2025-06-12 14:49:03"
     },
     {
         "id": 12241435,
@@ -794,7 +878,7 @@
         "listing_offer_id": "964\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 15:55:29",
-        "last_updated": "2025-06-12 14:13:08"
+        "last_updated": "2025-06-12 14:43:12"
     },
     {
         "id": 12241418,
@@ -863,7 +947,7 @@
         "listing_offer_id": "962\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 15:50:01",
-        "last_updated": "2025-06-12 14:13:06"
+        "last_updated": "2025-06-12 14:43:07"
     },
     {
         "id": 12206451,
@@ -1027,7 +1111,7 @@
         "listing_offer_id": "124\/17058\/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-11 15:44:00",
-        "last_updated": "2025-06-12 14:17:33"
+        "last_updated": "2025-06-12 14:47:36"
     },
     {
         "id": 12220827,
@@ -1166,7 +1250,7 @@
         "listing_offer_id": "127\/17058\/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-11 14:39:02",
-        "last_updated": "2025-06-12 14:17:50"
+        "last_updated": "2025-06-12 14:47:52"
     },
     {
         "id": 11999441,
@@ -1275,7 +1359,7 @@
         "listing_offer_id": "270\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 13:50:22",
-        "last_updated": "2025-06-12 14:09:57"
+        "last_updated": "2025-06-12 14:40:01"
     },
     {
         "id": 12239394,
@@ -1424,7 +1508,7 @@
         "listing_offer_id": "952\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 12:28:53",
-        "last_updated": "2025-06-12 14:18:50"
+        "last_updated": "2025-06-12 14:48:53"
     },
     {
         "id": 11998796,
@@ -1508,7 +1592,7 @@
         "listing_offer_id": "269\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-11 11:54:21",
-        "last_updated": "2025-06-12 14:09:56"
+        "last_updated": "2025-06-12 14:39:57"
     },
     {
         "id": 12240633,
@@ -1582,7 +1666,7 @@
         "listing_offer_id": "35\/17058\/OI",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 11:20:34",
-        "last_updated": "2025-06-12 14:18:57"
+        "last_updated": "2025-06-12 14:49:01"
     },
     {
         "id": 12208219,
@@ -1666,7 +1750,7 @@
         "listing_offer_id": "878\/17058\/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-06-11 10:58:22",
-        "last_updated": "2025-06-12 14:17:37"
+        "last_updated": "2025-06-12 14:47:39"
     },
     {
         "id": 11990059,
@@ -1745,7 +1829,7 @@
         "listing_offer_id": "251\/17058\/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-11 10:55:29",
-        "last_updated": "2025-06-12 14:03:48"
+        "last_updated": "2025-06-12 14:33:48"
     },
     {
         "id": 11939123,
@@ -1809,7 +1893,7 @@
         "listing_offer_id": "20\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 09:19:30",
-        "last_updated": "2025-06-12 14:05:26"
+        "last_updated": "2025-06-12 14:35:25"
     },
     {
         "id": 11976775,
@@ -1873,7 +1957,7 @@
         "listing_offer_id": "209\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 09:18:20",
-        "last_updated": "2025-06-12 14:09:35"
+        "last_updated": "2025-06-12 14:39:36"
     },
     {
         "id": 12109306,
@@ -2007,7 +2091,7 @@
         "listing_offer_id": "657\/17058\/OMS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-10 12:44:10",
-        "last_updated": "2025-06-12 14:14:29"
+        "last_updated": "2025-06-12 14:44:31"
     },
     {
         "id": 12016329,
@@ -2106,7 +2190,7 @@
         "listing_offer_id": "313\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-10 12:41:28",
-        "last_updated": "2025-06-12 14:11:18"
+        "last_updated": "2025-06-12 14:41:20"
     },
     {
         "id": 12232918,
@@ -2195,7 +2279,7 @@
         "listing_offer_id": "937\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-10 11:07:08",
-        "last_updated": "2025-06-12 14:18:31"
+        "last_updated": "2025-06-12 14:48:34"
     },
     {
         "id": 11976362,
@@ -2254,7 +2338,7 @@
         "listing_offer_id": "50\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-10 10:59:02",
-        "last_updated": "2025-06-12 14:04:07"
+        "last_updated": "2025-06-12 14:34:07"
     },
     {
         "id": 11976007,
@@ -2313,7 +2397,7 @@
         "listing_offer_id": "49\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-10 10:50:33",
-        "last_updated": "2025-06-12 14:03:02"
+        "last_updated": "2025-06-12 14:33:00"
     },
     {
         "id": 12230105,
@@ -2392,7 +2476,7 @@
         "listing_offer_id": "927\/17058\/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-09 15:52:55",
-        "last_updated": "2025-06-12 14:18:30"
+        "last_updated": "2025-06-12 14:48:32"
     },
     {
         "id": 12237930,
@@ -2486,7 +2570,7 @@
         "listing_offer_id": "15\/17058\/OLS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-09 14:00:43",
-        "last_updated": "2025-06-12 14:18:49"
+        "last_updated": "2025-06-12 14:48:51"
     },
     {
         "id": 12236296,
@@ -2580,7 +2664,7 @@
         "listing_offer_id": "14\/17058\/OLS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 15:21:48",
-        "last_updated": "2025-06-12 14:18:44"
+        "last_updated": "2025-06-12 14:48:47"
     },
     {
         "id": 12235142,
@@ -2674,7 +2758,7 @@
         "listing_offer_id": "13\/17058\/OLS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 15:15:06",
-        "last_updated": "2025-06-12 14:18:42"
+        "last_updated": "2025-06-12 14:48:45"
     },
     {
         "id": 12101818,
@@ -2763,125 +2847,6 @@
         "listing_offer_id": "621\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 13:54:10",
-        "last_updated": "2025-06-12 14:13:56"
-    },
-    {
-        "id": 12108039,
-        "title": "",
-        "price": 580000,
-        "is_special": 0,
-        "building_type": "HighBlock",
-        "country_name": "Polska",
-        "description": "Wyłącznie w ofercie biura nieruchomości Eagles Estate przedstawiamy Państwu 2-pokojowe mieszkanie o powierzchni 47,3 m2, znajdujące się na osiedlu Wilkowyja przy ul. Bałtyckiej.&nbsp;<br>Nieruchomość usytuowana jest na 8 piętrze, co gwarantuje piękny widok i dobre doświetlenie. Mieszkanie jest wykończone dobrej jakości materiałami, sprzedawane z pełnym wyposażeniem jak na zdjęciach- gotowe do wprowadzenia.&nbsp;<br><br><b>Układ mieszkania:<br><\/b>- Salon z aneksem kuchennym - 32,3 m2<br>- Sypialnia - 9,2 m2<br>- Łazienka - 5,8 m2<br>- Dodatkowo loggia - 4,9 m2<br><br><b>Dodatkowe informacje:<\/b><br>-<b>&nbsp;<\/b>Czynsz 740 zł na 2 osoby (w tym ogrzewanie, woda, śmieci, części wspólne, fundusz remontowy)<b><br><\/b>- Doskonała lokalizacja zapewniająca dostęp do komunikacji w stronę miasta lub autostrady<br>- Jasne i przestronne, z ekspozycją zachodnią<br>- Blok z 2021 r, wykończony w wysokim standardzie<br>- W pełni wyposażone i zadbane<br>- Meble w kuchni oraz szafy robione na wymiar<br><br>Do mieszkania przynależy&nbsp;<b>komórka lokatorska<\/b>&nbsp;o powierzchni 2,41 m2 w cenie mieszkania.<br>Jest możliwość dokupienia&nbsp;<b>miejsca postojowego w garażu podziemnym<\/b>&nbsp;-&nbsp;<b>dodatkowo płatne 50 000 zł<\/b>&nbsp;(zakup opcjonalny).<br><br>Lokalizacja zapewnia dobry dojazd do centrum oraz autostrady A4, a zarazem gwarantuje spokój i bliskość do terenów zielonych. Osiedle jest nowe i dynamicznie się rozwija. Znajduje się tutaj dużo lokali usługowych, a także przedszkole i prestiżowa szkoła podstawowa.&nbsp;<br><br>Zapraszamy do kontaktu i umówienia się na obejrzenie tej atrakcyjnej nieruchomości.<br><i>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości.<\/i>",
-        "elevator": 1,
-        "floor_no": 8,
-        "garage": 1,
-        "garage_parking_price": 50000,
-        "short_description": "Wykończone 2 pokoje z garażem w nowym bloku",
-        "headerAdvertisement": "Wykończone 2 pokoje z garażem w nowym bloku",
-        "kitchen_type": null,
-        "location_name": "\/Podkarpackie\/Rzeszów\/Wilkowyja",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "Wilkowyja",
-        "material": "Mixed",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 2,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": 1,
-        "price_m2": 12264.75,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 47.29,
-        "year_built": 2021,
-        "street_name": "Bałtycka",
-        "street_full_name": "ul. Bałtycka",
-        "images": [
-            {
-                "id": 105565069,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104588851,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104588845,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104588848,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104588841,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104588840,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104588839,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104588844,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104588842,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104588849,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105565070,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104588846,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104588850,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104588843,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104588838,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104682019,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "650\/17058\/OMS",
-        "no_of_floors": 11,
-        "actualisation_date": "2025-06-06 12:51:43",
-        "last_updated": "2025-06-12 14:14:17"
+        "last_updated": "2025-06-12 14:43:58"
     }
 ]
