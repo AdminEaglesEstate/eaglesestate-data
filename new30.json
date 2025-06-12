@@ -1,5 +1,292 @@
 [
     {
+        "id": 11870529,
+        "title": "",
+        "price": 519000,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate prezentuje Państwu&nbsp;&nbsp;mieszkanie o powierzchni 40,5 m2 położone przy ulicy Piłsudskiego. Nieruchomość znajduje się na 1 piętrze w niskim bloku. Mieszkanie zlokalizowane jest w samym sercu miasta i idealnie nadaje się dla osób poszukujących nieruchomości inwestycyjnej lub ceni sobie bliskość wszystkich udogodnień miasta. Mieszkanie przeszło generalny remont dwa lata temu.<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI:<\/b><br>- Sypialnia<br>- Łazienka<br>- Pokój<br>- Przedpokój<br>- Kuchnia<br><br><b>ATUTY NIERUCHOMOŚCI:<\/b><br>- Dobra lokalizacja dla osób ceniących sobie bliskość centrum<br>- Budynek znajduje się w niedalekiej odległości terenów zielonych przy samej rzece<br>-Parking za szlabanem<br><br>Po więcej informacji zapraszam do kontaktu.<br><br>  Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży\/zakupie nieruchomości. <br><br>",
+        "elevator": 0,
+        "floor_no": 1,
+        "garage": 0,
+        "garage_parking_price": null,
+        "short_description": "Gotowy produkt inwestycyjny! Z najemcami",
+        "headerAdvertisement": "Gotowy produkt inwestycyjny! Z najemcami",
+        "kitchen_type": null,
+        "location_name": "\/Podkarpackie\/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "Brick",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 2,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 12814.81,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 40.5,
+        "year_built": 1960,
+        "street_name": "al. Józefa Piłsudskiego",
+        "street_full_name": "al. Józefa Piłsudskiego",
+        "images": [
+            {
+                "id": 101765209,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765210,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765211,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102460828,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765213,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102460823,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102460826,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765212,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765207,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765208,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "3\/17058\/OMS",
+        "no_of_floors": 3,
+        "actualisation_date": "2025-06-12 09:22:53",
+        "last_updated": "2025-06-12 09:32:27"
+    },
+    {
+        "id": 11873058,
+        "title": "",
+        "price": 639000,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate prezentuje Państwu&nbsp;&nbsp;Państwu mieszkanie o powierzchni 52,14 m2 położoną przy ulicy Baldachówka. Nieruchomość znajduje się na 1 piętrze w niskim bloku. Mieszkanie zlokalizowane jest w samym centrum Rzeszowa co zapewnia doskonały dostęp do wszystkich udogodnień miasta. Mieszkanie przeszło generalny remont kilka miesięcy temu.<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI:<\/b><br>- Salon z aneksem kuchennym<br>- Łazienka<br>- Sypialnia<br>- Pokój<br>- Hol<br><br><b>ATUTY NIERUCHOMOŚCI:<\/b><br>- Dobra lokalizacja dla osób ceniących sobie bliskość centrum<br>- Mieszkanie zapewnia doskonały dostęp do całej infrastruktury miasta<br>-Gotowe do zamieszkania<br><br>Po więcej informacji zapraszam do kontaktu.<br><br>  Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży\/zakupie nieruchomości. <br><br>",
+        "elevator": 0,
+        "floor_no": 1,
+        "garage": 0,
+        "garage_parking_price": null,
+        "short_description": "Stylowe mieszkanie w samym sercu miasta!",
+        "headerAdvertisement": "Stylowe mieszkanie w samym sercu miasta!",
+        "kitchen_type": null,
+        "location_name": "\/Podkarpackie\/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "Brick",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 12255.47,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 52.14,
+        "year_built": 1960,
+        "street_name": "Baldachówka",
+        "street_full_name": "ul. Baldachówka",
+        "images": [
+            {
+                "id": 101765584,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765587,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765583,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765582,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765585,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765590,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765572,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765573,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765576,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765577,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765579,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765580,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765581,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 101765589,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "5\/17058\/OMS",
+        "no_of_floors": 3,
+        "actualisation_date": "2025-06-12 09:22:27",
+        "last_updated": "2025-06-12 09:32:31"
+    },
+    {
+        "id": 12240878,
+        "title": "",
+        "price": 457000,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate zaprasza do zapoznania się z ofertą mieszkań w nowoczesnym, kameralnym kompleksie zlokalizowanym przy ul. Św. Rocha w Rzeszowie.<br><br>Inwestycja skierowana jest do osób poszukujących komfortowego mieszkania w spokojnej okolicy, z dostępem do terenów zielonych i nowoczesną architekturą.<br><br> Osiedle wyróżnia się oryginalnym designem oraz przemyślanym układem przestrzennym, który łączy estetykę z funkcjonalnością. Priorytetem inwestycji, było stworzenie przestrzeni przyjaznej mieszkańcom, oferującej maksymalny komfort codziennego użytkowania.<br><br> Atuty inwestycji: <ul> <li> Nowoczesna architektura i kameralna zabudowa dwulokalowa<br> <\/li> <li> Przestronne strefy dzienne z dużymi, nowoczesnymi przeszkleniami zapewniającymi dostęp do naturalnego światła<br> <\/li> <li> Ogrzewanie podłogowe i instalacja klimatyzacji w standardzie<br> <\/li> <li> Balkon lub ogródek przynależny do każdego lokalu – idealne miejsce do wypoczynku na świeżym powietrzu<br> <\/li> <li> Wysoki komfort akustyczny – mieszkania oddzielone podwójnymi ścianami nośnymi o grubości 50 cm<br> <\/li> <li> 2 indywidualne miejsca postojowe w cenie każdego mieszkania<br> <\/li> <li> Bezpośrednie sąsiedztwo terenów rekreacyjnych – szlak turystyczny prowadzący do kompleksu leśnego przy ul. Św. Marcina<\/li> <\/ul><br>&nbsp;Lokalizacja: W bliskiej odległości od osiedla znajdują się:<br> <ul> <li> Szkoła Podstawowa nr 5 (ok. 1 km)<br> <\/li> <li> Przedszkola, żłobek<br> <\/li> <li> Sklep spożywczy<br> <\/li> <li> Przystanek komunikacji miejskiej<br> <\/li> <\/ul><br>Dostępne lokale: Na sprzedaż oferujemy mieszkania o powierzchni 47,77 m² na parterze z ogródkami, oraz mieszkania o powierzchni 60,29 m² na piętrze dwupoziomowe z poddaszem użytkowym + 12,18 m2. - w budynkach B1\/B2.<br><br>Cena obejmuje: <ul> <li> Stan deweloperski mieszkania<br> <\/li> <li> Dwa indywidualne miejsca postojowe<br> <\/li> <li> Ogródek<br> <\/li> <li> Udział w drodze dojazdowej<\/li> <\/ul><br>&nbsp;Termin oddania do użytku: III kwartał 2026 roku<br>",
+        "elevator": 0,
+        "floor_no": 1,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "Nowoczesne mieszkanie w zielonej części Rzeszowa",
+        "headerAdvertisement": "Nowoczesne mieszkanie w zielonej części Rzeszowa",
+        "kitchen_type": "Adjoining",
+        "location_name": "\/Podkarpackie\/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "AirBrick",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 4,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": 2,
+        "price_m2": 6306.06,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 72.47,
+        "year_built": 2026,
+        "street_name": "św. Rocha",
+        "street_full_name": "ul. św. Rocha",
+        "images": [
+            {
+                "id": 106251541,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106251547,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106251546,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106250546,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106250565,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106244642,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106244645,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106244646,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106244647,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106244648,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "956\/17058\/OMS",
+        "no_of_floors": 1,
+        "actualisation_date": "2025-06-11 15:58:49",
+        "last_updated": "2025-06-12 09:48:47"
+    },
+    {
         "id": 12240742,
         "title": "",
         "price": 457000,
@@ -81,7 +368,150 @@
         "listing_offer_id": "955\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 15:58:00",
-        "last_updated": "2025-06-12 09:18:40"
+        "last_updated": "2025-06-12 09:48:53"
+    },
+    {
+        "id": 12241435,
+        "title": "",
+        "price": 477000,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate zaprasza do zapoznania się z ofertą mieszkań w nowoczesnym, kameralnym kompleksie zlokalizowanym przy ul. Św. Rocha w Rzeszowie.<br><br>Inwestycja skierowana jest do osób poszukujących komfortowego mieszkania w spokojnej okolicy, z dostępem do terenów zielonych i nowoczesną architekturą.<br><br> Osiedle wyróżnia się oryginalnym designem oraz przemyślanym układem przestrzennym, który łączy estetykę z funkcjonalnością. Priorytetem inwestycji, było stworzenie przestrzeni przyjaznej mieszkańcom, oferującej maksymalny komfort codziennego użytkowania.<br><br> Atuty inwestycji: <ul> <li> Nowoczesna architektura i kameralna zabudowa dwulokalowa<br> <\/li> <li> Przestronne strefy dzienne z dużymi, nowoczesnymi przeszkleniami zapewniającymi dostęp do naturalnego światła<br> <\/li> <li> Ogrzewanie podłogowe i instalacja klimatyzacji w standardzie<br> <\/li> <li> Balkon lub ogródek przynależny do każdego lokalu – idealne miejsce do wypoczynku na świeżym powietrzu<br> <\/li> <li> Wysoki komfort akustyczny – mieszkania oddzielone podwójnymi ścianami nośnymi o grubości 50 cm<br> <\/li> <li> 2 indywidualne miejsca postojowe w cenie każdego mieszkania<br> <\/li> <li> Bezpośrednie sąsiedztwo terenów rekreacyjnych – szlak turystyczny prowadzący do kompleksu leśnego przy ul. Św. Marcina<\/li> <\/ul><br>&nbsp;Lokalizacja: W bliskiej odległości od osiedla znajdują się:<br> <ul> <li> Szkoła Podstawowa nr 5 (ok. 1 km)<br> <\/li> <li> Przedszkola, żłobek<br> <\/li> <li> Sklep spożywczy<br> <\/li> <li> Przystanek komunikacji miejskiej<br> <\/li> <\/ul><br>Dostępne lokale: Na sprzedaż oferujemy mieszkania o powierzchni 56,34 m² na parterze&nbsp; z ogródkiem, oraz mieszkania o powierzchni 69,94 m² na piętrze dwupoziomowe z poddaszem użytkowym 13,73 m2.<br><br>Cena obejmuje: <ul> <li> Stan deweloperski mieszkania<br> <\/li> <li> Dwa indywidualne miejsca postojowe<br> <\/li> <li> Ogródek<br> <\/li> <li> Udział w drodze dojazdowej<\/li> <\/ul><br>&nbsp;Termin oddania do użytku: III kwartał 2026 roku<br>",
+        "elevator": 0,
+        "floor_no": 1,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "Dwupoziomowe mieszkanie w zielonej części Rzeszowa",
+        "headerAdvertisement": "Dwupoziomowe mieszkanie w zielonej części Rzeszowa",
+        "kitchen_type": "Adjoining",
+        "location_name": "\/Podkarpackie\/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "AirBrick",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 5,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": 2,
+        "price_m2": 5700.97,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 83.67,
+        "year_built": 2026,
+        "street_name": "św. Rocha",
+        "street_full_name": "ul. św. Rocha",
+        "images": [
+            {
+                "id": 106251279,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106251366,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106251375,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106251275,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106251276,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106251278,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106251280,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "964\/17058\/OMS",
+        "no_of_floors": 1,
+        "actualisation_date": "2025-06-11 15:55:29",
+        "last_updated": "2025-06-12 09:43:05"
+    },
+    {
+        "id": 12241418,
+        "title": "",
+        "price": 457000,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate zaprasza do zapoznania się z ofertą mieszkań w nowoczesnym, kameralnym kompleksie zlokalizowanym przy ul. Św. Rocha w Rzeszowie.<br><br>Inwestycja skierowana jest do osób poszukujących komfortowego mieszkania w spokojnej okolicy, z dostępem do terenów zielonych i nowoczesną architekturą.<br><br> Osiedle wyróżnia się oryginalnym designem oraz przemyślanym układem przestrzennym, który łączy estetykę z funkcjonalnością. Priorytetem inwestycji, było stworzenie przestrzeni przyjaznej mieszkańcom, oferującej maksymalny komfort codziennego użytkowania.<br><br> Atuty inwestycji: <ul> <li> Nowoczesna architektura i kameralna zabudowa dwulokalowa<br> <\/li> <li> Przestronne strefy dzienne z dużymi, nowoczesnymi przeszkleniami zapewniającymi dostęp do naturalnego światła<br> <\/li> <li> Ogrzewanie podłogowe i instalacja klimatyzacji w standardzie<br> <\/li> <li> Balkon lub ogródek przynależny do każdego lokalu – idealne miejsce do wypoczynku na świeżym powietrzu<br> <\/li> <li> Wysoki komfort akustyczny – mieszkania oddzielone podwójnymi ścianami nośnymi o grubości 50 cm<br> <\/li> <li> 2 indywidualne miejsca postojowe w cenie każdego mieszkania<br> <\/li> <li> Bezpośrednie sąsiedztwo terenów rekreacyjnych – szlak turystyczny prowadzący do kompleksu leśnego przy ul. Św. Marcina<\/li> <\/ul><br>&nbsp;Lokalizacja: W bliskiej odległości od osiedla znajdują się:<br> <ul> <li> Szkoła Podstawowa nr 5 (ok. 1 km)<br> <\/li> <li> Przedszkola, żłobek<br> <\/li> <li> Sklep spożywczy<br> <\/li> <li> Przystanek komunikacji miejskiej<br> <\/li> <\/ul><br>Dostępne lokale: Na sprzedaż oferujemy mieszkania o powierzchni 56,34 m² na parterze&nbsp; z ogródkiem, oraz mieszkania o powierzchni 69,94 m² na piętrze dwupoziomowe z poddaszem użytkowym 13,73 m2.<br><br>Cena obejmuje: <ul> <li> Stan deweloperski mieszkania<br> <\/li> <li> Dwa indywidualne miejsca postojowe<br> <\/li> <li> Ogródek<br> <\/li> <li> Udział w drodze dojazdowej<\/li> <\/ul><br>&nbsp;Termin oddania do użytku: III kwartał 2026 roku<br>",
+        "elevator": 0,
+        "floor_no": 0,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "Nowoczesne mieszkanie w zielonej części Rzeszowa",
+        "headerAdvertisement": "Nowoczesne mieszkanie w zielonej części Rzeszowa",
+        "kitchen_type": "Adjoining",
+        "location_name": "\/Podkarpackie\/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "AirBrick",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": 2,
+        "price_m2": 8111.47,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 56.34,
+        "year_built": 2026,
+        "street_name": "św. Rocha",
+        "street_full_name": "ul. św. Rocha",
+        "images": [
+            {
+                "id": 106251126,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106251123,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106251140,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106251127,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106251128,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106251129,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "962\/17058\/OMS",
+        "no_of_floors": 1,
+        "actualisation_date": "2025-06-11 15:50:01",
+        "last_updated": "2025-06-12 09:43:00"
     },
     {
         "id": 12206451,
@@ -245,7 +675,7 @@
         "listing_offer_id": "124\/17058\/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-11 15:44:00",
-        "last_updated": "2025-06-12 09:17:24"
+        "last_updated": "2025-06-12 09:47:29"
     },
     {
         "id": 12220827,
@@ -384,7 +814,7 @@
         "listing_offer_id": "127\/17058\/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-11 14:39:02",
-        "last_updated": "2025-06-12 09:17:40"
+        "last_updated": "2025-06-12 09:47:46"
     },
     {
         "id": 11999441,
@@ -493,7 +923,7 @@
         "listing_offer_id": "270\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 13:50:22",
-        "last_updated": "2025-06-12 09:09:55"
+        "last_updated": "2025-06-12 09:39:55"
     },
     {
         "id": 12239394,
@@ -642,7 +1072,7 @@
         "listing_offer_id": "952\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 12:28:53",
-        "last_updated": "2025-06-12 09:18:34"
+        "last_updated": "2025-06-12 09:48:45"
     },
     {
         "id": 11998796,
@@ -726,7 +1156,7 @@
         "listing_offer_id": "269\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-11 11:54:21",
-        "last_updated": "2025-06-12 09:09:51"
+        "last_updated": "2025-06-12 09:39:53"
     },
     {
         "id": 12240633,
@@ -790,7 +1220,7 @@
         "listing_offer_id": "35\/17058\/OI",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 11:20:34",
-        "last_updated": "2025-06-12 09:18:38"
+        "last_updated": "2025-06-12 09:48:51"
     },
     {
         "id": 12208219,
@@ -874,7 +1304,7 @@
         "listing_offer_id": "878\/17058\/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-06-11 10:58:22",
-        "last_updated": "2025-06-12 09:17:30"
+        "last_updated": "2025-06-12 09:47:36"
     },
     {
         "id": 11990059,
@@ -953,7 +1383,7 @@
         "listing_offer_id": "251\/17058\/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-11 10:55:29",
-        "last_updated": "2025-06-12 09:03:46"
+        "last_updated": "2025-06-12 09:33:47"
     },
     {
         "id": 11939123,
@@ -1017,7 +1447,7 @@
         "listing_offer_id": "20\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 09:19:30",
-        "last_updated": "2025-06-12 09:05:23"
+        "last_updated": "2025-06-12 09:35:23"
     },
     {
         "id": 11976775,
@@ -1081,7 +1511,7 @@
         "listing_offer_id": "209\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 09:18:20",
-        "last_updated": "2025-06-12 09:09:30"
+        "last_updated": "2025-06-12 09:39:33"
     },
     {
         "id": 12109306,
@@ -1215,7 +1645,7 @@
         "listing_offer_id": "657\/17058\/OMS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-10 12:44:10",
-        "last_updated": "2025-06-12 09:14:21"
+        "last_updated": "2025-06-12 09:44:27"
     },
     {
         "id": 12016329,
@@ -1314,7 +1744,7 @@
         "listing_offer_id": "313\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-10 12:41:28",
-        "last_updated": "2025-06-12 09:11:12"
+        "last_updated": "2025-06-12 09:41:15"
     },
     {
         "id": 12232918,
@@ -1403,7 +1833,7 @@
         "listing_offer_id": "937\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-10 11:07:08",
-        "last_updated": "2025-06-12 09:18:24"
+        "last_updated": "2025-06-12 09:48:28"
     },
     {
         "id": 11976362,
@@ -1462,7 +1892,7 @@
         "listing_offer_id": "50\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-10 10:59:02",
-        "last_updated": "2025-06-12 09:04:05"
+        "last_updated": "2025-06-12 09:34:04"
     },
     {
         "id": 11976007,
@@ -1521,7 +1951,7 @@
         "listing_offer_id": "49\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-10 10:50:33",
-        "last_updated": "2025-06-12 09:02:59"
+        "last_updated": "2025-06-12 09:32:59"
     },
     {
         "id": 12230105,
@@ -1600,7 +2030,101 @@
         "listing_offer_id": "927\/17058\/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-09 15:52:55",
-        "last_updated": "2025-06-12 09:18:19"
+        "last_updated": "2025-06-12 09:48:26"
+    },
+    {
+        "id": 12237930,
+        "title": "",
+        "price": 609840,
+        "is_special": 1,
+        "building_type": "Hotel",
+        "country_name": "Polska",
+        "description": "<b>Apartament inwestycyjny w Radisson Resort Kołobrzeg – gwarantowany najem, 7% zwrotu!<\/b><br>  W ofercie <b>Eagles Estate<\/b> prezentujemy atrakcyjny apartament inwestycyjny w prestiżowym kompleksie <b>Radisson Resort Kołobrzeg<\/b>, zlokalizowanym w spokojnej, uzdrowiskowej części miasta – zaledwie kilka minut spacerem od plaży i parku. To idealne rozwiązanie dla inwestorów poszukujących bezpiecznego i dochodowego modelu lokowania kapitału.<br><br>  <b>Szczegóły apartamentu:<\/b><br>  <ul>  <li><b>Powierzchnia:<\/b>      24,64 m²<\/li>  <li><b>Piętro:<\/b>&nbsp;2<\/li>  <li><b>Liczba      pokoi:<\/b> 1<\/li>  <li><b>Cena      netto:<\/b> 609 840 PLN<\/li>  <li><b>Cena      brutto:<\/b> 750 103 PLN<\/li>  <li><b>Gwarantowana      stopa zwrotu:<\/b> 7% rocznie od wartości netto zakupu (bez wyposażenia)<\/li>  <li><b>Wykończenie:<\/b>      apartament w pełni wykończony, klimatyzowany, z prywatnym tarasem<\/li> <\/ul>  <b><br>Niezbędne elementy zakupu:<\/b><br>  <ul>  <li><b>Miejsce      postojowe w garażu podziemnym:<\/b> 89 900 PLN netto<\/li>  <li><b>Wyposażenie      apartamentu:<\/b> 64 900 PLN netto (+ 23% VAT)<\/li> <\/ul>  <b><br>Model inwestycyjny:<\/b><br>  <ul>  <li>Umowa      najmu z renomowanym operatorem hotelowym na okres:<br>      • do 05.10.2036 r. (11 lat) lub<br>      • do 01.10.2051 r. (26 lat)<\/li>  <li>Czynsz      wypłacany kwartalnie<\/li>  <li><b>Brak      kosztów eksploatacyjnych po stronie właściciela<\/b> (z wyjątkiem funduszu      remontowego)<\/li>  <li>Możliwość      <b>odliczenia VAT<\/b> – idealne rozwiązanie dla przedsiębiorców<\/li>  <li><b>Indeksacja      czynszu co 3 lata od 2028 r.<\/b>, według średniego wskaźnika cen towarów i      usług konsumpcyjnych ogłaszanego przez GUS<\/li> <\/ul>  <b><br>Dodatkowe korzyści:<\/b><br>  <ul>  <li>Możliwość      bezpłatnego korzystania z apartamentu <b>do 2 tygodni w sezonie<\/b> i <b>poza      sezonem<\/b>, przy minimalnym obniżeniu stopy zwrotu<\/li>  <li><b>Członkostwo      w programie Zdrojowa Club<\/b>, dające właścicielom preferencyjne warunki      pobytu w hotelach sieci Zdrojowa nad morzem i w górach<\/li>  <li><b>Kompleksowa,      bezobsługowa obsługa<\/b> – operator zajmuje się całością zarządzania      najmem<br><br><\/li> <\/ul>  <b>O inwestycji:<\/b><br>  <b>Radisson Resort Kołobrzeg<\/b> to nowoczesny, całoroczny obiekt hotelowy z:<br>  <ul>  <li>aquaparkiem,<\/li>  <li>strefą      wellness,<\/li>  <li>basenem      infinity na dachu,<\/li>  <li>siłownią,<\/li>  <li>restauracjami,<\/li>  <li>atrakcjami      dla dzieci i dorosłych.<\/li> <\/ul>  To połączenie komfortu, luksusu i wyjątkowej lokalizacji, co przekłada się na wysoki potencjał najmu i stabilność inwestycji.<br>  <b><br>Dlaczego warto?<\/b><br>  <ul>  <li>Gwarantowany      <b>dochód pasywny – 7% rocznie<\/b><\/li>  <li>Umowa      z uznanym operatorem hotelowym<\/li>  <li>Brak      prowizji i podatku PCC przy zakupie<\/li>  <li>Możliwość      pełnego odliczenia VAT<\/li>  <li>Prestiżowa      lokalizacja nad Bałtykiem<\/li>  <li>Wsparcie      doświadczonego doradcy Eagles Estate<br><br><\/li> <\/ul>  Radisson Hotels to globalna marka hotelowa z ponad 1400 obiektami w ponad 100 krajach i doświadczeniem sięgającym 100 lat. Program lojalnościowy <b>Radisson Rewards<\/b> liczy ponad 19 milionów członków na całym świecie.<br><br>  Z przyjemnością odpowiemy na wszystkie pytania i przedstawimy dostępne lokale.<br><br> <b>Skontaktuj się z nami<\/b>, aby otrzymać pełną ofertę.<br>  <b>Eagles Estate – bezpieczne inwestycje w sprawdzonych lokalizacjach.<\/b><br> <b>Przy zakupie nieruchomości z rynku pierwotnego nie płacą Państwo prowizji ani podatku PCC.<\/b><br><br>",
+        "elevator": 1,
+        "floor_no": 1,
+        "garage": null,
+        "garage_parking_price": null,
+        "short_description": "Zarabiaj, odpoczywaj, inwestuj– Radisson Kołobrzeg",
+        "headerAdvertisement": "Zarabiaj, odpoczywaj, inwestuj– Radisson Kołobrzeg",
+        "kitchen_type": null,
+        "location_name": "\/Podkarpackie\/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": null,
+        "mortgage_market": "Primary",
+        "no_of_rooms": null,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 24750,
+        "provision_amount": 0,
+        "section": "CommercialSpaceSale",
+        "status": "Active",
+        "total_area": 24.64,
+        "year_built": 2022,
+        "street_name": null,
+        "street_full_name": null,
+        "images": [
+            {
+                "id": 106201673,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106201666,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106218727,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106201669,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106201671,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106201672,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106201674,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106201675,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106201676,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106201678,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106201679,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "15\/17058\/OLS",
+        "no_of_floors": 4,
+        "actualisation_date": "2025-06-09 14:00:43",
+        "last_updated": "2025-06-12 09:48:40"
     },
     {
         "id": 12235142,
@@ -1694,7 +2218,7 @@
         "listing_offer_id": "13\/17058\/OLS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 15:15:06",
-        "last_updated": "2025-06-12 09:18:32"
+        "last_updated": "2025-06-12 09:48:39"
     },
     {
         "id": 12101818,
@@ -1783,7 +2307,7 @@
         "listing_offer_id": "621\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 13:54:10",
-        "last_updated": "2025-06-12 09:13:48"
+        "last_updated": "2025-06-12 09:43:53"
     },
     {
         "id": 12108039,
@@ -1902,7 +2426,7 @@
         "listing_offer_id": "650\/17058\/OMS",
         "no_of_floors": 11,
         "actualisation_date": "2025-06-06 12:51:43",
-        "last_updated": "2025-06-12 09:14:08"
+        "last_updated": "2025-06-12 09:44:14"
     },
     {
         "id": 12062536,
@@ -1946,7 +2470,7 @@
         "listing_offer_id": "543\/17058\/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-06-05 15:20:40",
-        "last_updated": "2025-06-12 09:08:26"
+        "last_updated": "2025-06-12 09:38:26"
     },
     {
         "id": 12229844,
@@ -2040,7 +2564,7 @@
         "listing_offer_id": "924\/17058\/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-05 14:33:04",
-        "last_updated": "2025-06-12 09:18:11"
+        "last_updated": "2025-06-12 09:48:18"
     },
     {
         "id": 12224251,
@@ -2124,7 +2648,7 @@
         "listing_offer_id": "897\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-05 13:30:53",
-        "last_updated": "2025-06-12 09:02:38"
+        "last_updated": "2025-06-12 09:32:38"
     },
     {
         "id": 11884666,
@@ -2218,550 +2742,6 @@
         "listing_offer_id": "25\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-05 10:47:55",
-        "last_updated": "2025-06-12 09:03:21"
-    },
-    {
-        "id": 12233305,
-        "title": "",
-        "price": 449248,
-        "is_special": 0,
-        "building_type": "LowBlock",
-        "country_name": "Polska",
-        "description": "W ofercie biura nieruchomości Eagles Estate przedstawiamy Państwu trzypokojowe mieszkanie o powierzchni 44,48 m2 zlokalizowane przy ul. Gościnnej w Rzeszowie.<br>  Nieruchomość usytuowana jest na 1 piętrze budynku, który jest w trakcie budowy. Mieszkanie posiada balkon o powierzchni 21,7 m2. <br><br>  Najważniejsze informacje:<br><br>  Termin oddania inwestycji: IV kw. 2026 r.<br>  Standard wykończenia: deweloperski<br>  Rodzaj ogrzewania: kotłownia gazowa<br>  Dodatkowe wyposażenie: fotowoltaika na dachu, ogrzewanie podłogowe w łazienkach<br>  Dodatkowe powierzchnie: balkon 21,7 m2, miejsce postojowe w hali garażowej - (dodatkowo płatne 45 000 zł – 50&nbsp;000 zł), miejsce zewnętrzne (dodatkowo płatne 12 900 zł)<br><br>  Układ mieszkania:<br><br>  - Salon z aneksem kuchennym<br>  - 2 Sypialnie<br>  - Komunikacja<br>  - Łazienka<br><br>  W pobliżu znajdują się sklepy spożywcze, restauracja, przedszkole, żłobek i szkoła, a szybki dojazd do centrum zapewniają pobliskie przystanki autobusowe. Mieszkanie charakteryzuje się pięknym widokiem i nowoczesną architekturą. Idealne miejsce dla osób ceniących komfort i bliskość natury!<br><br>  W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br><br>  Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>  Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.<br>",
-        "elevator": 1,
-        "floor_no": 1,
-        "garage": 1,
-        "garage_parking_price": 45000,
-        "short_description": "Nowe mieszkanie z balkonem – bez PCC i prowizji",
-        "headerAdvertisement": "Nowe mieszkanie z balkonem – bez PCC i prowizji",
-        "kitchen_type": null,
-        "location_name": "\/Podkarpackie\/Rzeszów\/Drabinianka",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "Drabinianka",
-        "material": "Other",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 3,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 10100,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 44.48,
-        "year_built": 2026,
-        "street_name": "Gościnna",
-        "street_full_name": "ul. Gościnna",
-        "images": [
-            {
-                "id": 106126444,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126630,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126436,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126469,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126438,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126451,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126440,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126445,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126441,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126447,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126443,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126461,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126473,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "938\/17058\/OMS",
-        "no_of_floors": 3,
-        "actualisation_date": "2025-06-04 14:47:25",
-        "last_updated": "2025-06-12 09:18:26"
-    },
-    {
-        "id": 11988912,
-        "title": "",
-        "price": 480000,
-        "is_special": 0,
-        "building_type": "LowBlock",
-        "country_name": "Polska",
-        "description": "Biuro <b>Eagles Estate<\/b>&nbsp;przedstawia inwestycję domów oraz mieszkań w zabudowie szeregowej znajdującą się w dzielnicy Słocina. Zakończenie inwestycji planowane jest w IV kwartale tego roku.<br><br><b>SZCZEGÓŁY INWESTYCJI:<br><\/b>METRAŻE: od 53,15 m2 - 166 m2&nbsp;<br>TERMIN REALIZACJI: IV KWARTAŁ 2025<br>MIEJSCE POSTOJOWE W CENIE MIESZKANIA<br>OGRZEWANIE: GAZOWE, PODŁOGOWE<br><br><b>Stan deweloperski obejmuje:<br><\/b>– drzwi wejściowe stalowe, antywłamaniowe, z izolacją termiczną,<br>– brama garażowa segmentowa wykonana z paneli warstwowych wypełnionych pianką,<br>– okna PCV 6-komorowe, 3 szybowe,<br>– kompleksowo wykonana elewacja tj. ocieplenie ścian, tynk silikonowy oraz elementy dekoracyjne,<br>– ogrzewanie podłogowe na całej powierzchni (piec gazowy)<br>– częściowe ogrodzenie – panel ogrodowy,<br>– tarasy na ogródkach – kostka betonowa,<br>– podjazdy oraz wejście do domu – kostka betonowa,<br>– ogrodzenie pomiędzy ogródkami.<br><br><br>Inwestycja zlokalizowana jest w&nbsp;otoczeniu zieleni i&nbsp;terenów rekreacyjnych pozwalających na kontakt z&nbsp;przyrodą i&nbsp;aktywny wypoczynek, zapewniający wysoki komfort mieszkania.<br>To urokliwe miejsce&nbsp;z nowoczesną zabudową zarówno jednorodzinnych segmentów mieszkalnych z dużymi ogrodami, jak również kameralnych mieszkań w zabudowie dwulokalowej.<br><br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie&nbsp; od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br><i>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.<\/i><br><br>",
-        "elevator": 0,
-        "floor_no": 0,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Mieszkanie z ogródkiem gotowe w tym roku! Słocina",
-        "headerAdvertisement": "Mieszkanie z ogródkiem gotowe w tym roku! Słocina",
-        "kitchen_type": "Open",
-        "location_name": "\/Podkarpackie\/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 3,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": 1,
-        "price_m2": 9029.35,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 53.16,
-        "year_built": 2025,
-        "street_name": "Ottona i Jana Pileckich",
-        "street_full_name": "ul. Ottona i Jana Pileckich",
-        "images": [
-            {
-                "id": 103318532,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104815327,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103318534,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103334632,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103318531,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104815326,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "246\/17058\/OMS",
-        "no_of_floors": 1,
-        "actualisation_date": "2025-06-04 14:00:57",
-        "last_updated": "2025-06-12 09:02:25"
-    },
-    {
-        "id": 12233360,
-        "title": "",
-        "price": 397981,
-        "is_special": 0,
-        "building_type": "LowBlock",
-        "country_name": "Polska",
-        "description": "W ofercie biura nieruchomości Eagles Estate przedstawiamy Państwu dwupokojowe mieszkanie o powierzchni 39,17 m2 zlokalizowane przy ul. Gościnnej w Rzeszowie.<br>  Nieruchomość usytuowana jest na 1 piętrze budynku, który jest w trakcie budowy. Mieszkanie posiada balkon o powierzchni 8,78 m2. <br><br>  Najważniejsze informacje:<br><br>  Termin oddania inwestycji: IV kw. 2026 r.<br>  Standard wykończenia: deweloperski<br>  Rodzaj ogrzewania: kotłownia gazowa<br>  Dodatkowe wyposażenie: fotowoltaika na dachu, ogrzewanie podłogowe w łazienkach<br>  Dodatkowe powierzchnie: balkon 8,78 m2, miejsce postojowe w hali garażowej - (dodatkowo płatne 45 000 zł – 50&nbsp;000 zł), miejsce zewnętrzne (dodatkowo płatne 12 900 zł)<br><br>  Układ mieszkania:<br><br>  - Salon z aneksem kuchennym<br>  - Sypialnia<br>  - Komunikacja<br>  - Łazienka<br><br>  W pobliżu znajdują się sklepy spożywcze, restauracja, przedszkole, żłobek i szkoła, a szybki dojazd do centrum zapewniają pobliskie przystanki autobusowe. Mieszkanie charakteryzuje się pięknym widokiem i nowoczesną architekturą. Idealne miejsce dla osób ceniących komfort i bliskość natury!<br><br>  W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br><br>  Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>  Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.<br>",
-        "elevator": 1,
-        "floor_no": 1,
-        "garage": 1,
-        "garage_parking_price": 45000,
-        "short_description": "39 m², 2 pokoje – idealne na start lub wynajem",
-        "headerAdvertisement": "39 m², 2 pokoje – idealne na start lub wynajem",
-        "kitchen_type": null,
-        "location_name": "\/Podkarpackie\/Rzeszów\/Drabinianka",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "Drabinianka",
-        "material": "Other",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 2,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 10160.35,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 39.17,
-        "year_built": 2026,
-        "street_name": "Gościnna",
-        "street_full_name": "ul. Gościnna",
-        "images": [
-            {
-                "id": 106126721,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126933,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126709,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126716,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126713,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126723,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126724,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126725,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126726,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126727,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126728,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126729,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106126730,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "939\/17058\/OMS",
-        "no_of_floors": 3,
-        "actualisation_date": "2025-06-04 13:50:07",
-        "last_updated": "2025-06-12 09:18:30"
-    },
-    {
-        "id": 11917878,
-        "title": "",
-        "price": 499000,
-        "is_special": 0,
-        "building_type": "LowBlock",
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości <b>Eagles Estate<\/b> prezentuje Państwu 2-pokojowe mieszkanie o powierzchni 51 m2 usytuowane na 2 piętrze w niskim bloku. Nieruchomość zlokalizowana jest przy ulicy Gromskiego w Rzeszowie. Odległość od rzeszowskiego rynku to zaledwie 3,5 km. Osiedle jest doskonale skomunikowane, w pobliżu znajduje się przystanek autobusowy, przedszkole, żłobek, sklepy.<br>&nbsp;<br><b>W SKŁAD MIESZKANIA WCHODZI:<\/b><br>- salon z otwartą kuchnią i wyjściem na loggie (można zrobić osobną kuchnię)<br>- sypialnia<br>- garderoba<br>- łazienka<br>- przedpokój&nbsp;<br><br>Do mieszkania przynależy duża, murowana piwnica (ok. 9 m2) oraz komórka lokatorska znajdująca się obok mieszkania.<br><br><b>ATUTY NIERUCHOMOŚCI<\/b><br>- loggia z widokiem na most Tadeusza Mazowieckiego<br>- ogrzewanie z sieci miejskiej (czynsz 600 zł, w tym: ogrzewanie, woda, śmieci, fundusz remontowy, internet, telewizja)<br>- mieszkanie dobrze doświetlone<br>- świetna lokalizacja z szybkim dostępem do centrum miasta a także dojazdem do drogi S19 i autostrady<br>- bliskość portu lotniczego w Jasionce<br>- mieszkanie sprzedawane jest z pełnym wyposażeniem<br><br>Mieszkańcy mają dostęp do dużego, ogólnodostępnego parkingu przed blokiem.<br><br><br>",
-        "elevator": 0,
-        "floor_no": 2,
-        "garage": 0,
-        "garage_parking_price": null,
-        "short_description": "Okazja! Mieszkanie 51 m2 z balkonem w niskim bloku",
-        "headerAdvertisement": "Okazja! Mieszkanie 51 m2 z balkonem w niskim bloku",
-        "kitchen_type": "Open",
-        "location_name": "\/Podkarpackie\/Rzeszów\/Staromieście",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "Staromieście",
-        "material": "AirBrick",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 2,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 9784.31,
-        "provision_amount": 12275.4,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 51,
-        "year_built": 2008,
-        "street_name": "Gromskiego",
-        "street_full_name": "ul. Gromskiego",
-        "images": [
-            {
-                "id": 105608909,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105608910,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105608908,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105608913,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105608972,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105608915,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105608916,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105608912,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105608918,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105608919,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 102527524,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105609130,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "54\/17058\/OMS",
-        "no_of_floors": 4,
-        "actualisation_date": "2025-06-04 10:27:22",
-        "last_updated": "2025-06-12 09:03:54"
-    },
-    {
-        "id": 12230356,
-        "title": "",
-        "price": 429000,
-        "is_special": 1,
-        "building_type": "LowBlock",
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości Eagles Estate prezentuje Państwu 2-pokojowe mieszkanie o powierzchni 52,74 m² usytuowane na 4. piętrze niskiego bloku (bez windy), wybudowanego w 1990 roku. Nieruchomość zlokalizowana jest przy ul. Tyszkiewiczów w Kolbuszowej. Mieszkanie znajduje się w niedalekiej odległości od stacji kolejowej oraz posiada doskonały dostęp do sklepów, placówek medycznych, szkół i punktów usługowych.<br>  <b>W SKŁAD NIERUCHOMOŚCI WCHODZI:<\/b><br>  <ul>  <li>przestronny      salon z wyjściem na balkon z możliwością podzielenia na 2 pokoje,<\/li>  <li>osobna      kuchnia z nową zabudową i sprzętem AGD (lodówka, kuchenka, piekarnik,      zmywarka),<\/li>  <li>sypialnia,<\/li>  <li>łazienka      z kabiną prysznicową i miejscem na pralkę,<\/li>  <li>przedpokój.<\/li> <\/ul>  <b>ATUTY NIERUCHOMOŚCI:<\/b><br>  <ul>  <li>mieszkanie      po generalnym remoncie – nowe instalacje elektryczne, wodno-kanalizacyjne,      nowe tynki, nowoczesne wykończenia,<\/li>  <li>wysoki      standard wykończenia – panele w pokojach, płytki w łazience, kuchni i      przedpokoju,<\/li>  <li>funkcjonalny      układ pomieszczeń,<\/li>  <li>balkon      z widokiem na okolicę,<\/li><li>klimatyzacja,<\/li><li>centralne      ogrzewanie ze spółdzielni, woda ogrzewana piecykiem gazowym (piecyk zabudowany nad pralką),<\/li>  <li>plastikowe      okna,<\/li>  <li>przestronny      ogólnodostępny parking przy bloku.<\/li> <\/ul>  Do mieszkania przynależy piwnica oraz miejsce postojowe na parkingu ogólnodostępnym.<br>  Mieszkanie zlokalizowane jest w centrum Kolbuszowej, co zapewnia szybki dostęp do pełnej infrastruktury miejskiej oraz komunikacji. W pobliżu znajdują się liczne sklepy, restauracje, szkoły i przedszkola, a także stacja PKP z dogodnym połączeniem do Rzeszowa. Lokal gotowy do zamieszkania bez konieczności ponoszenia dodatkowych kosztów. Wyposażenie do uzgodnienia.<br>  Po więcej informacji zapraszam do kontaktu.<br> Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości.<br>",
-        "elevator": 0,
-        "floor_no": 4,
-        "garage": 0,
-        "garage_parking_price": null,
-        "short_description": "Gotowe do zamieszkania! 52 mkw 2\/3 pok, Kolbuszowa",
-        "headerAdvertisement": "Gotowe do zamieszkania! 52 mkw 2\/3 pok, Kolbuszowa",
-        "kitchen_type": "Separate",
-        "location_name": "\/Podkarpackie\/Kolbuszowski\/Kolbuszowa",
-        "location_province": "Podkarpackie",
-        "location_locality": "Kolbuszowa",
-        "location_quarter": "",
-        "material": "PrecastConcreteSlabs",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 2,
-        "ownership_type": "HousingCooperative",
-        "parking_spaces_no": null,
-        "price_m2": 8137.33,
-        "provision_amount": 6435,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 52.72,
-        "year_built": 1990,
-        "street_name": "Tyszkiewiczów",
-        "street_full_name": "ul. Tyszkiewiczów",
-        "images": [
-            {
-                "id": 106080999,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106081003,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106081005,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106081007,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106081012,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106081013,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106081000,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106081002,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106081008,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106081010,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106081015,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106081017,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "928\/17058\/OMS",
-        "no_of_floors": 4,
-        "actualisation_date": "2025-06-04 10:26:18",
-        "last_updated": "2025-06-12 09:18:18"
-    },
-    {
-        "id": 11897561,
-        "title": "",
-        "price": 799000,
-        "is_special": 0,
-        "building_type": null,
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości Eagles Estate prezentuje Państwu ofertę sprzedaży przestronnego domu w zabudowie szeregowej o powierzchni 107 m², położony na działce o wielkości 1,60 ar. <br><br>Nieruchomość znajduje się w północnej części Rzeszowa, co zapewnia doskonałą komunikację z centrum miasta (tylko 5 minut), autostradą A4 oraz lotniskiem.<br><br>Dom obecnie jest w stanie deweloperskim. Składa się z przestronnego salonu połączonego z kuchnią, czterech komfortowych sypialni, w tym głównej sypialni z garderobą i prywatną łazienką, a także praktycznej spiżarni przy kuchni. <br><br>Do nieruchomości przynależą dwa miejsca parkingowe, z czego jedno jest zadaszone, co zapewnia dodatkową wygodę.<br><br>Dojazd do domu prowadzi przez drogę asfaltową, a w dalszej części przez kostkę brukową.<br><br>Idealny wybór dla osób poszukujących komfortowego, funkcjonalnego domu o wysokim standardzie wykończenia i w świetnej lokalizacji. <br><br>Stan deweloperski<br><br>*tynki wewnętrzne gipsowe<br>*wylewki łącznie z dociepleniem<br>*instalacja elektryczna wewnętrzna wg projektu<br>*instalacja wodno-kanalizacyjna wewnętrzna wg projektu<br>*instalacja centralnego ogrzewania zgodnie z projektem (Kocioł Junkers kondensacyjny Cerapur Smart ZSB 14-5C)<br>*ogrzewanie podłogowe (korytarz, kuchnia, łazienki)<br>*instalacja sieciowa (internetowa)<br>*instalacja telewizyjna<br>*skrzynka multimedialna w budynku<br><br><br>Zapraszamy do kontaktu oraz prezentacji nieruchomości.   Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.  Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.",
-        "elevator": null,
-        "floor_no": null,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Gotowa szeregówka Myśliwska Rzeszów",
-        "headerAdvertisement": "Gotowa szeregówka Myśliwska Rzeszów",
-        "kitchen_type": "Open",
-        "location_name": "\/Podkarpackie\/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 5,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 68.13,
-        "provision_amount": 0,
-        "section": "HouseSale",
-        "status": "Active",
-        "total_area": 107,
-        "year_built": 2024,
-        "street_name": null,
-        "street_full_name": null,
-        "images": [
-            {
-                "id": 106119118,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 102116913,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 102116914,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106119116,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 102116910,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 102116909,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "12\/17058\/ODS",
-        "no_of_floors": 1,
-        "actualisation_date": "2025-06-04 09:46:17",
-        "last_updated": "2025-06-12 09:03:40"
+        "last_updated": "2025-06-12 09:33:21"
     }
 ]
