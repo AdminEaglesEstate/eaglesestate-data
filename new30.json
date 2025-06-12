@@ -1,5 +1,188 @@
 [
     {
+        "id": 12222907,
+        "title": "",
+        "price": 169000,
+        "is_special": 1,
+        "building_type": null,
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości <b>Eagles Estate<\/b> prezentuje Państwu na sprzedaż działkę budowlaną o powierzchni<b> 13,22 a<\/b> położoną w malowniczej i szybko rozwijającej się miejscowości <b>Trzciana<\/b>, zaledwie 14 km od centrum Rzeszowa.&nbsp;<br><br> 📌 <b>Szczegóły oferty:<\/b><br> <ul> <li> Działka z wydanymi warunkami zabudowy (WZ) na dwa domy jednorodzinne<br> <\/li> <li> Dojazd drogą na zasadzie ustanowionej służebności<br> <\/li> <li> Media (prąd, woda, gaz) znajdują się na działkach sąsiednich<br> <\/li> <li> W bezpośrednim sąsiedztwie powstają nowe domy – spokojna i atrakcyjna okolica<br> <\/li> <li> Przystanek autobusowy w pobliżu<br> <\/li> <li> Do szkoły podstawowej około 900 metrów<\/li><li>Kościół 700 metrów<\/li><li>Sklep 300 metrów<\/li><\/ul><br><br>Wymiary działki: <b>20m x 65 m<\/b><br><br> Idealne miejsce pod budowę domu dla rodziny – połączenie ciszy i spokoju z szybkim dojazdem do miasta!<br><br>Zapraszam do kontaktu – chętnie udzielę więcej informacji.<br><br><i>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży\/zakupie nieruchomości.<br><\/i>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.  Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.",
+        "elevator": null,
+        "floor_no": null,
+        "garage": null,
+        "garage_parking_price": null,
+        "short_description": "Trzciana - idealna działka pod budowę domu",
+        "headerAdvertisement": "Trzciana - idealna działka pod budowę domu",
+        "kitchen_type": null,
+        "location_name": "\/Podkarpackie\/Rzeszowski\/Świlcza\/Trzciana",
+        "location_province": "Podkarpackie",
+        "location_locality": "Trzciana",
+        "location_quarter": "",
+        "material": null,
+        "mortgage_market": null,
+        "no_of_rooms": null,
+        "ownership_type": null,
+        "parking_spaces_no": null,
+        "price_m2": 127.84,
+        "provision_amount": 7700,
+        "section": "LotSale",
+        "status": "Active",
+        "total_area": null,
+        "year_built": null,
+        "street_name": null,
+        "street_full_name": null,
+        "images": [
+            {
+                "id": 106003892,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106003282,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106003285,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106003287,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106003290,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106003293,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105969117,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "8\/17058\/OGS",
+        "no_of_floors": null,
+        "actualisation_date": "2025-06-12 17:06:37",
+        "last_updated": "2025-06-12 17:17:54"
+    },
+    {
+        "id": 12128941,
+        "title": "",
+        "price": 2700,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate prezentuje Państwu&nbsp;&nbsp;Państwu mieszkanie o powierzchni 52,14 m2 położoną przy ulicy Baldachówka. Nieruchomość znajduje się na 1 piętrze w niskim bloku. Mieszkanie zlokalizowane jest w samym centrum Rzeszowa co zapewnia doskonały dostęp do wszystkich udogodnień miasta. Mieszkanie przeszło generalny remont kilka miesięcy temu.<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI:<\/b><br>- Salon z aneksem kuchennym<br>- Łazienka<br>- Sypialnia<br>- Pokój<br>- Hol<br><br><b>ATUTY NIERUCHOMOŚCI:<\/b><br>- Dobra lokalizacja dla osób ceniących sobie bliskość centrum<br>- Mieszkanie zapewnia doskonały dostęp do całej infrastruktury miasta<br>-Gotowe do zamieszkania<br><br>Po więcej informacji zapraszam do kontaktu.<br><br>  Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w najmie\/wynajmie nieruchomości. <br><br>",
+        "elevator": 0,
+        "floor_no": 1,
+        "garage": null,
+        "garage_parking_price": null,
+        "short_description": "Stylowe mieszkanie w samym sercu miasta!",
+        "headerAdvertisement": "Stylowe mieszkanie w samym sercu miasta!",
+        "kitchen_type": null,
+        "location_name": "\/Podkarpackie\/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "Brick",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 51.78,
+        "provision_amount": 0,
+        "section": "ApartmentRental",
+        "status": "Active",
+        "total_area": 52.14,
+        "year_built": null,
+        "street_name": "Baldachówka",
+        "street_full_name": "ul. Baldachówka",
+        "images": [
+            {
+                "id": 104890668,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104890669,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104890666,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104890667,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104890670,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104890671,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104890672,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104890673,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104890674,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104890675,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104890676,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104890677,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104890678,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104890679,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "13\/17058\/OMW",
+        "no_of_floors": 3,
+        "actualisation_date": "2025-06-12 16:53:03",
+        "last_updated": "2025-06-12 17:19:08"
+    },
+    {
         "id": 11999793,
         "title": "",
         "price": 549000,
@@ -61,7 +244,7 @@
         "listing_offer_id": "57\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:44:27",
-        "last_updated": "2025-06-12 16:40:06"
+        "last_updated": "2025-06-12 17:10:06"
     },
     {
         "id": 12006342,
@@ -125,7 +308,7 @@
         "listing_offer_id": "65\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:43:50",
-        "last_updated": "2025-06-12 16:40:52"
+        "last_updated": "2025-06-12 17:10:49"
     },
     {
         "id": 12006349,
@@ -204,7 +387,7 @@
         "listing_offer_id": "66\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:43:34",
-        "last_updated": "2025-06-12 16:40:54"
+        "last_updated": "2025-06-12 17:10:54"
     },
     {
         "id": 12071964,
@@ -268,7 +451,7 @@
         "listing_offer_id": "589\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:07:00",
-        "last_updated": "2025-06-12 16:43:23"
+        "last_updated": "2025-06-12 17:13:21"
     },
     {
         "id": 12166312,
@@ -342,7 +525,7 @@
         "listing_offer_id": "802\/17058\/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 15:05:15",
-        "last_updated": "2025-06-12 16:45:42"
+        "last_updated": "2025-06-12 17:15:38"
     },
     {
         "id": 12006360,
@@ -426,7 +609,7 @@
         "listing_offer_id": "67\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 14:29:09",
-        "last_updated": "2025-06-12 16:40:59"
+        "last_updated": "2025-06-12 17:10:56"
     },
     {
         "id": 11943999,
@@ -565,7 +748,7 @@
         "listing_offer_id": "125\/17058\/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-06-12 13:52:22",
-        "last_updated": "2025-06-12 16:36:39"
+        "last_updated": "2025-06-12 17:06:37"
     },
     {
         "id": 12240878,
@@ -654,7 +837,7 @@
         "listing_offer_id": "956\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 13:50:02",
-        "last_updated": "2025-06-12 16:48:55"
+        "last_updated": "2025-06-12 17:18:52"
     },
     {
         "id": 12242522,
@@ -743,7 +926,7 @@
         "listing_offer_id": "970\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-12 13:17:27",
-        "last_updated": "2025-06-12 16:31:46"
+        "last_updated": "2025-06-12 17:01:44"
     },
     {
         "id": 12069567,
@@ -872,7 +1055,7 @@
         "listing_offer_id": "575\/17058\/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-12 10:50:22",
-        "last_updated": "2025-06-12 16:43:18"
+        "last_updated": "2025-06-12 17:13:17"
     },
     {
         "id": 11870529,
@@ -961,7 +1144,7 @@
         "listing_offer_id": "3\/17058\/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 09:22:53",
-        "last_updated": "2025-06-12 16:32:34"
+        "last_updated": "2025-06-12 17:02:31"
     },
     {
         "id": 11873058,
@@ -1070,7 +1253,7 @@
         "listing_offer_id": "5\/17058\/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 09:22:27",
-        "last_updated": "2025-06-12 16:32:36"
+        "last_updated": "2025-06-12 17:02:36"
     },
     {
         "id": 12240742,
@@ -1149,7 +1332,7 @@
         "listing_offer_id": "955\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 15:58:00",
-        "last_updated": "2025-06-12 16:49:01"
+        "last_updated": "2025-06-12 17:18:59"
     },
     {
         "id": 12241435,
@@ -1223,7 +1406,7 @@
         "listing_offer_id": "964\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 15:55:29",
-        "last_updated": "2025-06-12 16:43:10"
+        "last_updated": "2025-06-12 17:13:09"
     },
     {
         "id": 12241418,
@@ -1292,7 +1475,7 @@
         "listing_offer_id": "962\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 15:50:01",
-        "last_updated": "2025-06-12 16:43:06"
+        "last_updated": "2025-06-12 17:13:07"
     },
     {
         "id": 12206451,
@@ -1456,7 +1639,7 @@
         "listing_offer_id": "124\/17058\/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-11 15:44:00",
-        "last_updated": "2025-06-12 16:47:33"
+        "last_updated": "2025-06-12 17:17:31"
     },
     {
         "id": 12220827,
@@ -1595,7 +1778,7 @@
         "listing_offer_id": "127\/17058\/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-11 14:39:02",
-        "last_updated": "2025-06-12 16:47:52"
+        "last_updated": "2025-06-12 17:17:48"
     },
     {
         "id": 11999441,
@@ -1704,7 +1887,7 @@
         "listing_offer_id": "270\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 13:50:22",
-        "last_updated": "2025-06-12 16:39:59"
+        "last_updated": "2025-06-12 17:09:58"
     },
     {
         "id": 12239394,
@@ -1853,7 +2036,7 @@
         "listing_offer_id": "952\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 12:28:53",
-        "last_updated": "2025-06-12 16:48:53"
+        "last_updated": "2025-06-12 17:18:48"
     },
     {
         "id": 11998796,
@@ -1937,7 +2120,7 @@
         "listing_offer_id": "269\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-11 11:54:21",
-        "last_updated": "2025-06-12 16:39:58"
+        "last_updated": "2025-06-12 17:09:57"
     },
     {
         "id": 12240633,
@@ -2011,7 +2194,7 @@
         "listing_offer_id": "35\/17058\/OI",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 11:20:34",
-        "last_updated": "2025-06-12 16:48:59"
+        "last_updated": "2025-06-12 17:18:54"
     },
     {
         "id": 12208219,
@@ -2095,7 +2278,7 @@
         "listing_offer_id": "878\/17058\/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-06-11 10:58:22",
-        "last_updated": "2025-06-12 16:47:40"
+        "last_updated": "2025-06-12 17:17:35"
     },
     {
         "id": 11990059,
@@ -2174,7 +2357,7 @@
         "listing_offer_id": "251\/17058\/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-11 10:55:29",
-        "last_updated": "2025-06-12 16:33:51"
+        "last_updated": "2025-06-12 17:03:50"
     },
     {
         "id": 11939123,
@@ -2238,7 +2421,7 @@
         "listing_offer_id": "20\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 09:19:30",
-        "last_updated": "2025-06-12 16:35:26"
+        "last_updated": "2025-06-12 17:05:25"
     },
     {
         "id": 11976775,
@@ -2302,7 +2485,7 @@
         "listing_offer_id": "209\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 09:18:20",
-        "last_updated": "2025-06-12 16:39:37"
+        "last_updated": "2025-06-12 17:09:36"
     },
     {
         "id": 12109306,
@@ -2436,7 +2619,7 @@
         "listing_offer_id": "657\/17058\/OMS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-10 12:44:10",
-        "last_updated": "2025-06-12 16:44:31"
+        "last_updated": "2025-06-12 17:14:28"
     },
     {
         "id": 12016329,
@@ -2535,7 +2718,7 @@
         "listing_offer_id": "313\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-10 12:41:28",
-        "last_updated": "2025-06-12 16:41:20"
+        "last_updated": "2025-06-12 17:11:16"
     },
     {
         "id": 12232918,
@@ -2624,124 +2807,6 @@
         "listing_offer_id": "937\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-10 11:07:08",
-        "last_updated": "2025-06-12 16:48:34"
-    },
-    {
-        "id": 11976362,
-        "title": "",
-        "price": 499000,
-        "is_special": 0,
-        "building_type": null,
-        "country_name": "Polska",
-        "description": "Biuro Eagles Estate przedstawia nowe osiedle domów w zabudowie bliźniaczej i szeregowej przy ul. Karkonoskiej.<br><br>Osiedle to, to 8 domów w zabudowie szeregowej oraz 4 domy w zabudowie bliźniaczej&nbsp;&nbsp;o powierzchni użytkowej&nbsp;95,85 m2&nbsp;wybudowanych na działkach o powierzchniach od 1,35 ara do 2,71 ar, z łatwym i szybkim dojazdem do centrum miasta. Projekty domów zostały starannie przemyślane tak, aby na całej powierzchni uzyskać trzy pokoje, dwie łazienki, przestronny salon z kuchnią oraz garaż jednostanowiskowy.<br><br>Oferta dotyczy domu nr 4 w zabudowie szeregowej o pow. 95,85 m2 i o pow. działki 135 m2&nbsp;<br><br>Domy będą sprzedawane w stanie surowym zamkniętym, bądź deweloperskim- za dopłatą 200 000 zł<br><br>Standard Wykonania<br><br>I. STAN SUROWY ZAMKNIĘTY:<br><br>budynek wykonany z czerwonego pustaka gr 25cm<br>ławy fundamentowe lane żelbetowe<br>ściany fundamentowe wykonane z bloczku betonowego<br>izolacja przeciwwilgociowa i termiczna fundamentów<br>dach pokryty blachodachówką kolor grafit<br>impregnacja konstrukcji dachowej<br>kominy systemowe<br>okna PCV kolor antracyt 2 szybowe, 5 komorowe<br>drzwi wejściowe do budynku- budowlane<br>brama garażowa ocieplana w kolorze grafitowym- bez sterownika<br>ślepa wylewka<br>schody lane żelbetowe na poddasze<br>woda oraz kanalizacja rozprowadzone w poziomie po parterze<br>gaz oraz energia elektryczna w skrzynkach przy ogrodzeniu lub na budynku<br><br>II. STAN DEWELOPERSKI:<br>ścianki działowe na parterze i poddaszu<br>rozprowadzone w budynku wszystkie media (parter i poddasze)<br>tynki wewnętrzne cementowo-wapienne lub gipsowe oraz właściwe <br>wylewki z zewnątrz <br>budynek ocieplony styropianem 15cm oraz elewacja (tynk akrylowy) <br>montaż podbicia dachowego<br>montaż parapetów zewnętrznych<br>poddasze ocieplone wełną mineralną 25 cm na przekładkę oraz wykończone płytami g-k<br>wykonana instalacja centralnego ogrzewania wraz z zamontowanymi grzejnikami (poza łazienką dolną i górną - te kaloryfery we własnym zakresie) oraz z zamontowanym piecem gazowym<br>kostka brukowa na podjeździe zgodnie z zagospodarowaniem terenu<br>ogrodzenie z 3 stron siatką na podmurówce ( tył oraz 2 boki)<br><br>III. DODATKOWE PRACE NA ŻYCZENIE KLIENTA<br>rolety zewnętrzne na wszystkie okna sterowane pilotem - 12 000 zł<br>Przesuwne drzwi tarasowe - 10 000 zł<br>Drzwi właściwe wejściowe z przeszkleniem - 6 000 zł<br>Ogrzewanie na parterze - 6 000 zł<br>Ogrzewanie na piętrze - 6 000 zł<br>Inne dodatki do uzgodnienia<br><br><br>",
-        "elevator": null,
-        "floor_no": null,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Szeregówka Karkonoska 499 000 zł segment środkowy",
-        "headerAdvertisement": "Szeregówka Karkonoska 499 000 zł segment środkowy",
-        "kitchen_type": "Open",
-        "location_name": "\/Podkarpackie\/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 4,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 5206.05,
-        "provision_amount": 0,
-        "section": "HouseSale",
-        "status": "Active",
-        "total_area": 95.85,
-        "year_built": 2025,
-        "street_name": null,
-        "street_full_name": null,
-        "images": [
-            {
-                "id": 106219567,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103179054,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103158744,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106219568,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "50\/17058\/ODS",
-        "no_of_floors": 1,
-        "actualisation_date": "2025-06-10 10:59:02",
-        "last_updated": "2025-06-12 16:34:10"
-    },
-    {
-        "id": 11976007,
-        "title": "",
-        "price": 559000,
-        "is_special": 0,
-        "building_type": null,
-        "country_name": "Polska",
-        "description": "Biuro Eagles Estate przedstawia nowe osiedle domów w zabudowie bliźniaczej i szeregowej przy ul. Karkonoskiej.<br><br>Osiedle to, to 8 domów w zabudowie szeregowej oraz 4 domy w zabudowie bliźniaczej&nbsp;&nbsp;o powierzchni użytkowej&nbsp;95,85 m2&nbsp;wybudowanych na działkach o powierzchniach od 1,35 ara do 2,71 ar, z łatwym i szybkim dojazdem do centrum miasta. Projekty domów zostały starannie przemyślane tak, aby na całej powierzchni uzyskać trzy pokoje, dwie łazienki, przestronny salon z kuchnią oraz garaż jednostanowiskowy.<br><br>Oferta dotyczy domu nr 1 w zabudowie bliźniaczej o pow. 95,85 m2 i o pow. działki 240 m2&nbsp;<br><br>Domy będą sprzedawane w stanie surowym zamkniętym, bądź deweloperskim- za dopłatą 209 000 zł<br><br>Standard Wykonania<br><br>I. STAN SUROWY ZAMKNIĘTY:<br><br>budynek wykonany z czerwonego pustaka gr 25cm<br>ławy fundamentowe lane żelbetowe<br>ściany fundamentowe wykonane z bloczku betonowego<br>izolacja przeciwwilgociowa i termiczna fundamentów<br>dach pokryty blachodachówką kolor grafit<br>impregnacja konstrukcji dachowej<br>kominy systemowe<br>okna PCV kolor antracyt 2 szybowe, 5 komorowe<br>drzwi wejściowe do budynku- budowlane<br>brama garażowa ocieplana w kolorze grafitowym- bez sterownika<br>ślepa wylewka<br>schody lane żelbetowe na poddasze<br>woda oraz kanalizacja rozprowadzone w poziomie po parterze<br>gaz oraz energia elektryczna w skrzynkach przy ogrodzeniu lub na budynku<br><br>II. STAN DEWELOPERSKI:<br>ścianki działowe na parterze i poddaszu<br>rozprowadzone w budynku wszystkie media (parter i poddasze)<br>tynki wewnętrzne cementowo-wapienne lub gipsowe oraz właściwe <br>wylewki z zewnątrz <br>budynek ocieplony styropianem 15cm oraz elewacja (tynk akrylowy) <br>montaż podbicia dachowego<br>montaż parapetów zewnętrznych<br>poddasze ocieplone wełną mineralną 25 cm na przekładkę oraz wykończone płytami g-k<br>wykonana instalacja centralnego ogrzewania wraz z zamontowanymi grzejnikami (poza łazienką dolną i górną - te kaloryfery we własnym zakresie) oraz z zamontowanym piecem gazowym<br>kostka brukowa na podjeździe zgodnie z zagospodarowaniem terenu<br>ogrodzenie z 3 stron siatką na podmurówce ( tył oraz 2 boki)<br><br>III. DODATKOWE PRACE NA ŻYCZENIE KLIENTA<br>rolety zewnętrzne na wszystkie okna sterowane pilotem - 12 000 zł<br>Przesuwne drzwi tarasowe - 10 000 zł<br>Drzwi właściwe wejściowe z przeszkleniem - 6 000 zł<br>Ogrzewanie na parterze - 6 000 zł<br>Ogrzewanie na piętrze - 6 000 zł<br>Inne dodatki do uzgodnienia<br><br><br>",
-        "elevator": null,
-        "floor_no": null,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Bliźniak Karkonoska 559 000 zł narożny segment",
-        "headerAdvertisement": "Bliźniak Karkonoska 559 000 zł narożny segment",
-        "kitchen_type": "Open",
-        "location_name": "\/Podkarpackie\/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 4,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 5832.03,
-        "provision_amount": 0,
-        "section": "HouseSale",
-        "status": "Active",
-        "total_area": 95.85,
-        "year_built": 2025,
-        "street_name": null,
-        "street_full_name": null,
-        "images": [
-            {
-                "id": 106219296,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103179017,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106219201,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103154370,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "49\/17058\/ODS",
-        "no_of_floors": 1,
-        "actualisation_date": "2025-06-10 10:50:33",
-        "last_updated": "2025-06-12 16:33:03"
+        "last_updated": "2025-06-12 17:18:29"
     }
 ]
