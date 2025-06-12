@@ -1,5 +1,139 @@
 [
     {
+        "id": 11943999,
+        "title": "",
+        "price": 494844,
+        "is_special": 0,
+        "building_type": "HighBlock",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles estate ma przyjemność zaprezentować Państwu ostatnie dostępne mieszkanie na osiedlu przy ul. Wieniawskiego w Rzeszowie.<br><br> Na sprzedaż wyjątkowe, przestronne mieszkanie o powierzchni 57,54 m², położone na parterze nowoczesnego osiedla przy ul. Wieniawskiego.<br><br> Gotowe do odbioru – stan deweloperski!<br><br> Układ mieszkania:<br> <ul> <li> 2 komfortowe sypialnie, z których każda posiada bezpośrednie wyjście na duży, wykostkowany taras o powierzchni 49,88 m² – idealne miejsce na wypoczynek czy zielony taras,<br> <\/li> <li> Przestronny salon z aneksem kuchennym oraz wyjściem na taras od strony południowej (16,57 m²).<br> <\/li> <li> Funkcjonalna łazienka i przedpokój.<br> <\/li><li><br><\/li> <\/ul> Cena: 8600 zł\/m²<br> (Możliwość zakupu miejsca postojowego za dodatkowe 30 000 zł.)<br><br> Dlaczego warto?<br> <ul> <li> Kameralne, nowoczesne osiedle z niską zabudową.<br> <\/li> <li> W sąsiedztwie powstają sklepy, przedszkola, żłobki i pełna infrastruktura usługowa.<br> <\/li> <li> W budowie nowy łącznik drogowy między ul. Krzyżanowskiego a ul. Wieniawskiego – szybki dojazd w każdą część miasta!<br> <\/li><li><br><\/li> <\/ul> Idealna propozycja dla rodzin, osób ceniących komfort przestrzeni i doskonałą lokalizację.<br> Nie przegap ostatniego mieszkania na tej inwestycji!<br> Zapraszam do kontaktu i umówienia prezentacji.<br><br>BEZ PROWIZJI, BEZ PCC&nbsp;<br>",
+        "elevator": 1,
+        "floor_no": 0,
+        "garage": 1,
+        "garage_parking_price": 30000,
+        "short_description": "Ostatnie dostępne mieszkanie – 2 tarasy !",
+        "headerAdvertisement": "Ostatnie dostępne mieszkanie – 2 tarasy !",
+        "kitchen_type": "Open",
+        "location_name": "\/Podkarpackie\/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "Mixed",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 8600,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 57.54,
+        "year_built": 2024,
+        "street_name": "Henryka Wieniawskiego",
+        "street_full_name": "ul. Henryka Wieniawskiego",
+        "images": [
+            {
+                "id": 106266042,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105042503,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105042504,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105042517,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104634137,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105042526,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105042500,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105042458,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105042505,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105042511,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105042488,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105042487,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105042519,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102667304,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105042515,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105042510,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105042508,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105042529,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105042532,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "125\/17058\/OMS",
+        "no_of_floors": 7,
+        "actualisation_date": "2025-06-12 13:11:30",
+        "last_updated": "2025-06-12 13:36:34"
+    },
+    {
         "id": 12069567,
         "title": "",
         "price": 649000,
@@ -126,7 +260,7 @@
         "listing_offer_id": "575\/17058\/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-12 10:50:22",
-        "last_updated": "2025-06-12 13:13:19"
+        "last_updated": "2025-06-12 13:43:12"
     },
     {
         "id": 11870529,
@@ -215,7 +349,7 @@
         "listing_offer_id": "3\/17058\/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 09:22:53",
-        "last_updated": "2025-06-12 13:02:31"
+        "last_updated": "2025-06-12 13:32:29"
     },
     {
         "id": 11873058,
@@ -324,7 +458,7 @@
         "listing_offer_id": "5\/17058\/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 09:22:27",
-        "last_updated": "2025-06-12 13:02:36"
+        "last_updated": "2025-06-12 13:32:31"
     },
     {
         "id": 12240878,
@@ -413,7 +547,7 @@
         "listing_offer_id": "956\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 15:58:49",
-        "last_updated": "2025-06-12 13:18:53"
+        "last_updated": "2025-06-12 13:48:50"
     },
     {
         "id": 12240742,
@@ -449,17 +583,12 @@
         "street_full_name": "ul. św. Rocha",
         "images": [
             {
-                "id": 106251484,
+                "id": 106267029,
                 "description": null,
                 "isScheme": false
             },
             {
-                "id": 106251487,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106251481,
+                "id": 106267028,
                 "description": null,
                 "isScheme": false
             },
@@ -497,7 +626,7 @@
         "listing_offer_id": "955\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 15:58:00",
-        "last_updated": "2025-06-12 13:18:56"
+        "last_updated": "2025-06-12 13:48:56"
     },
     {
         "id": 12241435,
@@ -571,7 +700,7 @@
         "listing_offer_id": "964\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 15:55:29",
-        "last_updated": "2025-06-12 13:13:08"
+        "last_updated": "2025-06-12 13:43:04"
     },
     {
         "id": 12241418,
@@ -640,7 +769,7 @@
         "listing_offer_id": "962\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 15:50:01",
-        "last_updated": "2025-06-12 13:13:06"
+        "last_updated": "2025-06-12 13:43:03"
     },
     {
         "id": 12206451,
@@ -804,7 +933,7 @@
         "listing_offer_id": "124\/17058\/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-11 15:44:00",
-        "last_updated": "2025-06-12 13:17:32"
+        "last_updated": "2025-06-12 13:47:30"
     },
     {
         "id": 12220827,
@@ -943,7 +1072,7 @@
         "listing_offer_id": "127\/17058\/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-11 14:39:02",
-        "last_updated": "2025-06-12 13:17:52"
+        "last_updated": "2025-06-12 13:47:46"
     },
     {
         "id": 11999441,
@@ -1052,7 +1181,7 @@
         "listing_offer_id": "270\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 13:50:22",
-        "last_updated": "2025-06-12 13:10:00"
+        "last_updated": "2025-06-12 13:39:55"
     },
     {
         "id": 12239394,
@@ -1201,7 +1330,7 @@
         "listing_offer_id": "952\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 12:28:53",
-        "last_updated": "2025-06-12 13:18:48"
+        "last_updated": "2025-06-12 13:48:48"
     },
     {
         "id": 11998796,
@@ -1285,7 +1414,7 @@
         "listing_offer_id": "269\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-11 11:54:21",
-        "last_updated": "2025-06-12 13:09:55"
+        "last_updated": "2025-06-12 13:39:54"
     },
     {
         "id": 12240633,
@@ -1344,12 +1473,22 @@
                 "id": 106244563,
                 "description": null,
                 "isScheme": false
+            },
+            {
+                "id": 106266975,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106266976,
+                "description": null,
+                "isScheme": false
             }
         ],
         "listing_offer_id": "35\/17058\/OI",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 11:20:34",
-        "last_updated": "2025-06-12 13:18:54"
+        "last_updated": "2025-06-12 13:48:54"
     },
     {
         "id": 12208219,
@@ -1433,7 +1572,7 @@
         "listing_offer_id": "878\/17058\/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-06-11 10:58:22",
-        "last_updated": "2025-06-12 13:17:39"
+        "last_updated": "2025-06-12 13:47:36"
     },
     {
         "id": 11990059,
@@ -1512,7 +1651,7 @@
         "listing_offer_id": "251\/17058\/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-11 10:55:29",
-        "last_updated": "2025-06-12 13:03:51"
+        "last_updated": "2025-06-12 13:33:45"
     },
     {
         "id": 11939123,
@@ -1576,7 +1715,7 @@
         "listing_offer_id": "20\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 09:19:30",
-        "last_updated": "2025-06-12 13:05:26"
+        "last_updated": "2025-06-12 13:35:22"
     },
     {
         "id": 11976775,
@@ -1640,7 +1779,7 @@
         "listing_offer_id": "209\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 09:18:20",
-        "last_updated": "2025-06-12 13:09:34"
+        "last_updated": "2025-06-12 13:39:30"
     },
     {
         "id": 12109306,
@@ -1774,7 +1913,7 @@
         "listing_offer_id": "657\/17058\/OMS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-10 12:44:10",
-        "last_updated": "2025-06-12 13:14:29"
+        "last_updated": "2025-06-12 13:44:26"
     },
     {
         "id": 12016329,
@@ -1873,7 +2012,7 @@
         "listing_offer_id": "313\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-10 12:41:28",
-        "last_updated": "2025-06-12 13:11:19"
+        "last_updated": "2025-06-12 13:41:14"
     },
     {
         "id": 12232918,
@@ -1962,7 +2101,7 @@
         "listing_offer_id": "937\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-10 11:07:08",
-        "last_updated": "2025-06-12 13:18:33"
+        "last_updated": "2025-06-12 13:48:29"
     },
     {
         "id": 11976362,
@@ -2021,7 +2160,7 @@
         "listing_offer_id": "50\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-10 10:59:02",
-        "last_updated": "2025-06-12 13:04:08"
+        "last_updated": "2025-06-12 13:34:05"
     },
     {
         "id": 11976007,
@@ -2080,7 +2219,7 @@
         "listing_offer_id": "49\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-10 10:50:33",
-        "last_updated": "2025-06-12 13:03:03"
+        "last_updated": "2025-06-12 13:32:58"
     },
     {
         "id": 12230105,
@@ -2159,7 +2298,7 @@
         "listing_offer_id": "927\/17058\/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-09 15:52:55",
-        "last_updated": "2025-06-12 13:18:32"
+        "last_updated": "2025-06-12 13:48:24"
     },
     {
         "id": 12237930,
@@ -2253,7 +2392,101 @@
         "listing_offer_id": "15\/17058\/OLS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-09 14:00:43",
-        "last_updated": "2025-06-12 13:18:46"
+        "last_updated": "2025-06-12 13:48:43"
+    },
+    {
+        "id": 12236296,
+        "title": "",
+        "price": 609315,
+        "is_special": 1,
+        "building_type": "Hotel",
+        "country_name": "Polska",
+        "description": "<b>Apartament inwestycyjny w Radisson Resort Kołobrzeg – gwarantowany najem, 7% zwrotu!<\/b><br>  W ofercie <b>Eagles Estate<\/b> prezentujemy atrakcyjny apartament inwestycyjny w prestiżowym kompleksie <b>Radisson Resort Kołobrzeg<\/b>, zlokalizowanym w spokojnej, uzdrowiskowej części miasta – zaledwie kilka minut spacerem od plaży i parku. To idealne rozwiązanie dla inwestorów poszukujących bezpiecznego i dochodowego modelu lokowania kapitału.<br><br>  <b>Szczegóły apartamentu:<\/b><br>  <ul>  <li><b>Powierzchnia:<\/b>      24,87 m²<\/li>  <li><b>Piętro:<\/b>&nbsp;2<\/li>  <li><b>Liczba      pokoi:<\/b> 1<\/li>  <li><b>Cena      netto:<\/b> 609 315,00 PLN<\/li>  <li><b>Cena      brutto:<\/b>&nbsp;749 457,45 PLN<\/li>  <li><b>Gwarantowana      stopa zwrotu:<\/b> 7% rocznie od wartości netto zakupu (bez wyposażenia)<\/li>  <li><b>Wykończenie:<\/b>      apartament w pełni wykończony, klimatyzowany, z prywatnym tarasem<\/li> <\/ul>  <b>Niezbędne elementy zakupu:<\/b><br>  <ul>  <li><b>Miejsce      postojowe w garażu podziemnym:<\/b> 89 900 PLN netto<\/li>  <li><b>Wyposażenie      apartamentu:<\/b> 64 900 PLN netto (+ 23% VAT)<\/li> <\/ul>  <b>Model inwestycyjny:<\/b><br>  <ul>  <li>Umowa      najmu z renomowanym operatorem hotelowym na okres:<br>      • do 05.10.2036 r. (11 lat) lub<br>      • do 01.10.2051 r. (26 lat)<\/li>  <li>Czynsz      wypłacany kwartalnie<\/li>  <li><b>Brak      kosztów eksploatacyjnych po stronie właściciela<\/b> (z wyjątkiem funduszu      remontowego)<\/li>  <li>Możliwość      <b>odliczenia VAT<\/b> – idealne rozwiązanie dla przedsiębiorców<\/li>  <li><b>Indeksacja      czynszu co 3 lata od 2028 r.<\/b>, według średniego wskaźnika cen towarów i      usług konsumpcyjnych ogłaszanego przez GUS<\/li> <\/ul>  <b>Dodatkowe korzyści:<\/b><br>  <ul>  <li>Możliwość      bezpłatnego korzystania z apartamentu <b>do 2 tygodni w sezonie<\/b> i <b>poza      sezonem<\/b>, przy minimalnym obniżeniu stopy zwrotu<\/li>  <li><b>Członkostwo      w programie Zdrojowa Club<\/b>, dające właścicielom preferencyjne warunki      pobytu w hotelach sieci Zdrojowa nad morzem i w górach<\/li>  <li><b>Kompleksowa,      bezobsługowa obsługa<\/b> – operator zajmuje się całością zarządzania      najmem<br><br><\/li> <\/ul>  <b>O inwestycji:<\/b><br>  <b>Radisson Resort Kołobrzeg<\/b> to nowoczesny, całoroczny obiekt hotelowy z:<br>  <ul>  <li>aquaparkiem,<\/li>  <li>strefą      wellness,<\/li>  <li>basenem      infinity na dachu,<\/li>  <li>siłownią,<\/li>  <li>restauracjami,<\/li>  <li>atrakcjami      dla dzieci i dorosłych.<\/li> <\/ul><br>&nbsp; To połączenie komfortu, luksusu i wyjątkowej lokalizacji, co przekłada się na wysoki potencjał najmu i stabilność inwestycji.<br>  <b>Dlaczego warto?<\/b><br>  <ul>  <li>Gwarantowany      <b>dochód pasywny – 7% rocznie<\/b><\/li>  <li>Umowa      z uznanym operatorem hotelowym<\/li>  <li>Brak      prowizji i podatku PCC przy zakupie<\/li>  <li>Możliwość      pełnego odliczenia VAT<\/li>  <li>Prestiżowa      lokalizacja nad Bałtykiem<\/li>  <li>Wsparcie      doświadczonego doradcy Eagles Estate<br><br><\/li> <\/ul>  Radisson Hotels to globalna marka hotelowa z ponad 1400 obiektami w ponad 100 krajach i doświadczeniem sięgającym 100 lat. Program lojalnościowy <b>Radisson Rewards<\/b> liczy ponad 19 milionów członków na całym świecie.<br><br>  Z przyjemnością odpowiemy na wszystkie pytania i przedstawimy dostępne lokale.<br><br> <b>Skontaktuj się z nami<\/b>, aby otrzymać pełną ofertę.<br>  <b>Eagles Estate – bezpieczne inwestycje w sprawdzonych lokalizacjach.<\/b><br> <b>Przy zakupie nieruchomości z rynku pierwotnego nie płacą Państwo prowizji ani podatku PCC.<\/b><br><br>",
+        "elevator": 1,
+        "floor_no": 1,
+        "garage": null,
+        "garage_parking_price": null,
+        "short_description": "Zarabiaj, odpoczywaj, inwestuj – Radisson",
+        "headerAdvertisement": "Zarabiaj, odpoczywaj, inwestuj – Radisson",
+        "kitchen_type": null,
+        "location_name": "\/Podkarpackie\/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": null,
+        "mortgage_market": "Primary",
+        "no_of_rooms": null,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 24500,
+        "provision_amount": 0,
+        "section": "CommercialSpaceSale",
+        "status": "Active",
+        "total_area": 24.87,
+        "year_built": 2022,
+        "street_name": null,
+        "street_full_name": null,
+        "images": [
+            {
+                "id": 106174780,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106174850,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106174778,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106174781,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106174782,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106174783,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106174784,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106174785,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106174786,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106174787,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106174788,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "14\/17058\/OLS",
+        "no_of_floors": 4,
+        "actualisation_date": "2025-06-06 15:21:48",
+        "last_updated": "2025-06-12 13:48:42"
     },
     {
         "id": 12235142,
@@ -2347,7 +2580,7 @@
         "listing_offer_id": "13\/17058\/OLS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 15:15:06",
-        "last_updated": "2025-06-12 13:18:42"
+        "last_updated": "2025-06-12 13:48:37"
     },
     {
         "id": 12101818,
@@ -2436,7 +2669,7 @@
         "listing_offer_id": "621\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 13:54:10",
-        "last_updated": "2025-06-12 13:13:56"
+        "last_updated": "2025-06-12 13:43:52"
     },
     {
         "id": 12108039,
@@ -2555,7 +2788,7 @@
         "listing_offer_id": "650\/17058\/OMS",
         "no_of_floors": 11,
         "actualisation_date": "2025-06-06 12:51:43",
-        "last_updated": "2025-06-12 13:14:19"
+        "last_updated": "2025-06-12 13:44:13"
     },
     {
         "id": 12062536,
@@ -2599,184 +2832,6 @@
         "listing_offer_id": "543\/17058\/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-06-05 15:20:40",
-        "last_updated": "2025-06-12 13:08:30"
-    },
-    {
-        "id": 12229844,
-        "title": "",
-        "price": 510000,
-        "is_special": 0,
-        "building_type": "LowBlock",
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości&nbsp;<b>Eagles Estate<\/b>&nbsp;prezentuje Państwu 2-pokojowe mieszkanie o powierzchni 41,03m2, usytuowane na 2 piętrze w 3 piętrowym nowoczesnym niskim bloku z windą. Wybudowanym w 2019 roku.<br><br>Nieruchomość zlokalizowana jest przy ul. Potokowej Apartamenty Kaskada w Rzeszowie.&nbsp;<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI:<\/b><br><br>-Salon z kuchnią<br>&nbsp;-Sypialnia<br>-Łazienka<br>-Przedpokój<br>-Balkon&nbsp;<br><br><br><b>ATUTY NIERUCHOMOŚCI:<br><\/b><br>-Niski czynsz 320zł<br>-Klimatyzacja w salonie&nbsp;<br><b>-<\/b>nieruchomość w pełni umeblowana i gotowa do zamieszkania<br>-nieruchomość zlokalizowany w spokojnej i zielonej okolicy<br>- dostępność punktów usługo - handlowych&nbsp;<br>-monitorowane&nbsp; osiedle&nbsp;<br><br><b>LOKALIZACJA:<\/b><br>Osiedle łącząca wygodę życia w mieście z bliskością terenów zielonych. W okolicy znajdują się liczne punkty handlowo-usługowe, m.in.:<br><br>-sklepy spożywcze<br>-przystanek autobusowy<br>-szkoła<br>-przedszkole&nbsp;<br>-żłobek&nbsp;<br>-przychodnia&nbsp;<br><br>Mieszkanie sprawdzi się także jako inwestycja, jest gotowe do zamieszkania, urządzone stylowo i nowocześnie oraz w pełni umeblowane.<br>Do mieszkania przynależy miejsce postojowe w garażu podziemnym dodatkowo<br>&nbsp;płatne : Cena 40 000zł<br><br>Po więcej informacji zapraszam do kontaktu.<br><br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży\/zakupie nieruchomości.&nbsp;",
-        "elevator": 1,
-        "floor_no": 2,
-        "garage": 1,
-        "garage_parking_price": 40000,
-        "short_description": "Nowoczesne mieszkanie dwu pokojowe Rzeszów",
-        "headerAdvertisement": "Nowoczesne mieszkanie dwu pokojowe Rzeszów",
-        "kitchen_type": "Open",
-        "location_name": "\/Podkarpackie\/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": "Ceramics",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 2,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": 1,
-        "price_m2": 12429.93,
-        "provision_amount": 1,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 41.03,
-        "year_built": 2019,
-        "street_name": "Potokowa",
-        "street_full_name": "ul. Potokowa",
-        "images": [
-            {
-                "id": 106095161,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106147792,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106095160,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106118847,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106095158,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106095156,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106095155,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106095157,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106095153,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106095154,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106095162,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "924\/17058\/OMS",
-        "no_of_floors": 3,
-        "actualisation_date": "2025-06-05 14:33:04",
-        "last_updated": "2025-06-12 13:18:21"
-    },
-    {
-        "id": 12224251,
-        "title": "",
-        "price": 779000,
-        "is_special": 0,
-        "building_type": "LowBlock",
-        "country_name": "Polska",
-        "description": "Wyłącznie w biurze nieruchomości Eagles Estate mamy przyjemność przedstawić na sprzedaż duże, funkcjonalne mieszkanie zlokalizowane przy ul. Nazimka w Rzeszowie – zaledwie kilka minut od centrum miasta. <br><br>Nieruchomość o powierzchni 85,3 m² usytuowana jest na 3. piętrze niskiego, kameralnego bloku w spokojnej, zielonej okolicy.<br><br> Układ mieszkania:<br> <ul> <li> 3 osobne, przestronne sypialnie,<br> <\/li> <li> salon połączony z kuchnią i wyjściem na balkon z widokiem na panoramę miasta,<br> <\/li> <li> łazienka z prysznicem,<br> <\/li> <li> osobne WC,<br> <\/li> <li>szeroki przedpokój z miejscem na dużą szafę,<br> <\/li> <li> do mieszkania przynależy również piwnica o powierzchni ok. 4 m².<br><\/li><\/ul><br>Najważniejsze atuty:<br> <ul> <li> lokalizacja blisko centrum, z szybkim dostępem do komunikacji miejskiej, sklepów, szkół i punktów usługowych,<br> <\/li> <li> widok na miasto z balkonu,<br> <\/li> <li> niski, zadbany blok,<br> <\/li> <li> spokojna i cicha okolica, idealna dla rodzin.<br> <\/li> <\/ul><br>Mieszkanie wymaga remontu, co stwarza doskonałą okazję do własnej aranżacji i przystosowania wnętrza do indywidualnych potrzeb.<br><br>Zapraszamy do kontaktu oraz prezentacji nieruchomości.   Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.  Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.",
-        "elevator": 0,
-        "floor_no": 3,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Mieszkanie 85,3 m² z widokiem na miasto – 4 pokoje",
-        "headerAdvertisement": "Mieszkanie 85,3 m² z widokiem na miasto – 4 pokoje",
-        "kitchen_type": "Open",
-        "location_name": "\/Podkarpackie\/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 4,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 9132.47,
-        "provision_amount": 31160,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 85.3,
-        "year_built": 1999,
-        "street_name": "Eugeniusza Nazimka",
-        "street_full_name": "ul. Eugeniusza Nazimka",
-        "images": [
-            {
-                "id": 106003094,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105999144,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106003109,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106003138,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106003129,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106003132,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106003123,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106003076,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106003117,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "897\/17058\/OMS",
-        "no_of_floors": 4,
-        "actualisation_date": "2025-06-05 13:30:53",
-        "last_updated": "2025-06-12 13:02:43"
+        "last_updated": "2025-06-12 13:38:26"
     }
 ]
