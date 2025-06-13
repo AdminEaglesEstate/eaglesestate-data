@@ -1,5 +1,129 @@
 [
     {
+        "id": 12018348,
+        "title": "",
+        "price": 699000,
+        "is_special": 1,
+        "building_type": "HighBlock",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości <b>Eagles Estate<\/b>&nbsp;prezentuje na sprzedaż nowoczesne, w pełni umeblowane 3-pokojowe mieszkanie o powierzchni <b>63,29 m²<\/b>, zlokalizowane na 6. piętrze w budynku z windą, wybudowanym w 2017 roku.<br> Nieruchomość położona jest na spokojnym i dobrze skomunikowanym osiedlu Wilkowyja, przy <b>ul. Św. Kingi<\/b>.<br><br> Wyjątkowy taras – <b>14,33 m²<\/b>! Duży taras to niewątpliwy atut tej nieruchomości – to idealna przestrzeń do relaksu, spotkań z przyjaciółmi, porannej kawy czy wieczornego odpoczynku. Usytuowany wysoko, daje poczucie prywatności i pozwala cieszyć się świeżym powietrzem oraz widokiem na okolicę.<br><br><b> Układ mieszkania: <\/b><ul> <li> Przestronny salon z aneksem kuchennym i wyjściem na taras<br> <\/li> <li> Sypialnia<br> <\/li> <li> Pokój (idealny na gabinet lub pokój dziecięcy)<br> <\/li> <li> Przedpokój z szafą w zabudowie<br> <\/li> <li> Łazienka<br> <\/li> <li> Oddzielna toaleta<\/li> <\/ul><br>&nbsp;<b>Do mieszkania przynależy: <\/b><ul> <li> Komórka lokatorska – dodatkowo płatna <b>10 000 zł<\/b><br> <\/li> <li> Zewnętrzne miejsce postojowe – w cenie<br> <\/li> <li> Duże miejsce w garażu podziemnym – dodatkowo płatne <b>50 000 zł <\/b>(z odrębną księgą wieczystą – zakup nieobowiązkowy)<\/li> <\/ul><br><b> Dodatkowe atuty: <\/b><ul> <li> Klimatyzacja<br> <\/li> <li> Ogrzewanie centralne z osiedlowej kotłowni<br> <\/li> <li> Mieszkanie dwustronne, bardzo dobrze doświetlone<br> <\/li> <li> Ogólnodostępne miejsca postojowe wokół budynku<br> <\/li> <li> Monitoring bloku i garażu<br> <\/li><li>Praktyczny układ<\/li> <\/ul><br> To idealna oferta dla osób szukających gotowego do zamieszkania mieszkania z dużą, funkcjonalną przestrzenią zewnętrzną – tarasem, który latem staje się naturalnym przedłużeniem salonu.<br><br>Oferta wyłącznie w naszym biurze<br><br> Zapraszamy do kontaktu i na prezentację!<br><br>Zapraszamy do kontaktu oraz prezentacji nieruchomości.   Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.  Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.",
+        "elevator": 1,
+        "floor_no": 6,
+        "garage": 1,
+        "garage_parking_price": 50000,
+        "short_description": "Przestronne 3 pokojowe mieszkanie z dużą loggią",
+        "headerAdvertisement": "Przestronne 3 pokojowe mieszkanie z dużą loggią",
+        "kitchen_type": "Adjoining",
+        "location_name": "\/Podkarpackie\/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "Mixed",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": 1,
+        "price_m2": 11049.64,
+        "provision_amount": 10485,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 63.26,
+        "year_built": 2017,
+        "street_name": "Św. Kingi",
+        "street_full_name": "ul. Św. Kingi",
+        "images": [
+            {
+                "id": 105956384,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103728987,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105956379,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105956382,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105956377,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105956375,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105956374,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105956376,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105956363,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105956362,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105956370,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105956369,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105956358,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105956359,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105956360,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105956372,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105956357,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "339\/17058\/OMS",
+        "no_of_floors": 10,
+        "actualisation_date": "2025-06-13 11:48:47",
+        "last_updated": "2025-06-13 12:11:40"
+    },
+    {
         "id": 12224966,
         "title": "",
         "price": 2150,
@@ -86,7 +210,7 @@
         "listing_offer_id": "19\/17058\/OMW",
         "no_of_floors": 17,
         "actualisation_date": "2025-06-13 11:39:27",
-        "last_updated": "2025-06-13 11:47:59"
+        "last_updated": "2025-06-13 12:18:03"
     },
     {
         "id": 12239185,
@@ -170,7 +294,7 @@
         "listing_offer_id": "949\/17058\/OMS",
         "no_of_floors": 13,
         "actualisation_date": "2025-06-13 10:39:01",
-        "last_updated": "2025-06-13 11:48:48"
+        "last_updated": "2025-06-13 12:18:56"
     },
     {
         "id": 12016168,
@@ -274,7 +398,7 @@
         "listing_offer_id": "306\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-13 09:50:10",
-        "last_updated": "2025-06-13 11:41:15"
+        "last_updated": "2025-06-13 12:11:21"
     },
     {
         "id": 12121502,
@@ -383,7 +507,7 @@
         "listing_offer_id": "704\/17058\/OMS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-13 09:37:02",
-        "last_updated": "2025-06-13 11:31:54"
+        "last_updated": "2025-06-13 12:02:00"
     },
     {
         "id": 12222907,
@@ -457,7 +581,7 @@
         "listing_offer_id": "8\/17058\/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-12 19:43:51",
-        "last_updated": "2025-06-13 11:47:54"
+        "last_updated": "2025-06-13 12:18:01"
     },
     {
         "id": 12128941,
@@ -566,7 +690,7 @@
         "listing_offer_id": "13\/17058\/OMW",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 16:53:03",
-        "last_updated": "2025-06-13 11:49:14"
+        "last_updated": "2025-06-13 12:19:18"
     },
     {
         "id": 11999793,
@@ -630,7 +754,7 @@
         "listing_offer_id": "57\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:44:27",
-        "last_updated": "2025-06-13 11:40:08"
+        "last_updated": "2025-06-13 12:10:12"
     },
     {
         "id": 12006342,
@@ -694,7 +818,7 @@
         "listing_offer_id": "65\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:43:50",
-        "last_updated": "2025-06-13 11:40:52"
+        "last_updated": "2025-06-13 12:10:58"
     },
     {
         "id": 12006349,
@@ -773,7 +897,7 @@
         "listing_offer_id": "66\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:43:34",
-        "last_updated": "2025-06-13 11:40:54"
+        "last_updated": "2025-06-13 12:11:00"
     },
     {
         "id": 12071964,
@@ -837,7 +961,7 @@
         "listing_offer_id": "589\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:07:00",
-        "last_updated": "2025-06-13 11:43:22"
+        "last_updated": "2025-06-13 12:13:26"
     },
     {
         "id": 12166312,
@@ -911,7 +1035,7 @@
         "listing_offer_id": "802\/17058\/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 15:05:15",
-        "last_updated": "2025-06-13 11:45:41"
+        "last_updated": "2025-06-13 12:15:45"
     },
     {
         "id": 12006360,
@@ -995,7 +1119,7 @@
         "listing_offer_id": "67\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 14:29:09",
-        "last_updated": "2025-06-13 11:40:59"
+        "last_updated": "2025-06-13 12:11:02"
     },
     {
         "id": 11943999,
@@ -1134,7 +1258,7 @@
         "listing_offer_id": "125\/17058\/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-06-12 13:52:22",
-        "last_updated": "2025-06-13 11:36:41"
+        "last_updated": "2025-06-13 12:06:48"
     },
     {
         "id": 12240878,
@@ -1223,7 +1347,7 @@
         "listing_offer_id": "956\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 13:50:02",
-        "last_updated": "2025-06-13 11:48:54"
+        "last_updated": "2025-06-13 12:18:59"
     },
     {
         "id": 12242522,
@@ -1312,7 +1436,7 @@
         "listing_offer_id": "970\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-12 13:17:27",
-        "last_updated": "2025-06-13 11:31:46"
+        "last_updated": "2025-06-13 12:01:49"
     },
     {
         "id": 12069567,
@@ -1441,7 +1565,7 @@
         "listing_offer_id": "575\/17058\/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-12 10:50:22",
-        "last_updated": "2025-06-13 11:43:20"
+        "last_updated": "2025-06-13 12:13:24"
     },
     {
         "id": 11870529,
@@ -1530,7 +1654,7 @@
         "listing_offer_id": "3\/17058\/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 09:22:53",
-        "last_updated": "2025-06-13 11:32:37"
+        "last_updated": "2025-06-13 12:02:42"
     },
     {
         "id": 11873058,
@@ -1639,7 +1763,7 @@
         "listing_offer_id": "5\/17058\/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 09:22:27",
-        "last_updated": "2025-06-13 11:32:38"
+        "last_updated": "2025-06-13 12:02:44"
     },
     {
         "id": 12240742,
@@ -1718,7 +1842,7 @@
         "listing_offer_id": "955\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 15:58:00",
-        "last_updated": "2025-06-13 11:49:01"
+        "last_updated": "2025-06-13 12:19:05"
     },
     {
         "id": 12241435,
@@ -1792,7 +1916,7 @@
         "listing_offer_id": "964\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 15:55:29",
-        "last_updated": "2025-06-13 11:43:09"
+        "last_updated": "2025-06-13 12:13:16"
     },
     {
         "id": 12241418,
@@ -1861,7 +1985,7 @@
         "listing_offer_id": "962\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 15:50:01",
-        "last_updated": "2025-06-13 11:43:07"
+        "last_updated": "2025-06-13 12:13:11"
     },
     {
         "id": 12206451,
@@ -2025,7 +2149,7 @@
         "listing_offer_id": "124\/17058\/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-11 15:44:00",
-        "last_updated": "2025-06-13 11:47:32"
+        "last_updated": "2025-06-13 12:17:37"
     },
     {
         "id": 12220827,
@@ -2164,7 +2288,7 @@
         "listing_offer_id": "127\/17058\/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-11 14:39:02",
-        "last_updated": "2025-06-13 11:47:48"
+        "last_updated": "2025-06-13 12:17:55"
     },
     {
         "id": 11999441,
@@ -2273,7 +2397,7 @@
         "listing_offer_id": "270\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 13:50:22",
-        "last_updated": "2025-06-13 11:40:00"
+        "last_updated": "2025-06-13 12:10:06"
     },
     {
         "id": 12239394,
@@ -2422,7 +2546,7 @@
         "listing_offer_id": "952\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 12:28:53",
-        "last_updated": "2025-06-13 11:48:53"
+        "last_updated": "2025-06-13 12:18:57"
     },
     {
         "id": 11998796,
@@ -2506,7 +2630,7 @@
         "listing_offer_id": "269\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-11 11:54:21",
-        "last_updated": "2025-06-13 11:39:59"
+        "last_updated": "2025-06-13 12:10:04"
     },
     {
         "id": 12240633,
@@ -2580,7 +2704,7 @@
         "listing_offer_id": "35\/17058\/OI",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 11:20:34",
-        "last_updated": "2025-06-13 11:48:59"
+        "last_updated": "2025-06-13 12:19:04"
     },
     {
         "id": 12208219,
@@ -2664,7 +2788,7 @@
         "listing_offer_id": "878\/17058\/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-06-11 10:58:22",
-        "last_updated": "2025-06-13 11:47:38"
+        "last_updated": "2025-06-13 12:17:42"
     },
     {
         "id": 11990059,
@@ -2743,70 +2867,6 @@
         "listing_offer_id": "251\/17058\/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-11 10:55:29",
-        "last_updated": "2025-06-13 11:33:52"
-    },
-    {
-        "id": 11939123,
-        "title": "",
-        "price": 798400,
-        "is_special": 0,
-        "building_type": null,
-        "country_name": "Polska",
-        "description": "Osiedle Leśna Wola – Domy w standardzie premium !<br><br>Biuro nieruchomości Eagles Estate prezentuje&nbsp;Inwestycję Leśna Wola, położoną na ulicy Wojska Polskiego w Głogowie Małopolskim. Inwestycja to kompleks 47 nieruchomości, domów w zabudowie szeregowej, bliźniaczej a także domów wolnostojących.<br>• Lokalizacja – Inwestycja położona jest zaledwie 14 km od Rzeszowa a przy tym otoczona niesamowitymi terenami zielonymi. Sąsiaduje z Rezerwatem Przyrody Bór Tajęcina, Rezerwatem Przyrody Zabłocie a także Puszczą Sandomierską.<br>• Nowoczesne rozwiązania – Nieruchomości wyposażone w pompy ciepła, ogrzewanie podłogowe, instalacje do podłączenia paneli fotowoltaicznych, automatyczne bramy garażowe.<br><br>Najważniejsze informacje:<br>Dostępne metraże: &nbsp;127 m2 i &nbsp;130 m2<br>Termin oddania inwestycji: Grudzień 2024<br>Standard wykończenia: Deweloperski<br>Rodzaj ogrzewania: Pompa ciepła<br>Dodatkowe powierzchnie: garaż, ogród, loggia<br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie&nbsp; od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.",
-        "elevator": null,
-        "floor_no": null,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Dom w standardzie premium",
-        "headerAdvertisement": "Dom w standardzie premium",
-        "kitchen_type": "Adjoining",
-        "location_name": "\/Podkarpackie\/Rzeszowski\/Głogów Małopolski",
-        "location_province": "Podkarpackie",
-        "location_locality": "Głogów Małopolski",
-        "location_quarter": "",
-        "material": "Mixed",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 5,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 6143.9,
-        "provision_amount": 0,
-        "section": "HouseSale",
-        "status": "Active",
-        "total_area": 129.95,
-        "year_built": 2025,
-        "street_name": null,
-        "street_full_name": null,
-        "images": [
-            {
-                "id": 103174287,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 102624926,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 102624927,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103173737,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103173741,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "20\/17058\/ODS",
-        "no_of_floors": 1,
-        "actualisation_date": "2025-06-11 09:19:30",
-        "last_updated": "2025-06-13 11:35:31"
+        "last_updated": "2025-06-13 12:03:59"
     }
 ]
