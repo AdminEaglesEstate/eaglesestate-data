@@ -80,7 +80,7 @@ $idResponse = postForm(
 if (!$idResponse) exit("Brak odpowiedzi z exportedListingIdList\n");
 $idJson = json_decode($idResponse, true);
 if (!is_array($idJson) || !isset($idJson['data'])) exit("Błąd JSON\n");
-$idList = $idJson['data'];
+$idList = array_slice($idJson['data'], 0, 2);
 
 logInfo("Pobrano " . count($idList) . " ID ogłoszeń");
 
@@ -146,7 +146,7 @@ foreach ($idList as $index => $item) {
 }
 
 $target = __DIR__ . '/listings.json';
-file_put_contents($target, json_encode($listings, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+file_put_contents($target, json_encode($listings, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
 logInfo("Zapisano " . count($listings) . " ogłoszeń do $target");
 
 // Sortuj po actualisation_date i zapisz 30 najnowszych do new30.json
@@ -158,7 +158,7 @@ usort($listings, function($a, $b) {
 
 $newest30 = array_slice($listings, 0, 30);
 $target30 = __DIR__ . '/new30.json';
-file_put_contents($target30, json_encode($newest30, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+file_put_contents($target30, json_encode($newest30, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
 logInfo("Zapisano 30 najnowszych ogłoszeń do $target30");
 
 function githubPush($token, $repo, $path, $content, $message)
