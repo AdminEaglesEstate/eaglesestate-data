@@ -1,5 +1,119 @@
 [
     {
+        "id": 12023481,
+        "title": "",
+        "price": 890000,
+        "is_special": 0,
+        "building_type": "HighBlock",
+        "country_name": "Polska",
+        "description": "Biuro <b>Eagles Estate<\/b> prezentuje Państwu wyjątkową ofertę – komfortowy, 3-pokojowy apartament o powierzchni 59,35 m², położony na 6. piętrze nowoczesnego apartamentowca Bulwary Park przy ul. Hetmańskiej w Rzeszowie. Nieruchomość w pełni umeblowana, gotowa do zamieszkania.&nbsp;<br><br><b>Układ mieszkania:<\/b><ul><li>Przestronny salon z aneksem kuchennym – idealna przestrzeń do wypoczynku i spotkań.<br><\/li><li>Dwie komfortowe sypialnie – doskonałe zarówno dla rodzin, jak i najemców.<br><\/li><li>Garderoba – dodatkowa przestrzeń do przechowywania.<\/li><li>Łazienka – elegancko wykończona i funkcjonalna.<br><\/li><li>Komórka lokatorska (2,17 m²) – dodatkowa przestrzeń do przechowywania.<br><\/li><li>Dwa tarasy (łącznie 35 m²) – z malowniczym widokiem na park i zalew.<\/li><\/ul><br><b>Główne atuty nieruchomości:<br><\/b>✅ Prestiżowa lokalizacja – w pobliżu Bulwarów Rzeszowskich, terenów rekreacyjnych i ścieżek spacerowych. <br>✅ Wysoki standard wykończenia – apartament w pełni umeblowany i gotowy do zamieszkania lub wynajmu. <br>✅ Dwa przestronne tarasy – idealne miejsce na relaks na świeżym powietrzu. <br>✅ Nowoczesny budynek – wyposażony w dwie windy dla wygody mieszkańców. <br>✅ Doskonała lokalizacja:<br>W najbliższym sąsiedztwie apartamentu znajdują się:<br><ul><li>Centra handlowe, banki, siłownie – pełna infrastruktura miejska na wyciągnięcie ręki.<br><\/li><li>Park, bulwary, przedszkola i szkoły podstawowe – świetna okolica dla rodzin z dziećmi.<br><\/li><li>Restauracje i punkty usługowe – bogata oferta gastronomiczna i rekreacyjna.<br><\/li><li>Stadion miejski – dla miłośników sportu.<\/li><\/ul><br><br><b>Idealne rozwiązanie dla:<br><\/b>✔️ Inwestorów poszukujących dochodowej nieruchomości pod wynajem – wysoka atrakcyjność lokalizacji gwarantuje stabilny przychód. <br>✔️ Osób ceniących komfort i wysoką jakość życia – prestiżowy apartamentowiec w jednej z najlepszych lokalizacji w Rzeszowie.<br><br>Nie przegap tej unikalnej okazji! Zapraszamy do kontaktu i umówienia się na prezentację!<br><br><br>",
+        "elevator": 1,
+        "floor_no": 6,
+        "garage": 0,
+        "garage_parking_price": null,
+        "short_description": "Apartament tuż przy Bulwarach - 2 duże tarasy",
+        "headerAdvertisement": "Apartament tuż przy Bulwarach - 2 duże tarasy",
+        "kitchen_type": null,
+        "location_name": "\/Podkarpackie\/Rzeszów\/Gen. Dąbrowskiego",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Gen. Dąbrowskiego",
+        "material": "Mixed",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 14995.79,
+        "provision_amount": 14507,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 59.35,
+        "year_built": 2019,
+        "street_name": "Hetmańska",
+        "street_full_name": "ul. Hetmańska",
+        "images": [
+            {
+                "id": 103804913,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103804915,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103804910,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103804912,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103804911,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103804914,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103804919,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103804918,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103804920,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103804917,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103804927,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103804923,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103804924,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103804926,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103804925,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "367\/17058\/OMS",
+        "no_of_floors": 17,
+        "actualisation_date": "2025-06-16 10:40:23",
+        "last_updated": "2025-06-16 10:42:17"
+    },
+    {
         "id": 12128941,
         "title": "",
         "price": 2700,
@@ -106,7 +220,7 @@
         "listing_offer_id": "13\/17058\/OMW",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-16 09:20:25",
-        "last_updated": "2025-06-16 10:19:44"
+        "last_updated": "2025-06-16 10:49:25"
     },
     {
         "id": 11973063,
@@ -220,7 +334,7 @@
         "listing_offer_id": "194\/17058\/OMS",
         "no_of_floors": 17,
         "actualisation_date": "2025-06-14 13:31:09",
-        "last_updated": "2025-06-16 10:09:35"
+        "last_updated": "2025-06-16 10:39:20"
     },
     {
         "id": 11999908,
@@ -299,7 +413,7 @@
         "listing_offer_id": "59\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-13 14:08:15",
-        "last_updated": "2025-06-16 10:10:31"
+        "last_updated": "2025-06-16 10:40:24"
     },
     {
         "id": 12239185,
@@ -383,7 +497,7 @@
         "listing_offer_id": "949\/17058\/OMS",
         "no_of_floors": 13,
         "actualisation_date": "2025-06-13 12:39:16",
-        "last_updated": "2025-06-16 10:19:21"
+        "last_updated": "2025-06-16 10:49:02"
     },
     {
         "id": 12018348,
@@ -507,7 +621,7 @@
         "listing_offer_id": "339\/17058\/OMS",
         "no_of_floors": 10,
         "actualisation_date": "2025-06-13 11:48:47",
-        "last_updated": "2025-06-16 10:11:56"
+        "last_updated": "2025-06-16 10:41:42"
     },
     {
         "id": 12224966,
@@ -596,7 +710,7 @@
         "listing_offer_id": "19\/17058\/OMW",
         "no_of_floors": 17,
         "actualisation_date": "2025-06-13 11:39:27",
-        "last_updated": "2025-06-16 10:18:29"
+        "last_updated": "2025-06-16 10:48:10"
     },
     {
         "id": 12016168,
@@ -700,7 +814,7 @@
         "listing_offer_id": "306\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-13 09:50:10",
-        "last_updated": "2025-06-16 10:11:40"
+        "last_updated": "2025-06-16 10:41:26"
     },
     {
         "id": 12121502,
@@ -809,7 +923,7 @@
         "listing_offer_id": "704\/17058\/OMS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-13 09:37:02",
-        "last_updated": "2025-06-16 10:01:56"
+        "last_updated": "2025-06-16 10:31:55"
     },
     {
         "id": 12222907,
@@ -883,7 +997,7 @@
         "listing_offer_id": "8\/17058\/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-12 19:43:51",
-        "last_updated": "2025-06-16 10:18:27"
+        "last_updated": "2025-06-16 10:48:08"
     },
     {
         "id": 11999793,
@@ -947,7 +1061,7 @@
         "listing_offer_id": "57\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:44:27",
-        "last_updated": "2025-06-16 10:10:25"
+        "last_updated": "2025-06-16 10:40:17"
     },
     {
         "id": 12006342,
@@ -1011,7 +1125,7 @@
         "listing_offer_id": "65\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:43:50",
-        "last_updated": "2025-06-16 10:11:14"
+        "last_updated": "2025-06-16 10:41:00"
     },
     {
         "id": 12006349,
@@ -1090,7 +1204,7 @@
         "listing_offer_id": "66\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:43:34",
-        "last_updated": "2025-06-16 10:11:19"
+        "last_updated": "2025-06-16 10:41:05"
     },
     {
         "id": 12071964,
@@ -1154,7 +1268,7 @@
         "listing_offer_id": "589\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:07:00",
-        "last_updated": "2025-06-16 10:13:51"
+        "last_updated": "2025-06-16 10:43:36"
     },
     {
         "id": 12166312,
@@ -1228,7 +1342,7 @@
         "listing_offer_id": "802\/17058\/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 15:05:15",
-        "last_updated": "2025-06-16 10:16:11"
+        "last_updated": "2025-06-16 10:45:54"
     },
     {
         "id": 12006360,
@@ -1312,7 +1426,7 @@
         "listing_offer_id": "67\/17058\/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 14:29:09",
-        "last_updated": "2025-06-16 10:11:20"
+        "last_updated": "2025-06-16 10:41:07"
     },
     {
         "id": 11943999,
@@ -1451,7 +1565,7 @@
         "listing_offer_id": "125\/17058\/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-06-12 13:52:22",
-        "last_updated": "2025-06-16 10:06:45"
+        "last_updated": "2025-06-16 10:36:46"
     },
     {
         "id": 12240878,
@@ -1540,7 +1654,7 @@
         "listing_offer_id": "956\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 13:50:02",
-        "last_updated": "2025-06-16 10:19:28"
+        "last_updated": "2025-06-16 10:49:09"
     },
     {
         "id": 12242522,
@@ -1629,7 +1743,7 @@
         "listing_offer_id": "970\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-12 13:17:27",
-        "last_updated": "2025-06-16 10:01:45"
+        "last_updated": "2025-06-16 10:31:44"
     },
     {
         "id": 12069567,
@@ -1758,7 +1872,7 @@
         "listing_offer_id": "575\/17058\/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-12 10:50:22",
-        "last_updated": "2025-06-16 10:13:47"
+        "last_updated": "2025-06-16 10:43:31"
     },
     {
         "id": 11870529,
@@ -1847,7 +1961,7 @@
         "listing_offer_id": "3\/17058\/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 09:22:53",
-        "last_updated": "2025-06-16 10:02:38"
+        "last_updated": "2025-06-16 10:32:40"
     },
     {
         "id": 11873058,
@@ -1956,7 +2070,7 @@
         "listing_offer_id": "5\/17058\/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 09:22:27",
-        "last_updated": "2025-06-16 10:02:40"
+        "last_updated": "2025-06-16 10:32:44"
     },
     {
         "id": 12240742,
@@ -2035,7 +2149,7 @@
         "listing_offer_id": "955\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 15:58:00",
-        "last_updated": "2025-06-16 10:19:34"
+        "last_updated": "2025-06-16 10:49:15"
     },
     {
         "id": 12241435,
@@ -2109,7 +2223,7 @@
         "listing_offer_id": "964\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 15:55:29",
-        "last_updated": "2025-06-16 10:13:39"
+        "last_updated": "2025-06-16 10:43:23"
     },
     {
         "id": 12241418,
@@ -2178,7 +2292,7 @@
         "listing_offer_id": "962\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 15:50:01",
-        "last_updated": "2025-06-16 10:13:34"
+        "last_updated": "2025-06-16 10:43:21"
     },
     {
         "id": 12206451,
@@ -2342,7 +2456,7 @@
         "listing_offer_id": "124\/17058\/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-11 15:44:00",
-        "last_updated": "2025-06-16 10:18:02"
+        "last_updated": "2025-06-16 10:47:45"
     },
     {
         "id": 12220827,
@@ -2481,7 +2595,7 @@
         "listing_offer_id": "127\/17058\/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-11 14:39:02",
-        "last_updated": "2025-06-16 10:18:21"
+        "last_updated": "2025-06-16 10:48:02"
     },
     {
         "id": 11999441,
@@ -2600,7 +2714,7 @@
         "listing_offer_id": "270\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 13:50:22",
-        "last_updated": "2025-06-16 10:10:21"
+        "last_updated": "2025-06-16 10:40:11"
     },
     {
         "id": 12239394,
@@ -2749,7 +2863,7 @@
         "listing_offer_id": "952\/17058\/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 12:28:53",
-        "last_updated": "2025-06-16 10:19:23"
+        "last_updated": "2025-06-16 10:49:07"
     },
     {
         "id": 11998796,
@@ -2833,80 +2947,6 @@
         "listing_offer_id": "269\/17058\/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-11 11:54:21",
-        "last_updated": "2025-06-16 10:10:17"
-    },
-    {
-        "id": 12240633,
-        "title": "ROCHA",
-        "price": 0,
-        "is_special": 0,
-        "building_type": "LowBlock",
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości Eagles Estate zaprasza do zapoznania się z ofertą mieszkań w nowoczesnym, kameralnym kompleksie zlokalizowanym przy ul. Św. Rocha w Rzeszowie.<br><br>Inwestycja skierowana jest do osób poszukujących komfortowego mieszkania w spokojnej okolicy, z dostępem do terenów zielonych i nowoczesną architekturą.<br><br> Osiedle wyróżnia się oryginalnym designem oraz przemyślanym układem przestrzennym, który łączy estetykę z funkcjonalnością. Priorytetem inwestycji, było stworzenie przestrzeni przyjaznej mieszkańcom, oferującej maksymalny komfort codziennego użytkowania.<br><br> Atuty inwestycji: <ul> <li> Nowoczesna architektura i kameralna zabudowa dwulokalowa<br> <\/li> <li> Przestronne strefy dzienne z dużymi, nowoczesnymi przeszkleniami zapewniającymi dostęp do naturalnego światła<br> <\/li> <li> Ogrzewanie podłogowe i instalacja klimatyzacji w standardzie<br> <\/li> <li> Balkon lub ogródek przynależny do każdego lokalu – idealne miejsce do wypoczynku na świeżym powietrzu<br> <\/li> <li> Wysoki komfort akustyczny – mieszkania oddzielone podwójnymi ścianami nośnymi o grubości 50 cm<br> <\/li> <li> 2 indywidualne miejsca postojowe w cenie każdego mieszkania<br> <\/li> <li> Bezpośrednie sąsiedztwo terenów rekreacyjnych – szlak turystyczny prowadzący do kompleksu leśnego przy ul. Św. Marcina<\/li> <\/ul><br>&nbsp;Lokalizacja: W bliskiej odległości od osiedla znajdują się:<br> <ul> <li> Szkoła Podstawowa nr 5 (ok. 1 km)<br> <\/li> <li> Przedszkola, żłobek<br> <\/li> <li> Sklep spożywczy<br> <\/li> <li> Przystanek komunikacji miejskiej<br> <\/li> <\/ul><br>Dostępne lokale: Na sprzedaż oferujemy mieszkania o powierzchni 47,77 m² na parterze, oraz mieszkania o powierzchni 66,42 m² na piętrze dwupoziomowe z poddaszem użytkowym.<br><br>Cena obejmuje: <ul> <li> Stan deweloperski mieszkania<br> <\/li> <li> Dwa indywidualne miejsca postojowe<br> <\/li> <li> Ogródek<br> <\/li> <li> Udział w drodze dojazdowej<\/li> <\/ul><br>&nbsp;Termin oddania do użytku: III kwartał 2026 roku<br>",
-        "elevator": null,
-        "floor_no": null,
-        "garage": null,
-        "garage_parking_price": null,
-        "short_description": null,
-        "headerAdvertisement": null,
-        "kitchen_type": null,
-        "location_name": "\/Podkarpackie\/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": null,
-        "mortgage_market": "Primary",
-        "no_of_rooms": null,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": null,
-        "provision_amount": null,
-        "section": "Investment",
-        "status": "Active",
-        "total_area": 47.77,
-        "year_built": 2026,
-        "street_name": "św. Rocha",
-        "street_full_name": "ul. św. Rocha",
-        "images": [
-            {
-                "id": 106244556,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106244557,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106244559,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106244562,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106244563,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106266975,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106266976,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "35\/17058\/OI",
-        "no_of_floors": 1,
-        "actualisation_date": "2025-06-11 11:20:34",
-        "last_updated": "2025-06-16 10:19:29"
+        "last_updated": "2025-06-16 10:40:09"
     }
 ]
