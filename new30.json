@@ -1,5 +1,79 @@
 [
     {
+        "id": 12244082,
+        "title": "",
+        "price": 599000,
+        "is_special": 0,
+        "building_type": null,
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate prezentuje nową inwestycję zlokalizowaną w kameralnej i zielonej części Sędziszowa Małopolskiego, oddalonego od Rzeszowa o ok. 20 km . Miejsce to zapewnia wygodny i szybki dojazd do ścisłego centrum miasta (niespełna 3 km), a dodatkowym atutem jest bliskość węzła autostrady, co czyni lokalizację atrakcyjną dla osób często podróżujących. Okolica nieruchomości to luźna zabudowa jednorodzinna, obszerne tereny zielone, jak również szkoła, żłobek i przedszkole, stadion piłkarski, sklep spożywczy.<br><br>Oferta obejmuje nowobudowane dwa domy parterowe, usytuowane na działkach o powierzchni ok. 8 arów. Nowoczesność bryle domu zapewnią duże przeszklenia, biało- szara stylistyka z drewnopodobnymi lamelami. Każdy z domów składa się z dużego salonu z jadalnią, otwartą kuchnią ze spiżarnią, 3 sypialni, łazienki, pralni, kotłowni i wiatrołapu. Istnieje możliwość adaptacji poddasza, zyskując dodatkowe 129 m2 powierzchni. Obecny układ świetnie sprawdzi się dla rodziny 2+2, jak również spełniając większe potrzeby przyszłych właścicieli poprzez zagospodarowanie poddasza. Dadatkowymi udogodnieniami, podnoszącymi komfort użytkowania są kominek w salonie&nbsp;<br><br>Domy w stanie surowym zamkniętym będą dostępne już na jesień tego roku!<br><br>Domy sprzedawane są w stanie surowym zamkniętym, lecz istnieje możliwość doprowadzenia ich do stanu deweloperskiego przez obecnego inwestora.<br><br>Zapraszam do kontaktu celem uzyskania dodatkowych informacji i wizyty bezpośrednio na budowie (po wcześniejszym umówieniu).<br><br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.  Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.",
+        "elevator": null,
+        "floor_no": null,
+        "garage": 0,
+        "garage_parking_price": null,
+        "short_description": "Parterowy Dom w Zielonej Części Sędziszowa Młp.",
+        "headerAdvertisement": "Parterowy Dom w Zielonej Części Sędziszowa Młp.",
+        "kitchen_type": "Open",
+        "location_name": "/Podkarpackie/Rzeszowski/Sokołów Małopolski",
+        "location_province": "Podkarpackie",
+        "location_locality": "Sokołów Małopolski",
+        "location_quarter": "",
+        "material": "AirBrick",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 4,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 6050.51,
+        "provision_amount": 0,
+        "section": "HouseSale",
+        "status": "Active",
+        "total_area": 99,
+        "year_built": 2025,
+        "street_name": null,
+        "street_full_name": null,
+        "images": [
+            {
+                "id": 106290013,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106290002,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106290015,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106290017,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106290018,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106290021,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106290022,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "133/17058/ODS",
+        "no_of_floors": 0,
+        "actualisation_date": "2025-06-18 13:10:31",
+        "last_updated": "2025-06-18 13:49:06"
+    },
+    {
         "id": 12018348,
         "title": "",
         "price": 699000,
@@ -121,7 +195,7 @@
         "listing_offer_id": "339/17058/OMS",
         "no_of_floors": 10,
         "actualisation_date": "2025-06-17 15:18:14",
-        "last_updated": "2025-06-18 13:11:29"
+        "last_updated": "2025-06-18 13:41:31"
     },
     {
         "id": 12239185,
@@ -205,7 +279,7 @@
         "listing_offer_id": "949/17058/OMS",
         "no_of_floors": 13,
         "actualisation_date": "2025-06-17 12:29:17",
-        "last_updated": "2025-06-18 13:18:59"
+        "last_updated": "2025-06-18 13:48:48"
     },
     {
         "id": 12072812,
@@ -269,7 +343,7 @@
         "listing_offer_id": "5/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-17 08:56:11",
-        "last_updated": "2025-06-18 13:13:24"
+        "last_updated": "2025-06-18 13:43:26"
     },
     {
         "id": 12239394,
@@ -418,7 +492,7 @@
         "listing_offer_id": "952/17058/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-16 15:47:35",
-        "last_updated": "2025-06-18 13:19:10"
+        "last_updated": "2025-06-18 13:48:53"
     },
     {
         "id": 12184373,
@@ -497,7 +571,7 @@
         "listing_offer_id": "3/17058/OLW",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-16 15:44:51",
-        "last_updated": "2025-06-18 13:16:32"
+        "last_updated": "2025-06-18 13:46:33"
     },
     {
         "id": 12063843,
@@ -611,7 +685,7 @@
         "listing_offer_id": "78/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-16 12:13:46",
-        "last_updated": "2025-06-18 13:12:56"
+        "last_updated": "2025-06-18 13:42:58"
     },
     {
         "id": 12001822,
@@ -705,7 +779,7 @@
         "listing_offer_id": "274/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-16 10:57:31",
-        "last_updated": "2025-06-18 13:02:53"
+        "last_updated": "2025-06-18 13:32:46"
     },
     {
         "id": 12068607,
@@ -854,7 +928,7 @@
         "listing_offer_id": "567/17058/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-16 10:57:08",
-        "last_updated": "2025-06-18 13:12:58"
+        "last_updated": "2025-06-18 13:43:00"
     },
     {
         "id": 12166200,
@@ -938,7 +1012,7 @@
         "listing_offer_id": "799/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-16 10:55:51",
-        "last_updated": "2025-06-18 13:15:17"
+        "last_updated": "2025-06-18 13:45:21"
     },
     {
         "id": 12017007,
@@ -1037,7 +1111,7 @@
         "listing_offer_id": "324/17058/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-16 10:51:38",
-        "last_updated": "2025-06-18 13:11:21"
+        "last_updated": "2025-06-18 13:41:22"
     },
     {
         "id": 12130277,
@@ -1166,7 +1240,7 @@
         "listing_offer_id": "14/17058/OMW",
         "no_of_floors": 17,
         "actualisation_date": "2025-06-16 10:51:15",
-        "last_updated": "2025-06-18 13:14:38"
+        "last_updated": "2025-06-18 13:44:41"
     },
     {
         "id": 11964291,
@@ -1255,7 +1329,7 @@
         "listing_offer_id": "179/17058/OMS",
         "no_of_floors": 14,
         "actualisation_date": "2025-06-16 10:48:41",
-        "last_updated": "2025-06-18 13:08:45"
+        "last_updated": "2025-06-18 13:38:44"
     },
     {
         "id": 12023481,
@@ -1369,7 +1443,7 @@
         "listing_offer_id": "367/17058/OMS",
         "no_of_floors": 17,
         "actualisation_date": "2025-06-16 10:40:23",
-        "last_updated": "2025-06-18 13:11:57"
+        "last_updated": "2025-06-18 13:42:02"
     },
     {
         "id": 12128941,
@@ -1478,7 +1552,7 @@
         "listing_offer_id": "13/17058/OMW",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-16 09:20:25",
-        "last_updated": "2025-06-18 13:19:31"
+        "last_updated": "2025-06-18 13:49:15"
     },
     {
         "id": 11973063,
@@ -1592,7 +1666,7 @@
         "listing_offer_id": "194/17058/OMS",
         "no_of_floors": 17,
         "actualisation_date": "2025-06-14 13:31:09",
-        "last_updated": "2025-06-18 13:09:15"
+        "last_updated": "2025-06-18 13:39:16"
     },
     {
         "id": 11999908,
@@ -1671,7 +1745,7 @@
         "listing_offer_id": "59/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-13 14:08:15",
-        "last_updated": "2025-06-18 13:10:14"
+        "last_updated": "2025-06-18 13:40:15"
     },
     {
         "id": 12224966,
@@ -1760,7 +1834,7 @@
         "listing_offer_id": "19/17058/OMW",
         "no_of_floors": 17,
         "actualisation_date": "2025-06-13 11:39:27",
-        "last_updated": "2025-06-18 13:18:00"
+        "last_updated": "2025-06-18 13:47:55"
     },
     {
         "id": 12121502,
@@ -1869,7 +1943,7 @@
         "listing_offer_id": "704/17058/OMS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-13 09:37:02",
-        "last_updated": "2025-06-18 13:01:46"
+        "last_updated": "2025-06-18 13:31:45"
     },
     {
         "id": 12222907,
@@ -1943,7 +2017,7 @@
         "listing_offer_id": "8/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-12 19:43:51",
-        "last_updated": "2025-06-18 13:17:55"
+        "last_updated": "2025-06-18 13:47:54"
     },
     {
         "id": 11999793,
@@ -2007,7 +2081,7 @@
         "listing_offer_id": "57/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:44:27",
-        "last_updated": "2025-06-18 13:10:08"
+        "last_updated": "2025-06-18 13:40:12"
     },
     {
         "id": 12006342,
@@ -2071,7 +2145,7 @@
         "listing_offer_id": "65/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:43:50",
-        "last_updated": "2025-06-18 13:10:49"
+        "last_updated": "2025-06-18 13:40:51"
     },
     {
         "id": 12006349,
@@ -2150,7 +2224,7 @@
         "listing_offer_id": "66/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:43:34",
-        "last_updated": "2025-06-18 13:10:53"
+        "last_updated": "2025-06-18 13:40:55"
     },
     {
         "id": 12071964,
@@ -2214,7 +2288,7 @@
         "listing_offer_id": "589/17058/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:07:00",
-        "last_updated": "2025-06-18 13:13:17"
+        "last_updated": "2025-06-18 13:43:19"
     },
     {
         "id": 12166312,
@@ -2288,7 +2362,7 @@
         "listing_offer_id": "802/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 15:05:15",
-        "last_updated": "2025-06-18 13:15:36"
+        "last_updated": "2025-06-18 13:45:37"
     },
     {
         "id": 12006360,
@@ -2372,7 +2446,7 @@
         "listing_offer_id": "67/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 14:29:09",
-        "last_updated": "2025-06-18 13:10:55"
+        "last_updated": "2025-06-18 13:40:57"
     },
     {
         "id": 11943999,
@@ -2511,7 +2585,7 @@
         "listing_offer_id": "125/17058/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-06-12 13:52:22",
-        "last_updated": "2025-06-18 13:06:39"
+        "last_updated": "2025-06-18 13:36:36"
     },
     {
         "id": 12240878,
@@ -2600,7 +2674,7 @@
         "listing_offer_id": "956/17058/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 13:50:02",
-        "last_updated": "2025-06-18 13:19:11"
+        "last_updated": "2025-06-18 13:48:54"
     },
     {
         "id": 12242522,
@@ -2689,7 +2763,7 @@
         "listing_offer_id": "970/17058/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-12 13:17:27",
-        "last_updated": "2025-06-18 13:01:38"
+        "last_updated": "2025-06-18 13:31:37"
     },
     {
         "id": 12069567,
@@ -2818,95 +2892,6 @@
         "listing_offer_id": "575/17058/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-12 10:50:22",
-        "last_updated": "2025-06-18 13:13:12"
-    },
-    {
-        "id": 11870529,
-        "title": "",
-        "price": 519000,
-        "is_special": 0,
-        "building_type": "LowBlock",
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości Eagles Estate prezentuje Państwu&nbsp;&nbsp;mieszkanie o powierzchni 40,5 m2 położone przy ulicy Piłsudskiego. Nieruchomość znajduje się na 1 piętrze w niskim bloku. Mieszkanie zlokalizowane jest w samym sercu miasta i idealnie nadaje się dla osób poszukujących nieruchomości inwestycyjnej lub ceni sobie bliskość wszystkich udogodnień miasta. Mieszkanie przeszło generalny remont dwa lata temu.<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br>- Sypialnia<br>- Łazienka<br>- Pokój<br>- Przedpokój<br>- Kuchnia<br><br><b>ATUTY NIERUCHOMOŚCI:</b><br>- Dobra lokalizacja dla osób ceniących sobie bliskość centrum<br>- Budynek znajduje się w niedalekiej odległości terenów zielonych przy samej rzece<br>-Parking za szlabanem<br><br>Po więcej informacji zapraszam do kontaktu.<br><br>  Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości. <br><br>",
-        "elevator": 0,
-        "floor_no": 1,
-        "garage": 0,
-        "garage_parking_price": null,
-        "short_description": "Gotowy produkt inwestycyjny! Z najemcami",
-        "headerAdvertisement": "Gotowy produkt inwestycyjny! Z najemcami",
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": "Brick",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 2,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 12814.81,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 40.5,
-        "year_built": 1960,
-        "street_name": "al. Józefa Piłsudskiego",
-        "street_full_name": "al. Józefa Piłsudskiego",
-        "images": [
-            {
-                "id": 101765209,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 101765210,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 101765211,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 102460828,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 101765213,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 102460823,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 102460826,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 101765212,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 101765207,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 101765208,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "3/17058/OMS",
-        "no_of_floors": 3,
-        "actualisation_date": "2025-06-12 09:22:53",
-        "last_updated": "2025-06-18 13:02:34"
+        "last_updated": "2025-06-18 13:43:17"
     }
 ]
