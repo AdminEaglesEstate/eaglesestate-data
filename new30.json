@@ -1,87 +1,1000 @@
 [
     {
-        "id": 12024752,
+        "id": 11946084,
         "title": "",
-        "price": 545000,
+        "price": 629000,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate prezentuje na sprzedaż nowoczesną Inwestycję<i>,</i> która została zaprojektowana z myślą o nowoczesnym&nbsp;stylu architektonicznym połączonym z ekologicznymi technologiami.&nbsp;<br><br>Inwestycja obejmuje pięć domów oraz dziesięć mieszkań. Domy szeregowe zapewniają przestronne wnętrza o powierzchni około 115 m² (powierzchnia użytkowa 103,1 m²), rozlokowane na trzech kondygnacjach. Każdy dom wyposażony jest w garaż oraz prywatny ogród, co gwarantuje komfort i intymność. Mieszkania w zabudowie szeregowej wyróżniają się przemyślanym układem pomieszczeń, a w zależności od kondygnacji oferują dostęp do ogrodu lub tarasu.<br><br>Do mieszkań przypisane jest jedno miejsce postojowe na zewnątrz w cenie 12 000 zł.<br>Istnieje możliwość dokupienia garażu w bryle budynku w cenie 42 000 zł.<br><br>• Lokalizacja – Inwestycja Las Marcina mieści się przy ul. Św. Marcina, spokojne otoczenie zieleni i lasu zapewnia wyciszenie od miejskiego zgiełku, a bliskość miejskiej infrastruktury czyni ją idealnym miejscem do życia.<br><br>• Nowoczesne rozwiązania – Osiedle Las Marcina wyróżnia się ekologicznymi rozwiązaniami, takimi jak ogrzewanie na podczerwień z panelami fotowoltaicznymi. Dodatkowe udogodnienia to klimatyzacja w salonie i przestronny taras dachowy dla mieszkań na piętrze, gwarantujące komfort przez cały rok.<br><br>Najważniejsze informacje:<br>Dostępne metraże: od 83 m2 do 117 m2<br>Termin oddania inwestycji: Sierpień 2025<br>Standard wykończenia: Deweloperski<br>Rodzaj ogrzewania: Fotowoltaika, ogrzewanie na podczerwień oraz klimatyzacja<br>Dodatkowe powierzchnie: garaż, ogród, balkon, taras<br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.<br><br>Zapraszamy do kontaktu oraz prezentacji nieruchomości. Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny. Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.",
+        "elevator": 0,
+        "floor_no": 0,
+        "garage": 1,
+        "garage_parking_price": 12000,
+        "short_description": "Dwupoziomowe przestronne mieszkanie z ogródkiem",
+        "headerAdvertisement": "Dwupoziomowe przestronne mieszkanie z ogródkiem",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszów/Słocina",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Słocina",
+        "material": "Ceramics",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": 1,
+        "price_m2": 7572.84,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 83.06,
+        "year_built": 2025,
+        "street_name": "św. Marcina",
+        "street_full_name": "ul. św. Marcina",
+        "images": [
+            {
+                "id": 102723086,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102723088,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102723093,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102723087,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102723090,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102723063,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102723064,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102723065,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102723071,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102723075,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "134/17058/OMS",
+        "no_of_floors": 2,
+        "actualisation_date": "2025-06-23 10:05:56",
+        "last_updated": "2025-06-23 10:07:01"
+    },
+    {
+        "id": 11950384,
+        "title": "",
+        "price": 433166,
         "is_special": 0,
         "building_type": "HighBlock",
         "country_name": "Polska",
-        "description": "Biuro nieruchomości Eagles Estate prezentuje Państwu dwupokojowe mieszkanie o powierzchni 55 m2, usytuowane na 9 piętrze wysokiego bloku z windą, wybudowanego w 2010 roku. Nieruchomość zlokalizowana jest przy ul. Architektów w Rzeszowie. Mieszkanie jest wyposażone, gotowe do zamieszkania.&nbsp;<br>  <b><i>&nbsp;</i></b><br>  <b>W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br>  - salon z aneksem kuchennym<br>  - sypialnia<br>  - łazienka<br>- balkon<br>  &nbsp;<br>  <b>ATUTY NIERUCHOMOŚCI:</b><br>  <b>- </b>mieszkanie umeblowane<br>  <b>- </b>nowe budownictwo<br>  <b>- </b>mieszkanie nasłonecznione<br>- czynsz ok 700 zł (4 osoby)<br>- ogrzewanie miejskie<br><b><br>WYPOSAŻENIE:</b><br>- mieszkanie umeblowane<br>- pralka, zmywarka, płyta gazowa/elektryczna, kuchenka mikrofalowa, piekarnik, lodówka<br><br><b>LOKALIZACJA:</b><br>- osiedle bloków mieszkalnych, obiekty przemysłowe, tereny niezabudowane, łąka, umiarkowanie cicho<br>- żłobek, przedszkole, uczelnia wyższa,<br>- restauracje, kawiarnie, apteka, przychodnia, supermarket, stacja benzynowa, kościół<br>  &nbsp;<br><br>Zapraszamy do kontaktu i umówienia się na obejrzenie tej atrakcyjnej nieruchomości.<br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości.<br>  <br><br>",
+        "description": "Biuro nieruchomości Eagles Estate prezentuje&nbsp;inwestycje Pańska Park, położoną przy ul. Pańskiej w Rzeszowie. <br>Pańska Park to nowoczesna inwestycja, która łączy komfort z funkcjonalnością. To doskonałe miejsce do życia, usytuowane w spokojnej okolicy, zapewniające komfort i wygodę na co dzień.<br><br>  • Lokalizacja: Inwestycja Pańska Park usytuowana jest w cichej i spokojnej części Rzeszowa, co zapewnia mieszkańcom komfort i przyjemną atmosferę. Otoczenie pełne zieleni sprzyja aktywnemu stylowi życia, oferując liczne przestrzenie do wypoczynku na świeżym powietrzu. Mimo urokliwej lokalizacji, inwestycja charakteryzuje się również świetną komunikacją z innymi częściami miasta, co zapewnia wygodny dostęp do wszystkich kluczowych punktów Rzeszowa.<br><br>Komunikacja:<br>W chwili obecnej dojazd do inwestycji odbywa się&nbsp;od ulicy Pańskiej. Aktualnie na ukończeniu są formalności z budową drogi łączącej ulicę Dynowską (przedłużenie) z Pańską. Budowa drogi powinna rozpocząć się w przyszłym roku .Obecnie ulica Dynowska dochodzi do ulicy Wołyńskiej, a w przyszłym roku zostaną ukończone pracę z budową nowej drogi wzdłuż ogródków działkowych Stanisława Wyspiańskiego do ulicy Strzyżowskiej. Na ukończeniu są prace połączenia ulicy Wołyńskiej z ulicą Słoneczny Stok a w przyszłości z ulicą Potokową. Po zakończeniu inwestycji, będzie ona jedną z lepiej skomunikowanych w Rzeszowie, co da łatwość&nbsp;szybkiego dojazdu do pracy.<br><br>  • Bogata oferta: Mieszkania o różnych metrażach, od 39 m² do 81,5 m², pozwalają dopasować nieruchomość do Twoich potrzeb i preferencji. Projekty mieszkań zostały stworzone z myślą o funkcjonalności, co sprawia, że doskonale sprawdzą się zarówno dla singli, par, jak i rodzin.<br><br>  Najważniejsze informacje:<br>  Dostępne metraże: od 39,73 m2 do 81,53 m2<br>  Termin oddania inwestycji: kwiecień 2026 r.<br>  Standard wykończenia: Deweloperski<br>  Rodzaj ogrzewania: Miejskie<br>  Dodatkowe powierzchnie: komórki lokatorskie, miejsca postojowe w garażu podziemnym pojedyncze 38 000 zł, miejsca podwójne 57 000 zł, miejsce z instalacją pod samochód 45 000 zł<br>  W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie&nbsp; od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br><br>Dodatkowe opłaty: opłata przyłączeniowa za a)wodę, kanalizację sanitarną i odprowadzenie deszczówki - 3980 zł netto, b)przyłącz ciepła - 2350 zł netto c)prąd 1753 zł netto - płatne 14 dni przed odbiorem mieszkania.<br><br> Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br> <br> Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.<i><br> <br> Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.<br> </i><i><br> Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.</i><i><br> <br> </i>",
         "elevator": 1,
-        "floor_no": 9,
-        "garage": 0,
+        "floor_no": 2,
+        "garage": 1,
+        "garage_parking_price": 38000,
+        "short_description": "2 pokoje z balkonem na osiedlu Projektant",
+        "headerAdvertisement": "2 pokoje z balkonem na osiedlu Projektant",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszów/Staroniwa",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Staroniwa",
+        "material": "Mixed",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 2,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 10900,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 39.74,
+        "year_built": 2026,
+        "street_name": "Pańska",
+        "street_full_name": "ul. Pańska",
+        "images": [
+            {
+                "id": 102787909,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102787942,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102787906,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102787908,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102787910,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102787911,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "155/17058/OMS",
+        "no_of_floors": 6,
+        "actualisation_date": "2025-06-23 10:04:31",
+        "last_updated": "2025-06-23 10:07:57"
+    },
+    {
+        "id": 11950388,
+        "title": "",
+        "price": 447615,
+        "is_special": 0,
+        "building_type": "HighBlock",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate prezentuje&nbsp;inwestycje Pańska Park, położoną przy ul. Pańskiej w Rzeszowie. <br>Pańska Park to nowoczesna inwestycja, która łączy komfort z funkcjonalnością. To doskonałe miejsce do życia, usytuowane w spokojnej okolicy, zapewniające komfort i wygodę na co dzień.<br><br>  • Lokalizacja: Inwestycja Pańska Park usytuowana jest w cichej i spokojnej części Rzeszowa, co zapewnia mieszkańcom komfort i przyjemną atmosferę. Otoczenie pełne zieleni sprzyja aktywnemu stylowi życia, oferując liczne przestrzenie do wypoczynku na świeżym powietrzu. Mimo urokliwej lokalizacji, inwestycja charakteryzuje się również świetną komunikacją z innymi częściami miasta, co zapewnia wygodny dostęp do wszystkich kluczowych punktów Rzeszowa.<br><br>Komunikacja:<br>W chwili obecnej dojazd do inwestycji odbywa się&nbsp;od ulicy Pańskiej. Aktualnie na ukończeniu są formalności z budową drogi łączącej ulicę Dynowską (przedłużenie) z Pańską. Budowa drogi powinna rozpocząć się w przyszłym roku .Obecnie ulica Dynowska dochodzi do ulicy Wołyńskiej, a w przyszłym roku zostaną ukończone pracę z budową nowej drogi wzdłuż ogródków działkowych Stanisława Wyspiańskiego do ulicy Strzyżowskiej. Na ukończeniu są prace połączenia ulicy Wołyńskiej z ulicą Słoneczny Stok a w przyszłości z ulicą Potokową. Po zakończeniu inwestycji, będzie ona jedną z lepiej skomunikowanych w Rzeszowie, co da łatwość&nbsp;szybkiego dojazdu do pracy.<br><br>  • Bogata oferta: Mieszkania o różnych metrażach, od 39 m² do 81,5 m², pozwalają dopasować nieruchomość do Twoich potrzeb i preferencji. Projekty mieszkań zostały stworzone z myślą o funkcjonalności, co sprawia, że doskonale sprawdzą się zarówno dla singli, par, jak i rodzin.<br><br>  Najważniejsze informacje:<br>  Dostępne metraże: od 39,73 m2 do 81,53 m2<br>  Termin oddania inwestycji: kwiecień 2026 r.<br>  Standard wykończenia: Deweloperski<br>  Rodzaj ogrzewania: Miejskie<br>  Dodatkowe powierzchnie: komórki lokatorskie, miejsca postojowe w garażu podziemnym pojedyncze 38 000 zł, miejsca podwójne 57 000 zł, miejsce z instalacją pod samochód 45 000 zł<br>  W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie&nbsp; od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br><br>Dodatkowe opłaty: opłata przyłączeniowa za a)wodę, kanalizację sanitarną i odprowadzenie deszczówki - 3980 zł netto, b)przyłącz ciepła - 2350 zł netto c)prąd 1753 zł netto - płatne 14 dni przed odbiorem mieszkania.<br><br> Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br> <br> Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.<i><br> <br> Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.<br> </i><i><br> Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.</i><i><br> <br> </i>",
+        "elevator": 1,
+        "floor_no": 5,
+        "garage": 1,
+        "garage_parking_price": 38000,
+        "short_description": "2 pokoje z widokiem na Projektancie",
+        "headerAdvertisement": "2 pokoje z widokiem na Projektancie",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszów/Staroniwa",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Staroniwa",
+        "material": "Mixed",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 2,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 10500,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 42.63,
+        "year_built": 2026,
+        "street_name": "Pańska",
+        "street_full_name": "ul. Pańska",
+        "images": [
+            {
+                "id": 102788043,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102788042,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102788050,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102788039,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102788041,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102788044,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "157/17058/OMS",
+        "no_of_floors": 6,
+        "actualisation_date": "2025-06-23 10:03:57",
+        "last_updated": "2025-06-23 10:08:00"
+    },
+    {
+        "id": 11964770,
+        "title": "",
+        "price": 615000,
+        "is_special": 0,
+        "building_type": null,
+        "country_name": "Polska",
+        "description": "W ofercie biura Eagles Estate przedstawiamy Państwu czteropokojowy dom w zabudowie bliźniaczej o powierzchni 73 m2, położony na osiedlu Słocina.&nbsp;<br>Nieruchomość jest gotowa, w stanie deweloperskim, dostępna od zaraz.<br><br>Bliźniak znajduje się w cichym i spokojnym miejscu, otoczony terenami zielonymi i rekreacyjnymi. Teren wokół domu jest zagospodarowany, a przed budynkiem jest miejsce na dwa samochody.<br><br>Standard wykończenia domów:<br>- Ściany konstrukcyjne oraz działowe: Pustak Ceramiczny<br>- Pokrycie dachu: Blacho dachówka<br>- Okna: PCV 3-szybowe<br>- Elewacja: Styropian 20 cm, tynk silikatowo-silikonowy<br>- Instalacje elektryczne<br>- Instalacje wod-kan<br>- Instalacja C.O.<br>- Kocioł gazowy: dwufunkcyjny<br>- Ogrzewanie podłogowe w całym budynku !!!<br>- Przygotowana instalacja C.O. pod rozbudowane sterowanie ogrzewaniem podłogowym<br>- Tynki wewnętrzne gipsowe<br>- Wylewki końcowe<br>- Portfenetra: szkło hartowane obsadzane na rotulach<br>- Zagospodarowanie terenu: taras, podejście do budynku, miejsca postojowe kostka brukowa, płyty Jumbo<br>- Wszystkie media doprowadzone do budynku oraz odebrane<br><br>Zakup bez podatku PCC i bez prowizji&nbsp;",
+        "elevator": null,
+        "floor_no": null,
+        "garage": null,
         "garage_parking_price": null,
-        "short_description": "Dwupokojowe mieszkanie 55 m², ul. Architektów",
-        "headerAdvertisement": "Dwupokojowe mieszkanie 55 m², ul. Architektów",
+        "short_description": "Gotowy bliźniak w stanie deweloperskim - Słocina",
+        "headerAdvertisement": "Gotowy bliźniak w stanie deweloperskim - Słocina",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszów/Słocina",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Słocina",
+        "material": "Ceramics",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 4,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 8363.93,
+        "provision_amount": 0,
+        "section": "HouseSale",
+        "status": "Active",
+        "total_area": 73.53,
+        "year_built": 2024,
+        "street_name": null,
+        "street_full_name": null,
+        "images": [
+            {
+                "id": 102987135,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102987140,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102987139,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102987136,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102987137,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102987138,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102987163,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "41/17058/ODS",
+        "no_of_floors": 1,
+        "actualisation_date": "2025-06-23 10:02:37",
+        "last_updated": "2025-06-23 10:08:48"
+    },
+    {
+        "id": 11976288,
+        "title": "",
+        "price": 459701,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate prezentuje&nbsp;inwestycje przy ul. Wieniawskiego. Jest to Etap V obecnej już inwestycji przy ul. Wieniawskiego. Etap V obejmuje budowę 2 budynków:&nbsp; budynki C1 i C2.&nbsp; <br><br>To&nbsp;nowoczesna inwestycja, która łączy&nbsp;komfort i funkcjonalność.&nbsp;<br>Oferujemy&nbsp;wyjątkowe mieszkania, które spełnią państwa oczekiwania.&nbsp;<br>Nowy V etap&nbsp;to sprawdzona lokalizacja ze względu na wcześniejsze etapy i idealne miejsce do życia w&nbsp;spokojnej okolicy.<br><br>Ceny i metraże w przedsprzedaży :<br>Nasza oferta obejmuje mieszkania w cenach, które wahają się od&nbsp;7900 do 11 700 zł/m².&nbsp;<br>Oferujemy mieszkania o różnych metrażach, od około&nbsp;25 do 87 m²&nbsp;– każdy znajdzie coś dla siebie, niezależnie od swoich potrzeb i preferencji. Mieszkania są zaprojektowane z myślą o funkcjonalności, co sprawia, że idealnie nadają się&nbsp;zarówno dla&nbsp;singli, par, jak i rodzin<br><br>Lokalizacja:<br>Wieniawskiego Etap V budynki C1 i C2&nbsp;&nbsp;znajduje się w&nbsp;cichej i spokojnej części Rzeszowa, co gwarantuje mieszkańcom komfort oraz przyjemną atmosferę.<br>Okolica charakteryzuje się zielenią, co sprzyja&nbsp;aktywnemu stylowi życia.&nbsp;<br>Pomimo spokojnej lokalizacji, inwestycja charakteryzuje się również&nbsp;doskonałą komunikacją&nbsp;z resztą miasta ze względu na&nbsp;najnowsze inwestycje&nbsp;miasta w tej&nbsp;dzielnicy&nbsp;czego dowodem jest finalizacja&nbsp;łącznika&nbsp;z&nbsp;al. Armii Krajowej.<br><br>Dodatkowe udogodnienia i wykończenie:<br>*W ramach inwestycji zapewniamy możliwość&nbsp;zakupu miejsca postojowego&nbsp; w garażu podziemnym, co zwiększa&nbsp;bezpieczeństwo i komfort życia&nbsp;codziennego.<br>*Dodatkowo, istnieje możliwość zakupu&nbsp;komórki lokatorskiej, co jest idealnym rozwiązaniem dla osób, które potrzebują dodatkowej przestrzeni do przechowywania. <br><br>Mieszkania przekazywane będą w&nbsp;standardzie deweloperskim.<br><br>Szczegóły inwestycji:<br>*Rozpoczęcie inwestycji&nbsp;październik 2024&nbsp;rok<br>*Przewidziane zakończenie budowy inwestycji to&nbsp;grudzień 2026&nbsp;roku.<br>*Przeniesienie własności mieszkań odbędzie się w&nbsp;marzec 2027&nbsp;roku.<br><br>Obecnie prowadzona jest&nbsp;przedsprzedaż mieszkań w atrakcyjnych cenach !<br>",
+        "elevator": 1,
+        "floor_no": 0,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "2 przestronne pokoje z tarasem - Słocina",
+        "headerAdvertisement": "2 przestronne pokoje z tarasem - Słocina",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszów/Słocina",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Słocina",
+        "material": "Mixed",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 2,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 7900,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 58.19,
+        "year_built": 2026,
+        "street_name": "Henryka Wieniawskiego",
+        "street_full_name": "ul. Henryka Wieniawskiego",
+        "images": [
+            {
+                "id": 103157741,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103157755,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103157742,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103157737,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103157738,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "206/17058/OMS",
+        "no_of_floors": 6,
+        "actualisation_date": "2025-06-23 10:01:58",
+        "last_updated": "2025-06-23 10:04:00"
+    },
+    {
+        "id": 11976307,
+        "title": "",
+        "price": 508202,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate prezentuje&nbsp;inwestycje przy ul. Wieniawskiego. Jest to Etap V obecnej już inwestycji przy ul. Wieniawskiego. Etap V obejmuje budowę 2 budynków:&nbsp; budynki C1 i C2.&nbsp; <br><br>To&nbsp;nowoczesna inwestycja, która łączy&nbsp;komfort i funkcjonalność.&nbsp;<br>Oferujemy&nbsp;wyjątkowe mieszkania, które spełnią państwa oczekiwania.&nbsp;<br>Nowy V etap&nbsp;to sprawdzona lokalizacja ze względu na wcześniejsze etapy i idealne miejsce do życia w&nbsp;spokojnej okolicy.<br><br>Ceny i metraże w przedsprzedaży :<br>Nasza oferta obejmuje mieszkania w cenach, które wahają się od&nbsp;7900 do 11 700 zł/m².&nbsp;<br>Oferujemy mieszkania o różnych metrażach, od około&nbsp;25 do 87 m²&nbsp;– każdy znajdzie coś dla siebie, niezależnie od swoich potrzeb i preferencji. Mieszkania są zaprojektowane z myślą o funkcjonalności, co sprawia, że idealnie nadają się&nbsp;zarówno dla&nbsp;singli, par, jak i rodzin<br><br>Lokalizacja:<br>Wieniawskiego Etap V budynki C1 i C2&nbsp;&nbsp;znajduje się w&nbsp;cichej i spokojnej części Rzeszowa, co gwarantuje mieszkańcom komfort oraz przyjemną atmosferę.<br>Okolica charakteryzuje się zielenią, co sprzyja&nbsp;aktywnemu stylowi życia.&nbsp;<br>Pomimo spokojnej lokalizacji, inwestycja charakteryzuje się również&nbsp;doskonałą komunikacją&nbsp;z resztą miasta ze względu na&nbsp;najnowsze inwestycje&nbsp;miasta w tej&nbsp;dzielnicy&nbsp;czego dowodem jest finalizacja&nbsp;łącznika&nbsp;z&nbsp;al. Armii Krajowej.<br><br>Dodatkowe udogodnienia i wykończenie:<br>*W ramach inwestycji zapewniamy możliwość&nbsp;zakupu miejsca postojowego&nbsp; w garażu podziemnym, co zwiększa&nbsp;bezpieczeństwo i komfort życia&nbsp;codziennego.<br>*Dodatkowo, istnieje możliwość zakupu&nbsp;komórki lokatorskiej, co jest idealnym rozwiązaniem dla osób, które potrzebują dodatkowej przestrzeni do przechowywania. <br><br>Mieszkania przekazywane będą w&nbsp;standardzie deweloperskim.<br><br>Szczegóły inwestycji:<br>*Rozpoczęcie inwestycji&nbsp;październik 2024&nbsp;rok<br>*Przewidziane zakończenie budowy inwestycji to&nbsp;grudzień 2026&nbsp;roku.<br>*Przeniesienie własności mieszkań odbędzie się w&nbsp;marzec 2027&nbsp;roku.<br><br>Obecnie prowadzona jest&nbsp;przedsprzedaż mieszkań w atrakcyjnych cenach !<br>",
+        "elevator": 1,
+        "floor_no": 1,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "3 pokoje na Słocinie - Nowa Inwestycja!",
+        "headerAdvertisement": "3 pokoje na Słocinie - Nowa Inwestycja!",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszów/Słocina",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Słocina",
+        "material": "Mixed",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 10300,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 49.34,
+        "year_built": 2026,
+        "street_name": "Henryka Wieniawskiego",
+        "street_full_name": "ul. Henryka Wieniawskiego",
+        "images": [
+            {
+                "id": 103157942,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103158007,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103157939,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103157941,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103157943,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "207/17058/OMS",
+        "no_of_floors": 6,
+        "actualisation_date": "2025-06-23 10:01:30",
+        "last_updated": "2025-06-23 10:04:01"
+    },
+    {
+        "id": 11976491,
+        "title": "",
+        "price": 425509,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate prezentuje&nbsp;inwestycje przy ul. Wieniawskiego. Jest to Etap V obecnej już inwestycji przy ul. Wieniawskiego. Etap V obejmuje budowę 2 budynków:&nbsp; budynki C1 i C2.&nbsp; <br><br>To&nbsp;nowoczesna inwestycja, która łączy&nbsp;komfort i funkcjonalność.&nbsp;<br>Oferujemy&nbsp;wyjątkowe mieszkania, które spełnią państwa oczekiwania.&nbsp;<br>Nowy V etap&nbsp;to sprawdzona lokalizacja ze względu na wcześniejsze etapy i idealne miejsce do życia w&nbsp;spokojnej okolicy.<br><br>Ceny i metraże w przedsprzedaży :<br>Nasza oferta obejmuje mieszkania w cenach, które wahają się od&nbsp;7900 do 11 700 zł/m².&nbsp;<br>Oferujemy mieszkania o różnych metrażach, od około&nbsp;25 do 87 m²&nbsp;– każdy znajdzie coś dla siebie, niezależnie od swoich potrzeb i preferencji. Mieszkania są zaprojektowane z myślą o funkcjonalności, co sprawia, że idealnie nadają się&nbsp;zarówno dla&nbsp;singli, par, jak i rodzin<br><br>Lokalizacja:<br>Wieniawskiego Etap V budynki C1 i C2&nbsp;&nbsp;znajduje się w&nbsp;cichej i spokojnej części Rzeszowa, co gwarantuje mieszkańcom komfort oraz przyjemną atmosferę.<br>Okolica charakteryzuje się zielenią, co sprzyja&nbsp;aktywnemu stylowi życia.&nbsp;<br>Pomimo spokojnej lokalizacji, inwestycja charakteryzuje się również&nbsp;doskonałą komunikacją&nbsp;z resztą miasta ze względu na&nbsp;najnowsze inwestycje&nbsp;miasta w tej&nbsp;dzielnicy&nbsp;czego dowodem jest finalizacja&nbsp;łącznika&nbsp;z&nbsp;al. Armii Krajowej.<br><br>Dodatkowe udogodnienia i wykończenie:<br>*W ramach inwestycji zapewniamy możliwość&nbsp;zakupu miejsca postojowego&nbsp; w garażu podziemnym, co zwiększa&nbsp;bezpieczeństwo i komfort życia&nbsp;codziennego.<br>*Dodatkowo, istnieje możliwość zakupu&nbsp;komórki lokatorskiej, co jest idealnym rozwiązaniem dla osób, które potrzebują dodatkowej przestrzeni do przechowywania. <br><br>Mieszkania przekazywane będą w&nbsp;standardzie deweloperskim.<br><br>Szczegóły inwestycji:<br>*Rozpoczęcie inwestycji&nbsp;październik 2024&nbsp;rok<br>*Przewidziane zakończenie budowy inwestycji to&nbsp;grudzień 2026&nbsp;roku.<br>*Przeniesienie własności mieszkań odbędzie się w&nbsp;marzec 2027&nbsp;roku.<br><br>Obecnie prowadzona jest&nbsp;przedsprzedaż mieszkań w atrakcyjnych cenach !<br>",
+        "elevator": 1,
+        "floor_no": 3,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "2 przestronne pokoje - Wieniawskiego",
+        "headerAdvertisement": "2 przestronne pokoje - Wieniawskiego",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszów/Słocina",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Słocina",
+        "material": "Mixed",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 2,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 8900,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 47.81,
+        "year_built": 2026,
+        "street_name": "Henryka Wieniawskiego",
+        "street_full_name": "ul. Henryka Wieniawskiego",
+        "images": [
+            {
+                "id": 103160655,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103160657,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103160807,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103160653,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103160656,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "208/17058/OMS",
+        "no_of_floors": 6,
+        "actualisation_date": "2025-06-23 10:00:53",
+        "last_updated": "2025-06-23 10:06:08"
+    },
+    {
+        "id": 11981775,
+        "title": "",
+        "price": 698000,
+        "is_special": 0,
+        "building_type": null,
+        "country_name": "Polska",
+        "description": "W ofercie biura <b>Eagles Estate</b> przedstawiamy Państwu 5-pokojowy dom w zabudowie szeregowej o powierzchni 141,7 m2, położony na osiedlu Budziwój.&nbsp;Zakończenie inwestycji planowane jest w lipcu 2025 r. Standard wykończenia domu to stan deweloperski.&nbsp;Architektura budynków łączy w&nbsp;sobie funkcjonalność i&nbsp;niepowtarzalny styl, a&nbsp;taras na części dachu przykuwa uwagę dodając całemu obiektowi wyjątkowego wyrazu.<br><br>W standardzie deweloper oferuje:<br>- ogrzewanie gazowe<br>- ogrzewanie podłogowe w łazience i wc<br>- przygotowana instalacja pod rekuperację<br>- zagospodarowanie podjazdu i tarasu w ogródku kostką<br>- ocieplone, użytkowe poddasze z wyjściem na taras<br><br><b>Zestawienie pomieszczeń:</b><br><b>Parter:<br></b>- Hol<br>- Salon z aneksem kuchennym<br>- WC<br>- Kotłownia<br>- Garaż<br>- Schowek<br><br><b>Pierwsze piętro:<br></b>- Korytarz<br>- 3 pokoje<br>- Łazienka<br>- Gabinet<br>- Garderoba<br><br><b>Dodatkowe powierzchnie:<br></b>- Poddasze<br>- Taras<br><br>Koszty dodatkowe: <u>9460 zł</u> - udział w drodze i przyłącz mediów<br><br><br><i>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC</i>",
+        "elevator": null,
+        "floor_no": null,
+        "garage": null,
+        "garage_parking_price": null,
+        "short_description": "Dom 142 m2 w zabudowie szeregowej - ul. Herbowa",
+        "headerAdvertisement": "Dom 142 m2 w zabudowie szeregowej - ul. Herbowa",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszów/Drabinianka",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Drabinianka",
+        "material": "Ceramics",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 5,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 4925.9,
+        "provision_amount": 0,
+        "section": "HouseSale",
+        "status": "Active",
+        "total_area": 141.7,
+        "year_built": 2025,
+        "street_name": null,
+        "street_full_name": null,
+        "images": [
+            {
+                "id": 105998307,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105077522,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103191064,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105077527,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105077523,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105077520,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105077521,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105077525,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105998303,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105998337,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "53/17058/ODS",
+        "no_of_floors": 1,
+        "actualisation_date": "2025-06-23 10:00:20",
+        "last_updated": "2025-06-23 10:09:45"
+    },
+    {
+        "id": 11983760,
+        "title": "",
+        "price": 691476,
+        "is_special": 0,
+        "building_type": "HighBlock",
+        "country_name": "Polska",
+        "description": "<b>Nowa Inwestycja w Zielonym Sercu Rzeszowa – Apartamenty Parkowe Res Tower<br></b><br>Biuro nieruchomości Eagles Estate prezentuje inwestycję ''Apartamenty Parkowe Res Tower'' oferującą 144 nowoczesne apartamenty w jednej z najlepszych lokalizacji w Rzeszowie, zaledwie 1,4 km od rynku i naprzeciw Parku Zdrowia. Doskonałe połączenie z autostradą i centrum miasta, bliskość szkół, przedszkoli, sklepów oraz ścieżek rowerowych zapewniają wygodę życia codziennego.<br><br>Zaprojektowane z myślą o komforcie mieszkania oferują przemyślane układy, ogrzewanie podłogowe w łazienkach, 250 miejsc parkingowych oraz widoki, które zachwycają. To miejsce idealne dla osób, które cenią ciszę, naturę i dostęp do miejskich udogodnień.<br><br><br><b>Najważniejsze informacje:<br></b><br>Dostępne metraże: od 26 m2 do 77 m2<br>Termin oddania inwestycji: maj 2027<br>Standard wykończenia: Deweloperski<br>Rodzaj ogrzewania: Miejskie<br>Dodatkowe powierzchnie:&nbsp;miejsce postojowe w garażu podziemnym (zakup opcjonalny), balkon (dodatkowa dopłata 5 500 zł za 1 m2 balkonu)<br><br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie &nbsp;od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.",
+        "elevator": 1,
+        "floor_no": 6,
+        "garage": 1,
+        "garage_parking_price": 85000,
+        "short_description": "Dwustronne 3 pokojowe mieszkanie 2 balkony",
+        "headerAdvertisement": "Dwustronne 3 pokojowe mieszkanie 2 balkony",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszów/Króla Stanisława Augusta",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Króla Stanisława Augusta",
+        "material": "Mixed",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 11887.16,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 58.17,
+        "year_built": 2027,
+        "street_name": "Stanisława Wyspiańskiego",
+        "street_full_name": "ul. Stanisława Wyspiańskiego",
+        "images": [
+            {
+                "id": 103256370,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103256383,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103256367,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103256369,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103256371,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103256372,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103256373,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "232/17058/OMS",
+        "no_of_floors": 17,
+        "actualisation_date": "2025-06-23 09:59:01",
+        "last_updated": "2025-06-23 10:00:44"
+    },
+    {
+        "id": 11988372,
+        "title": "",
+        "price": 565282,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "Biuro Eagles Estate zaprasza do odkrycia wyjątkowych 24 mieszkań usytuowanych w domach w zabudowie bliźniaczej z przepiękną panoramą na&nbsp;zielone&nbsp;okolice Rzeszowa. Kameralna zabudowa zapewnia spokojną atmosferę, jednocześnie znajdując się w dogodnej lokalizacji, blisko wszystkich udogodnień. Odległość do centrum Rzeszowa&nbsp; to 6&nbsp; km.<br><br>W ofercie:<br>• 12 mieszkań na parterze z ogródkiem: 3 pokoje – 51 m2 + ogród<br>• 12 mieszkań na piętrze: 3 pokoje – 65 m2 + balkon<br><br>3 pokojowe mieszkania o powierzchni od 51 m2 i 65 m2 to idealne rozwiązanie dla rodzin, par lub singli, którzy szukają komfortowego i funkcjonalnego miejsca do zamieszkania. Każde mieszkanie składa się z przestronnego salonu połączonego z kuchnią, dwóch przytulnych sypialni oraz łazienki. Dla mieszkań położonych na parterach przynależny będzie uroczy ogródek do indywidualnego wykorzystania, który stworzy możliwość relaksu na świeżym powietrzu, uprawy roślin czy organizacji spotkań z rodziną i przyjaciółmi. Natomiast na piętrze mieszkań znajduje się przestronny balkon, z którego można podziwiać pobliskie drzewa i okolice. Nasze mieszkania zostały starannie zaprojektowane, aby zapewnić komfortowe warunki mieszkalne oraz wyjątkową estetykę i jakość wykonania. Wykorzystujemy nowoczesne rozwiązania architektoniczne, takie jak, duże energooszczędne&nbsp;panoramiczne okna, które umożliwiają czerpanie radości z piękna okolicy zarówno wewnątrz, jak i na zewnątrz mieszkania. Możliwość zamontowania klimatyzacji, fotowoltaiki, paneli słonecznych oraz pompy ciepła.<br>",
+        "elevator": 0,
+        "floor_no": 1,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "3-pokojowe, gotowe mieszkanie z balkonem Staroniwa",
+        "headerAdvertisement": "3-pokojowe, gotowe mieszkanie z balkonem Staroniwa",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszów/Staroniwa",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Staroniwa",
+        "material": "AirBrick",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 8950,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 63.16,
+        "year_built": 2025,
+        "street_name": "Staroniwska",
+        "street_full_name": "ul. Staroniwska",
+        "images": [
+            {
+                "id": 105598237,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105598231,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103316985,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105598240,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105598238,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105598235,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105598236,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105598239,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105598232,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105598229,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105598230,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105598234,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "243/17058/OMS",
+        "no_of_floors": 1,
+        "actualisation_date": "2025-06-23 09:58:21",
+        "last_updated": "2025-06-23 10:02:03"
+    },
+    {
+        "id": 11988912,
+        "title": "",
+        "price": 480000,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "Biuro <b>Eagles Estate</b>&nbsp;przedstawia inwestycję domów oraz mieszkań w zabudowie szeregowej znajdującą się w dzielnicy Słocina. Zakończenie inwestycji planowane jest w IV kwartale tego roku.<br><br><b>SZCZEGÓŁY INWESTYCJI:<br></b>METRAŻE: od 53,15 m2 - 166 m2&nbsp;<br>TERMIN REALIZACJI: IV KWARTAŁ 2025<br>MIEJSCE POSTOJOWE W CENIE MIESZKANIA<br>OGRZEWANIE: GAZOWE, PODŁOGOWE<br><br><b>Stan deweloperski obejmuje:<br></b>– drzwi wejściowe stalowe, antywłamaniowe, z izolacją termiczną,<br>– brama garażowa segmentowa wykonana z paneli warstwowych wypełnionych pianką,<br>– okna PCV 6-komorowe, 3 szybowe,<br>– kompleksowo wykonana elewacja tj. ocieplenie ścian, tynk silikonowy oraz elementy dekoracyjne,<br>– ogrzewanie podłogowe na całej powierzchni (piec gazowy)<br>– częściowe ogrodzenie – panel ogrodowy,<br>– tarasy na ogródkach – kostka betonowa,<br>– podjazdy oraz wejście do domu – kostka betonowa,<br>– ogrodzenie pomiędzy ogródkami.<br><br><br>Inwestycja zlokalizowana jest w&nbsp;otoczeniu zieleni i&nbsp;terenów rekreacyjnych pozwalających na kontakt z&nbsp;przyrodą i&nbsp;aktywny wypoczynek, zapewniający wysoki komfort mieszkania.<br>To urokliwe miejsce&nbsp;z nowoczesną zabudową zarówno jednorodzinnych segmentów mieszkalnych z dużymi ogrodami, jak również kameralnych mieszkań w zabudowie dwulokalowej.<br><br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie&nbsp; od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br><i>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.</i><br><br>",
+        "elevator": 0,
+        "floor_no": 0,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "Mieszkanie z ogródkiem gotowe w tym roku! Słocina",
+        "headerAdvertisement": "Mieszkanie z ogródkiem gotowe w tym roku! Słocina",
         "kitchen_type": "Open",
         "location_name": "/Podkarpackie/Rzeszów",
         "location_province": "Podkarpackie",
         "location_locality": "Rzeszów",
         "location_quarter": "",
-        "material": "Mixed",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 2,
+        "material": "AirBrick",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 3,
         "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 9909.09,
+        "parking_spaces_no": 1,
+        "price_m2": 9029.35,
         "provision_amount": 0,
         "section": "ApartmentSale",
         "status": "Active",
-        "total_area": 55,
-        "year_built": 2010,
-        "street_name": "Architektów",
-        "street_full_name": "ul. Architektów",
+        "total_area": 53.16,
+        "year_built": 2025,
+        "street_name": "Ottona i Jana Pileckich",
+        "street_full_name": "ul. Ottona i Jana Pileckich",
         "images": [
             {
-                "id": 104045137,
+                "id": 103318532,
                 "description": null,
                 "isScheme": false
             },
             {
-                "id": 104045136,
+                "id": 104815327,
                 "description": null,
                 "isScheme": false
             },
             {
-                "id": 104045134,
+                "id": 103318534,
                 "description": null,
                 "isScheme": false
             },
             {
-                "id": 104045135,
+                "id": 103334632,
                 "description": null,
                 "isScheme": false
             },
             {
-                "id": 104045138,
+                "id": 103318531,
                 "description": null,
                 "isScheme": false
             },
             {
-                "id": 104045139,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104045140,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104045141,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104045133,
+                "id": 104815326,
                 "description": null,
                 "isScheme": false
             }
         ],
-        "listing_offer_id": "384/17058/OMS",
-        "no_of_floors": 11,
-        "actualisation_date": "2025-06-22 21:52:40",
-        "last_updated": "2025-06-23 09:35:59"
+        "listing_offer_id": "246/17058/OMS",
+        "no_of_floors": 1,
+        "actualisation_date": "2025-06-23 09:57:30",
+        "last_updated": "2025-06-23 10:02:26"
+    },
+    {
+        "id": 12003042,
+        "title": "",
+        "price": 699000,
+        "is_special": 0,
+        "building_type": null,
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate prezentuje Państwu dom w zabudowie szeregowej o powierzchni 114 m2 usytuowany na 2,2 arowej działce. Oddanie inwestycji planowane jest na luty 2025 r. Nieruchomość zlokalizowana jest w miejscowości Jasionka, w niedalekiej odległości od licznych lokali usługowych, strefy ekonomicznej oraz autostrady A4.<br>  <b><i>&nbsp;<br></i></b><br>  <b>W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br>PARTER:<br>  - salon z aneksem kuchennym<br>  - hol<br>  - wiatrołap<br>- łazienka<br>- pomieszczenie techniczne<br>-garaż<br><br>POZIOM I:<br>- przedpokój<br>- sypialnia<br>- gabinet<br>- łazienka<br>&nbsp;-dwa pokoje<br>  &nbsp;<br>  <b>ATUTY NIERUCHOMOŚCI:</b><br>  <b>-&nbsp;</b>doskonała lokalizacja zapewnia dobry dostęp do wszelkich udogodnień miasta<br>  <b>-&nbsp;</b>ogrzewanie podłogowe na całości nieruchomości<br>  - dom gotowy do wykończenia<br>  &nbsp;<br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.<br><br>  Po więcej informacji zapraszam do kontaktu.<br>",
+        "elevator": null,
+        "floor_no": null,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "Gotowa szeregówka z garażem w bryle - Jasionka",
+        "headerAdvertisement": "Gotowa szeregówka z garażem w bryle - Jasionka",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszowski/Trzebownisko/Jasionka",
+        "location_province": "Podkarpackie",
+        "location_locality": "Jasionka",
+        "location_quarter": "",
+        "material": "AirBrick",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 5,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 6131.58,
+        "provision_amount": 0,
+        "section": "HouseSale",
+        "status": "Active",
+        "total_area": 114,
+        "year_built": 2025,
+        "street_name": null,
+        "street_full_name": null,
+        "images": [
+            {
+                "id": 105325334,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105325336,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105325338,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105325337,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103506754,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103506752,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103506753,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103506859,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103506861,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103506862,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105325335,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103506863,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "63/17058/ODS",
+        "no_of_floors": 1,
+        "actualisation_date": "2025-06-23 09:54:45",
+        "last_updated": "2025-06-23 10:10:29"
+    },
+    {
+        "id": 12003077,
+        "title": "",
+        "price": 603050,
+        "is_special": 0,
+        "building_type": "HighBlock",
+        "country_name": "Polska",
+        "description": "W ofercie biura nieruchomości <b>Eagles Estate</b> przedstawiamy Państwu mieszkanie o powierzchni 43,42 m2 zlokalizowane w samym centrum Rzeszowa, przy ul. Kopisto.<br>Nieruchomość usytuowana jest na 10. piętrze nowoczesnego budynku. Prezentowana oferta to idealna propozycja dla szukających ustawnego mieszkania w doskonałej lokalizacji do zamieszkania jak również inwestycję.<br><br><b>Najważniejsze informacje:</b><br>Termin oddania inwestycji: gotowe<br>Standard wykończenia: deweloperski<br>Rodzaj ogrzewania: miejskie<br>Dodatkowe powierzchnie: loggia 7,8 m2<br><br><b>Atuty mieszkania:<br></b>- Doskonała lokalizacja zapewniająca dostęp do komunikacji w każdą stronę miasta<br>- Jasne i ustawne<br>- Idealny produkt inwestycyjny<br><br><br>Apartamenty Zamkowe II to inwestycja łącząca luksus, wygodę i nowoczesność z niepowtarzalną atmosferą Rzeszowa.&nbsp;<br>Lokalizacja gwarantująca bliskość niezbędnych usług i instytucji takich jak szkoły, sklepy i placówki medyczne. Miejsce dla każdego: Idealne dla miłośników kultury, sportu, jak i tych ceniących relaks w pięknym otoczeniu.&nbsp;<br><br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie &nbsp;od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.<br>",
+        "elevator": 1,
+        "floor_no": 6,
+        "garage": 0,
+        "garage_parking_price": null,
+        "short_description": "Gotowy apartament w samym centrum!",
+        "headerAdvertisement": "Gotowy apartament w samym centrum!",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszów/Nowe Miasto",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Nowe Miasto",
+        "material": "Mixed",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 2,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 13888.76,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 43.42,
+        "year_built": 2024,
+        "street_name": "al. mjr. Wacława Kopisto",
+        "street_full_name": "al. mjr. Wacława Kopisto",
+        "images": [
+            {
+                "id": 103507192,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105486566,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103507177,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103507176,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103507178,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103507179,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103507180,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "275/17058/OMS",
+        "no_of_floors": 12,
+        "actualisation_date": "2025-06-23 09:51:15",
+        "last_updated": "2025-06-23 10:10:31"
     },
     {
         "id": 12046235,
@@ -179,8 +1092,477 @@
         ],
         "listing_offer_id": "481/17058/OMS",
         "no_of_floors": 9,
-        "actualisation_date": "2025-06-22 17:08:08",
-        "last_updated": "2025-06-23 09:31:11"
+        "actualisation_date": "2025-06-23 09:49:35",
+        "last_updated": "2025-06-23 10:01:13"
+    },
+    {
+        "id": 12047996,
+        "title": "",
+        "price": 536895,
+        "is_special": 0,
+        "building_type": "HighBlock",
+        "country_name": "Polska",
+        "description": "W ofercie biura nieruchomości&nbsp;<b>Eagles Estate</b>&nbsp;przedstawiamy Państwu dwupokojowe mieszkanie o powierzchni 40 m2 zlokalizowane przy ul. Kwiatkowskiego w Rzeszowie.<br>Nieruchomość usytuowana jest na 6 piętrze nowopowstałego budynku. Mieszkanie posiada loggię z widokiem na miasto. Jest w stanie deweloperskim, gotowe do wykańczania.<br><br><b>Najważniejsze informacje:</b><br>Termin oddania inwestycji: gotowe<br>Standard wykończenia: deweloperski<br>Rodzaj ogrzewania: miejskie<br>Dodatkowe powierzchnie: loggia ok. 4 m2<br><br><b>Układ mieszkania:<br></b>- Hol<br>- Sypialnia<br>- Salon z aneksem kuchennym<br>- Łazienka<br><br>W pobliżu znajdują się sklepy spożywcze, restauracje, przedszkole i żłobek, a szybki dojazd do centrum zapewniają pobliskie przystanki autobusowe. Mieszkanie charakteryzuje się pięknym widokiem i nowoczesną architekturą. Idealne miejsce dla osób ceniących komfort i bliskość natury!<br><br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie &nbsp;od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.",
+        "elevator": 1,
+        "floor_no": 6,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "Gotowy widokowy apartament - dostępny od zaraz",
+        "headerAdvertisement": "Gotowy widokowy apartament - dostępny od zaraz",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszów/Drabinianka",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Drabinianka",
+        "material": "Mixed",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 2,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 13500,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 39.77,
+        "year_built": 2024,
+        "street_name": "Eugeniusza Kwiatkowskiego",
+        "street_full_name": "ul. Eugeniusza Kwiatkowskiego",
+        "images": [
+            {
+                "id": 105615612,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104084712,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104084713,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104073363,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105615609,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104084710,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104084717,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104084709,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104084715,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104084716,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "503/17058/OMS",
+        "no_of_floors": 9,
+        "actualisation_date": "2025-06-23 09:49:16",
+        "last_updated": "2025-06-23 10:12:44"
+    },
+    {
+        "id": 12164141,
+        "title": "",
+        "price": 430000,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate ma przyjemność przedstawić Państwu nowoczesną inwestycję mieszkaniową w Głogowie Małopolskim – w dynamicznie rozwijającej się miejscowości położonej tuż pod Rzeszowem. Projekt obejmuje cztery nowoczesne budynki mieszkalne, zaprojektowane z myślą o komforcie i wygodzie przyszłych mieszkańców.<br><br> 🔹 Rozpoczęcie budowy: sierpień 2024<br> 🔹 Planowane zakończenie: III kwartał 2026<br> 🔹 Powierzchnia mieszkań: od 40 m² do 60 m²<br><br>  Komfort, nowoczesność i funkcjonalność:<br><br>Każdy z budynków wyposażony będzie w cichobieżną windę. Budynki 3b i 3a będą posiadały halę garażową, co znacząco podnosi standard użytkowania. <br><br>Dodatkowo, do dyspozycji mieszkańców dostępne będą:<br> <ul> <li> Komórki lokatorskie – w cenie 2 000 zł/m²<br> </li> <li> Boksy rowerowe – idealne dla miłośników aktywnego stylu życia<br> </li> <li> Miejsca postojowe zewnętrzne – 20 000 zł<br> </li> <li> Miejsca w hali garażowej (dotyczy budynków 3a i 3b) – 30 000 zł</li> </ul><br>Nowoczesne rozwiązania techniczne:<br>W budynkach znajdzie się kotłownia gazowa, zapewniająca efektywne i ekologiczne ogrzewanie. To rozwiązanie gwarantuje niskie koszty eksploatacji oraz wysoki komfort cieplny przez cały rok.<br><br>&nbsp; Dlaczego warto? <br><br><ul><li>Atrakcyjna lokalizacja – blisko Rzeszowa</li><li>Kameralna zabudowa i wysoki standard wykończenia części wspólnych</li><li>Przemyślane układy mieszkań – idealne dla singli, par i rodzin</li><li>Nowoczesna infrastruktura – windy, garaże, boksy rowerowe</li></ul><br>  Zainwestuj w komfort i przyszłość – wybierz mieszkanie w Głogowie Małopolskim i ciesz się nowoczesnym życiem blisko natury i miasta!<br><i>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.</i><br>",
+        "elevator": 1,
+        "floor_no": 3,
+        "garage": 1,
+        "garage_parking_price": 20000,
+        "short_description": "2 pokoje z balkonem - świetny układ",
+        "headerAdvertisement": "2 pokoje z balkonem - świetny układ",
+        "kitchen_type": "Open",
+        "location_name": "/Podkarpackie/Rzeszowski/Głogów Małopolski",
+        "location_province": "Podkarpackie",
+        "location_locality": "Głogów Małopolski",
+        "location_quarter": "",
+        "material": "Mixed",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 2,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 9297.3,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 46.25,
+        "year_built": 2026,
+        "street_name": "Jana Pawła II",
+        "street_full_name": "ul. Jana Pawła II",
+        "images": [
+            {
+                "id": 105188132,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105188483,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105188127,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105188129,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105188130,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105188131,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "781/17058/OMS",
+        "no_of_floors": 3,
+        "actualisation_date": "2025-06-23 09:48:57",
+        "last_updated": "2025-06-23 10:15:46"
+    },
+    {
+        "id": 12164172,
+        "title": "",
+        "price": 525000,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate ma przyjemność przedstawić Państwu nowoczesną inwestycję mieszkaniową w Głogowie Małopolskim – w dynamicznie rozwijającej się miejscowości położonej tuż pod Rzeszowem. Projekt obejmuje cztery nowoczesne budynki mieszkalne, zaprojektowane z myślą o komforcie i wygodzie przyszłych mieszkańców.<br><br> 🔹 Rozpoczęcie budowy: sierpień 2024<br> 🔹 Planowane zakończenie: III kwartał 2026<br> 🔹 Powierzchnia mieszkań: od 40 m² do 60 m²<br><br>  Komfort, nowoczesność i funkcjonalność:<br><br>Każdy z budynków wyposażony będzie w cichobieżną windę. Budynki 3b i 3a będą posiadały halę garażową, co znacząco podnosi standard użytkowania. <br><br>Dodatkowo, do dyspozycji mieszkańców dostępne będą:<br> <ul> <li> Komórki lokatorskie – w cenie 2 000 zł/m²<br> </li> <li> Boksy rowerowe – idealne dla miłośników aktywnego stylu życia<br> </li> <li> Miejsca postojowe zewnętrzne – 20 000 zł<br> </li> <li> Miejsca w hali garażowej (dotyczy budynków 3a i 3b) – 30 000 zł</li> </ul><br>Nowoczesne rozwiązania techniczne:<br>W budynkach znajdzie się kotłownia gazowa, zapewniająca efektywne i ekologiczne ogrzewanie. To rozwiązanie gwarantuje niskie koszty eksploatacji oraz wysoki komfort cieplny przez cały rok.<br><br>&nbsp; Dlaczego warto? <br><br><ul><li>Atrakcyjna lokalizacja – blisko Rzeszowa</li><li>Kameralna zabudowa i wysoki standard wykończenia części wspólnych</li><li>Przemyślane układy mieszkań – idealne dla singli, par i rodzin</li><li>Nowoczesna infrastruktura – windy, garaże, boksy rowerowe</li></ul><br>  Zainwestuj w komfort i przyszłość – wybierz mieszkanie w Głogowie Małopolskim i ciesz się nowoczesnym życiem blisko natury i miasta!<br><i>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.</i><br>",
+        "elevator": 1,
+        "floor_no": 3,
+        "garage": 1,
+        "garage_parking_price": 30000,
+        "short_description": "3 pokoje z balkonem i garażem podziemnym",
+        "headerAdvertisement": "3 pokoje z balkonem i garażem podziemnym",
+        "kitchen_type": "Open",
+        "location_name": "/Podkarpackie/Rzeszowski/Głogów Małopolski",
+        "location_province": "Podkarpackie",
+        "location_locality": "Głogów Małopolski",
+        "location_quarter": "",
+        "material": "Mixed",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 2,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 8747.08,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 60.02,
+        "year_built": 2026,
+        "street_name": "Jana Pawła II",
+        "street_full_name": "ul. Jana Pawła II",
+        "images": [
+            {
+                "id": 105188594,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105188927,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105188986,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105188592,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105188595,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105188596,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105188597,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "783/17058/OMS",
+        "no_of_floors": 3,
+        "actualisation_date": "2025-06-23 09:48:32",
+        "last_updated": "2025-06-23 10:15:52"
+    },
+    {
+        "id": 12182647,
+        "title": "",
+        "price": 699000,
+        "is_special": 0,
+        "building_type": null,
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate ma przyjemność zaprezentować Państwu nową inwestycję domów w zabudowie bliźniaczej – Rzeszów, przy ul. Beskidzka.<br><br>Na sprzedaż nowoczesne domy w zabudowie bliźniaczej w kameralnej inwestycji przy ul. Beskidzkiej w Rzeszowie. To idealna propozycja dla osób szukających komfortowego miejsca do życia w spokojnej i zielonej okolicy, z doskonałym dojazdem do centrum miasta i węzła S19.<br><br>Domy oferowane są w stanie deweloperskim, co daje możliwość wykończenia według własnych upodobań.<br>Przemyślany i funkcjonalny układ pomieszczeń gwarantuje wygodę zarówno dla rodzin z dziećmi, jak i osób pracujących zdalnie.<br><br>Najważniejsze atuty inwestycji:<ul><li>Funkcjonalny rozkład pomieszczeń – duży salon, 3 sypialnie, 2 łazienki, gabinet<br></li><li>Nowoczesne ogrzewanie pompą ciepła<br></li><li>Brak podatku PCC – oszczędność 2%!<br></li><li>Ogródki o powierzchni od 74 m2- 241 m²<br></li><li>Spokojna, zielona okolica – idealna do życia<br></li><li>Termin oddania: IV kwartał 2026</li></ul><br>Układ pomieszczeń: Parter:<br><ul><li>Salon z aneksem kuchennym – 22,63 m²<br></li><li>Gabinet – 7,59 m²<br></li><li>Wiatrołap – 3,31 m²<br></li><li>WC – 1,64 m²<br></li></ul>Piętro:<br><ul><li>Komunikacja – 3,05 m²<br></li><li>Sypialnia z garderobą – 13,8 m²<br></li><li>Pokój – 8,42 m²<br></li><li>Sypialnia z garderobą – 16,61 m²<br></li><li>Łazienka – 6,65 m²</li></ul><br>Lokalizacja: Inwestycja zlokalizowana przy ul. Beskidzkiej w Rzeszowie – w miejscu gwarantującym ciszę i spokój, a jednocześnie szybki dostęp do infrastruktury miejskiej. Bliskość drogi ekspresowej S19 zapewnia sprawne połączenie z innymi częściami miasta i regionu.<br><br>Chcesz zamieszkać w spokojnym miejscu, ale blisko miasta?<br>Zadzwoń i poznaj szczegóły – liczba domów ograniczona!<br><br>Zapraszamy do kontaktu oraz prezentacji nieruchomości.   Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.  Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.",
+        "elevator": null,
+        "floor_no": null,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "Bliźniak 75 m² 2 Poziomy Duży Ogród 152 m2",
+        "headerAdvertisement": "Bliźniak 75 m² 2 Poziomy Duży Ogród 152 m2",
+        "kitchen_type": "Open",
+        "location_name": "/Podkarpackie/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "AirBrick",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 4,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 9396.42,
+        "provision_amount": 0,
+        "section": "HouseSale",
+        "status": "Active",
+        "total_area": 74.39,
+        "year_built": 2026,
+        "street_name": null,
+        "street_full_name": null,
+        "images": [
+            {
+                "id": 105454682,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105454814,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105454683,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105454679,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105454681,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105454684,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "115/17058/ODS",
+        "no_of_floors": 1,
+        "actualisation_date": "2025-06-23 09:47:59",
+        "last_updated": "2025-06-23 10:17:03"
+    },
+    {
+        "id": 12198489,
+        "title": "",
+        "price": 730000,
+        "is_special": 0,
+        "building_type": null,
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości <b>Eagles Estate </b>prezentuje na sprzedaż nowoczesną Inwestycję<i>,</i> która została zaprojektowana z myślą o nowoczesnym&nbsp;stylu architektonicznym połączonym z ekologicznymi technologiami.&nbsp;<br><br>Inwestycja obejmuje pięć domów oraz dziesięć mieszkań. Domy szeregowe zapewniają przestronne wnętrza o powierzchni około 115 m² (powierzchnia użytkowa 103,1 m²), rozlokowane na trzech kondygnacjach. Każdy dom wyposażony jest w garaż oraz prywatny ogród, co gwarantuje komfort i intymność. Mieszkania w zabudowie szeregowej wyróżniają się przemyślanym układem pomieszczeń, a w zależności od kondygnacji oferują dostęp do ogrodu lub tarasu.<br><br><br><b>• Lokalizacja</b> – Inwestycja Las Marcina mieści się przy ul. Św. Marcina, spokojne otoczenie zieleni i lasu zapewnia wyciszenie od miejskiego zgiełku, a bliskość miejskiej infrastruktury czyni ją idealnym miejscem do życia.<br><br><b>• Nowoczesne rozwiązania</b> – Osiedle Las Marcina wyróżnia się ekologicznymi rozwiązaniami, takimi jak ogrzewanie na podczerwień z panelami fotowoltaicznymi. Dodatkowe udogodnienia to klimatyzacja w salonie i przestronny taras dachowy dla mieszkań na piętrze, gwarantujące komfort przez cały rok.<br><br><b>Najważniejsze informacje:</b><br>Dostępne metraże: od 83 m2 do 117 m2<br>Termin oddania inwestycji: Styczeń 2026 r.<br>Standard wykończenia: Deweloperski<br>Rodzaj ogrzewania: Fotowoltaika, ogrzewanie na podczerwień oraz klimatyzacja<br>Dodatkowe powierzchnie: garaż, ogród, balkon, taras<br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.<br><br>",
+        "elevator": null,
+        "floor_no": null,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "Szeregówka z garażem w bryle i tarasem - Słocina",
+        "headerAdvertisement": "Szeregówka z garażem w bryle i tarasem - Słocina",
+        "kitchen_type": "Adjoining",
+        "location_name": "/Podkarpackie/Rzeszów/Słocina",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Słocina",
+        "material": "Ceramics",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 4,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 6260.18,
+        "provision_amount": 0,
+        "section": "HouseSale",
+        "status": "Active",
+        "total_area": 116.61,
+        "year_built": 2025,
+        "street_name": null,
+        "street_full_name": null,
+        "images": [
+            {
+                "id": 105637435,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105637584,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105637433,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105637432,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105637434,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105637438,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105637439,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105637440,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105637441,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "120/17058/ODS",
+        "no_of_floors": 2,
+        "actualisation_date": "2025-06-23 09:46:56",
+        "last_updated": "2025-06-23 10:17:43"
+    },
+    {
+        "id": 12024752,
+        "title": "",
+        "price": 545000,
+        "is_special": 0,
+        "building_type": "HighBlock",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate prezentuje Państwu dwupokojowe mieszkanie o powierzchni 55 m2, usytuowane na 9 piętrze wysokiego bloku z windą, wybudowanego w 2010 roku. Nieruchomość zlokalizowana jest przy ul. Architektów w Rzeszowie. Mieszkanie jest wyposażone, gotowe do zamieszkania.&nbsp;<br>  <b><i>&nbsp;</i></b><br>  <b>W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br>  - salon z aneksem kuchennym<br>  - sypialnia<br>  - łazienka<br>- balkon<br>  &nbsp;<br>  <b>ATUTY NIERUCHOMOŚCI:</b><br>  <b>- </b>mieszkanie umeblowane<br>  <b>- </b>nowe budownictwo<br>  <b>- </b>mieszkanie nasłonecznione<br>- czynsz ok 700 zł (4 osoby)<br>- ogrzewanie miejskie<br><b><br>WYPOSAŻENIE:</b><br>- mieszkanie umeblowane<br>- pralka, zmywarka, płyta gazowa/elektryczna, kuchenka mikrofalowa, piekarnik, lodówka<br><br><b>LOKALIZACJA:</b><br>- osiedle bloków mieszkalnych, obiekty przemysłowe, tereny niezabudowane, łąka, umiarkowanie cicho<br>- żłobek, przedszkole, uczelnia wyższa,<br>- restauracje, kawiarnie, apteka, przychodnia, supermarket, stacja benzynowa, kościół<br>  &nbsp;<br><br>Zapraszamy do kontaktu i umówienia się na obejrzenie tej atrakcyjnej nieruchomości.<br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości.<br>  <br><br>",
+        "elevator": 1,
+        "floor_no": 9,
+        "garage": 0,
+        "garage_parking_price": null,
+        "short_description": "Dwupokojowe mieszkanie 55 m², ul. Architektów",
+        "headerAdvertisement": "Dwupokojowe mieszkanie 55 m², ul. Architektów",
+        "kitchen_type": "Open",
+        "location_name": "/Podkarpackie/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "Mixed",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 2,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 9909.09,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 55,
+        "year_built": 2010,
+        "street_name": "Architektów",
+        "street_full_name": "ul. Architektów",
+        "images": [
+            {
+                "id": 104045137,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104045136,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104045134,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104045135,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104045138,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104045139,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104045140,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104045141,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104045133,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "384/17058/OMS",
+        "no_of_floors": 11,
+        "actualisation_date": "2025-06-22 21:52:40",
+        "last_updated": "2025-06-23 10:05:57"
     },
     {
         "id": 12047738,
@@ -299,7 +1681,7 @@
         "listing_offer_id": "499/17058/OMS",
         "no_of_floors": 9,
         "actualisation_date": "2025-06-22 17:07:45",
-        "last_updated": "2025-06-23 09:42:18"
+        "last_updated": "2025-06-23 10:12:30"
     },
     {
         "id": 12047959,
@@ -403,96 +1785,7 @@
         "listing_offer_id": "502/17058/OMS",
         "no_of_floors": 9,
         "actualisation_date": "2025-06-22 17:07:16",
-        "last_updated": "2025-06-23 09:42:26"
-    },
-    {
-        "id": 12047996,
-        "title": "",
-        "price": 536895,
-        "is_special": 0,
-        "building_type": "HighBlock",
-        "country_name": "Polska",
-        "description": "W ofercie biura nieruchomości&nbsp;<b>Eagles Estate</b>&nbsp;przedstawiamy Państwu dwupokojowe mieszkanie o powierzchni 40 m2 zlokalizowane przy ul. Kwiatkowskiego w Rzeszowie.<br>Nieruchomość usytuowana jest na 6 piętrze nowopowstałego budynku. Mieszkanie posiada loggię z widokiem na miasto. Jest w stanie deweloperskim, gotowe do wykańczania.<br><br><b>Najważniejsze informacje:</b><br>Termin oddania inwestycji: gotowe<br>Standard wykończenia: deweloperski<br>Rodzaj ogrzewania: miejskie<br>Dodatkowe powierzchnie: loggia ok. 4 m2<br><br><b>Układ mieszkania:<br></b>- Hol<br>- Sypialnia<br>- Salon z aneksem kuchennym<br>- Łazienka<br><br>W pobliżu znajdują się sklepy spożywcze, restauracje, przedszkole i żłobek, a szybki dojazd do centrum zapewniają pobliskie przystanki autobusowe. Mieszkanie charakteryzuje się pięknym widokiem i nowoczesną architekturą. Idealne miejsce dla osób ceniących komfort i bliskość natury!<br><br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie &nbsp;od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.",
-        "elevator": 1,
-        "floor_no": 6,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Gotowy widokowy apartament - dostępny od zaraz",
-        "headerAdvertisement": "Gotowy widokowy apartament - dostępny od zaraz",
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszów/Drabinianka",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "Drabinianka",
-        "material": "Mixed",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 2,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 13500,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 39.77,
-        "year_built": 2024,
-        "street_name": "Eugeniusza Kwiatkowskiego",
-        "street_full_name": "ul. Eugeniusza Kwiatkowskiego",
-        "images": [
-            {
-                "id": 105615612,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104084712,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104084713,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104073363,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105615609,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104084710,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104084717,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104084709,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104084715,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104084716,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "503/17058/OMS",
-        "no_of_floors": 9,
-        "actualisation_date": "2025-06-22 17:06:14",
-        "last_updated": "2025-06-23 09:42:31"
+        "last_updated": "2025-06-23 10:12:42"
     },
     {
         "id": 12048843,
@@ -601,106 +1894,7 @@
         "listing_offer_id": "512/17058/OMS",
         "no_of_floors": 9,
         "actualisation_date": "2025-06-22 17:05:18",
-        "last_updated": "2025-06-23 09:42:37"
-    },
-    {
-        "id": 12003042,
-        "title": "",
-        "price": 699000,
-        "is_special": 0,
-        "building_type": null,
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości Eagles Estate prezentuje Państwu dom w zabudowie szeregowej o powierzchni 114 m2 usytuowany na 2,2 arowej działce. Oddanie inwestycji planowane jest na luty 2025 r. Nieruchomość zlokalizowana jest w miejscowości Jasionka, w niedalekiej odległości od licznych lokali usługowych, strefy ekonomicznej oraz autostrady A4.<br>  <b><i>&nbsp;<br></i></b><br>  <b>W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br>PARTER:<br>  - salon z aneksem kuchennym<br>  - hol<br>  - wiatrołap<br>- łazienka<br>- pomieszczenie techniczne<br>-garaż<br><br>POZIOM I:<br>- przedpokój<br>- sypialnia<br>- gabinet<br>- łazienka<br>&nbsp;-dwa pokoje<br>  &nbsp;<br>  <b>ATUTY NIERUCHOMOŚCI:</b><br>  <b>-&nbsp;</b>doskonała lokalizacja zapewnia dobry dostęp do wszelkich udogodnień miasta<br>  <b>-&nbsp;</b>ogrzewanie podłogowe na całości nieruchomości<br>  - dom gotowy do wykończenia<br>  &nbsp;<br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.<br><br>  Po więcej informacji zapraszam do kontaktu.<br>",
-        "elevator": null,
-        "floor_no": null,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Gotowa szeregówka z garażem w bryle - Jasionka",
-        "headerAdvertisement": "Gotowa szeregówka z garażem w bryle - Jasionka",
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszowski/Trzebownisko/Jasionka",
-        "location_province": "Podkarpackie",
-        "location_locality": "Jasionka",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 5,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 6131.58,
-        "provision_amount": 0,
-        "section": "HouseSale",
-        "status": "Active",
-        "total_area": 114,
-        "year_built": 2025,
-        "street_name": null,
-        "street_full_name": null,
-        "images": [
-            {
-                "id": 105325334,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105325336,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105325338,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105325337,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103506754,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103506752,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103506753,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103506859,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103506861,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103506862,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105325335,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103506863,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "63/17058/ODS",
-        "no_of_floors": 1,
-        "actualisation_date": "2025-06-22 17:04:32",
-        "last_updated": "2025-06-23 09:40:20"
+        "last_updated": "2025-06-23 10:12:50"
     },
     {
         "id": 12250243,
@@ -769,7 +1963,7 @@
         "listing_offer_id": "135/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:52:04",
-        "last_updated": "2025-06-23 09:48:57"
+        "last_updated": "2025-06-23 10:19:48"
     },
     {
         "id": 12250242,
@@ -838,7 +2032,7 @@
         "listing_offer_id": "134/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:50:29",
-        "last_updated": "2025-06-23 09:48:56"
+        "last_updated": "2025-06-23 10:19:46"
     },
     {
         "id": 11966952,
@@ -902,7 +2096,7 @@
         "listing_offer_id": "44/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:47:44",
-        "last_updated": "2025-06-23 09:38:42"
+        "last_updated": "2025-06-23 10:08:49"
     },
     {
         "id": 12196400,
@@ -971,7 +2165,7 @@
         "listing_offer_id": "116/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:47:31",
-        "last_updated": "2025-06-23 09:46:39"
+        "last_updated": "2025-06-23 10:17:31"
     },
     {
         "id": 11940324,
@@ -1040,7 +2234,7 @@
         "listing_offer_id": "22/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:46:03",
-        "last_updated": "2025-06-23 09:35:36"
+        "last_updated": "2025-06-23 10:05:36"
     },
     {
         "id": 11942532,
@@ -1109,7 +2303,7 @@
         "listing_offer_id": "120/17058/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-22 16:45:49",
-        "last_updated": "2025-06-23 09:36:21"
+        "last_updated": "2025-06-23 10:06:23"
     },
     {
         "id": 11969798,
@@ -1168,1340 +2362,6 @@
         "listing_offer_id": "15/17058/BM",
         "no_of_floors": null,
         "actualisation_date": "2025-06-22 16:42:44",
-        "last_updated": "2025-06-23 09:39:01"
-    },
-    {
-        "id": 11973264,
-        "title": "",
-        "price": 470586.48,
-        "is_special": 0,
-        "building_type": "LowBlock",
-        "country_name": "Polska",
-        "description": "Osiedle Aleja Myśliwska.<br><br>  Biuro nieruchomości Eagles Estate prezentuję inwestycję Aleja Myśliwska, osiedle mieszkań w zabudowie szeregowej zlokalizowane w Rzeszowie przy ul. Myśliwskiej. <br><br>  • Lokalizacja – oferuje ciszę i spokój z dala od miejskiego zgiełku, w otoczeniu domów jednorodzinnych, a jednocześnie zapewnia szybki dostęp do centrum miasta oraz strefy ekonomicznej Jasionka.<br><br>  •Najistotniejsze atuty inwestycji – przemyślany i funkcjonalny układ architektoniczny, swoboda aranżacji wnętrz, własny ogródek, niskie koszty utrzymania, panele fotowoltaiczne, energooszczędność, wieloletnie doświadczenie dewelopera.<br><br>  Najważniejsze informacje:<br>  Dostępne metraże: od 53 m2 do 59 m2<br>  Termin oddania inwestycji: luty 2026<br>  Standard wykończenia: Deweloperski<br>  Rodzaj ogrzewania: Ogrzewanie podłogowe<br>  Dodatkowe powierzchnie: ogródki, loggie, miejsca postojowe.<br><br>  W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie&nbsp; od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br> Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br> <br> Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.<i><br> <br> </i><i>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.<br> <br> Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.</i><br>",
-        "elevator": 0,
-        "floor_no": 1,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Trzy pokoje w stanie deweloperskim na północy",
-        "headerAdvertisement": "Trzy pokoje w stanie deweloperskim na północy",
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": "Mixed",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 3,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 7917,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 59.44,
-        "year_built": 2025,
-        "street_name": "Myśliwska",
-        "street_full_name": "ul. Myśliwska",
-        "images": [
-            {
-                "id": 103116624,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103116619,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103116621,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103116622,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103116623,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "195/17058/OMS",
-        "no_of_floors": 1,
-        "actualisation_date": "2025-06-22 16:42:25",
-        "last_updated": "2025-06-23 09:39:09"
-    },
-    {
-        "id": 11987486,
-        "title": "Osiedle Panorama Rzeszowa",
-        "price": 0,
-        "is_special": 0,
-        "building_type": "LowBlock",
-        "country_name": "Polska",
-        "description": "Panorama Rzeszowa - Twoja oaza spokoju!<br>Biuro nieruchomości Eagles Estate prezentuje&nbsp;Państwu malowniczo położoną, kameralną inwestycję w miejscowości Kielanówka pod Rzeszowem. Duża ilość terenów zielonych oraz bliskość wszystkich udogodnień miasta sprawia tą inwestycję wyjątkową.<br><br>Inwestycja skład się z sześciu, 4-kolalowych budynków. Każdy z budynków posiada:<br><br>- mieszkania na parterze - 51 m2 z ogródkiem<br>- mieszkania na piętrze - 65m2 z balkonem&nbsp;<br><br>Każde mieszkanie posiada możliwość zamontowania klimatyzacji, fotowoltaiki oraz pompy ciepła co czyni go energooszczędnym. Ogrzewanie podłogowe znajduje się na całości nieruchomości.<br><br>Inwestycja zlokalizowana jest w niedalekiej odległości od przystanków autobusowych, szkoły oraz licznych punktów usługowych co zapewnia komfort życia codziennego z dala od zgiełku miasta.<br><br>Klient kupujący nie ponosi kosztów związanych z PCC%<br><br>ZAPRASZAMY DO KONTAKTU ORAZ PREZENTACJI INWESTCJI<br><br>",
-        "elevator": null,
-        "floor_no": null,
-        "garage": null,
-        "garage_parking_price": null,
-        "short_description": null,
-        "headerAdvertisement": null,
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": null,
-        "mortgage_market": "Primary",
-        "no_of_rooms": null,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": null,
-        "provision_amount": null,
-        "section": "Investment",
-        "status": "Active",
-        "total_area": null,
-        "year_built": 2025,
-        "street_name": "Staroniwska",
-        "street_full_name": "ul. Staroniwska",
-        "images": [
-            {
-                "id": 105601170,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105601171,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105601172,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105601173,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105601175,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105601176,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105601177,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105601179,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105601180,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105601181,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105601182,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105601183,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "23/17058/OI",
-        "no_of_floors": 1,
-        "actualisation_date": "2025-06-22 16:41:20",
-        "last_updated": "2025-06-23 09:31:32"
-    },
-    {
-        "id": 12002979,
-        "title": "",
-        "price": 799000,
-        "is_special": 0,
-        "building_type": null,
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości Eagles Estate prezentuje Państwu dom w zabudowie bliźniaczej o powierzchni 111,07m2 usytuowany na 4,5 arowej działce. Nieruchomość będzie gotowa do odbioru w I kwartale 2025 roku.&nbsp; Bliźniak zlokalizowany jest w miejscowości Jasionka, niedaleko strefy ekonomicznej oraz autostrady A4. Lokalizacja zapewnia także dobry dostęp do licznych sklepów oraz szybki dojazd do centrum Rzeszowa.&nbsp;<br>  <b><i>&nbsp;</i></b><b><i>&nbsp;</i></b><br>  <b>W SKŁAD NIERUCHOMOŚCI WCHODZI:<br></b><br>PARTER:<br><br>-wiatrołap<br>  - salon z aneksem kuchennym<br>  - toaleta<br>  - garaż&nbsp;<br>- kotłownia<br><br>PIĘTRO I:<br><br>-korytarz<br>-sypialnia z garderobą<br>-dwa pokoje<br>-łazienka<br>  &nbsp;<br>  <b>ATUTY NIERUCHOMOŚCI:</b><br>  <b>-</b>nieruchomość gotowa do wykończenia<br>  <b>-</b>zielona okolica<br>  <b>-</b>doskonały dostęp do wszystkich udogodnień miasta<br>-ogrzewanie podłogowe na całości nieruchomości<br><br>  &nbsp;<br>  Po więcej informacji zapraszam do kontaktu.<br>",
-        "elevator": null,
-        "floor_no": null,
-        "garage": null,
-        "garage_parking_price": null,
-        "short_description": "Bliźniak w stanie deweloperskim  - gotowy !!",
-        "headerAdvertisement": "Bliźniak w stanie deweloperskim  - gotowy !!",
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszowski/Trzebownisko/Jasionka",
-        "location_province": "Podkarpackie",
-        "location_locality": "Jasionka",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 4,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 7193.66,
-        "provision_amount": 0,
-        "section": "HouseSale",
-        "status": "Active",
-        "total_area": 111.07,
-        "year_built": null,
-        "street_name": null,
-        "street_full_name": null,
-        "images": [
-            {
-                "id": 105341039,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103505650,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105341036,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105341041,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105341042,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105341045,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105341046,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105341048,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105341050,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105341051,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "60/17058/ODS",
-        "no_of_floors": 1,
-        "actualisation_date": "2025-06-22 16:41:04",
-        "last_updated": "2025-06-23 09:40:12"
-    },
-    {
-        "id": 12065816,
-        "title": "",
-        "price": 1040175,
-        "is_special": 0,
-        "building_type": "HighBlock",
-        "country_name": "Polska",
-        "description": "W ofercie biura nieruchomości&nbsp;<b>Eagles Estate</b>&nbsp;przedstawiamy Państwu czteropokojowe mieszkanie o powierzchni 77,05 m2 zlokalizowane przy ul. Kwiatkowskiego w Rzeszowie.<br>Nieruchomość usytuowana jest na 8 piętrze nowopowstałego budynku. Mieszkanie posiada dwa tarasy o łącznej powierzchni 32,83 m2, dzięki któremu można cieszyć się widokiem na panoramę miasta, jak i pobliskie tereny zielone.<br><br><b>Najważniejsze informacje:</b><br>Termin oddania inwestycji: gotowe<br>Standard wykończenia: deweloperski<br>Rodzaj ogrzewania: miejskie<br>Dodatkowe powierzchnie: taras 32,83 m2<br>Koszt miejsca postojowego w hali garażowej to 40 000 zł<br>Komórka lokatorska / boks garażowy 4 000 zł/m2<br><br><b>Układ mieszkania:<br></b>- Hol<br>- Garderoba<br>- Łazienka<br>- Sypialnia<br>- Salon z aneksem kuchennym<br>- Pokój<br>- Pokój<br>- WC<br><br>W pobliżu znajdują się sklepy spożywcze, restauracje, przedszkole i żłobek, a szybki dojazd do centrum zapewniają pobliskie przystanki autobusowe. Mieszkanie charakteryzuje się pięknym widokiem i nowoczesną architekturą. Idealne miejsce dla osób ceniących komfort i bliskość natury!<br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie &nbsp;od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.",
-        "elevator": 1,
-        "floor_no": 8,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Apartament na prestiżowym osiedlu nad zalewem",
-        "headerAdvertisement": "Apartament na prestiżowym osiedlu nad zalewem",
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 4,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 13500,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 77.05,
-        "year_built": 2024,
-        "street_name": "Eugeniusza Kwiatkowskiego",
-        "street_full_name": "ul. Eugeniusza Kwiatkowskiego",
-        "images": [
-            {
-                "id": 104322026,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104320595,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104322024,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104322025,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104322027,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104322028,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104322029,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "554/17058/OMS",
-        "no_of_floors": 9,
-        "actualisation_date": "2025-06-22 16:39:35",
-        "last_updated": "2025-06-23 09:41:58"
-    },
-    {
-        "id": 12065861,
-        "title": "",
-        "price": 671785,
-        "is_special": 0,
-        "building_type": "HighBlock",
-        "country_name": "Polska",
-        "description": "W ofercie biura nieruchomości&nbsp;<b>Eagles Estate</b>&nbsp;przedstawiamy Państwu trzypokojowe mieszkanie o powierzchni 46,33 m2 zlokalizowane przy ul. Kwiatkowskiego w Rzeszowie.<br>Nieruchomość usytuowana jest na 8 piętrze nowopowstałego budynku. Mieszkanie posiada taras o łącznej powierzchni 10,54 m2, dzięki któremu można cieszyć się widokiem na panoramę miasta, jak i pobliskie tereny zielone.<br><br><b>Najważniejsze informacje:</b><br>Termin oddania inwestycji: gotowe<br>Standard wykończenia: deweloperski<br>Rodzaj ogrzewania: miejskie<br>Dodatkowe powierzchnie: taras 10,54<br>Koszt miejsca postojowego w hali garażowej to 40 000 zł<br>Komórka lokatorska / boks garażowy 4 000 zł/m2<br><br><b>Układ mieszkania:<br></b>- Hol<br>- Garderoba<br>- Łazienka<br>- Sypialnia<br>- Salon z aneksem kuchennym<br><br>W pobliżu znajdują się sklepy spożywcze, restauracje, przedszkole i żłobek, a szybki dojazd do centrum zapewniają pobliskie przystanki autobusowe. Mieszkanie charakteryzuje się pięknym widokiem i nowoczesną architekturą. Idealne miejsce dla osób ceniących komfort i bliskość natury!<br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie &nbsp;od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.",
-        "elevator": 1,
-        "floor_no": 8,
-        "garage": 1,
-        "garage_parking_price": 40000,
-        "short_description": "Jasne dwa pokoje w doskonałej lokalizacji",
-        "headerAdvertisement": "Jasne dwa pokoje w doskonałej lokalizacji",
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 2,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 14500,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 46.33,
-        "year_built": 2024,
-        "street_name": "Eugeniusza Kwiatkowskiego",
-        "street_full_name": "ul. Eugeniusza Kwiatkowskiego",
-        "images": [
-            {
-                "id": 104321843,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104321775,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104321847,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104321845,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104321846,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104321848,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "557/17058/OMS",
-        "no_of_floors": 9,
-        "actualisation_date": "2025-06-22 16:39:21",
-        "last_updated": "2025-06-23 09:41:59"
-    },
-    {
-        "id": 12117566,
-        "title": "",
-        "price": 435000,
-        "is_special": 0,
-        "building_type": "LowBlock",
-        "country_name": "Polska",
-        "description": "Nowa inwestycja w Boguchwale – komfortowe mieszkania w zabudowie dwulokalowej.&nbsp;<br><br>Biuro nieruchomości Eagles estate zaprasza do zapoznania się z wyjątkową ofertą nowoczesnych mieszkań w kameralnej inwestycji w Boguchwale. <br><br>To doskonała propozycja dla osób poszukujących komfortu, prywatności i wysokiej jakości wykonania.<br><br>Lokalizacja: Boguchwała – spokojna okolica, blisko natury, z dogodnym dostępem do infrastruktury miejskiej.<br><br>O inwestycji:<br> Inwestycja obejmuje 24 funkcjonalne mieszkania w zabudowie dwulokalowej. Do wyboru są dwa rodzaje lokali:<br> ✔ Mieszkania na parterze – 54,82 m² z przestronnymi ogródkami o powierzchni od 54,92 m² do 311,98 m². Idealne dla osób ceniących kontakt z naturą i prywatną przestrzeń na świeżym powietrzu.<br> ✔ Mieszkania na piętrze – 63,36 m², z balkonem oraz możliwością adaptacji poddasza, co zwiększa powierzchnię użytkową do 84,36 m². Istnieje opcja doprowadzenia poddasza do stanu deweloperskiego, co daje jeszcze więcej możliwości aranżacyjnych, za dodatkową dopłatą.<br><br>Wysoki standard wykończenia:<br> W cenie każdego mieszkania zapewniamy:<br>- 2 prywatne miejsca parkingowe<br>-Ogrzewanie podłogowe w całym mieszkaniu – komfort cieplny przez cały rok<br>- Nowoczesny piec Viessmann – energooszczędne rozwiązanie grzewcze<br>- Klimatyzację – idealne warunki niezależnie od pogody<br>- Rolety zewnętrzne – zapewniające prywatność i bezpieczeństwo<br><br>Idealna przestrzeń dla rodzin, par i inwestorów<br> Dzięki funkcjonalnym układom, wysokiemu standardowi wykończenia oraz spokojnej, a jednocześnie dobrze skomunikowanej lokalizacji, nasze mieszkania to idealne miejsce do życia.<br><br>Zapraszamy do kontaktu! Sprawdź dostępne mieszkania i wybierz swoje wymarzone miejsce w Boguchwale.<br>",
-        "elevator": 0,
-        "floor_no": 1,
-        "garage": 0,
-        "garage_parking_price": null,
-        "short_description": "Dwupoziomowe mieszkanie z tarasem!",
-        "headerAdvertisement": "Dwupoziomowe mieszkanie z tarasem!",
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszowski/Boguchwała",
-        "location_province": "Podkarpackie",
-        "location_locality": "Boguchwała",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 4,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 6865.53,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 63.36,
-        "year_built": 2026,
-        "street_name": "Techniczna",
-        "street_full_name": "ul. Techniczna",
-        "images": [
-            {
-                "id": 104724188,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104724193,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104724189,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104724190,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104724191,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 104724192,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "687/17058/OMS",
-        "no_of_floors": 1,
-        "actualisation_date": "2025-06-22 16:38:45",
-        "last_updated": "2025-06-23 09:31:03"
-    },
-    {
-        "id": 12165646,
-        "title": "",
-        "price": 475000,
-        "is_special": 0,
-        "building_type": "LowBlock",
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości Eagles Estate ma przyjemność przedstawić Państwu nowoczesną inwestycję mieszkaniową w Głogowie Małopolskim – w dynamicznie rozwijającej się miejscowości położonej tuż pod Rzeszowem. Projekt obejmuje cztery nowoczesne budynki mieszkalne, zaprojektowane z myślą o komforcie i wygodzie przyszłych mieszkańców.<br><br> 🔹 Rozpoczęcie budowy: sierpień 2024<br> 🔹 Planowane zakończenie: III kwartał 2026<br> 🔹 Powierzchnia mieszkań: od 40 m² do 60 m²<br><br>  Komfort, nowoczesność i funkcjonalność:<br><br>Każdy z budynków wyposażony będzie w cichobieżną windę. Budynki 3b i 3a będą posiadały halę garażową, co znacząco podnosi standard użytkowania. <br><br>Dodatkowo, do dyspozycji mieszkańców dostępne będą:<br> <ul> <li> Komórki lokatorskie – w cenie 2 000 zł/m²<br> </li> <li> Boksy rowerowe – idealne dla miłośników aktywnego stylu życia<br> </li> <li> Miejsca postojowe zewnętrzne – 20 000 zł<br> </li> <li> Miejsca w hali garażowej (dotyczy budynków 3a i 3b) – 30 000 zł</li> </ul><br>Nowoczesne rozwiązania techniczne:<br><br>W budynkach znajdzie się kotłownia gazowa, zapewniająca efektywne i ekologiczne ogrzewanie. To rozwiązanie gwarantuje niskie koszty eksploatacji oraz wysoki komfort cieplny przez cały rok.<br><br>&nbsp; Dlaczego warto? <br><br>* Atrakcyjna lokalizacja – blisko Rzeszowa<br>* Kameralna zabudowa i wysoki standard wykończenia części wspólnych<br>* Przemyślane układy mieszkań – idealne dla singli, par i rodzin<br>* Nowoczesna infrastruktura – windy, garaże, boksy rowerowe<br><br>  Zainwestuj w komfort i przyszłość – wybierz mieszkanie w Głogowie Małopolskim i ciesz się nowoczesnym życiem blisko natury i miasta!<br><br>",
-        "elevator": 1,
-        "floor_no": 3,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Trzy pokoje z duża loggią",
-        "headerAdvertisement": "Trzy pokoje z duża loggią",
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszowski/Głogów Małopolski",
-        "location_province": "Podkarpackie",
-        "location_locality": "Głogów Małopolski",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 3,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 8718.8,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 54.48,
-        "year_built": 2026,
-        "street_name": "Jana Pawła II",
-        "street_full_name": "ul. Jana Pawła II",
-        "images": [
-            {
-                "id": 105211925,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105211921,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105211922,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105211923,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105211924,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105211926,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105211927,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105211928,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105211929,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "794/17058/OMS",
-        "no_of_floors": 3,
-        "actualisation_date": "2025-06-22 16:38:14",
-        "last_updated": "2025-06-23 09:45:14"
-    },
-    {
-        "id": 12174342,
-        "title": "",
-        "price": 399000,
-        "is_special": 0,
-        "building_type": null,
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości Eagles Estate prezentuje Państwu dom wolnostojący o powierzchni 91.08m2, usytuowane na 4,14 arowej działce. Budynki oddawane będą w stanie surowym otwartym z możliwością doprowadzenia do stanu deweloperskiego. &nbsp;Nieruchomość zlokalizowana jest na północy Rzeszowa w miejscowości Nowa Wieś w cichej i spokojnej okolicy. Dom posiada doskonały dostęp pełnej infrastruktury miasta oraz dobry dojazd do autostrady A4.<br><br><br>  <b><i>&nbsp;</i></b><b>W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br>  - salon z aneksem kuchennym<br>  - wiatrołap<br>  - toaleta<br>- garaż<br>- otwarta powierzchnia na piętrze, możliwość wyodrębnienia 3 sypialni i łazienki<br>  &nbsp;<br>  <b>ATUTY NIERUCHOMOŚCI:</b><br>  <b>-</b>liczne tereny zielone zapewniają spokój i ciszę mieszkańcom<br>  <b>-</b>ogrzewanie podłogowe i pompa ciepła zapewniają energooszczędność<br>  <b>-</b>niskie koszty utrzymania<br><br>Domy sprzedawane w stanie surowym otwartym i podciągnietymi mediami (woda, kan, prąd, swiatłowód), brak gazu - przewidziano pompę ciepła. Jest możliwość wykończenia do stanu deweloperskiego.<br>  &nbsp;<br>  &nbsp;<br>  Po więcej informacji zapraszam do kontaktu oraz na prezentację nieruchomości.<br><br><br>",
-        "elevator": null,
-        "floor_no": null,
-        "garage": null,
-        "garage_parking_price": null,
-        "short_description": "Energooszczędny dom wolnostojący - Nowa Wieś",
-        "headerAdvertisement": "Energooszczędny dom wolnostojący - Nowa Wieś",
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszowski/Trzebownisko/Nowa Wieś",
-        "location_province": "Podkarpackie",
-        "location_locality": "Nowa Wieś",
-        "location_quarter": "",
-        "material": "Mixed",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 4,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 5478.7,
-        "provision_amount": 0,
-        "section": "HouseSale",
-        "status": "Active",
-        "total_area": 91.08,
-        "year_built": 2025,
-        "street_name": null,
-        "street_full_name": null,
-        "images": [
-            {
-                "id": 105341841,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105341842,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105341843,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105341844,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105341845,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105341846,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105341847,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105341848,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "106/17058/ODS",
-        "no_of_floors": 1,
-        "actualisation_date": "2025-06-22 16:37:44",
-        "last_updated": "2025-06-23 09:45:41"
-    },
-    {
-        "id": 12179685,
-        "title": "",
-        "price": 599000,
-        "is_special": 0,
-        "building_type": null,
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości Eagles Estate ma przyjemność zaprezentować Państwu nową inwestycję domów w zabudowie bliźniaczej – Rzeszów, przy ul. Beskidzka.<br><br>Na sprzedaż nowoczesne domy w zabudowie bliźniaczej w kameralnej inwestycji przy ul. Beskidzkiej w Rzeszowie. To idealna propozycja dla osób szukających komfortowego miejsca do życia w spokojnej i zielonej okolicy, z doskonałym dojazdem do centrum miasta i węzła S19.<br><br>Domy oferowane są w stanie deweloperskim, co daje możliwość wykończenia według własnych upodobań.<br>Przemyślany i funkcjonalny układ pomieszczeń gwarantuje wygodę zarówno dla rodzin z dziećmi, jak i osób pracujących zdalnie.<br><br>Najważniejsze atuty inwestycji:<ul><li>Funkcjonalny rozkład pomieszczeń – duży salon, 3 sypialnie, 2 łazienki, gabinet<br></li><li>Nowoczesne ogrzewanie pompą ciepła<br></li><li>Brak podatku PCC – oszczędność 2%!<br></li><li>Ogródki o powierzchni od 74 m2- 241 m²<br></li><li>Spokojna, zielona okolica – idealna do życia<br></li><li>Termin oddania: IV kwartał 2026</li></ul><br>Układ pomieszczeń: Parter:<br><ul><li>Salon z aneksem kuchennym – 22,63 m²<br></li><li>Gabinet – 7,59 m²<br></li><li>Wiatrołap – 3,31 m²<br></li><li>WC – 1,64 m²<br></li></ul>Piętro:<br><ul><li>Komunikacja – 3,05 m²<br></li><li>Sypialnia z garderobą – 13,8 m²<br></li><li>Pokój – 8,42 m²<br></li><li>Sypialnia z garderobą – 16,61 m²<br></li><li>Łazienka – 6,65 m²</li></ul><br>Lokalizacja: Inwestycja zlokalizowana przy ul. Beskidzkiej w Rzeszowie – w miejscu gwarantującym ciszę i spokój, a jednocześnie szybki dostęp do infrastruktury miejskiej. Bliskość drogi ekspresowej S19 zapewnia sprawne połączenie z innymi częściami miasta i regionu.<br><br>Chcesz zamieszkać w spokojnym miejscu, ale blisko miasta?<br>Zadzwoń i poznaj szczegóły – liczba domów ograniczona!",
-        "elevator": null,
-        "floor_no": null,
-        "garage": null,
-        "garage_parking_price": null,
-        "short_description": "Bliźniak w cenie mieszkania! Duży ogród",
-        "headerAdvertisement": "Bliźniak w cenie mieszkania! Duży ogród",
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 4,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 8052.16,
-        "provision_amount": 0,
-        "section": "HouseSale",
-        "status": "Active",
-        "total_area": 74.39,
-        "year_built": 2026,
-        "street_name": null,
-        "street_full_name": null,
-        "images": [
-            {
-                "id": 105408481,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105408478,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105408482,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105408483,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "110/17058/ODS",
-        "no_of_floors": 1,
-        "actualisation_date": "2025-06-22 16:37:21",
-        "last_updated": "2025-06-23 09:45:52"
-    },
-    {
-        "id": 12165653,
-        "title": "",
-        "price": 385000,
-        "is_special": 0,
-        "building_type": "LowBlock",
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości Eagles Estate ma przyjemność przedstawić Państwu nowoczesną inwestycję mieszkaniową w Głogowie Małopolskim – w dynamicznie rozwijającej się miejscowości położonej tuż pod Rzeszowem. Projekt obejmuje cztery nowoczesne budynki mieszkalne, zaprojektowane z myślą o komforcie i wygodzie przyszłych mieszkańców.<br><br> 🔹 Rozpoczęcie budowy: sierpień 2024<br> 🔹 Planowane zakończenie: III kwartał 2026<br> 🔹 Powierzchnia mieszkań: od 40 m² do 60 m²<br><br>  Komfort, nowoczesność i funkcjonalność:<br><br>Każdy z budynków wyposażony będzie w cichobieżną windę. Budynki 3b i 3a będą posiadały halę garażową, co znacząco podnosi standard użytkowania. <br><br>Dodatkowo, do dyspozycji mieszkańców dostępne będą:<br> <ul> <li> Komórki lokatorskie – w cenie 2 000 zł/m²<br> </li> <li> Boksy rowerowe – idealne dla miłośników aktywnego stylu życia<br> </li> <li> Miejsca postojowe zewnętrzne – 20 000 zł<br> </li> <li> Miejsca w hali garażowej (dotyczy budynków 3a i 3b) – 30 000 zł</li> </ul><br>Nowoczesne rozwiązania techniczne:<br><br>W budynkach znajdzie się kotłownia gazowa, zapewniająca efektywne i ekologiczne ogrzewanie. To rozwiązanie gwarantuje niskie koszty eksploatacji oraz wysoki komfort cieplny przez cały rok.<br><br>&nbsp; Dlaczego warto? <br><br>* Atrakcyjna lokalizacja – blisko Rzeszowa<br>* Kameralna zabudowa i wysoki standard wykończenia części wspólnych<br>* Przemyślane układy mieszkań – idealne dla singli, par i rodzin<br>* Nowoczesna infrastruktura – windy, garaże, boksy rowerowe<br><br>  Zainwestuj w komfort i przyszłość – wybierz mieszkanie w Głogowie Małopolskim i ciesz się nowoczesnym życiem blisko natury i miasta!<br><br>",
-        "elevator": 1,
-        "floor_no": 3,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Dwupokojowe mieszkanie w Głogowie",
-        "headerAdvertisement": "Dwupokojowe mieszkanie w Głogowie",
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszowski/Głogów Małopolski",
-        "location_province": "Podkarpackie",
-        "location_locality": "Głogów Małopolski",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 2,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 9331.07,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 41.26,
-        "year_built": 2026,
-        "street_name": "Jana Pawła II",
-        "street_full_name": "ul. Jana Pawła II",
-        "images": [
-            {
-                "id": 105212045,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105212037,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105212039,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105212040,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105212041,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105212042,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105212043,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105212044,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105212046,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "795/17058/OMS",
-        "no_of_floors": 3,
-        "actualisation_date": "2025-06-22 15:42:08",
-        "last_updated": "2025-06-23 09:45:16"
-    },
-    {
-        "id": 12198131,
-        "title": "",
-        "price": 1350000,
-        "is_special": 0,
-        "building_type": null,
-        "country_name": "Polska",
-        "description": "<br>Biuro nieruchomości Eagles Estates prezentuje Państwu 5 pokojowy dom wolnostojący o powierzchni całkowitej 171 m², usytuowany na blisko 16 - arowej działce w spokojnej i zielonej części Sokołowa Małopolskiego. Nieruchomość została wybudowana w 2003 roku i znajduje się w dobrze skomunikowanej okolicy, z bezpośrednim zjazdem z drogi asfaltowej. Jest to propozycja idealna dla rodziny szukającej ciszy, bliskości natury, a jednocześnie dogodnego dostępu do pełnej infrastruktury miejskiej.<br><br>Dom jest w pełni wykończony, gotowy do zamieszkania – jasne wnętrza, funkcjonalny rozkład pomieszczeń oraz zadbany ogród sprawiają, że to idealne miejsce do życia.<br><br>W SKŁAD NIERUCHOMOŚCI WCHODZI:<br><b>Parter:<br></b>- otwarta jasna kuchnia<br>- przestronna jadalnia<br>- salon z kominkiem i wyjściem na taras<br>- łazienka<br>- kotłownia z pralnią<br>- korytarz<br><br><b>Piętro:<br></b>- 3 sypialnie<br>- łazienka<br>- garderoba z wyjściem na strych<br>- korytarz<br><br><b>ATUTY NIERUCHOMOŚCI:<br></b>- funkcjonalny układ pomieszczeń, idealny dla rodziny<br>- ogrzewanie gazowe, podłogowe w kuchni, jadalni, korytarzu i łazienkach, dodatkowo kominek z płaszczem wodnym<br>- dogodny dojazd – bezpośredni zjazd z drogi asfaltowej<br>- fotowoltaika o mocy 4,2 kWp&nbsp;<br>- instalacja pod odkurzacz centralny<br>- dwa tarasy, w tym jeden zadaszony<br>- garaż dwustanowiskowy, wiata i pomieszczenie gospodarcze w osobnym budynku<br>- system kamer<br>- zagospodarowany ogród z nasadzeniami, wyposażony w automatyczny systemem nawodnienia<br><br><br>Zapraszamy do kontaktu oraz prezentacji nieruchomości. <br><br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.  Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.<br>",
-        "elevator": null,
-        "floor_no": null,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Komfortowy dom w Sokołowie Młp. na dużej działce",
-        "headerAdvertisement": "Komfortowy dom w Sokołowie Młp. na dużej działce",
-        "kitchen_type": "Open",
-        "location_name": "/Podkarpackie/Rzeszowski/Sokołów Małopolski",
-        "location_province": "Podkarpackie",
-        "location_locality": "Sokołów Małopolski",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 5,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 7890.12,
-        "provision_amount": 27000,
-        "section": "HouseSale",
-        "status": "Active",
-        "total_area": 171.1,
-        "year_built": 2003,
-        "street_name": null,
-        "street_full_name": null,
-        "images": [
-            {
-                "id": 105641397,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105633352,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105633353,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105641387,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105641384,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105641391,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105641392,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105641393,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105641379,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105641380,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105677186,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105641383,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105677184,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105677183,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105677170,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "118/17058/ODS",
-        "no_of_floors": 1,
-        "actualisation_date": "2025-06-21 08:55:51",
-        "last_updated": "2025-06-23 09:46:54"
-    },
-    {
-        "id": 12244082,
-        "title": "",
-        "price": 599000,
-        "is_special": 0,
-        "building_type": null,
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości Eagles Estate prezentuje nową inwestycję zlokalizowaną w kameralnej i zielonej części Sędziszowa Małopolskiego, oddalonego od Rzeszowa o ok. 20 km . Miejsce to zapewnia wygodny i szybki dojazd do ścisłego centrum miasta (niespełna 3 km), a dodatkowym atutem jest bliskość węzła autostrady, co czyni lokalizację atrakcyjną dla osób często podróżujących. Okolica nieruchomości to luźna zabudowa jednorodzinna, obszerne tereny zielone, jak również szkoła, żłobek i przedszkole, stadion piłkarski, sklep spożywczy.<br><br>Oferta obejmuje nowobudowane dwa domy parterowe, usytuowane na działkach o powierzchni ok. 8 arów. Nowoczesność bryle domu zapewnią duże przeszklenia, biało- szara stylistyka z drewnopodobnymi lamelami. Każdy z domów składa się z dużego salonu z jadalnią, otwartą kuchnią ze spiżarnią, 3 sypialni, łazienki, pralni, kotłowni i wiatrołapu. Istnieje możliwość adaptacji poddasza, zyskując dodatkowe 129 m2 powierzchni. Obecny układ świetnie sprawdzi się dla rodziny 2+2, jak również spełniając większe potrzeby przyszłych właścicieli poprzez zagospodarowanie poddasza. Dadatkowymi udogodnieniami, podnoszącymi komfort użytkowania są kominek w salonie&nbsp;<br><br>Domy w stanie surowym zamkniętym będą dostępne już na jesień tego roku!<br><br>Domy sprzedawane są w stanie surowym zamkniętym, lecz istnieje możliwość doprowadzenia ich do stanu deweloperskiego przez obecnego inwestora.<br><br>Zapraszam do kontaktu celem uzyskania dodatkowych informacji i wizyty bezpośrednio na budowie (po wcześniejszym umówieniu).<br><br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.  Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.",
-        "elevator": null,
-        "floor_no": null,
-        "garage": 0,
-        "garage_parking_price": null,
-        "short_description": "Parterowy Dom w Zielonej Części Sędziszowa Młp.",
-        "headerAdvertisement": "Parterowy Dom w Zielonej Części Sędziszowa Młp.",
-        "kitchen_type": "Open",
-        "location_name": "/Podkarpackie/Ropczycko-Sędziszowski/Sędziszów Małopolski",
-        "location_province": "Podkarpackie",
-        "location_locality": "Sędziszów Małopolski",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 4,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 6050.51,
-        "provision_amount": 0,
-        "section": "HouseSale",
-        "status": "Active",
-        "total_area": 99,
-        "year_built": 2025,
-        "street_name": null,
-        "street_full_name": null,
-        "images": [
-            {
-                "id": 106290013,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106290002,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106290015,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106290017,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106290018,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106290021,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106290022,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "133/17058/ODS",
-        "no_of_floors": 0,
-        "actualisation_date": "2025-06-21 08:54:36",
-        "last_updated": "2025-06-23 09:48:49"
-    },
-    {
-        "id": 12018348,
-        "title": "",
-        "price": 699000,
-        "is_special": 1,
-        "building_type": "HighBlock",
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości <b>Eagles Estate</b>&nbsp;prezentuje na sprzedaż nowoczesne, w pełni umeblowane 3-pokojowe mieszkanie o powierzchni <b>63,29 m²</b>, zlokalizowane na 6. piętrze w budynku z windą, wybudowanym w 2017 roku.<br> Nieruchomość położona jest na spokojnym i dobrze skomunikowanym osiedlu Wilkowyja, przy <b>ul. Św. Kingi</b>.<br><br> Wyjątkowy taras – <b>14,33 m²</b>! Duży taras to niewątpliwy atut tej nieruchomości – to idealna przestrzeń do relaksu, spotkań z przyjaciółmi, porannej kawy czy wieczornego odpoczynku. Usytuowany wysoko, daje poczucie prywatności i pozwala cieszyć się świeżym powietrzem oraz widokiem na okolicę.<br><br><b> Układ mieszkania: </b><ul> <li> Przestronny salon z aneksem kuchennym i wyjściem na taras<br> </li> <li> Sypialnia<br> </li> <li> Pokój (idealny na gabinet lub pokój dziecięcy)<br> </li> <li> Przedpokój z szafą w zabudowie<br> </li> <li> Łazienka<br> </li> <li> Oddzielna toaleta</li> </ul><br>&nbsp;<b>Do mieszkania przynależy: </b><ul> <li> Komórka lokatorska – dodatkowo płatna <b>10 000 zł</b><br> </li> <li> Zewnętrzne miejsce postojowe – w cenie<br> </li> <li> Duże miejsce w garażu podziemnym – dodatkowo płatne <b>50 000 zł </b>(z odrębną księgą wieczystą – zakup nieobowiązkowy)</li> </ul><br><b> Dodatkowe atuty: </b><ul> <li> Klimatyzacja<br> </li> <li> Ogrzewanie centralne z osiedlowej kotłowni<br> </li> <li> Mieszkanie dwustronne, bardzo dobrze doświetlone<br> </li> <li> Ogólnodostępne miejsca postojowe wokół budynku<br> </li> <li> Monitoring bloku i garażu<br> </li><li>Praktyczny układ</li> </ul><br> To idealna oferta dla osób szukających gotowego do zamieszkania mieszkania z dużą, funkcjonalną przestrzenią zewnętrzną – tarasem, który latem staje się naturalnym przedłużeniem salonu.<br><br>Oferta wyłącznie w naszym biurze<br><br> Zapraszamy do kontaktu i na prezentację!<br><br>Zapraszamy do kontaktu oraz prezentacji nieruchomości.   Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.  Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.",
-        "elevator": 1,
-        "floor_no": 6,
-        "garage": 1,
-        "garage_parking_price": 50000,
-        "short_description": "Przestronne 3 pokojowe mieszkanie z dużą loggią",
-        "headerAdvertisement": "Przestronne 3 pokojowe mieszkanie z dużą loggią",
-        "kitchen_type": "Adjoining",
-        "location_name": "/Podkarpackie/Rzeszów/Wilkowyja",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "Wilkowyja",
-        "material": "Mixed",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 3,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": 1,
-        "price_m2": 11049.64,
-        "provision_amount": 10485,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 63.26,
-        "year_built": 2017,
-        "street_name": "Św. Kingi",
-        "street_full_name": "ul. Św. Kingi",
-        "images": [
-            {
-                "id": 105956384,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103728987,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105956379,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105956382,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105956377,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105956375,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105956374,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105956376,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105956363,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105956362,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105956370,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105956369,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105956358,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105956359,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105956360,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105956372,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105956357,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "339/17058/OMS",
-        "no_of_floors": 10,
-        "actualisation_date": "2025-06-20 17:19:06",
-        "last_updated": "2025-06-23 09:41:18"
-    },
-    {
-        "id": 12248578,
-        "title": "",
-        "price": 2300,
-        "is_special": 1,
-        "building_type": "TenementHouse",
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości<b> Eagles Estate</b> przedstawia Państwu do wynajęcia komfortowe, <b>2 pokojowe </b>mieszkanie o powierzchni<b> 62 m²</b>, położone na parterze w samym sercu Rzeszowa – przy <b>ul. Grunwaldzkiej</b>. Doskonała lokalizacja zapewnia szybki dostęp do wszystkich udogodnień miasta: restauracji, sklepów, przystanków komunikacji miejskiej oraz uczelni.<br><br><b> W skład mieszkania wchodzą: </b><ul> <li> sypialnia z przestronną garderobą,<br> </li> <li> duży, jasny salon,<br> </li> <li> oddzielna, w pełni wyposażona kuchnia,<br> </li> <li> łazienka z prysznicem i pralką.<br> </li> </ul><br><b>Dodatkowe informacje: </b><ul> <li> mieszkanie w pełni umeblowane i wyposażone,<br> </li> <li> klimatyzacja,<br> </li> <li> wszystkie niezbędne sprzęty AGD (lodówka, zmywarka, piekarnik, płyta indukcyjna, pralka itp.),<br> </li> <li> dostępne od zaraz</li><li>kaucja 2300</li> </ul><br><br><b>CENA</b> : <b>2300 zł </b>+ opłaty za media tj. woda, prąd, ogrzewanie, internet, śmieci wg. zużycia<br><br><br> Idealne dla singla, pary lub osób pracujących/studiujących w centrum.<br><br>Zainteresowane osoby proszę o kontakt w celu umówienia się na prezentację mieszkania.<br><br><br>Zapraszamy do kontaktu oraz prezentacji nieruchomości.   Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.  Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.",
-        "elevator": 0,
-        "floor_no": 0,
-        "garage": null,
-        "garage_parking_price": null,
-        "short_description": "Mieszkanie do wynajęcia w samym centrum miasta",
-        "headerAdvertisement": "Mieszkanie do wynajęcia w samym centrum miasta",
-        "kitchen_type": "Open",
-        "location_name": "/Podkarpackie/Rzeszów/Śródmieście",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "Śródmieście",
-        "material": "Brick",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 2,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 37.1,
-        "provision_amount": 0,
-        "section": "ApartmentRental",
-        "status": "Active",
-        "total_area": 62,
-        "year_built": 1920,
-        "street_name": "Grunwaldzka",
-        "street_full_name": "ul. Grunwaldzka",
-        "images": [
-            {
-                "id": 106359670,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106360289,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106359672,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106359680,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106359674,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106359685,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106359694,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106359700,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106359702,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106359667,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106359664,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106359669,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106359705,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "21/17058/OMW",
-        "no_of_floors": 0,
-        "actualisation_date": "2025-06-19 18:45:57",
-        "last_updated": "2025-06-23 09:48:51"
-    },
-    {
-        "id": 12239185,
-        "title": "",
-        "price": 452000,
-        "is_special": 1,
-        "building_type": "HighBlock",
-        "country_name": "Polska",
-        "description": "Wyłącznie w&nbsp;Biurze Eagles Estate prezentujemy na sprzedaż wyjątkowe, 2-pokojowe mieszkanie o&nbsp;powierzchni 34,81 m² w&nbsp;atrakcyjnej lokalizacji w&nbsp;Rzeszowie przy ul. Granicznej.<br>Nieruchomość mieści się na 8 piętrze nowopowstałego wieżowca.<br><br><b>Mieszkanie składa się z:<br></b>- P. Pokoju (3,65 m2)<br>- Pokoju z aneksem kuchennym (16,4 m2)<br>- Sypialni (10,47 m2)<br>- Łazienki (4,29 m2)<br>- Loggii (8,79 m2)<br><br><b>Atuty mieszkania:<br></b>- Mieszkanie bardzo dobrze doświetlone<br>- mieszkanie w standardzie deweloperskim<br>- Duża loggia<br>- Nowy blok w&nbsp;świetnej lokalizacji gwarantującej dostęp do wszystkich usług, sklepów i&nbsp;punktów rekreacyjnych w&nbsp;najbliższym sąsiedztwie<br>- Ogrzewanie i&nbsp;woda z&nbsp;sieci miejskiej.<br><br>Zapraszamy do kontaktu oraz prezentacji nieruchomości.<br><br><i>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości. </i><br><br>",
-        "elevator": 1,
-        "floor_no": 8,
-        "garage": 1,
-        "garage_parking_price": 50000,
-        "short_description": "2-pokojowe mieszkanie | Rzeszów, ul. Graniczna",
-        "headerAdvertisement": "2-pokojowe mieszkanie | Rzeszów, ul. Graniczna",
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszów/Drabinianka",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "Drabinianka",
-        "material": "Mixed",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 2,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": 2,
-        "price_m2": 12984.77,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 34.81,
-        "year_built": 2025,
-        "street_name": "Graniczna",
-        "street_full_name": "ul. Graniczna",
-        "images": [
-            {
-                "id": 106279836,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106221189,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106279819,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106279822,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106279824,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106279827,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106279830,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106279833,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106279838,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "949/17058/OMS",
-        "no_of_floors": 13,
-        "actualisation_date": "2025-06-17 12:29:17",
-        "last_updated": "2025-06-23 09:48:35"
-    },
-    {
-        "id": 12072812,
-        "title": "",
-        "price": 509000,
-        "is_special": 0,
-        "building_type": null,
-        "country_name": "Polska",
-        "description": "W ofercie biura Eagles Estate przedstawiamy działkę położoną w miejscowości Nowa Wieś ok. 3km od granicy Rzeszowa.<br><br>Dojazd do ścisłego centrum Rzeszowa zajmuje kilka minut (ok 7 km), w pobliżu Hotel Blue Diamond, sklep spożywczy, przystanek.<br>Prezentowana działka posiada bardzo dobry dojazd do strefy wokół lotniska Jasionka. Dla działki wydane zostały Warunki Zabudowy na budowę dwóch domów jednorodzinnych.<br>Gaz oraz woda na działce.<br>Prąd oraz kanalizacja w bezpośrednim sąsiedztwie przy granicy.<br><br>Nieruchomość ma kształt prostokąta o łącznej powierzchni 2088 m2.<br><b>Wymiary: </b><br>Szerokość - 19m, <br>Długość - 110m.<br>Klasa użytkowa - PsII<br><br>Wjazd na działke bezpośrednio z asfaltowej drogi gminnej.<br>W razie chęci podziału uzyskane jest pozwolenie na wykonanie zjazdu z drugiej strony, z drogi wojewódzkiej.<br><br>Zapraszamy do zapoznania się z ofertą i kontaktu z naszym biurem w celu uzyskania dodatkowych informacji oraz umówienia spotkania celem obejrzenia działki.<br><br>",
-        "elevator": null,
-        "floor_no": null,
-        "garage": null,
-        "garage_parking_price": null,
-        "short_description": "Działka Nowa Wieś 21a",
-        "headerAdvertisement": "Działka Nowa Wieś 21a",
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszowski/Trzebownisko/Nowa Wieś",
-        "location_province": "Podkarpackie",
-        "location_locality": "Nowa Wieś",
-        "location_quarter": "",
-        "material": null,
-        "mortgage_market": null,
-        "no_of_rooms": null,
-        "ownership_type": null,
-        "parking_spaces_no": null,
-        "price_m2": 242.38,
-        "provision_amount": 8100,
-        "section": "LotSale",
-        "status": "Active",
-        "total_area": null,
-        "year_built": null,
-        "street_name": null,
-        "street_full_name": null,
-        "images": [
-            {
-                "id": 105074875,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105074851,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105074852,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105074856,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105074864,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "5/17058/OGS",
-        "no_of_floors": null,
-        "actualisation_date": "2025-06-17 08:56:11",
-        "last_updated": "2025-06-23 09:43:12"
+        "last_updated": "2025-06-23 10:09:09"
     }
 ]
