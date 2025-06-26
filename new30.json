@@ -1,5 +1,288 @@
 [
     {
+        "id": 12131149,
+        "title": "",
+        "price": 1150000,
+        "is_special": 1,
+        "building_type": null,
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estates prezentuje Państwu przestronny dom wolnostojący o powierzchni całkowitej 220 m², usytuowany na 7-arowej działce w miejscowości Zaczernie. Nieruchomość została wybudowana w 2000 roku i znajduje się w spokojnej oraz dobrze skomunikowanej okolicy, z bezpośrednim zjazdem z drogi asfaltowej.<br><br>  (Oferta tylko u nas)<br>  W SKŁAD NIERUCHOMOŚCI WCHODZI:<br>  <b>Parter:</b><br>  <ul>  <li>przestronny      salon z wyjściem na ogród 26,2 m2</li>  <li>kuchnia      8,3 m2 </li>  <li>jadalnia      17 m2</li>  <li>spiżarka      2 m2</li>  <li>wiatrołap      2,2 m2</li>  <li>klatka      schodowa 5,5 m2</li>  <li>hol      9,6 m2</li>  <li>sypialnia      10,1 m2</li>  <li>łazienka      2,8 m2</li>  <li>kotłownia      7,8 m2</li>  <li>garaż      13,3 m2</li>  <li>pomieszczenie      gospodarcze 6,7 m2</li> </ul>  <b>Piętro (poddasze użytkowe):</b><br>  <ul>  <li>sypialnia      20,5 m2</li>  <li>hol      20,2 m2</li>  <li>sypialnia      12,7 m2</li>  <li>sypialnia      14,6 m2</li>  <li>pracownia      14,1 m2</li>  <li>garderoba      8,2 m2</li>  <li>łazienka      10,6 m2</li>  <li>hol</li> </ul>  &nbsp;<br>  <b>ATUTY NIERUCHOMOŚCI:</b><br>  <ul>  <li>Funkcjonalny      układ pomieszczeń – idealny dla rodziny</li>  <li>Zagospodarowany      ogród sprzyjający odpoczynkowi</li>  <li>Garaż      w bryle budynku</li>  <li>Dogodny      dojazd – bezpośredni zjazd z drogi asfaltowej</li>  <li>Spokojna      i malownicza lokalizacja z szybkim dostępem do Rzeszowa</li>  <li>Solidna      konstrukcja – dom wybudowany w 2000 roku</li>  <li>Wyposażenie      stałe pozostaje, pozostałe do uzgodnienia</li>  <li>Klimatyzacja      zapewniająca komfort w upalne dni<br></li><li>Kominek w salonie dodający przytulności<br></li><li>W odległości 150 m od domu jznajduje się przystanek MPK</li> </ul>  &nbsp;<br>  Dom zapewnia komfortową przestrzeń dla całej rodziny oraz dogodny dostęp do niezbędnych punktów usługowych, szkół i terenów rekreacyjnych.&nbsp;W pobliżu znajdują się 3 sklepy i lokale gastronomiczne.<br><br>  Po więcej informacji zapraszam do kontaktu.<br><br> Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
+        "elevator": null,
+        "floor_no": null,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "Dom 220 m², ogród, garaż, klimatyzacja – Zaczernie",
+        "headerAdvertisement": "Dom 220 m², ogród, garaż, klimatyzacja – Zaczernie",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszowski/Trzebownisko/Zaczernie",
+        "location_province": "Podkarpackie",
+        "location_locality": "Zaczernie",
+        "location_quarter": "",
+        "material": "Ceramics",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 6,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 5227.27,
+        "provision_amount": 17250,
+        "section": "HouseSale",
+        "status": "Active",
+        "total_area": 220,
+        "year_built": 2000,
+        "street_name": null,
+        "street_full_name": null,
+        "images": [
+            {
+                "id": 104970763,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104922752,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104922916,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104970760,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104970758,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921235,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921265,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921250,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921261,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921268,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104944839,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921331,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921279,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921289,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921292,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921296,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921299,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921300,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921302,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921303,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921306,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921316,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921323,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921325,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104921328,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104970765,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "94/17058/ODS",
+        "no_of_floors": 2,
+        "actualisation_date": "2025-06-26 16:05:44",
+        "last_updated": "2025-06-26 16:14:37"
+    },
+    {
+        "id": 12048705,
+        "title": "",
+        "price": 595000,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "Biuro Nieruchomości <b>Eagles Estate</b> z przyjemnością prezentuje Państwu wyjątkowe, w pełni umeblowane i gotowe do zamieszkania 3-pokojowe mieszkanie o powierzchni 52,19 m², położone na 3. piętrze nowoczesnego, niskiego bloku z 2019 roku. Budynek znajduje się w spokojnej, zielonej okolicy przy ulicy Laurowej w Tyczynie, zaledwie kilka minut jazdy od centrum Rzeszowa.<br><br>To komfortowe mieszkanie zostało zaprojektowane z myślą o funkcjonalności i wygodzie codziennego życia. Jasne wnętrza, wysokiej jakości wykończenie oraz starannie dobrane meble tworzą przytulną przestrzeń, która spełni oczekiwania nawet najbardziej wymagających klientów. Lokalizacja nieruchomości to idealne połączenie ciszy i spokoju przedmieścia z wygodą miejskiej infrastruktury. .<br><b><br>W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br>- salon z aneksem kuchennym<br>- 2 pokoje<br>- łazienka<br>- toaleta&nbsp;<br>- balkon&nbsp;<ul> </ul><br>&nbsp;<b>ATUTY NIERUCHOMOŚCI:</b><b></b><br>- Mieszkanie jest gotowe do zamieszkania, wyposażone w wysokiej jakości sprzęty AGD, meble oraz niezbędne akcesoria kuchenne i łazienkowe.<br>- Osiedle charakteryzuje się niską zabudową i zielonym otoczeniem, co sprzyja relaksowi.<br>- Zaledwie 10 minut dzieli mieszkańców od ścisłego centrum miasta, co umożliwia łatwy dostęp do wszystkich jego atrakcji i udogodnień.<br>- Wnętrza zostały urządzone w stylu minimalistycznym z dbałością o detale, co tworzy przytulną i funkcjonalną przestrzeń.<br>- Niski czynsz.<br>- W najbliższym otoczeniu znajdują się liczne punkty usługowe, takie jak sklepy spożywcze, apteka, szkoła podstawowa oraz przedszkole. <br>- Dla aktywnych dostępne są tereny rekreacyjne, place zabaw oraz ścieżki rowerowe. <br>- Doskonała komunikacja miejska umożliwia szybki dojazd do różnych części miasta.&nbsp;<br><br>Do mieszkania przynależy komórka lokatorska oraz parking ogólnodostępny dla mieszkańców.<br><br>To idealna propozycja zarówno dla osób poszukujących mieszkania dla siebie, jak i dla inwestorów szukających nieruchomości pod wynajem.<br>Po więcej informacji zapraszam do kontaktu. Po więcej informacji zapraszam do kontaktu.<br><br><i>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.</i><br>",
+        "elevator": 1,
+        "floor_no": 3,
+        "garage": 0,
+        "garage_parking_price": null,
+        "short_description": "Przytulne 3-pokojowe mieszkanie z balkonem",
+        "headerAdvertisement": "Przytulne 3-pokojowe mieszkanie z balkonem",
+        "kitchen_type": "Open",
+        "location_name": "/Podkarpackie/Rzeszowski/Tyczyn",
+        "location_province": "Podkarpackie",
+        "location_locality": "Tyczyn",
+        "location_quarter": "",
+        "material": "Mixed",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 11400.65,
+        "provision_amount": 11900,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 52.19,
+        "year_built": 2019,
+        "street_name": "Laurowa",
+        "street_full_name": "ul. Laurowa",
+        "images": [
+            {
+                "id": 105145485,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105162951,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105145476,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105145479,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105145487,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105145482,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105145461,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105145460,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105145450,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105145457,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105155414,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105145464,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105145469,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105145471,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105145474,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "510/17058/OMS",
+        "no_of_floors": 3,
+        "actualisation_date": "2025-06-26 15:48:02",
+        "last_updated": "2025-06-26 16:12:27"
+    },
+    {
         "id": 12253763,
         "title": "",
         "price": 632000,
@@ -156,7 +439,7 @@
         "listing_offer_id": "1003/17058/OMS",
         "no_of_floors": 16,
         "actualisation_date": "2025-06-26 11:27:55",
-        "last_updated": "2025-06-26 15:49:26"
+        "last_updated": "2025-06-26 16:19:29"
     },
     {
         "id": 12222907,
@@ -230,7 +513,7 @@
         "listing_offer_id": "8/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-25 13:09:11",
-        "last_updated": "2025-06-26 15:47:49"
+        "last_updated": "2025-06-26 16:17:48"
     },
     {
         "id": 12254049,
@@ -334,7 +617,7 @@
         "listing_offer_id": "18/17058/OLS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-25 12:30:44",
-        "last_updated": "2025-06-26 15:49:25"
+        "last_updated": "2025-06-26 16:19:24"
     },
     {
         "id": 12248457,
@@ -618,7 +901,7 @@
         "listing_offer_id": "14/17058/OOS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-25 11:54:44",
-        "last_updated": "2025-06-26 15:49:00"
+        "last_updated": "2025-06-26 16:19:02"
     },
     {
         "id": 12241693,
@@ -707,7 +990,7 @@
         "listing_offer_id": "967/17058/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-25 10:27:41",
-        "last_updated": "2025-06-26 15:42:39"
+        "last_updated": "2025-06-26 16:12:42"
     },
     {
         "id": 11870529,
@@ -796,7 +1079,7 @@
         "listing_offer_id": "3/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-25 09:10:22",
-        "last_updated": "2025-06-26 15:32:32"
+        "last_updated": "2025-06-26 16:02:25"
     },
     {
         "id": 12230105,
@@ -875,7 +1158,7 @@
         "listing_offer_id": "927/17058/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-24 15:01:24",
-        "last_updated": "2025-06-26 15:48:19"
+        "last_updated": "2025-06-26 16:18:21"
     },
     {
         "id": 11952366,
@@ -1054,7 +1337,7 @@
         "listing_offer_id": "35/17058/ODS",
         "no_of_floors": 0,
         "actualisation_date": "2025-06-24 13:34:52",
-        "last_updated": "2025-06-26 15:38:22"
+        "last_updated": "2025-06-26 16:08:26"
     },
     {
         "id": 12252499,
@@ -1158,7 +1441,7 @@
         "listing_offer_id": "17/17058/OLS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-24 12:48:32",
-        "last_updated": "2025-06-26 15:49:20"
+        "last_updated": "2025-06-26 16:19:23"
     },
     {
         "id": 12121375,
@@ -1237,7 +1520,7 @@
         "listing_offer_id": "701/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-24 11:06:54",
-        "last_updated": "2025-06-26 15:31:45"
+        "last_updated": "2025-06-26 16:01:41"
     },
     {
         "id": 12201478,
@@ -1376,7 +1659,7 @@
         "listing_offer_id": "121/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-24 07:03:48",
-        "last_updated": "2025-06-26 15:47:10"
+        "last_updated": "2025-06-26 16:17:12"
     },
     {
         "id": 12251299,
@@ -1480,7 +1763,7 @@
         "listing_offer_id": "16/17058/OLS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-23 15:08:20",
-        "last_updated": "2025-06-26 15:49:18"
+        "last_updated": "2025-06-26 16:19:18"
     },
     {
         "id": 12251007,
@@ -1549,7 +1832,7 @@
         "listing_offer_id": "12/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:54:45",
-        "last_updated": "2025-06-26 15:49:14"
+        "last_updated": "2025-06-26 16:19:16"
     },
     {
         "id": 12108039,
@@ -1668,7 +1951,7 @@
         "listing_offer_id": "650/17058/OMS",
         "no_of_floors": 11,
         "actualisation_date": "2025-06-23 13:36:17",
-        "last_updated": "2025-06-26 15:44:12"
+        "last_updated": "2025-06-26 16:14:05"
     },
     {
         "id": 12251003,
@@ -1732,7 +2015,7 @@
         "listing_offer_id": "11/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:34:05",
-        "last_updated": "2025-06-26 15:49:12"
+        "last_updated": "2025-06-26 16:19:12"
     },
     {
         "id": 12250966,
@@ -1801,7 +2084,7 @@
         "listing_offer_id": "10/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:26:20",
-        "last_updated": "2025-06-26 15:49:01"
+        "last_updated": "2025-06-26 16:19:03"
     },
     {
         "id": 11932116,
@@ -1875,7 +2158,7 @@
         "listing_offer_id": "72/17058/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-23 11:13:22",
-        "last_updated": "2025-06-26 15:34:41"
+        "last_updated": "2025-06-26 16:04:41"
     },
     {
         "id": 11932197,
@@ -1949,7 +2232,7 @@
         "listing_offer_id": "76/17058/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-23 11:10:50",
-        "last_updated": "2025-06-26 15:34:49"
+        "last_updated": "2025-06-26 16:04:49"
     },
     {
         "id": 11939038,
@@ -2043,7 +2326,7 @@
         "listing_offer_id": "19/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 11:10:06",
-        "last_updated": "2025-06-26 15:35:21"
+        "last_updated": "2025-06-26 16:05:27"
     },
     {
         "id": 11942057,
@@ -2122,7 +2405,7 @@
         "listing_offer_id": "116/17058/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 11:09:16",
-        "last_updated": "2025-06-26 15:36:15"
+        "last_updated": "2025-06-26 16:06:21"
     },
     {
         "id": 11943999,
@@ -2158,12 +2441,7 @@
         "street_full_name": "ul. Henryka Wieniawskiego",
         "images": [
             {
-                "id": 106266042,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106267108,
+                "id": 105042503,
                 "description": null,
                 "isScheme": false
             },
@@ -2173,7 +2451,12 @@
                 "isScheme": false
             },
             {
-                "id": 105042503,
+                "id": 106266042,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106267108,
                 "description": null,
                 "isScheme": false
             },
@@ -2261,7 +2544,7 @@
         "listing_offer_id": "125/17058/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-06-23 11:08:41",
-        "last_updated": "2025-06-26 15:36:35"
+        "last_updated": "2025-06-26 16:06:37"
     },
     {
         "id": 11970091,
@@ -2325,7 +2608,7 @@
         "listing_offer_id": "183/17058/OMS",
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:07:36",
-        "last_updated": "2025-06-26 15:38:45"
+        "last_updated": "2025-06-26 16:08:51"
     },
     {
         "id": 11970097,
@@ -2389,7 +2672,7 @@
         "listing_offer_id": "185/17058/OMS",
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:07:11",
-        "last_updated": "2025-06-26 15:38:50"
+        "last_updated": "2025-06-26 16:08:53"
     },
     {
         "id": 11970101,
@@ -2453,7 +2736,7 @@
         "listing_offer_id": "186/17058/OMS",
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:06:49",
-        "last_updated": "2025-06-26 15:38:52"
+        "last_updated": "2025-06-26 16:08:58"
     },
     {
         "id": 11974234,
@@ -2517,7 +2800,7 @@
         "listing_offer_id": "198/17058/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 11:06:24",
-        "last_updated": "2025-06-26 15:39:13"
+        "last_updated": "2025-06-26 16:09:18"
     },
     {
         "id": 11974259,
@@ -2581,7 +2864,7 @@
         "listing_offer_id": "199/17058/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 11:05:53",
-        "last_updated": "2025-06-26 15:39:18"
+        "last_updated": "2025-06-26 16:09:20"
     },
     {
         "id": 11982539,
@@ -2660,7 +2943,7 @@
         "listing_offer_id": "219/17058/OMS",
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:04:47",
-        "last_updated": "2025-06-26 15:30:09"
+        "last_updated": "2025-06-26 16:00:13"
     },
     {
         "id": 11982597,
@@ -2739,144 +3022,6 @@
         "listing_offer_id": "4/17058/OLS",
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:04:10",
-        "last_updated": "2025-06-26 15:30:10"
-    },
-    {
-        "id": 11982631,
-        "title": "",
-        "price": 391680,
-        "is_special": 0,
-        "building_type": "HighBlock",
-        "country_name": "Polska",
-        "description": "<b>Nowa Inwestycja w Zielonym Sercu Rzeszowa – Apartamenty Parkowe Res Tower<br></b><br>Biuro nieruchomości Eagles Estate prezentuje inwestycję ''Apartamenty Parkowe Res Tower'' oferującą 144 nowoczesne apartamenty w jednej z najlepszych lokalizacji w Rzeszowie, zaledwie 1,4 km od rynku i naprzeciw Parku Zdrowia. Doskonałe połączenie z autostradą i centrum miasta, bliskość szkół, przedszkoli, sklepów oraz ścieżek rowerowych zapewniają wygodę życia codziennego.<br><br>Zaprojektowane z myślą o komforcie mieszkania oferują przemyślane układy, ogrzewanie podłogowe w łazienkach, 250 miejsc parkingowych oraz widoki, które zachwycają. To miejsce idealne dla osób, które cenią ciszę, naturę i dostęp do miejskich udogodnień.<br><br><br><b>Najważniejsze informacje:<br></b><br>Dostępne metraże: od 26 m2 do 77 m2<br>Termin oddania inwestycji: maj 2027<br>Standard wykończenia: Deweloperski<br>Rodzaj ogrzewania: Miejskie<br>Dodatkowe powierzchnie: balkony, miejsca postojowe w garażu,&nbsp;<br><br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie &nbsp;od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.",
-        "elevator": 1,
-        "floor_no": 5,
-        "garage": 1,
-        "garage_parking_price": 85000,
-        "short_description": "Ustawna kawalerka z balkonem Wyspiańskiego",
-        "headerAdvertisement": "Ustawna kawalerka z balkonem Wyspiańskiego",
-        "kitchen_type": "Open",
-        "location_name": "/Podkarpackie/Rzeszów/Króla Stanisława Augusta",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "Króla Stanisława Augusta",
-        "material": "Mixed",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 1,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 12779.12,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 30.65,
-        "year_built": 2027,
-        "street_name": "Stanisława Wyspiańskiego",
-        "street_full_name": "ul. Stanisława Wyspiańskiego",
-        "images": [
-            {
-                "id": 103229746,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103230011,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103229743,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103229745,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103229747,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103229748,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "222/17058/OMS",
-        "no_of_floors": 17,
-        "actualisation_date": "2025-06-23 11:03:45",
-        "last_updated": "2025-06-26 15:30:12"
-    },
-    {
-        "id": 11982660,
-        "title": "",
-        "price": 668484,
-        "is_special": 0,
-        "building_type": "HighBlock",
-        "country_name": "Polska",
-        "description": "<b>Nowa Inwestycja w Zielonym Sercu Rzeszowa – Apartamenty Parkowe Res Tower<br></b><br>Biuro nieruchomości Eagles Estate prezentuje inwestycję ''Apartamenty Parkowe Res Tower'' oferującą 144 nowoczesne apartamenty w jednej z najlepszych lokalizacji w Rzeszowie, zaledwie 1,4 km od rynku i naprzeciw Parku Zdrowia. Doskonałe połączenie z autostradą i centrum miasta, bliskość szkół, przedszkoli, sklepów oraz ścieżek rowerowych zapewniają wygodę życia codziennego.<br><br>Zaprojektowane z myślą o komforcie mieszkania oferują przemyślane układy, ogrzewanie podłogowe w łazienkach, 250 miejsc parkingowych oraz widoki, które zachwycają. To miejsce idealne dla osób, które cenią ciszę, naturę i dostęp do miejskich udogodnień.<br><br><br><b>Najważniejsze informacje:<br></b><br>Dostępne metraże: od 26 m2 do 77 m2<br>Termin oddania inwestycji: maj 2027<br>Standard wykończenia: Deweloperski<br>Rodzaj ogrzewania: Miejskie<br>Dodatkowe powierzchnie: balkony, miejsca postojowe w garażu,&nbsp;<br><br>OFERTA DOTYCZY MIESZKANIA M 430<br><br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie &nbsp;od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.",
-        "elevator": 1,
-        "floor_no": 3,
-        "garage": 1,
-        "garage_parking_price": 85000,
-        "short_description": "Trzypokojowe Mieszkanie z Balkonem Wyspiańskiego",
-        "headerAdvertisement": "Trzypokojowe Mieszkanie z Balkonem Wyspiańskiego",
-        "kitchen_type": "Open",
-        "location_name": "/Podkarpackie/Rzeszów/Króla Stanisława Augusta",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "Króla Stanisława Augusta",
-        "material": "Mixed",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 3,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 11493.88,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 58.16,
-        "year_built": 2027,
-        "street_name": "Stanisława Wyspiańskiego",
-        "street_full_name": "ul. Stanisława Wyspiańskiego",
-        "images": [
-            {
-                "id": 103230307,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103230398,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103230303,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103230305,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103230306,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103230308,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "223/17058/OMS",
-        "no_of_floors": 17,
-        "actualisation_date": "2025-06-23 11:03:15",
-        "last_updated": "2025-06-26 15:30:17"
+        "last_updated": "2025-06-26 16:00:15"
     }
 ]
