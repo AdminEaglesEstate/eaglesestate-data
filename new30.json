@@ -11,8 +11,8 @@
         "floor_no": 0,
         "garage": 0,
         "garage_parking_price": null,
-        "short_description": null,
-        "headerAdvertisement": null,
+        "short_description": "Gabinet lub biuro w doskonałej lokalizacji",
+        "headerAdvertisement": "Gabinet lub biuro w doskonałej lokalizacji",
         "kitchen_type": null,
         "location_name": "/Podkarpackie/Rzeszów/Śródmieście",
         "location_province": "Podkarpackie",
@@ -71,7 +71,7 @@
         "listing_offer_id": "3/17058/OLW",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-30 21:38:59",
-        "last_updated": "2025-06-30 21:46:38"
+        "last_updated": "2025-06-30 22:16:32"
     },
     {
         "id": 11988912,
@@ -140,7 +140,7 @@
         "listing_offer_id": "246/17058/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-30 15:45:41",
-        "last_updated": "2025-06-30 21:32:23"
+        "last_updated": "2025-06-30 22:02:27"
     },
     {
         "id": 12241693,
@@ -229,7 +229,7 @@
         "listing_offer_id": "967/17058/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-30 11:31:03",
-        "last_updated": "2025-06-30 21:42:54"
+        "last_updated": "2025-06-30 22:12:41"
     },
     {
         "id": 12242522,
@@ -318,7 +318,7 @@
         "listing_offer_id": "970/17058/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-30 09:18:31",
-        "last_updated": "2025-06-30 21:31:32"
+        "last_updated": "2025-06-30 22:01:36"
     },
     {
         "id": 12239140,
@@ -402,7 +402,7 @@
         "listing_offer_id": "948/17058/OMS",
         "no_of_floors": 10,
         "actualisation_date": "2025-06-29 08:34:56",
-        "last_updated": "2025-06-30 21:48:45"
+        "last_updated": "2025-06-30 22:18:41"
     },
     {
         "id": 12224966,
@@ -491,7 +491,7 @@
         "listing_offer_id": "19/17058/OMW",
         "no_of_floors": 17,
         "actualisation_date": "2025-06-27 12:53:36",
-        "last_updated": "2025-06-30 21:47:59"
+        "last_updated": "2025-06-30 22:17:53"
     },
     {
         "id": 12131149,
@@ -660,7 +660,7 @@
         "listing_offer_id": "94/17058/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-26 16:22:38",
-        "last_updated": "2025-06-30 21:44:43"
+        "last_updated": "2025-06-30 22:14:31"
     },
     {
         "id": 12048705,
@@ -774,7 +774,7 @@
         "listing_offer_id": "510/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-26 15:48:02",
-        "last_updated": "2025-06-30 21:42:38"
+        "last_updated": "2025-06-30 22:12:26"
     },
     {
         "id": 12253763,
@@ -933,7 +933,7 @@
         "listing_offer_id": "1003/17058/OMS",
         "no_of_floors": 16,
         "actualisation_date": "2025-06-26 11:27:55",
-        "last_updated": "2025-06-30 21:49:34"
+        "last_updated": "2025-06-30 22:19:31"
     },
     {
         "id": 12222907,
@@ -1007,7 +1007,7 @@
         "listing_offer_id": "8/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-25 13:09:11",
-        "last_updated": "2025-06-30 21:47:55"
+        "last_updated": "2025-06-30 22:17:52"
     },
     {
         "id": 12254049,
@@ -1111,7 +1111,7 @@
         "listing_offer_id": "18/17058/OLS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-25 12:30:44",
-        "last_updated": "2025-06-30 21:49:32"
+        "last_updated": "2025-06-30 22:19:26"
     },
     {
         "id": 12248457,
@@ -1395,7 +1395,7 @@
         "listing_offer_id": "14/17058/OOS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-25 11:54:44",
-        "last_updated": "2025-06-30 21:49:09"
+        "last_updated": "2025-06-30 22:19:02"
     },
     {
         "id": 11870529,
@@ -1484,7 +1484,7 @@
         "listing_offer_id": "3/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-25 09:10:22",
-        "last_updated": "2025-06-30 21:32:24"
+        "last_updated": "2025-06-30 22:02:28"
     },
     {
         "id": 11952366,
@@ -1663,7 +1663,7 @@
         "listing_offer_id": "35/17058/ODS",
         "no_of_floors": 0,
         "actualisation_date": "2025-06-24 13:34:52",
-        "last_updated": "2025-06-30 21:38:24"
+        "last_updated": "2025-06-30 22:08:16"
     },
     {
         "id": 12252499,
@@ -1767,7 +1767,7 @@
         "listing_offer_id": "17/17058/OLS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-24 12:48:32",
-        "last_updated": "2025-06-30 21:49:31"
+        "last_updated": "2025-06-30 22:19:24"
     },
     {
         "id": 12121375,
@@ -1846,7 +1846,7 @@
         "listing_offer_id": "701/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-24 11:06:54",
-        "last_updated": "2025-06-30 21:31:39"
+        "last_updated": "2025-06-30 22:01:39"
     },
     {
         "id": 12201478,
@@ -1985,7 +1985,7 @@
         "listing_offer_id": "121/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-24 07:03:48",
-        "last_updated": "2025-06-30 21:47:19"
+        "last_updated": "2025-06-30 22:17:13"
     },
     {
         "id": 12251299,
@@ -2089,7 +2089,7 @@
         "listing_offer_id": "16/17058/OLS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-23 15:08:20",
-        "last_updated": "2025-06-30 21:49:25"
+        "last_updated": "2025-06-30 22:19:19"
     },
     {
         "id": 12251007,
@@ -2158,7 +2158,7 @@
         "listing_offer_id": "12/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:54:45",
-        "last_updated": "2025-06-30 21:49:23"
+        "last_updated": "2025-06-30 22:19:18"
     },
     {
         "id": 12108039,
@@ -2277,7 +2277,7 @@
         "listing_offer_id": "650/17058/OMS",
         "no_of_floors": 11,
         "actualisation_date": "2025-06-23 13:36:17",
-        "last_updated": "2025-06-30 21:44:15"
+        "last_updated": "2025-06-30 22:14:02"
     },
     {
         "id": 12251003,
@@ -2341,7 +2341,7 @@
         "listing_offer_id": "11/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:34:05",
-        "last_updated": "2025-06-30 21:49:19"
+        "last_updated": "2025-06-30 22:19:13"
     },
     {
         "id": 12250966,
@@ -2410,7 +2410,7 @@
         "listing_offer_id": "10/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:26:20",
-        "last_updated": "2025-06-30 21:49:11"
+        "last_updated": "2025-06-30 22:19:04"
     },
     {
         "id": 11932116,
@@ -2484,7 +2484,7 @@
         "listing_offer_id": "72/17058/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-23 11:13:22",
-        "last_updated": "2025-06-30 21:34:32"
+        "last_updated": "2025-06-30 22:04:31"
     },
     {
         "id": 11932197,
@@ -2558,7 +2558,7 @@
         "listing_offer_id": "76/17058/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-23 11:10:50",
-        "last_updated": "2025-06-30 21:34:40"
+        "last_updated": "2025-06-30 22:04:39"
     },
     {
         "id": 11939038,
@@ -2652,7 +2652,7 @@
         "listing_offer_id": "19/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 11:10:06",
-        "last_updated": "2025-06-30 21:35:12"
+        "last_updated": "2025-06-30 22:05:14"
     },
     {
         "id": 11942057,
@@ -2731,7 +2731,7 @@
         "listing_offer_id": "116/17058/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 11:09:16",
-        "last_updated": "2025-06-30 21:36:07"
+        "last_updated": "2025-06-30 22:06:07"
     },
     {
         "id": 11943999,
@@ -2870,7 +2870,7 @@
         "listing_offer_id": "125/17058/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-06-23 11:08:41",
-        "last_updated": "2025-06-30 21:36:23"
+        "last_updated": "2025-06-30 22:06:26"
     },
     {
         "id": 11970091,
@@ -2934,7 +2934,7 @@
         "listing_offer_id": "183/17058/OMS",
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:07:36",
-        "last_updated": "2025-06-30 21:38:41"
+        "last_updated": "2025-06-30 22:08:41"
     },
     {
         "id": 11970097,
@@ -2998,7 +2998,7 @@
         "listing_offer_id": "185/17058/OMS",
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:07:11",
-        "last_updated": "2025-06-30 21:38:43"
+        "last_updated": "2025-06-30 22:08:43"
     },
     {
         "id": 11970101,
@@ -3062,6 +3062,6 @@
         "listing_offer_id": "186/17058/OMS",
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:06:49",
-        "last_updated": "2025-06-30 21:38:44"
+        "last_updated": "2025-06-30 22:08:48"
     }
 ]
