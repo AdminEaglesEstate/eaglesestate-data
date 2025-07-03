@@ -1,5 +1,49 @@
 [
     {
+        "id": 12074942,
+        "title": "",
+        "price": 820000,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "<br>Biuro Nieruchomości Eagles Estate ma przyjemność zaprezentować Państwu przestronne mieszkanie o powierzchni 97 m², usytuowane na 2. piętrze w budynku przy ul. Marii Skłodowskiej-Curie w Rzeszowie.<br><br>Nieruchomość znajduje się w dobrze skomunikowanej części Rzeszowa, co zapewnia szybki dostęp do punktów usługowych i komunikacji miejskiej.<br><br>Układ:<br>- 3 niezależne pokoje<br>- duża, jasna kuchnia<br>- łazienka i osobne WC <br>- przestronny przedpokój<br>- dwustronne, słoneczne mieszkanie<br><br>&nbsp;Atuty:<br>- duża powierzchnia zapewniająca komfort codziennego życia<br>- funkcjonalny układ pomieszczeń<br>- idealne na inwestycję – stabilny zwrot z najmu<br>- świetna lokalizacja – w pobliżu: supermarkety, restauracje, kawiarnie, apteka, przychodnia, plac zabaw<br>- ogólnodostępne miejsca postojowe dla mieszkańców przed blokiem <br>- własny strych o powierzchni 30 m²<br>- piwnica o powierzchni 30 m²<br><br>Po więcej informacji zapraszam do kontaktu.<br><br><i>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.&nbsp;</i><br><br>Zapraszamy do kontaktu oraz prezentacji nieruchomości.&nbsp;<br><br><br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.<br><br>Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.<br><br>",
+        "elevator": 0,
+        "floor_no": 2,
+        "garage": 0,
+        "garage_parking_price": null,
+        "short_description": "Na sprzedaż 3-pokojowe mieszkanie w Rzeszowie",
+        "headerAdvertisement": "Na sprzedaż 3-pokojowe mieszkanie w Rzeszowie",
+        "kitchen_type": "Separate",
+        "location_name": "/Podkarpackie/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "Mixed",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 8453.61,
+        "provision_amount": 16400,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 97,
+        "year_built": 1938,
+        "street_name": "Marii Skłodowskiej-Curie",
+        "street_full_name": "ul. Marii Skłodowskiej-Curie",
+        "images": [
+            {
+                "id": 106570933,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "610/17058/OMS",
+        "no_of_floors": 2,
+        "actualisation_date": "2025-07-03 08:55:02",
+        "last_updated": "2025-07-03 09:13:53"
+    },
+    {
         "id": 12122132,
         "title": "",
         "price": 879000,
@@ -116,7 +160,7 @@
         "listing_offer_id": "90/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 08:27:15",
-        "last_updated": "2025-07-03 08:32:09"
+        "last_updated": "2025-07-03 09:02:03"
     },
     {
         "id": 12225225,
@@ -235,7 +279,7 @@
         "listing_offer_id": "900/17058/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-07-02 12:28:57",
-        "last_updated": "2025-07-03 08:48:47"
+        "last_updated": "2025-07-03 09:18:51"
     },
     {
         "id": 12260335,
@@ -294,7 +338,7 @@
         "listing_offer_id": "143/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-01 14:27:46",
-        "last_updated": "2025-07-03 08:31:26"
+        "last_updated": "2025-07-03 09:01:23"
     },
     {
         "id": 12162728,
@@ -368,7 +412,7 @@
         "listing_offer_id": "772/17058/OMS",
         "no_of_floors": 11,
         "actualisation_date": "2025-07-01 11:18:24",
-        "last_updated": "2025-07-03 08:45:21"
+        "last_updated": "2025-07-03 09:15:23"
     },
     {
         "id": 12117244,
@@ -427,7 +471,7 @@
         "listing_offer_id": "684/17058/OMS",
         "no_of_floors": 2,
         "actualisation_date": "2025-07-01 11:17:39",
-        "last_updated": "2025-07-03 08:31:05"
+        "last_updated": "2025-07-03 09:01:00"
     },
     {
         "id": 11988912,
@@ -501,7 +545,7 @@
         "listing_offer_id": "246/17058/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-01 09:40:27",
-        "last_updated": "2025-07-03 08:32:43"
+        "last_updated": "2025-07-03 09:02:41"
     },
     {
         "id": 12243776,
@@ -575,7 +619,7 @@
         "listing_offer_id": "975/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-07-01 09:36:27",
-        "last_updated": "2025-07-03 08:49:43"
+        "last_updated": "2025-07-03 09:19:44"
     },
     {
         "id": 12244082,
@@ -649,7 +693,7 @@
         "listing_offer_id": "133/17058/ODS",
         "no_of_floors": 0,
         "actualisation_date": "2025-07-01 08:41:48",
-        "last_updated": "2025-07-03 08:49:47"
+        "last_updated": "2025-07-03 09:19:46"
     },
     {
         "id": 12184373,
@@ -723,7 +767,7 @@
         "listing_offer_id": "3/17058/OLW",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-30 21:38:59",
-        "last_updated": "2025-07-03 08:47:13"
+        "last_updated": "2025-07-03 09:17:11"
     },
     {
         "id": 12241693,
@@ -812,7 +856,7 @@
         "listing_offer_id": "967/17058/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-30 11:31:03",
-        "last_updated": "2025-07-03 08:43:17"
+        "last_updated": "2025-07-03 09:13:14"
     },
     {
         "id": 12242522,
@@ -901,7 +945,7 @@
         "listing_offer_id": "970/17058/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-30 09:18:31",
-        "last_updated": "2025-07-03 08:31:52"
+        "last_updated": "2025-07-03 09:01:49"
     },
     {
         "id": 12239140,
@@ -985,7 +1029,7 @@
         "listing_offer_id": "948/17058/OMS",
         "no_of_floors": 10,
         "actualisation_date": "2025-06-29 08:34:56",
-        "last_updated": "2025-07-03 08:49:24"
+        "last_updated": "2025-07-03 09:19:25"
     },
     {
         "id": 12224966,
@@ -1074,7 +1118,7 @@
         "listing_offer_id": "19/17058/OMW",
         "no_of_floors": 17,
         "actualisation_date": "2025-06-27 12:53:36",
-        "last_updated": "2025-07-03 08:48:35"
+        "last_updated": "2025-07-03 09:18:40"
     },
     {
         "id": 12131149,
@@ -1243,7 +1287,7 @@
         "listing_offer_id": "94/17058/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-26 16:22:38",
-        "last_updated": "2025-07-03 08:45:09"
+        "last_updated": "2025-07-03 09:15:11"
     },
     {
         "id": 12048705,
@@ -1357,7 +1401,7 @@
         "listing_offer_id": "510/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-26 15:48:02",
-        "last_updated": "2025-07-03 08:43:03"
+        "last_updated": "2025-07-03 09:12:57"
     },
     {
         "id": 12253763,
@@ -1516,7 +1560,7 @@
         "listing_offer_id": "1003/17058/OMS",
         "no_of_floors": 16,
         "actualisation_date": "2025-06-26 11:27:55",
-        "last_updated": "2025-07-03 08:50:18"
+        "last_updated": "2025-07-03 09:20:17"
     },
     {
         "id": 12222907,
@@ -1590,7 +1634,7 @@
         "listing_offer_id": "8/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-25 13:09:11",
-        "last_updated": "2025-07-03 08:48:34"
+        "last_updated": "2025-07-03 09:18:38"
     },
     {
         "id": 12254049,
@@ -1694,7 +1738,7 @@
         "listing_offer_id": "18/17058/OLS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-25 12:30:44",
-        "last_updated": "2025-07-03 08:50:17"
+        "last_updated": "2025-07-03 09:20:13"
     },
     {
         "id": 12248457,
@@ -1978,7 +2022,7 @@
         "listing_offer_id": "14/17058/OOS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-25 11:54:44",
-        "last_updated": "2025-07-03 08:49:49"
+        "last_updated": "2025-07-03 09:19:50"
     },
     {
         "id": 11870529,
@@ -2067,7 +2111,7 @@
         "listing_offer_id": "3/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-25 09:10:22",
-        "last_updated": "2025-07-03 08:32:48"
+        "last_updated": "2025-07-03 09:02:46"
     },
     {
         "id": 11952366,
@@ -2246,7 +2290,7 @@
         "listing_offer_id": "35/17058/ODS",
         "no_of_floors": 0,
         "actualisation_date": "2025-06-24 13:34:52",
-        "last_updated": "2025-07-03 08:38:51"
+        "last_updated": "2025-07-03 09:08:46"
     },
     {
         "id": 12252499,
@@ -2350,7 +2394,7 @@
         "listing_offer_id": "17/17058/OLS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-24 12:48:32",
-        "last_updated": "2025-07-03 08:50:15"
+        "last_updated": "2025-07-03 09:20:11"
     },
     {
         "id": 12121375,
@@ -2429,7 +2473,7 @@
         "listing_offer_id": "701/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-24 11:06:54",
-        "last_updated": "2025-07-03 08:31:59"
+        "last_updated": "2025-07-03 09:01:57"
     },
     {
         "id": 12201478,
@@ -2568,7 +2612,7 @@
         "listing_offer_id": "121/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-24 07:03:48",
-        "last_updated": "2025-07-03 08:47:55"
+        "last_updated": "2025-07-03 09:17:57"
     },
     {
         "id": 12251299,
@@ -2672,7 +2716,7 @@
         "listing_offer_id": "16/17058/OLS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-23 15:08:20",
-        "last_updated": "2025-07-03 08:50:14"
+        "last_updated": "2025-07-03 09:20:06"
     },
     {
         "id": 12251007,
@@ -2741,7 +2785,7 @@
         "listing_offer_id": "12/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:54:45",
-        "last_updated": "2025-07-03 08:50:03"
+        "last_updated": "2025-07-03 09:20:05"
     },
     {
         "id": 12108039,
@@ -2860,7 +2904,7 @@
         "listing_offer_id": "650/17058/OMS",
         "no_of_floors": 11,
         "actualisation_date": "2025-06-23 13:36:17",
-        "last_updated": "2025-07-03 08:44:40"
+        "last_updated": "2025-07-03 09:14:39"
     },
     {
         "id": 12251003,
@@ -2924,7 +2968,7 @@
         "listing_offer_id": "11/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:34:05",
-        "last_updated": "2025-07-03 08:50:01"
+        "last_updated": "2025-07-03 09:20:00"
     },
     {
         "id": 12250966,
@@ -2993,80 +3037,6 @@
         "listing_offer_id": "10/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:26:20",
-        "last_updated": "2025-07-03 08:49:53"
-    },
-    {
-        "id": 11932116,
-        "title": "",
-        "price": 742500,
-        "is_special": 0,
-        "building_type": "HighBlock",
-        "country_name": "Polska",
-        "description": "Osiedle Bella Dolina – Twoje miejsce w sercu Rzeszowa!<br>  Biuro nieruchomości Eagles Estate prezentuje&nbsp;nowy etap inwestycji Bella Dolina IV, położonej przy ul. Lubelskiej w Rzeszowie. To wyjątkowe miejsce, które łączy nowoczesność, komfort i ekologię!<br> Nowy etap inwestycji składa się z 3 segmentów mieszkalnych wielorodzinnych z garażami podziemnymi wielostanowiskowymi. <br><br>  Dlaczego warto zamieszkać w Bella Dolina IV? <br>  • Lokalizacja – osiedle położone jest w doskonale skomunikowanej części miasta, z łatwym dostępem do centrum oraz kluczowych punktów usługowych. Bliskość terenów zielonych zapewni mieszkańcom chwilę relaksu z dala od miejskiego zgiełku. <br>  • Komfort życia – przestronne mieszkania z funkcjonalnym układem pomieszczeń, balkony lub tarasy oraz miejsca parkingowe to tylko część udogodnień czekających na przyszłych mieszkańców. Idealne miejsce dla każdego Bella Dolina IV to przestrzeń stworzona z myślą o rodzinach, młodych parach, jak i osobach poszukujących inwestycji w nieruchomości.<br>  • Nowoczesna technologia – budynki w nowym etapie inwestycji zostaną wyposażone w panele fotowoltaiczne, co pozwoli na obniżenie kosztów eksploatacji oraz dbałość o środowisko. <br><br>  Najważniejsze informacje:<br>  Dostępne metraże: od 37 m2 do 84 m2<br>  Termin oddania inwestycji: kwiecień 2026<br>  Standard wykończenia: Deweloperski<br>  Rodzaj ogrzewania: Miejskie<br>  Dodatkowe powierzchnie: komórki lokatorskie, miejsca postojowe w garażu, miejsca postojowe w garażu na motocykl/rower<br><br>W CENIE:<br> miejsce postojowe w garażu z miejscem na rowery nr 8 o powierzchni 21,76m2<br><br>  W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie &nbsp;od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br> Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br> <br> Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.<br>",
-        "elevator": 1,
-        "floor_no": 1,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Apartament Na Północy Rzeszowa",
-        "headerAdvertisement": "Apartament Na Północy Rzeszowa",
-        "kitchen_type": "Separate",
-        "location_name": "/Podkarpackie/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": "Mixed",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 4,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": 1,
-        "price_m2": 8880.52,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 83.61,
-        "year_built": 2026,
-        "street_name": "Lubelska",
-        "street_full_name": "ul. Lubelska",
-        "images": [
-            {
-                "id": 102595889,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 102595896,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 102528034,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 102528035,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 102595886,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 102595887,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 102595888,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "72/17058/OMS",
-        "no_of_floors": 8,
-        "actualisation_date": "2025-06-23 11:13:22",
-        "last_updated": "2025-07-03 08:34:59"
+        "last_updated": "2025-07-03 09:19:52"
     }
 ]
