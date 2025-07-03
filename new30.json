@@ -1,5 +1,158 @@
 [
     {
+        "id": 11964770,
+        "title": "",
+        "price": 615000,
+        "is_special": 0,
+        "building_type": null,
+        "country_name": "Polska",
+        "description": "W ofercie biura Eagles Estate przedstawiamy Państwu czteropokojowy dom w zabudowie bliźniaczej o powierzchni 73 m2, położony na osiedlu Słocina.&nbsp;<br>Nieruchomość jest gotowa, w stanie deweloperskim, dostępna od zaraz.<br><br>Bliźniak znajduje się w cichym i spokojnym miejscu, otoczony terenami zielonymi i rekreacyjnymi. Teren wokół domu jest zagospodarowany, a przed budynkiem jest miejsce na dwa samochody.<br><br>Standard wykończenia domów:<br>- Ściany konstrukcyjne oraz działowe: Pustak Ceramiczny<br>- Pokrycie dachu: Blacho dachówka<br>- Okna: PCV 3-szybowe<br>- Elewacja: Styropian 20 cm, tynk silikatowo-silikonowy<br>- Instalacje elektryczne<br>- Instalacje wod-kan<br>- Instalacja C.O.<br>- Kocioł gazowy: dwufunkcyjny<br>- Ogrzewanie podłogowe w całym budynku !!!<br>- Przygotowana instalacja C.O. pod rozbudowane sterowanie ogrzewaniem podłogowym<br>- Tynki wewnętrzne gipsowe<br>- Wylewki końcowe<br>- Portfenetra: szkło hartowane obsadzane na rotulach<br>- Zagospodarowanie terenu: taras, podejście do budynku, miejsca postojowe kostka brukowa, płyty Jumbo<br>- Wszystkie media doprowadzone do budynku oraz odebrane<br><br>Zakup bez podatku PCC i bez prowizji&nbsp;",
+        "elevator": null,
+        "floor_no": null,
+        "garage": null,
+        "garage_parking_price": null,
+        "short_description": "Gotowy bliźniak w stanie deweloperskim - Słocina",
+        "headerAdvertisement": "Gotowy bliźniak w stanie deweloperskim - Słocina",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszów/Słocina",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Słocina",
+        "material": "Ceramics",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 4,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 8363.93,
+        "provision_amount": 0,
+        "section": "HouseSale",
+        "status": "Active",
+        "total_area": 73.53,
+        "year_built": 2024,
+        "street_name": null,
+        "street_full_name": null,
+        "images": [
+            {
+                "id": 102987140,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102987135,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102987139,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102987136,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102987137,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102987138,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102987163,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "41/17058/ODS",
+        "no_of_floors": 1,
+        "actualisation_date": "2025-07-03 10:13:25",
+        "last_updated": "2025-07-03 10:38:56"
+    },
+    {
+        "id": 11942394,
+        "title": "",
+        "price": 492356,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "NOWOCZESNA ARCHITEKTURA NA OSIEDLU BUDZIWÓJ JEDNEJ Z NAJDYNAMICZNIEJ ROZWIJAJĄCYCH SIĘ DZIELNIC RZESZOWA<br><br>Biuro nieruchomości Eagles estate prezentuje inwestycję 26 mieszkań w zabudowie szeregowej. To znakomite rozwiązanie zarówno dla rodzin, par oraz singli. Mieszkania zostały zaprojektowane w nowoczesny sposób i posiadają własny ogródek lub taras. Dostępne mieszkania od 48&nbsp;m2 do 69&nbsp;m2.<br><br>Do każdego z mieszkań przyporządkowane są dwa&nbsp;miejsca postojowe. Niewątpliwą zaletą jest lokalizacja 15 minut od centrum Rzeszowa oraz bogata infrastruktura, którą oferuje dzielnica Budziwój w Rzeszowie.<br><br>Mieszkania są już gotowe w stanie deweloperskim.<br><br>",
+        "elevator": 0,
+        "floor_no": 1,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "Gotowe 3 pokojowe mieszkanie - Budziwój - Balkon",
+        "headerAdvertisement": "Gotowe 3 pokojowe mieszkanie - Budziwój - Balkon",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszów/Budziwój",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Budziwój",
+        "material": "Ceramics",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": 2,
+        "price_m2": 8300,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 59.32,
+        "year_built": 2024,
+        "street_name": "Senatorska",
+        "street_full_name": "ul. Senatorska",
+        "images": [
+            {
+                "id": 102800992,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102801000,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102800995,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102800998,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102661417,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102800997,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102800989,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 102661432,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "119/17058/OMS",
+        "no_of_floors": 1,
+        "actualisation_date": "2025-07-03 10:12:14",
+        "last_updated": "2025-07-03 10:36:37"
+    },
+    {
         "id": 12074942,
         "title": "",
         "price": 820000,
@@ -41,7 +194,7 @@
         "listing_offer_id": "610/17058/OMS",
         "no_of_floors": 2,
         "actualisation_date": "2025-07-03 08:55:02",
-        "last_updated": "2025-07-03 10:13:46"
+        "last_updated": "2025-07-03 10:43:49"
     },
     {
         "id": 12122132,
@@ -160,7 +313,7 @@
         "listing_offer_id": "90/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 08:27:15",
-        "last_updated": "2025-07-03 10:02:00"
+        "last_updated": "2025-07-03 10:32:00"
     },
     {
         "id": 12225225,
@@ -279,7 +432,7 @@
         "listing_offer_id": "900/17058/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-07-02 12:28:57",
-        "last_updated": "2025-07-03 10:18:39"
+        "last_updated": "2025-07-03 10:48:43"
     },
     {
         "id": 12260335,
@@ -338,7 +491,7 @@
         "listing_offer_id": "143/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-01 14:27:46",
-        "last_updated": "2025-07-03 10:01:24"
+        "last_updated": "2025-07-03 10:31:20"
     },
     {
         "id": 12162728,
@@ -417,7 +570,7 @@
         "listing_offer_id": "772/17058/OMS",
         "no_of_floors": 11,
         "actualisation_date": "2025-07-01 11:18:24",
-        "last_updated": "2025-07-03 10:15:13"
+        "last_updated": "2025-07-03 10:45:20"
     },
     {
         "id": 12117244,
@@ -476,7 +629,7 @@
         "listing_offer_id": "684/17058/OMS",
         "no_of_floors": 2,
         "actualisation_date": "2025-07-01 11:17:39",
-        "last_updated": "2025-07-03 10:01:02"
+        "last_updated": "2025-07-03 10:30:55"
     },
     {
         "id": 11988912,
@@ -550,7 +703,7 @@
         "listing_offer_id": "246/17058/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-01 09:40:27",
-        "last_updated": "2025-07-03 10:02:39"
+        "last_updated": "2025-07-03 10:32:36"
     },
     {
         "id": 12243776,
@@ -624,7 +777,7 @@
         "listing_offer_id": "975/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-07-01 09:36:27",
-        "last_updated": "2025-07-03 10:19:32"
+        "last_updated": "2025-07-03 10:49:40"
     },
     {
         "id": 12244082,
@@ -698,7 +851,7 @@
         "listing_offer_id": "133/17058/ODS",
         "no_of_floors": 0,
         "actualisation_date": "2025-07-01 08:41:48",
-        "last_updated": "2025-07-03 10:19:37"
+        "last_updated": "2025-07-03 10:49:42"
     },
     {
         "id": 12184373,
@@ -772,7 +925,7 @@
         "listing_offer_id": "3/17058/OLW",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-30 21:38:59",
-        "last_updated": "2025-07-03 10:16:59"
+        "last_updated": "2025-07-03 10:47:07"
     },
     {
         "id": 12241693,
@@ -861,7 +1014,7 @@
         "listing_offer_id": "967/17058/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-30 11:31:03",
-        "last_updated": "2025-07-03 10:13:06"
+        "last_updated": "2025-07-03 10:43:09"
     },
     {
         "id": 12242522,
@@ -950,7 +1103,7 @@
         "listing_offer_id": "970/17058/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-30 09:18:31",
-        "last_updated": "2025-07-03 10:01:46"
+        "last_updated": "2025-07-03 10:31:42"
     },
     {
         "id": 12239140,
@@ -1034,7 +1187,7 @@
         "listing_offer_id": "948/17058/OMS",
         "no_of_floors": 10,
         "actualisation_date": "2025-06-29 08:34:56",
-        "last_updated": "2025-07-03 10:19:13"
+        "last_updated": "2025-07-03 10:49:21"
     },
     {
         "id": 12224966,
@@ -1123,7 +1276,7 @@
         "listing_offer_id": "19/17058/OMW",
         "no_of_floors": 17,
         "actualisation_date": "2025-06-27 12:53:36",
-        "last_updated": "2025-07-03 10:18:31"
+        "last_updated": "2025-07-03 10:48:32"
     },
     {
         "id": 12131149,
@@ -1292,7 +1445,7 @@
         "listing_offer_id": "94/17058/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-26 16:22:38",
-        "last_updated": "2025-07-03 10:15:04"
+        "last_updated": "2025-07-03 10:45:07"
     },
     {
         "id": 12048705,
@@ -1406,7 +1559,7 @@
         "listing_offer_id": "510/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-26 15:48:02",
-        "last_updated": "2025-07-03 10:12:51"
+        "last_updated": "2025-07-03 10:42:51"
     },
     {
         "id": 12253763,
@@ -1565,7 +1718,7 @@
         "listing_offer_id": "1003/17058/OMS",
         "no_of_floors": 16,
         "actualisation_date": "2025-06-26 11:27:55",
-        "last_updated": "2025-07-03 10:20:13"
+        "last_updated": "2025-07-03 10:50:17"
     },
     {
         "id": 12222907,
@@ -1639,7 +1792,7 @@
         "listing_offer_id": "8/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-25 13:09:11",
-        "last_updated": "2025-07-03 10:18:26"
+        "last_updated": "2025-07-03 10:48:31"
     },
     {
         "id": 12254049,
@@ -1743,7 +1896,7 @@
         "listing_offer_id": "18/17058/OLS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-25 12:30:44",
-        "last_updated": "2025-07-03 10:20:03"
+        "last_updated": "2025-07-03 10:50:15"
     },
     {
         "id": 12248457,
@@ -2027,7 +2180,7 @@
         "listing_offer_id": "14/17058/OOS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-25 11:54:44",
-        "last_updated": "2025-07-03 10:19:40"
+        "last_updated": "2025-07-03 10:49:47"
     },
     {
         "id": 11870529,
@@ -2116,7 +2269,7 @@
         "listing_offer_id": "3/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-25 09:10:22",
-        "last_updated": "2025-07-03 10:02:44"
+        "last_updated": "2025-07-03 10:32:37"
     },
     {
         "id": 11952366,
@@ -2295,7 +2448,7 @@
         "listing_offer_id": "35/17058/ODS",
         "no_of_floors": 0,
         "actualisation_date": "2025-06-24 13:34:52",
-        "last_updated": "2025-07-03 10:08:51"
+        "last_updated": "2025-07-03 10:38:37"
     },
     {
         "id": 12252499,
@@ -2399,7 +2552,7 @@
         "listing_offer_id": "17/17058/OLS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-24 12:48:32",
-        "last_updated": "2025-07-03 10:20:00"
+        "last_updated": "2025-07-03 10:50:13"
     },
     {
         "id": 12121375,
@@ -2478,7 +2631,7 @@
         "listing_offer_id": "701/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-24 11:06:54",
-        "last_updated": "2025-07-03 10:01:54"
+        "last_updated": "2025-07-03 10:31:53"
     },
     {
         "id": 12201478,
@@ -2617,7 +2770,7 @@
         "listing_offer_id": "121/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-24 07:03:48",
-        "last_updated": "2025-07-03 10:17:45"
+        "last_updated": "2025-07-03 10:47:50"
     },
     {
         "id": 12251299,
@@ -2721,7 +2874,7 @@
         "listing_offer_id": "16/17058/OLS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-23 15:08:20",
-        "last_updated": "2025-07-03 10:19:56"
+        "last_updated": "2025-07-03 10:50:02"
     },
     {
         "id": 12251007,
@@ -2790,7 +2943,7 @@
         "listing_offer_id": "12/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:54:45",
-        "last_updated": "2025-07-03 10:19:54"
+        "last_updated": "2025-07-03 10:50:01"
     },
     {
         "id": 12108039,
@@ -2909,139 +3062,6 @@
         "listing_offer_id": "650/17058/OMS",
         "no_of_floors": 11,
         "actualisation_date": "2025-06-23 13:36:17",
-        "last_updated": "2025-07-03 10:14:32"
-    },
-    {
-        "id": 12251003,
-        "title": "",
-        "price": 139000,
-        "is_special": 0,
-        "building_type": null,
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości Eagles Estate ma przyjemność przedstawić na sprzedaż atrakcyjną działkę o powierzchni 19 arów położoną w malowniczej miejscowości Wola Rafałowska, z bezpośrednim dostępem do drogi wojewódzkiej.<br><br>Działka posiada wydaną decyzję o warunkach zabudowy, co pozwala na szybkie rozpoczęcie procesu inwestycyjnego.<br><br>Media: gaz, prąd i woda dostępne są na sąsiednich działkach, co ułatwia podłączenie wszystkich niezbędnych instalacji.<br><br>Teren jest ładnie położony, w spokojnej i zielonej okolicy, z dobrym dojazdem do pobliskich miejscowości.<br><br>Idealna propozycja dla osób poszukujących gruntu pod budowę domu jednorodzinnego w cichej, a jednocześnie dobrze skomunikowanej lokalizacji.<br><br>Możliwość zakupu sąsiednich działek – doskonała opcja dla inwestorów lub osób planujących większą zabudowę. Decyzja o warunkach zabudowy wydana dla inwestycji polegającej na budowie 3 budynków mieszkalnych.<br><br>Udział w drodze dojazdowej do działki dodatkowo płatny.<br><br>Zapraszamy do kontaktu i obejrzenia działki na miejscu!<br><br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny. Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.<br><br>",
-        "elevator": null,
-        "floor_no": null,
-        "garage": null,
-        "garage_parking_price": null,
-        "short_description": "Działka z WZ Wola Rafałowska 19 ar",
-        "headerAdvertisement": "Działka z WZ Wola Rafałowska 19 ar",
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszowski/Chmielnik/Wola Rafałowska",
-        "location_province": "Podkarpackie",
-        "location_locality": "Wola Rafałowska",
-        "location_quarter": "",
-        "material": null,
-        "mortgage_market": null,
-        "no_of_rooms": null,
-        "ownership_type": null,
-        "parking_spaces_no": null,
-        "price_m2": 70.42,
-        "provision_amount": 2085,
-        "section": "LotSale",
-        "status": "Active",
-        "total_area": null,
-        "year_built": null,
-        "street_name": null,
-        "street_full_name": null,
-        "images": [
-            {
-                "id": 106401705,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106401690,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106400546,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106401704,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106401706,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "11/17058/OGS",
-        "no_of_floors": null,
-        "actualisation_date": "2025-06-23 13:34:05",
-        "last_updated": "2025-07-03 10:19:49"
-    },
-    {
-        "id": 12250966,
-        "title": "",
-        "price": 129000,
-        "is_special": 0,
-        "building_type": null,
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości Eagles Estate ma przyjemność przedstawić na sprzedaż atrakcyjną działkę o powierzchni 17 arów położoną w malowniczej miejscowości Wola Rafałowska, z bezpośrednim dostępem do drogi wojewódzkiej.<br><br> Działka posiada wydaną decyzję o warunkach zabudowy, co pozwala na szybkie rozpoczęcie procesu inwestycyjnego. <br><br>Media: gaz znajduje się bezpośrednio na działce, natomiast prąd i woda dostępne są na sąsiedniej działce, co ułatwia podłączenie wszystkich niezbędnych instalacji.<br><br> Teren jest ładnie położony, w spokojnej i zielonej okolicy, z dobrym dojazdem do pobliskich miejscowości. <br><br>Idealna propozycja dla osób poszukujących gruntu pod budowę domu jednorodzinnego w cichej, a jednocześnie dobrze skomunikowanej lokalizacji.<br><br> Możliwość zakupu sąsiednich działek – doskonała opcja dla inwestorów lub osób planujących większą zabudowę. Decyzja o warunkach zabudowy wydana dla inwestycji polegającej na budowie 3 budynków mieszkalnych.<br><br>Udział w drodze dojazdowej do działki dodatkowo płatny.<br><br> Zapraszamy do kontaktu i obejrzenia działki na miejscu!<br><br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.  Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.",
-        "elevator": null,
-        "floor_no": null,
-        "garage": null,
-        "garage_parking_price": null,
-        "short_description": "Działka z WZ Wola Rafałowska 17 ar",
-        "headerAdvertisement": "Działka z WZ Wola Rafałowska 17 ar",
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszowski/Chmielnik/Wola Rafałowska",
-        "location_province": "Podkarpackie",
-        "location_locality": "Wola Rafałowska",
-        "location_quarter": "",
-        "material": null,
-        "mortgage_market": null,
-        "no_of_rooms": null,
-        "ownership_type": null,
-        "parking_spaces_no": null,
-        "price_m2": 72.92,
-        "provision_amount": 1935,
-        "section": "LotSale",
-        "status": "Active",
-        "total_area": null,
-        "year_built": null,
-        "street_name": null,
-        "street_full_name": null,
-        "images": [
-            {
-                "id": 106401934,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106401759,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106401751,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106400053,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106401757,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106401760,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "10/17058/OGS",
-        "no_of_floors": null,
-        "actualisation_date": "2025-06-23 13:26:20",
-        "last_updated": "2025-07-03 10:19:41"
+        "last_updated": "2025-07-03 10:44:35"
     }
 ]
