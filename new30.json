@@ -1,5 +1,89 @@
 [
     {
+        "id": 12182522,
+        "title": "",
+        "price": 272000,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "W ofercie biura nieruchomości&nbsp;<b>Eagles Estate</b>&nbsp;przedstawiamy Państwu ofertę sprzedaży funkcjonalnego mieszkania o powierzchni 28 m², zlokalizowanego w urokliwej i spokojnej części Boguchwały – przy ul. Stanisława Lema. Nieruchomość znajduje się na 1. piętrze kameralnego, nowoczesnego budynku wielorodzinnego, którego zakończenie budowy planowane jest na IV kwartał 2026 roku. <br><br>Mieszkanie położone jest w dobrze skomunikowanej części Boguchwały. W najbliższej okolicy znajdują się sklepy spożywcze i branżowe, restauracja, przedszkole oraz żłobek, kościół, boisko sportowe i basen – wszystko, co potrzebne do codziennego życia. Bliskość przystanku autobusowego oraz stacji PKP umożliwia szybki dojazd do centrum Rzeszowa. Dodatkowym atutem jest nowoczesna architektura budynku, idealnie wpisująca się w otoczenie nowopowstającego osiedla mieszkaniowego.<br><br><b>Najważniejsze informacje:</b><br>Standard wykończenia: deweloperski, daje możliwość aranżacji wnętrza według własnych upodobań<br>Rodzaj ogrzewania: gazowe, zapewni efektywność i niskie koszty eksploatacyjne<br>Dodatkowe powierzchnie: miejsce postojowe - dodatkowo płatne 8 000 zł<br><b><br>Układ mieszkania:<br></b>- Salon z aneksem kuchennym<br>- Sypialnia<br>- Łazienka<br><br>Prezentowana nieruchomość to propozycja idealna dla singla, pary lub inwestora szukającego nieruchomości pod wynajem. Mieszkanie łączy nowoczesny styl z bliskością natury – doskonały wybór dla osób ceniących komfort i spokojne otoczenie. Pomimo niewielkiego metrażu, układ wnętrz sprawia, że przestrzeń jest bardzo funkcjonalna.<br><br><b>Dostępne są również te same układy mieszkań na innych piętrach!</b><br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie &nbsp;od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.Zapraszamy do kontaktu oraz prezentacji nieruchomości.   Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.  Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.<br><br><br><br>",
+        "elevator": 1,
+        "floor_no": 1,
+        "garage": 1,
+        "garage_parking_price": 8000,
+        "short_description": "2 Pokojowe mieszkanie w stanie deweloperskim",
+        "headerAdvertisement": "2 Pokojowe mieszkanie w stanie deweloperskim",
+        "kitchen_type": "Adjoining",
+        "location_name": "/Podkarpackie/Rzeszowski/Boguchwała",
+        "location_province": "Podkarpackie",
+        "location_locality": "Boguchwała",
+        "location_quarter": "",
+        "material": "AirBrick",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 2,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": 1,
+        "price_m2": 9714.29,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 28,
+        "year_built": 2026,
+        "street_name": "Stanisława Lema",
+        "street_full_name": "ul. Stanisława Lema",
+        "images": [
+            {
+                "id": 105453072,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105453066,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105453079,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105453069,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105453070,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105453071,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105453073,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105453074,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105453077,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "823/17058/OMS",
+        "no_of_floors": 3,
+        "actualisation_date": "2025-07-03 18:18:39",
+        "last_updated": "2025-07-03 18:47:02"
+    },
+    {
         "id": 12233305,
         "title": "",
         "price": 449248,
@@ -101,7 +185,7 @@
         "listing_offer_id": "938/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 18:16:47",
-        "last_updated": "2025-07-03 18:19:17"
+        "last_updated": "2025-07-03 18:49:15"
     },
     {
         "id": 12233360,
@@ -205,7 +289,7 @@
         "listing_offer_id": "939/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 18:16:35",
-        "last_updated": "2025-07-03 18:19:22"
+        "last_updated": "2025-07-03 18:49:16"
     },
     {
         "id": 12259915,
@@ -289,7 +373,7 @@
         "listing_offer_id": "20/17058/OLS",
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 17:29:04",
-        "last_updated": "2025-07-03 18:01:25"
+        "last_updated": "2025-07-03 18:31:22"
     },
     {
         "id": 12259099,
@@ -378,7 +462,7 @@
         "listing_offer_id": "19/17058/OLS",
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 16:19:13",
-        "last_updated": "2025-07-03 18:20:33"
+        "last_updated": "2025-07-03 18:50:30"
     },
     {
         "id": 12205021,
@@ -462,7 +546,7 @@
         "listing_offer_id": "123/17058/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-07-03 13:46:16",
-        "last_updated": "2025-07-03 18:18:16"
+        "last_updated": "2025-07-03 18:48:14"
     },
     {
         "id": 12263208,
@@ -531,7 +615,7 @@
         "listing_offer_id": "145/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 12:58:08",
-        "last_updated": "2025-07-03 18:20:35"
+        "last_updated": "2025-07-03 18:50:32"
     },
     {
         "id": 12260335,
@@ -610,7 +694,7 @@
         "listing_offer_id": "143/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 12:44:13",
-        "last_updated": "2025-07-03 18:01:27"
+        "last_updated": "2025-07-03 18:31:27"
     },
     {
         "id": 11982690,
@@ -779,7 +863,7 @@
         "listing_offer_id": "54/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 11:57:05",
-        "last_updated": "2025-07-03 18:00:27"
+        "last_updated": "2025-07-03 18:30:25"
     },
     {
         "id": 11974578,
@@ -858,7 +942,7 @@
         "listing_offer_id": "47/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 11:42:19",
-        "last_updated": "2025-07-03 18:09:55"
+        "last_updated": "2025-07-03 18:39:44"
     },
     {
         "id": 11929382,
@@ -937,7 +1021,7 @@
         "listing_offer_id": "16/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 11:39:57",
-        "last_updated": "2025-07-03 18:04:35"
+        "last_updated": "2025-07-03 18:34:31"
     },
     {
         "id": 11964770,
@@ -1011,7 +1095,7 @@
         "listing_offer_id": "41/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 10:13:25",
-        "last_updated": "2025-07-03 18:09:16"
+        "last_updated": "2025-07-03 18:39:03"
     },
     {
         "id": 11942394,
@@ -1090,7 +1174,7 @@
         "listing_offer_id": "119/17058/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 10:12:14",
-        "last_updated": "2025-07-03 18:06:57"
+        "last_updated": "2025-07-03 18:36:48"
     },
     {
         "id": 12074942,
@@ -1134,7 +1218,7 @@
         "listing_offer_id": "610/17058/OMS",
         "no_of_floors": 2,
         "actualisation_date": "2025-07-03 08:55:02",
-        "last_updated": "2025-07-03 18:14:04"
+        "last_updated": "2025-07-03 18:43:46"
     },
     {
         "id": 12122132,
@@ -1253,7 +1337,7 @@
         "listing_offer_id": "90/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 08:27:15",
-        "last_updated": "2025-07-03 18:02:13"
+        "last_updated": "2025-07-03 18:32:11"
     },
     {
         "id": 12225225,
@@ -1372,7 +1456,7 @@
         "listing_offer_id": "900/17058/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-07-02 12:28:57",
-        "last_updated": "2025-07-03 18:18:56"
+        "last_updated": "2025-07-03 18:48:51"
     },
     {
         "id": 12162728,
@@ -1451,7 +1535,7 @@
         "listing_offer_id": "772/17058/OMS",
         "no_of_floors": 11,
         "actualisation_date": "2025-07-01 11:18:24",
-        "last_updated": "2025-07-03 18:15:32"
+        "last_updated": "2025-07-03 18:45:24"
     },
     {
         "id": 12117244,
@@ -1510,7 +1594,7 @@
         "listing_offer_id": "684/17058/OMS",
         "no_of_floors": 2,
         "actualisation_date": "2025-07-01 11:17:39",
-        "last_updated": "2025-07-03 18:01:05"
+        "last_updated": "2025-07-03 18:30:58"
     },
     {
         "id": 11988912,
@@ -1584,7 +1668,7 @@
         "listing_offer_id": "246/17058/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-01 09:40:27",
-        "last_updated": "2025-07-03 18:02:51"
+        "last_updated": "2025-07-03 18:32:46"
     },
     {
         "id": 12243776,
@@ -1658,7 +1742,7 @@
         "listing_offer_id": "975/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-07-01 09:36:27",
-        "last_updated": "2025-07-03 18:19:50"
+        "last_updated": "2025-07-03 18:49:48"
     },
     {
         "id": 12244082,
@@ -1732,7 +1816,7 @@
         "listing_offer_id": "133/17058/ODS",
         "no_of_floors": 0,
         "actualisation_date": "2025-07-01 08:41:48",
-        "last_updated": "2025-07-03 18:19:55"
+        "last_updated": "2025-07-03 18:49:50"
     },
     {
         "id": 12184373,
@@ -1806,7 +1890,7 @@
         "listing_offer_id": "3/17058/OLW",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-30 21:38:59",
-        "last_updated": "2025-07-03 18:17:18"
+        "last_updated": "2025-07-03 18:47:03"
     },
     {
         "id": 12241693,
@@ -1895,7 +1979,7 @@
         "listing_offer_id": "967/17058/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-30 11:31:03",
-        "last_updated": "2025-07-03 18:13:21"
+        "last_updated": "2025-07-03 18:43:09"
     },
     {
         "id": 12242522,
@@ -1984,7 +2068,7 @@
         "listing_offer_id": "970/17058/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-30 09:18:31",
-        "last_updated": "2025-07-03 18:01:53"
+        "last_updated": "2025-07-03 18:31:51"
     },
     {
         "id": 12239140,
@@ -2068,7 +2152,7 @@
         "listing_offer_id": "948/17058/OMS",
         "no_of_floors": 10,
         "actualisation_date": "2025-06-29 08:34:56",
-        "last_updated": "2025-07-03 18:19:31"
+        "last_updated": "2025-07-03 18:49:29"
     },
     {
         "id": 12224966,
@@ -2157,7 +2241,7 @@
         "listing_offer_id": "19/17058/OMW",
         "no_of_floors": 17,
         "actualisation_date": "2025-06-27 12:53:36",
-        "last_updated": "2025-07-03 18:18:48"
+        "last_updated": "2025-07-03 18:48:42"
     },
     {
         "id": 12131149,
@@ -2326,7 +2410,7 @@
         "listing_offer_id": "94/17058/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-26 16:22:38",
-        "last_updated": "2025-07-03 18:15:19"
+        "last_updated": "2025-07-03 18:45:09"
     },
     {
         "id": 12048705,
@@ -2440,7 +2524,7 @@
         "listing_offer_id": "510/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-26 15:48:02",
-        "last_updated": "2025-07-03 18:13:03"
+        "last_updated": "2025-07-03 18:42:52"
     },
     {
         "id": 12253763,
@@ -2599,7 +2683,7 @@
         "listing_offer_id": "1003/17058/OMS",
         "no_of_floors": 16,
         "actualisation_date": "2025-06-26 11:27:55",
-        "last_updated": "2025-07-03 18:20:27"
+        "last_updated": "2025-07-03 18:50:24"
     },
     {
         "id": 12222907,
@@ -2673,110 +2757,6 @@
         "listing_offer_id": "8/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-25 13:09:11",
-        "last_updated": "2025-07-03 18:18:43"
-    },
-    {
-        "id": 12254049,
-        "title": "",
-        "price": 379996.2,
-        "is_special": 1,
-        "building_type": "Hotel",
-        "country_name": "Polska",
-        "description": "Eagles Estate przedstawia atrakcyjną ofertę inwestycyjną w nowoczesnym kompleksie wypoczynkowym położonym w sercu Dźwirzyna – jednej z najbardziej malowniczych nadmorskich miejscowości w Polsce. Kameralny budynek apartamentowy z licznymi udogodnieniami znajduje się zaledwie 6 minut spacerem od plaży, oferując komfort, prywatność i stabilny model inwestycyjny z możliwością stałego lub elastycznego najmu.<br><br>  <b>Szczegóły inwestycji:</b><br>  <ul>  <li>Lokalizacja:      <b>Dźwirzyno - </b>13 km od Kołobrzegu</li>  <li>Planowane      zakończenie budowy: <b>II kwartał 2026 r.</b></li>  <li>Dostępne      apartamenty: 1-, 2- i 3-pokojowe (również z antresolą)</li>  <li>Standard      wykończenia: <b>deweloperski</b> (z opcją zakupu wykończenia i pełnego      wyposażenia)</li>  <li>Ceny      od: <b>308 940 PLN netto + 23% VAT</b></li>  <li>Miejsce      postojowe: zewnętrzne -&nbsp;<b>opcjonalne – 44 900 PLN netto</b></li> </ul><b><br></b><br>  <b>Dwa modele współpracy inwestycyjnej do wyboru:<br></b><br>  <b>- Model 1 – Gwarantowany stały czynsz do 7% rocznie</b><br>  <ul>  <li>Umowa      najmu zawierana na okres 10 lat</li>  <li>Stopa      zwrotu:<br>      • do <b>7%</b> bez pobytów właścicielskich<br>      • do <b>6%</b> przy możliwości korzystania z apartamentu do 14 dni w roku</li>  <li>Czynsz      wypłacany od ceny netto apartamentu z wykończeniem (bez wyposażenia) i      miejsca postojowego</li>  <li>Waloryzacja      czynszu co 3 lata (od 2030 r.)</li>  <li>Wszystkie      koszty eksploatacyjne po stronie operatora (właściciel pokrywa jedynie      fundusz remontowy i ubezpieczenie)</li>  <li>Możliwość      korzystania z preferencyjnych warunków pobytowych w innych obiektach sieci</li>  <li>Obowiązkowy      zakup pakietu wykończenia i wyposażenia przy wyborze tego modelu</li> </ul>  <b>- Model 2 – Elastyczny najem z podziałem przychodu (70/30)</b><br>  <ul>  <li>70%      przychodów z najmu trafia do właściciela</li>  <li>Elastyczna      długość umowy (minimum 2 lata)</li>  <li>Możliwość      korzystania z apartamentu w sezonie i poza sezonem w ramach puli      właścicielskiej</li>  <li>Dostęp      do systemu rezerwacyjnego i pełna kontrola rozliczeń</li>  <li>Opcja      przystąpienia do programu lojalnościowego zapewniającego pobyty w innych      lokalizacjach na preferencyjnych warunkach</li>  <li>Koszty      eksploatacyjne po stronie właściciela</li> </ul><br><br>  <b>Dodatkowe atuty kompleksu:</b><br>  <ul>  <li>Kameralny,      2-piętrowy budynek z windą i reprezentacyjnym holem</li>  <li>Basen      zewnętrzny, strefa wodna dla dzieci, strefa relaksu z leżakami</li>  <li>Plac      zabaw, tereny zielone i rekreacyjne</li>  <li>System      smart lock – otwieranie drzwi z poziomu aplikacji mobilnej</li>  <li>Panele      fotowoltaiczne do zasilania części wspólnych</li>  <li>Parking      zewnętrzny z ładowarkami do samochodów elektrycznych</li> </ul>  &nbsp;<br>  <b>Dlaczego warto?</b><br>  ✔ Gwarantowany dochód pasywny lub elastyczny najem<br> ✔ Kompleksowa obsługa zarządzania najmem<br> ✔ Brak podatku PCC i możliwość odliczenia VAT<br> ✔ Atrakcyjna lokalizacja nad Bałtykiem<br> ✔ Elastyczność inwestycyjna – możesz wynajmować, korzystać, lub połączyć obie opcje<br> ✔ Doświadczenie operatora, pełna przejrzystość i kontrola<br><br>  <b>Zainwestuj w miejsce, które zarabia na siebie – nawet wtedy, gdy Ciebie tam nie ma.</b><br> Skontaktuj się z Eagles Estate, by otrzymać katalog dostępnych apartamentów, rzuty lokali oraz indywidualną kalkulację stopy zwrotu.<br> <b>Eagles Estate – Twój partner w bezpiecznych inwestycjach nad Bałtykiem.</b><br>  &nbsp;<br><br>",
-        "elevator": 1,
-        "floor_no": 0,
-        "garage": null,
-        "garage_parking_price": null,
-        "short_description": "Apartament inwestycyjny nad morzem Kołobrzeg",
-        "headerAdvertisement": "Apartament inwestycyjny nad morzem Kołobrzeg",
-        "kitchen_type": null,
-        "location_name": "/Podkarpackie/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": null,
-        "mortgage_market": "Primary",
-        "no_of_rooms": null,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 16666.5,
-        "provision_amount": 0,
-        "section": "CommercialSpaceSale",
-        "status": "Active",
-        "total_area": 22.8,
-        "year_built": 2026,
-        "street_name": null,
-        "street_full_name": null,
-        "images": [
-            {
-                "id": 106443700,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106443690,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106444087,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106443688,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106443691,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106443692,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106443693,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106443694,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106443695,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106443696,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106443697,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106443698,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106443699,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "18/17058/OLS",
-        "no_of_floors": 2,
-        "actualisation_date": "2025-06-25 12:30:44",
-        "last_updated": "2025-07-03 18:20:25"
+        "last_updated": "2025-07-03 18:48:38"
     }
 ]
