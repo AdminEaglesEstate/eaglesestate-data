@@ -1,5 +1,89 @@
 [
     {
+        "id": 12205021,
+        "title": "",
+        "price": 1100000,
+        "is_special": 0,
+        "building_type": null,
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości <b>Eagles Estate </b>prezentuje Państwu 5-pokojowy dom o powierzchni 122 m², usytuowany na działce 14 arów, położony w spokojnej dzielnicy Wilkowyja w Rzeszowie.<br> Nieruchomość znajduje się przy ulicy Jana Olbrachta, w bliskiej odległości od rzeki Malawka, co zapewnia ciszę i kontakt z naturą. Dom wybudowany został w 1992 roku, a w 2019 roku został docieplony styropianem 15 cm.<br><b><br>&nbsp;W skład nieruchomości wchodzi:</b><br>- salon<br>- 4 pokoje<br>- oddzielna kuchnia<br>- 2 łazienki<br>- przedpokój<br>- spiżarka<br><ul> </ul><b><br></b> <b>&nbsp;Atuty nieruchomości:<br></b>- działka o powierzchni 1440 m² częściowo ogrodzona,<br>- domek gospodarczy o wymiarach 9x5 m, który może służyć jako garaż,<br>- ogródek z południową ekspozycją, graniczący z rzeką,<br>- podłączenie do miejskiej sieci wodno-kanalizacyjnej oraz własna studnia,<br>- ogrzewanie gazowe z sieci,<br>- miejsce parkingowe i garaż,<br>- dom jest do zamieszkania, wymaga jedynie odświeżenia według własnych potrzeb. <br><br>Zapraszam do kontaktu i na prezentację nieruchomości.<br><br>&nbsp;Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
+        "elevator": null,
+        "floor_no": null,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "Dom na sprzedaż Rzeszów Wylkowyja",
+        "headerAdvertisement": "Dom na sprzedaż Rzeszów Wylkowyja",
+        "kitchen_type": "Open",
+        "location_name": "/Podkarpackie/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "AirBrick",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 5,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 9016.39,
+        "provision_amount": 17930,
+        "section": "HouseSale",
+        "status": "Active",
+        "total_area": 122,
+        "year_built": 1990,
+        "street_name": null,
+        "street_full_name": null,
+        "images": [
+            {
+                "id": 106588014,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106588037,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106587922,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106587924,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106587919,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106587921,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106588035,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106588036,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106588033,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "123/17058/ODS",
+        "no_of_floors": 2,
+        "actualisation_date": "2025-07-03 13:46:16",
+        "last_updated": "2025-07-03 14:17:56"
+    },
+    {
         "id": 12263208,
         "title": "",
         "price": 699000,
@@ -66,7 +150,7 @@
         "listing_offer_id": "145/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 12:58:08",
-        "last_updated": "2025-07-03 13:50:24"
+        "last_updated": "2025-07-03 14:20:17"
     },
     {
         "id": 12260335,
@@ -145,7 +229,7 @@
         "listing_offer_id": "143/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 12:44:13",
-        "last_updated": "2025-07-03 13:31:22"
+        "last_updated": "2025-07-03 14:01:21"
     },
     {
         "id": 11982690,
@@ -314,7 +398,7 @@
         "listing_offer_id": "54/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 11:57:05",
-        "last_updated": "2025-07-03 13:30:27"
+        "last_updated": "2025-07-03 14:00:27"
     },
     {
         "id": 11974578,
@@ -393,7 +477,7 @@
         "listing_offer_id": "47/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 11:42:19",
-        "last_updated": "2025-07-03 13:39:48"
+        "last_updated": "2025-07-03 14:09:42"
     },
     {
         "id": 11929382,
@@ -472,7 +556,7 @@
         "listing_offer_id": "16/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 11:39:57",
-        "last_updated": "2025-07-03 13:34:22"
+        "last_updated": "2025-07-03 14:04:23"
     },
     {
         "id": 11964770,
@@ -546,7 +630,7 @@
         "listing_offer_id": "41/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 10:13:25",
-        "last_updated": "2025-07-03 13:39:14"
+        "last_updated": "2025-07-03 14:09:00"
     },
     {
         "id": 11942394,
@@ -625,7 +709,7 @@
         "listing_offer_id": "119/17058/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 10:12:14",
-        "last_updated": "2025-07-03 13:36:45"
+        "last_updated": "2025-07-03 14:06:43"
     },
     {
         "id": 12074942,
@@ -669,7 +753,7 @@
         "listing_offer_id": "610/17058/OMS",
         "no_of_floors": 2,
         "actualisation_date": "2025-07-03 08:55:02",
-        "last_updated": "2025-07-03 13:43:55"
+        "last_updated": "2025-07-03 14:13:44"
     },
     {
         "id": 12122132,
@@ -788,7 +872,7 @@
         "listing_offer_id": "90/17058/ODS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 08:27:15",
-        "last_updated": "2025-07-03 13:31:58"
+        "last_updated": "2025-07-03 14:01:58"
     },
     {
         "id": 12225225,
@@ -907,7 +991,7 @@
         "listing_offer_id": "900/17058/OMS",
         "no_of_floors": 7,
         "actualisation_date": "2025-07-02 12:28:57",
-        "last_updated": "2025-07-03 13:48:50"
+        "last_updated": "2025-07-03 14:18:36"
     },
     {
         "id": 12162728,
@@ -986,7 +1070,7 @@
         "listing_offer_id": "772/17058/OMS",
         "no_of_floors": 11,
         "actualisation_date": "2025-07-01 11:18:24",
-        "last_updated": "2025-07-03 13:45:27"
+        "last_updated": "2025-07-03 14:15:13"
     },
     {
         "id": 12117244,
@@ -1045,7 +1129,7 @@
         "listing_offer_id": "684/17058/OMS",
         "no_of_floors": 2,
         "actualisation_date": "2025-07-01 11:17:39",
-        "last_updated": "2025-07-03 13:31:01"
+        "last_updated": "2025-07-03 14:01:01"
     },
     {
         "id": 11988912,
@@ -1119,7 +1203,7 @@
         "listing_offer_id": "246/17058/OMS",
         "no_of_floors": 1,
         "actualisation_date": "2025-07-01 09:40:27",
-        "last_updated": "2025-07-03 13:32:37"
+        "last_updated": "2025-07-03 14:02:42"
     },
     {
         "id": 12243776,
@@ -1193,7 +1277,7 @@
         "listing_offer_id": "975/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-07-01 09:36:27",
-        "last_updated": "2025-07-03 13:49:44"
+        "last_updated": "2025-07-03 14:19:33"
     },
     {
         "id": 12244082,
@@ -1267,7 +1351,7 @@
         "listing_offer_id": "133/17058/ODS",
         "no_of_floors": 0,
         "actualisation_date": "2025-07-01 08:41:48",
-        "last_updated": "2025-07-03 13:49:46"
+        "last_updated": "2025-07-03 14:19:35"
     },
     {
         "id": 12184373,
@@ -1341,7 +1425,7 @@
         "listing_offer_id": "3/17058/OLW",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-30 21:38:59",
-        "last_updated": "2025-07-03 13:47:14"
+        "last_updated": "2025-07-03 14:16:57"
     },
     {
         "id": 12241693,
@@ -1430,7 +1514,7 @@
         "listing_offer_id": "967/17058/OMS",
         "no_of_floors": 8,
         "actualisation_date": "2025-06-30 11:31:03",
-        "last_updated": "2025-07-03 13:43:15"
+        "last_updated": "2025-07-03 14:13:04"
     },
     {
         "id": 12242522,
@@ -1519,7 +1603,7 @@
         "listing_offer_id": "970/17058/OMS",
         "no_of_floors": 4,
         "actualisation_date": "2025-06-30 09:18:31",
-        "last_updated": "2025-07-03 13:31:44"
+        "last_updated": "2025-07-03 14:01:44"
     },
     {
         "id": 12239140,
@@ -1603,7 +1687,7 @@
         "listing_offer_id": "948/17058/OMS",
         "no_of_floors": 10,
         "actualisation_date": "2025-06-29 08:34:56",
-        "last_updated": "2025-07-03 13:49:25"
+        "last_updated": "2025-07-03 14:19:17"
     },
     {
         "id": 12224966,
@@ -1692,7 +1776,7 @@
         "listing_offer_id": "19/17058/OMW",
         "no_of_floors": 17,
         "actualisation_date": "2025-06-27 12:53:36",
-        "last_updated": "2025-07-03 13:48:39"
+        "last_updated": "2025-07-03 14:18:24"
     },
     {
         "id": 12131149,
@@ -1861,7 +1945,7 @@
         "listing_offer_id": "94/17058/ODS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-26 16:22:38",
-        "last_updated": "2025-07-03 13:45:15"
+        "last_updated": "2025-07-03 14:15:04"
     },
     {
         "id": 12048705,
@@ -1975,7 +2059,7 @@
         "listing_offer_id": "510/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-26 15:48:02",
-        "last_updated": "2025-07-03 13:42:58"
+        "last_updated": "2025-07-03 14:12:48"
     },
     {
         "id": 12253763,
@@ -2134,7 +2218,7 @@
         "listing_offer_id": "1003/17058/OMS",
         "no_of_floors": 16,
         "actualisation_date": "2025-06-26 11:27:55",
-        "last_updated": "2025-07-03 13:50:20"
+        "last_updated": "2025-07-03 14:20:04"
     },
     {
         "id": 12222907,
@@ -2208,7 +2292,7 @@
         "listing_offer_id": "8/17058/OGS",
         "no_of_floors": null,
         "actualisation_date": "2025-06-25 13:09:11",
-        "last_updated": "2025-07-03 13:48:38"
+        "last_updated": "2025-07-03 14:18:23"
     },
     {
         "id": 12254049,
@@ -2312,7 +2396,7 @@
         "listing_offer_id": "18/17058/OLS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-25 12:30:44",
-        "last_updated": "2025-07-03 13:50:16"
+        "last_updated": "2025-07-03 14:20:02"
     },
     {
         "id": 12248457,
@@ -2596,7 +2680,7 @@
         "listing_offer_id": "14/17058/OOS",
         "no_of_floors": 1,
         "actualisation_date": "2025-06-25 11:54:44",
-        "last_updated": "2025-07-03 13:49:48"
+        "last_updated": "2025-07-03 14:19:39"
     },
     {
         "id": 11870529,
@@ -2685,7 +2769,7 @@
         "listing_offer_id": "3/17058/OMS",
         "no_of_floors": 3,
         "actualisation_date": "2025-06-25 09:10:22",
-        "last_updated": "2025-07-03 13:32:38"
+        "last_updated": "2025-07-03 14:02:44"
     },
     {
         "id": 11952366,
@@ -2864,7 +2948,7 @@
         "listing_offer_id": "35/17058/ODS",
         "no_of_floors": 0,
         "actualisation_date": "2025-06-24 13:34:52",
-        "last_updated": "2025-07-03 13:38:48"
+        "last_updated": "2025-07-03 14:08:44"
     },
     {
         "id": 12252499,
@@ -2968,85 +3052,6 @@
         "listing_offer_id": "17/17058/OLS",
         "no_of_floors": 2,
         "actualisation_date": "2025-06-24 12:48:32",
-        "last_updated": "2025-07-03 13:50:14"
-    },
-    {
-        "id": 12121375,
-        "title": "",
-        "price": 669000,
-        "is_special": 0,
-        "building_type": "LowBlock",
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości <b>Eagles Estate</b> prezentuje Państwu 2-pokojowe mieszkanie o powierzchni 53,12 m² usytuowane na 3. piętrze niskiego bloku, wybudowanego w 1955 roku. Nieruchomość zlokalizowana jest przy ul. Dąbrowskiego na osiedlu Śródmieście. Mieszkanie znajduje się w doskonałej lokalizacji – w pobliżu Politechniki Rzeszowskiej, szkół, przedszkoli, żłobków, sklepów, przychodni, parków oraz przystanków komunikacji miejskiej. <br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI:<br></b>- Salon / pokój dzienny<br>- Sypialnia<br>- Oddzielna kuchnia&nbsp;<br>- Przedpokój<br>- Łazienka&nbsp;<br>&nbsp; <br><b>ATUTY NIERUCHOMOŚCI:</b><br>- Doskonała lokalizacja – blisko centrum i uczelni<br>- Mieszkanie dwustronne (bardzo dobre doświetlenie)<br>- Po generalnym remoncie kuchni w 2023 roku (nowe meble na wymiar, sprzęt AGD, wylewka samopoziomująca, płytki)<br>- Łazienka przeszła generalny remont w 2017 roku<br>- Umeblowane i gotowe do zamieszkania<br>- Nowe instalacje<br>- Spokojne, zadbane sąsiedztwo<br><br>Do mieszkania przynależy piwnica o powierzchni ok. 5 m² oraz dostępne są miejsca postojowe na parkingu publicznym (przy ulicy).<br>  Mieszkanie idealne zarówno do zamieszkania, jak i jako inwestycja pod wynajem ze względu na bliskość Politechniki Rzeszowskiej.<br><br>Po więcej informacji zapraszam do kontaktu.<br><br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
-        "elevator": 0,
-        "floor_no": 3,
-        "garage": 0,
-        "garage_parking_price": null,
-        "short_description": "Przytulne mieszkanie blisko uczelni",
-        "headerAdvertisement": "Przytulne mieszkanie blisko uczelni",
-        "kitchen_type": "Separate",
-        "location_name": "/Podkarpackie/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": "Mixed",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 2,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 12594.13,
-        "provision_amount": 13380,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 53.12,
-        "year_built": 1955,
-        "street_name": "Jarosława Dąbrowskiego",
-        "street_full_name": "ul. Jarosława Dąbrowskiego",
-        "images": [
-            {
-                "id": 106415758,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106415811,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106415812,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106415816,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106415818,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106416949,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106416950,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106417285,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "701/17058/OMS",
-        "no_of_floors": 3,
-        "actualisation_date": "2025-06-24 11:06:54",
-        "last_updated": "2025-07-03 13:31:52"
+        "last_updated": "2025-07-03 14:20:00"
     }
 ]
