@@ -1,5 +1,95 @@
 [
     {
+        "id": 12291429,
+        "title": "",
+        "price": 569000,
+        "is_special": 0,
+        "building_type": "LowBlock",
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości <b>Eagles Estate</b> prezentuje Państwu 4-pokojowe mieszkanie o powierzchni <b>58,70 m²</b>, usytuowane na 2. piętrze niskiego, ocieplonego bloku bez windy, wybudowanego w połowie lat 70.<br> Nieruchomość zlokalizowana jest przy<b> ul. Mikołajczyka</b> na osiedlu z doskonałym dostępem do infrastruktury miejskiej – w pobliżu znajdują się liczne sklepy, szkoły, przedszkola, pętla autobusowa oraz centrum handlowe.<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br> <ul> <li> przestronny salon z wyjściem na balkon,<br> </li> <li> trzy dodatkowe, ustawne pokoje,<br> </li> <li> oddzielna kuchnia z dostępem do gazu,<br> </li> <li> łazienka,<br> </li> <li>toaleta</li> <li> przedpokój.<br> </li> </ul><br><br><b>  ATUTY NIERUCHOMOŚCI:</b><br> <ul> <li> balkon z widokiem na zieleń,<br> </li> <li> spokojna okolica z dużą ilością zieleni,<br> </li> <li> dużo ogólnodostępnych miejsc parkingowych,<br> </li> <li> ogrzewanie i ciepła woda z sieci miejskiej,<br> </li> <li> przynależna piwnica (komórka lokatorska).<br> </li> </ul><br><br>  Mieszkanie idealne dla rodziny lub jako inwestycja pod wynajem – układ pomieszczeń pozwala na swobodną aranżację.<br><br>  Po więcej informacji zapraszam do kontaktu.<br> Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
+        "elevator": 0,
+        "floor_no": 2,
+        "garage": 0,
+        "garage_parking_price": null,
+        "short_description": "Komfortowe mieszkanie w świetnej lokalizacji",
+        "headerAdvertisement": "Komfortowe mieszkanie w świetnej lokalizacji",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszów/Generała Władysława Andersa",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Generała Władysława Andersa",
+        "material": "Brick",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 4,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 9693,
+        "provision_amount": 11380,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 58.7,
+        "year_built": 1977,
+        "street_name": "Stanisława Mikołajczyka",
+        "street_full_name": "ul. Stanisława Mikołajczyka",
+        "images": [
+            {
+                "id": 107234959,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107234809,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107234958,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107234952,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107234953,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107234956,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107234954,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107234955,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107234957,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107234960,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "1087/17058/OMS",
+        "no_of_floors": 3,
+        "actualisation_date": "2025-08-11 14:35:23",
+        "agentId": 72664,
+        "last_updated": "2025-08-11 15:05:09"
+    },
+    {
         "id": 12299674,
         "title": "",
         "price": 365000,
@@ -62,7 +152,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-11 13:28:53",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:35:29"
+        "last_updated": "2025-08-11 15:06:04"
     },
     {
         "id": 12103566,
@@ -167,7 +257,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-08-11 13:06:16",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:44:30"
+        "last_updated": "2025-08-11 15:15:07"
     },
     {
         "id": 12296197,
@@ -367,7 +457,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-11 12:01:43",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:34:39"
+        "last_updated": "2025-08-11 15:05:17"
     },
     {
         "id": 11939038,
@@ -462,7 +552,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-11 11:48:50",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:36:44"
+        "last_updated": "2025-08-11 15:07:37"
     },
     {
         "id": 11976362,
@@ -522,7 +612,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-11 11:12:26",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:35:24"
+        "last_updated": "2025-08-11 15:05:59"
     },
     {
         "id": 11976007,
@@ -582,7 +672,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-11 11:11:06",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:33:08"
+        "last_updated": "2025-08-11 15:04:00"
     },
     {
         "id": 12239185,
@@ -682,7 +772,7 @@
         "no_of_floors": 13,
         "actualisation_date": "2025-08-11 10:40:51",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:49:05"
+        "last_updated": "2025-08-11 15:19:40"
     },
     {
         "id": 12024984,
@@ -767,7 +857,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-08 10:51:13",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:40:46"
+        "last_updated": "2025-08-11 15:11:38"
     },
     {
         "id": 12300652,
@@ -862,7 +952,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-08 10:50:40",
         "agentId": 74243,
-        "last_updated": "2025-08-11 14:34:46"
+        "last_updated": "2025-08-11 15:05:24"
     },
     {
         "id": 12198463,
@@ -962,7 +1052,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-07 09:28:38",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:47:29"
+        "last_updated": "2025-08-11 15:18:11"
     },
     {
         "id": 12071266,
@@ -1027,7 +1117,7 @@
         "no_of_floors": 12,
         "actualisation_date": "2025-08-07 08:27:15",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:43:51"
+        "last_updated": "2025-08-11 15:14:29"
     },
     {
         "id": 12300547,
@@ -1132,7 +1222,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-06 12:40:41",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:34:44"
+        "last_updated": "2025-08-11 15:05:22"
     },
     {
         "id": 12109306,
@@ -1267,7 +1357,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-06 12:21:41",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:44:50"
+        "last_updated": "2025-08-11 15:15:28"
     },
     {
         "id": 12204942,
@@ -1377,7 +1467,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-06 11:33:08",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:47:54"
+        "last_updated": "2025-08-11 15:18:34"
     },
     {
         "id": 12122950,
@@ -1427,7 +1517,7 @@
         "no_of_floors": 13,
         "actualisation_date": "2025-08-06 09:59:43",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:32:11"
+        "last_updated": "2025-08-11 15:02:56"
     },
     {
         "id": 12214815,
@@ -1527,7 +1617,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-05 15:43:50",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:48:17"
+        "last_updated": "2025-08-11 15:18:53"
     },
     {
         "id": 12287605,
@@ -1612,7 +1702,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-05 15:39:47",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:34:23"
+        "last_updated": "2025-08-11 15:04:56"
     },
     {
         "id": 11973063,
@@ -1727,7 +1817,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-08-05 14:53:52",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:40:10"
+        "last_updated": "2025-08-11 15:11:03"
     },
     {
         "id": 12117411,
@@ -1792,7 +1882,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-05 13:41:40",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:31:00"
+        "last_updated": "2025-08-11 15:01:54"
     },
     {
         "id": 12288619,
@@ -1907,7 +1997,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-05 13:16:30",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:34:26"
+        "last_updated": "2025-08-11 15:05:03"
     },
     {
         "id": 12298645,
@@ -2002,7 +2092,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-05 12:08:28",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:34:47"
+        "last_updated": "2025-08-11 15:05:25"
     },
     {
         "id": 12232918,
@@ -2102,7 +2192,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-05 11:38:40",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:48:46"
+        "last_updated": "2025-08-11 15:19:21"
     },
     {
         "id": 12223695,
@@ -2182,7 +2272,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-05 10:13:14",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:32:47"
+        "last_updated": "2025-08-11 15:03:41"
     },
     {
         "id": 12291528,
@@ -2262,7 +2352,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-05 08:09:31",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:34:33"
+        "last_updated": "2025-08-11 15:05:11"
     },
     {
         "id": 11932698,
@@ -2337,7 +2427,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-08-04 19:02:28",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:35:49"
+        "last_updated": "2025-08-11 15:06:38"
     },
     {
         "id": 11940397,
@@ -2412,7 +2502,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-04 18:55:20",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:37:03"
+        "last_updated": "2025-08-11 15:07:55"
     },
     {
         "id": 11973264,
@@ -2477,7 +2567,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-04 18:40:23",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:40:12"
+        "last_updated": "2025-08-11 15:11:05"
     },
     {
         "id": 12003039,
@@ -2547,7 +2637,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-04 18:29:12",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:41:36"
+        "last_updated": "2025-08-11 15:12:14"
     },
     {
         "id": 12298035,
@@ -2632,7 +2722,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-04 12:18:25",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:34:31"
+        "last_updated": "2025-08-11 15:05:04"
     },
     {
         "id": 12298192,
@@ -2742,7 +2832,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-08-03 06:57:22",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:34:37"
+        "last_updated": "2025-08-11 15:05:16"
     },
     {
         "id": 12279890,
@@ -2817,7 +2907,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-03 06:20:26",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:33:37"
+        "last_updated": "2025-08-11 15:04:29"
     },
     {
         "id": 12224251,
@@ -2902,7 +2992,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-01 17:24:26",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:32:49"
+        "last_updated": "2025-08-11 15:03:46"
     },
     {
         "id": 12023682,
@@ -3012,7 +3102,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-01 17:20:29",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:42:47"
+        "last_updated": "2025-08-11 15:13:23"
     },
     {
         "id": 11964770,
@@ -3102,7 +3192,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-01 16:35:49",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:39:39"
+        "last_updated": "2025-08-11 15:10:36"
     },
     {
         "id": 12280603,
@@ -3232,7 +3322,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-01 12:48:42",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:33:39"
+        "last_updated": "2025-08-11 15:04:34"
     },
     {
         "id": 12065816,
@@ -3307,7 +3397,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-07-31 15:51:32",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:42:55"
+        "last_updated": "2025-08-11 15:13:34"
     },
     {
         "id": 12065861,
@@ -3377,7 +3467,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-07-31 15:51:19",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:42:59"
+        "last_updated": "2025-08-11 15:13:36"
     },
     {
         "id": 12107390,
@@ -3447,7 +3537,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:49:39",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:44:35"
+        "last_updated": "2025-08-11 15:15:13"
     },
     {
         "id": 12107657,
@@ -3517,7 +3607,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:49:24",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:44:37"
+        "last_updated": "2025-08-11 15:15:15"
     },
     {
         "id": 12116693,
@@ -3582,7 +3672,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:48:51",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:30:47"
+        "last_updated": "2025-08-11 15:01:41"
     },
     {
         "id": 12116727,
@@ -3647,7 +3737,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:48:40",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:30:52"
+        "last_updated": "2025-08-11 15:01:46"
     },
     {
         "id": 12132803,
@@ -3722,7 +3812,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:47:08",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:35:15"
+        "last_updated": "2025-08-11 15:05:51"
     },
     {
         "id": 12179603,
@@ -3782,7 +3872,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:42:29",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:46:30"
+        "last_updated": "2025-08-11 15:17:08"
     },
     {
         "id": 12181203,
@@ -3852,7 +3942,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:41:42",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:46:39"
+        "last_updated": "2025-08-11 15:17:18"
     },
     {
         "id": 12240742,
@@ -3932,7 +4022,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:29:19",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:49:12"
+        "last_updated": "2025-08-11 15:19:47"
     },
     {
         "id": 12240878,
@@ -4022,7 +4112,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:29:05",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:49:07"
+        "last_updated": "2025-08-11 15:19:42"
     },
     {
         "id": 12241418,
@@ -4092,7 +4182,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:28:52",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:43:43"
+        "last_updated": "2025-08-11 15:14:21"
     },
     {
         "id": 12250242,
@@ -4162,7 +4252,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:28:09",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:49:30"
+        "last_updated": "2025-08-11 15:20:11"
     },
     {
         "id": 12250243,
@@ -4232,7 +4322,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:27:29",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:49:32"
+        "last_updated": "2025-08-11 15:20:13"
     },
     {
         "id": 12198151,
@@ -4387,7 +4477,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-07-30 16:05:22",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:47:37"
+        "last_updated": "2025-08-11 15:18:19"
     },
     {
         "id": 12252909,
@@ -4492,7 +4582,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-30 12:12:10",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:49:46"
+        "last_updated": "2025-08-11 15:20:24"
     },
     {
         "id": 12253763,
@@ -4652,7 +4742,7 @@
         "no_of_floors": 16,
         "actualisation_date": "2025-07-30 09:53:53",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:49:57"
+        "last_updated": "2025-08-11 15:20:35"
     },
     {
         "id": 12286065,
@@ -4742,7 +4832,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-29 16:27:28",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:34:00"
+        "last_updated": "2025-08-11 15:04:54"
     },
     {
         "id": 11974616,
@@ -4912,7 +5002,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-29 12:24:52",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:40:25"
+        "last_updated": "2025-08-11 15:11:18"
     },
     {
         "id": 11969229,
@@ -5047,7 +5137,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-28 15:11:45",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:32:24"
+        "last_updated": "2025-08-11 15:03:22"
     },
     {
         "id": 11882210,
@@ -5132,7 +5222,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-28 14:23:41",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:33:11"
+        "last_updated": "2025-08-11 15:04:07"
     },
     {
         "id": 12286511,
@@ -5222,7 +5312,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-28 14:04:29",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:33:47"
+        "last_updated": "2025-08-11 15:04:42"
     },
     {
         "id": 12253501,
@@ -5327,7 +5417,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-28 11:23:09",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:49:52"
+        "last_updated": "2025-08-11 15:20:30"
     },
     {
         "id": 12288008,
@@ -5522,7 +5612,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-28 10:46:28",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:33:44"
+        "last_updated": "2025-08-11 15:04:35"
     },
     {
         "id": 12278973,
@@ -5627,7 +5717,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-25 10:33:53",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:33:30"
+        "last_updated": "2025-08-11 15:04:23"
     },
     {
         "id": 12287836,
@@ -5717,7 +5807,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-24 13:45:20",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:34:25"
+        "last_updated": "2025-08-11 15:05:01"
     },
     {
         "id": 12242522,
@@ -5822,7 +5912,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-24 12:28:06",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:31:39"
+        "last_updated": "2025-08-11 15:02:31"
     },
     {
         "id": 12279401,
@@ -5992,7 +6082,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-23 10:40:12",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:33:35"
+        "last_updated": "2025-08-11 15:04:27"
     },
     {
         "id": 12213928,
@@ -6037,7 +6127,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-23 10:27:41",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:48:15"
+        "last_updated": "2025-08-11 15:18:48"
     },
     {
         "id": 12286007,
@@ -6117,7 +6207,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-23 10:26:52",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:33:58"
+        "last_updated": "2025-08-11 15:04:50"
     },
     {
         "id": 12285845,
@@ -6222,7 +6312,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-23 08:05:54",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:33:54"
+        "last_updated": "2025-08-11 15:04:48"
     },
     {
         "id": 12285842,
@@ -6317,7 +6407,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-23 07:58:10",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:33:52"
+        "last_updated": "2025-08-11 15:04:43"
     },
     {
         "id": 12197287,
@@ -6407,7 +6497,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-22 16:32:33",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:47:27"
+        "last_updated": "2025-08-11 15:18:00"
     },
     {
         "id": 12285255,
@@ -6472,7 +6562,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-07-22 16:03:44",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:33:45"
+        "last_updated": "2025-08-11 15:04:37"
     },
     {
         "id": 12197406,
@@ -6557,7 +6647,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-22 11:07:13",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:47:42"
+        "last_updated": "2025-08-11 15:18:21"
     },
     {
         "id": 12243776,
@@ -6627,7 +6717,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-22 10:55:41",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:49:17"
+        "last_updated": "2025-08-11 15:19:52"
     },
     {
         "id": 12206451,
@@ -6792,7 +6882,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-22 10:15:25",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:47:58"
+        "last_updated": "2025-08-11 15:18:40"
     },
     {
         "id": 12264298,
@@ -6902,7 +6992,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-21 13:58:36",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:50:22"
+        "last_updated": "2025-08-11 15:20:49"
     },
     {
         "id": 11870529,
@@ -6992,7 +7082,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-21 11:38:48",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:32:36"
+        "last_updated": "2025-08-11 15:03:33"
     },
     {
         "id": 11999441,
@@ -7112,7 +7202,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-21 10:53:36",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:40:59"
+        "last_updated": "2025-08-11 15:11:50"
     },
     {
         "id": 12016329,
@@ -7212,7 +7302,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-15 12:39:54",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:42:16"
+        "last_updated": "2025-08-11 15:12:55"
     },
     {
         "id": 11891290,
@@ -7302,7 +7392,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-15 12:29:59",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:34:52"
+        "last_updated": "2025-08-11 15:05:30"
     },
     {
         "id": 11891414,
@@ -7392,7 +7482,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-07-15 12:28:54",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:34:54"
+        "last_updated": "2025-08-11 15:05:32"
     },
     {
         "id": 12271796,
@@ -7507,7 +7597,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-15 11:53:26",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:33:28"
+        "last_updated": "2025-08-11 15:04:21"
     },
     {
         "id": 12241693,
@@ -7612,7 +7702,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-07-15 10:07:33",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:43:34"
+        "last_updated": "2025-08-11 15:14:14"
     },
     {
         "id": 11990059,
@@ -7692,7 +7782,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-07-15 09:35:49",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:35:13"
+        "last_updated": "2025-08-11 15:05:45"
     },
     {
         "id": 12166200,
@@ -7777,7 +7867,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-11 15:45:55",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:45:47"
+        "last_updated": "2025-08-11 15:16:26"
     },
     {
         "id": 11929886,
@@ -7882,7 +7972,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-09 20:35:08",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:35:40"
+        "last_updated": "2025-08-11 15:06:30"
     },
     {
         "id": 12022712,
@@ -7992,7 +8082,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-07-09 20:30:45",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:42:40"
+        "last_updated": "2025-08-11 15:13:19"
     },
     {
         "id": 12023481,
@@ -8107,7 +8197,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-07-09 20:29:55",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:42:48"
+        "last_updated": "2025-08-11 15:13:28"
     },
     {
         "id": 12226346,
@@ -8227,7 +8317,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-09 20:27:38",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:48:36"
+        "last_updated": "2025-08-11 15:19:09"
     },
     {
         "id": 12227970,
@@ -8347,7 +8437,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-09 20:26:19",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:48:38"
+        "last_updated": "2025-08-11 15:19:13"
     },
     {
         "id": 12073870,
@@ -8427,7 +8517,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-08 17:47:11",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:43:56"
+        "last_updated": "2025-08-11 15:14:34"
     },
     {
         "id": 11932313,
@@ -8622,7 +8712,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-08 13:49:15",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:36:13"
+        "last_updated": "2025-08-11 15:07:01"
     },
     {
         "id": 11929382,
@@ -8732,7 +8822,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-08 13:28:27",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:35:34"
+        "last_updated": "2025-08-11 15:06:28"
     },
     {
         "id": 11974578,
@@ -8842,7 +8932,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-08 13:21:49",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:40:21"
+        "last_updated": "2025-08-11 15:11:16"
     },
     {
         "id": 12263516,
@@ -8907,7 +8997,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-08 13:03:06",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:50:15"
+        "last_updated": "2025-08-11 15:20:43"
     },
     {
         "id": 12120775,
@@ -9002,7 +9092,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-07-07 10:48:31",
         "agentId": 74243,
-        "last_updated": "2025-08-11 14:31:47"
+        "last_updated": "2025-08-11 15:02:42"
     },
     {
         "id": 12205021,
@@ -9087,7 +9177,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-04 10:16:32",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:47:56"
+        "last_updated": "2025-08-11 15:18:38"
     },
     {
         "id": 12181301,
@@ -9182,7 +9272,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 22:43:13",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:46:44"
+        "last_updated": "2025-08-11 15:17:23"
     },
     {
         "id": 12182522,
@@ -9267,7 +9357,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 18:18:39",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:46:59"
+        "last_updated": "2025-08-11 15:17:38"
     },
     {
         "id": 12233305,
@@ -9372,7 +9462,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 18:16:47",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:48:51"
+        "last_updated": "2025-08-11 15:19:26"
     },
     {
         "id": 12233360,
@@ -9477,7 +9567,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 18:16:35",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:48:52"
+        "last_updated": "2025-08-11 15:19:28"
     },
     {
         "id": 12259915,
@@ -9562,7 +9652,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 17:29:04",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:31:14"
+        "last_updated": "2025-08-11 15:02:09"
     },
     {
         "id": 12259099,
@@ -9652,7 +9742,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 16:19:13",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:50:03"
+        "last_updated": "2025-08-11 15:20:41"
     },
     {
         "id": 12263208,
@@ -9722,7 +9812,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 12:58:08",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:50:16"
+        "last_updated": "2025-08-11 15:20:47"
     },
     {
         "id": 12260335,
@@ -9802,7 +9892,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 12:44:13",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:31:19"
+        "last_updated": "2025-08-11 15:02:10"
     },
     {
         "id": 11982690,
@@ -9972,7 +10062,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 11:57:05",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:30:24"
+        "last_updated": "2025-08-11 15:01:18"
     },
     {
         "id": 11942394,
@@ -10052,7 +10142,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 10:12:14",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:37:45"
+        "last_updated": "2025-08-11 15:08:40"
     },
     {
         "id": 12074942,
@@ -10097,7 +10187,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-03 08:55:02",
         "agentId": 74243,
-        "last_updated": "2025-08-11 14:44:04"
+        "last_updated": "2025-08-11 15:14:42"
     },
     {
         "id": 12122132,
@@ -10217,7 +10307,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 08:27:15",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:31:58"
+        "last_updated": "2025-08-11 15:02:50"
     },
     {
         "id": 12225225,
@@ -10337,7 +10427,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-07-02 12:28:57",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:48:31"
+        "last_updated": "2025-08-11 15:19:07"
     },
     {
         "id": 12162728,
@@ -10417,7 +10507,7 @@
         "no_of_floors": 11,
         "actualisation_date": "2025-07-01 11:18:24",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:45:13"
+        "last_updated": "2025-08-11 15:15:50"
     },
     {
         "id": 12117244,
@@ -10477,7 +10567,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-01 11:17:39",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:30:54"
+        "last_updated": "2025-08-11 15:01:48"
     },
     {
         "id": 11988912,
@@ -10552,7 +10642,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-01 09:40:27",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:32:34"
+        "last_updated": "2025-08-11 15:03:29"
     },
     {
         "id": 12244082,
@@ -10627,7 +10717,7 @@
         "no_of_floors": 0,
         "actualisation_date": "2025-07-01 08:41:48",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:49:19"
+        "last_updated": "2025-08-11 15:19:54"
     },
     {
         "id": 12131149,
@@ -10797,7 +10887,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-26 16:22:38",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:45:05"
+        "last_updated": "2025-08-11 15:15:42"
     },
     {
         "id": 12048705,
@@ -10912,7 +11002,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-26 15:48:02",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:43:20"
+        "last_updated": "2025-08-11 15:13:56"
     },
     {
         "id": 12254049,
@@ -11017,7 +11107,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-25 12:30:44",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:49:50"
+        "last_updated": "2025-08-11 15:20:29"
     },
     {
         "id": 12248457,
@@ -11302,7 +11392,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-25 11:54:44",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:49:24"
+        "last_updated": "2025-08-11 15:19:58"
     },
     {
         "id": 12252499,
@@ -11407,7 +11497,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-24 12:48:32",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:49:44"
+        "last_updated": "2025-08-11 15:20:22"
     },
     {
         "id": 12121375,
@@ -11487,7 +11577,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-24 11:06:54",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:31:52"
+        "last_updated": "2025-08-11 15:02:44"
     },
     {
         "id": 12201478,
@@ -11627,7 +11717,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-24 07:03:48",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:47:43"
+        "last_updated": "2025-08-11 15:18:26"
     },
     {
         "id": 12251299,
@@ -11732,7 +11822,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-23 15:08:20",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:49:39"
+        "last_updated": "2025-08-11 15:20:18"
     },
     {
         "id": 12251007,
@@ -11802,7 +11892,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:54:45",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:49:38"
+        "last_updated": "2025-08-11 15:20:16"
     },
     {
         "id": 12251003,
@@ -11867,7 +11957,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:34:05",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:49:33"
+        "last_updated": "2025-08-11 15:20:15"
     },
     {
         "id": 12250966,
@@ -11937,7 +12027,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:26:20",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:49:25"
+        "last_updated": "2025-08-11 15:20:00"
     },
     {
         "id": 11932116,
@@ -12012,7 +12102,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-06-23 11:13:22",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:36:02"
+        "last_updated": "2025-08-11 15:06:51"
     },
     {
         "id": 11932197,
@@ -12087,7 +12177,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-06-23 11:10:50",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:36:11"
+        "last_updated": "2025-08-11 15:07:00"
     },
     {
         "id": 11942057,
@@ -12167,7 +12257,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 11:09:16",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:37:35"
+        "last_updated": "2025-08-11 15:08:27"
     },
     {
         "id": 11943999,
@@ -12307,7 +12397,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-06-23 11:08:41",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:37:53"
+        "last_updated": "2025-08-11 15:08:45"
     },
     {
         "id": 11970091,
@@ -12372,7 +12462,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:07:36",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:39:46"
+        "last_updated": "2025-08-11 15:10:42"
     },
     {
         "id": 11970097,
@@ -12437,7 +12527,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:07:11",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:39:50"
+        "last_updated": "2025-08-11 15:10:44"
     },
     {
         "id": 11970101,
@@ -12502,7 +12592,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:06:49",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:39:52"
+        "last_updated": "2025-08-11 15:10:49"
     },
     {
         "id": 11974234,
@@ -12567,7 +12657,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 11:06:24",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:40:17"
+        "last_updated": "2025-08-11 15:11:10"
     },
     {
         "id": 11974259,
@@ -12632,7 +12722,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 11:05:53",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:40:19"
+        "last_updated": "2025-08-11 15:11:12"
     },
     {
         "id": 11982539,
@@ -12712,7 +12802,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:04:47",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:30:10"
+        "last_updated": "2025-08-11 15:01:03"
     },
     {
         "id": 11982597,
@@ -12792,7 +12882,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:04:10",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:30:11"
+        "last_updated": "2025-08-11 15:01:05"
     },
     {
         "id": 11982631,
@@ -12862,7 +12952,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-23 11:03:45",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:30:16"
+        "last_updated": "2025-08-11 15:01:10"
     },
     {
         "id": 11982660,
@@ -12932,7 +13022,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-23 11:03:15",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:30:18"
+        "last_updated": "2025-08-11 15:01:11"
     },
     {
         "id": 11982667,
@@ -13002,7 +13092,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-23 11:02:25",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:30:20"
+        "last_updated": "2025-08-11 15:01:13"
     },
     {
         "id": 11988684,
@@ -13097,7 +13187,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:58:36",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:32:29"
+        "last_updated": "2025-08-11 15:03:23"
     },
     {
         "id": 11991262,
@@ -13162,7 +13252,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:57:31",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:50:26"
+        "last_updated": "2025-08-11 15:20:55"
     },
     {
         "id": 11991275,
@@ -13227,7 +13317,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:57:06",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:50:30"
+        "last_updated": "2025-08-11 15:20:57"
     },
     {
         "id": 12006464,
@@ -13287,7 +13377,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:56:34",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:41:59"
+        "last_updated": "2025-08-11 15:12:40"
     },
     {
         "id": 12006475,
@@ -13352,7 +13442,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:56:11",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:42:00"
+        "last_updated": "2025-08-11 15:12:42"
     },
     {
         "id": 12047738,
@@ -13472,7 +13562,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-23 10:55:22",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:43:13"
+        "last_updated": "2025-08-11 15:13:53"
     },
     {
         "id": 12047959,
@@ -13577,7 +13667,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-23 10:54:56",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:43:21"
+        "last_updated": "2025-08-11 15:14:00"
     },
     {
         "id": 12103735,
@@ -13662,7 +13752,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:54:31",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:44:23"
+        "last_updated": "2025-08-11 15:15:01"
     },
     {
         "id": 12167887,
@@ -13747,7 +13837,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:53:14",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:46:08"
+        "last_updated": "2025-08-11 15:16:47"
     },
     {
         "id": 12196400,
@@ -13817,7 +13907,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:52:40",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:47:19"
+        "last_updated": "2025-08-11 15:17:54"
     },
     {
         "id": 11935365,
@@ -13892,7 +13982,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-06-23 10:09:57",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:36:34"
+        "last_updated": "2025-08-11 15:07:27"
     },
     {
         "id": 11940575,
@@ -13977,7 +14067,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:09:22",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:37:08"
+        "last_updated": "2025-08-11 15:08:02"
     },
     {
         "id": 11942225,
@@ -14052,7 +14142,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-23 10:08:56",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:37:37"
+        "last_updated": "2025-08-11 15:08:28"
     },
     {
         "id": 11946045,
@@ -14137,7 +14227,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-23 10:07:29",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:38:09"
+        "last_updated": "2025-08-11 15:09:03"
     },
     {
         "id": 11946084,
@@ -14227,7 +14317,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-23 10:05:56",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:38:20"
+        "last_updated": "2025-08-11 15:09:13"
     },
     {
         "id": 11950384,
@@ -14297,7 +14387,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:04:31",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:39:10"
+        "last_updated": "2025-08-11 15:10:06"
     },
     {
         "id": 11950388,
@@ -14367,7 +14457,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:03:57",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:39:16"
+        "last_updated": "2025-08-11 15:10:13"
     },
     {
         "id": 11976288,
@@ -14432,7 +14522,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:01:58",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:35:17"
+        "last_updated": "2025-08-11 15:05:52"
     },
     {
         "id": 11976307,
@@ -14497,7 +14587,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:01:30",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:35:22"
+        "last_updated": "2025-08-11 15:05:57"
     },
     {
         "id": 11976491,
@@ -14562,7 +14652,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:00:53",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:37:26"
+        "last_updated": "2025-08-11 15:08:17"
     },
     {
         "id": 11981775,
@@ -14652,7 +14742,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:00:20",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:40:39"
+        "last_updated": "2025-08-11 15:11:32"
     },
     {
         "id": 11983760,
@@ -14727,7 +14817,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-23 09:59:01",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:30:41"
+        "last_updated": "2025-08-11 15:01:34"
     },
     {
         "id": 11988372,
@@ -14827,7 +14917,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 09:58:21",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:32:16"
+        "last_updated": "2025-08-11 15:03:11"
     },
     {
         "id": 12003042,
@@ -14927,7 +15017,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 09:54:45",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:41:37"
+        "last_updated": "2025-08-11 15:12:19"
     },
     {
         "id": 12003077,
@@ -15002,7 +15092,7 @@
         "no_of_floors": 12,
         "actualisation_date": "2025-06-23 09:51:15",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:41:39"
+        "last_updated": "2025-08-11 15:12:21"
     },
     {
         "id": 12046235,
@@ -15102,7 +15192,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-23 09:49:35",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:31:13"
+        "last_updated": "2025-08-11 15:02:04"
     },
     {
         "id": 12047996,
@@ -15192,7 +15282,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-23 09:49:16",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:43:26"
+        "last_updated": "2025-08-11 15:14:02"
     },
     {
         "id": 12164141,
@@ -15262,7 +15352,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-23 09:48:57",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:45:28"
+        "last_updated": "2025-08-11 15:16:13"
     },
     {
         "id": 12164172,
@@ -15337,7 +15427,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-23 09:48:32",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:45:41"
+        "last_updated": "2025-08-11 15:16:20"
     },
     {
         "id": 12182647,
@@ -15407,7 +15497,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 09:47:59",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:46:52"
+        "last_updated": "2025-08-11 15:17:31"
     },
     {
         "id": 12198489,
@@ -15492,7 +15582,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-23 09:46:56",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:47:30"
+        "last_updated": "2025-08-11 15:18:13"
     },
     {
         "id": 12048843,
@@ -15602,7 +15692,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-22 17:05:18",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:43:33"
+        "last_updated": "2025-08-11 15:14:08"
     },
     {
         "id": 11966952,
@@ -15667,7 +15757,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:47:44",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:39:44"
+        "last_updated": "2025-08-11 15:10:40"
     },
     {
         "id": 11940324,
@@ -15737,7 +15827,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:46:03",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:37:01"
+        "last_updated": "2025-08-11 15:07:54"
     },
     {
         "id": 11942532,
@@ -15807,7 +15897,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-22 16:45:49",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:37:38"
+        "last_updated": "2025-08-11 15:08:33"
     },
     {
         "id": 12117566,
@@ -15877,7 +15967,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:38:45",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:31:05"
+        "last_updated": "2025-08-11 15:01:56"
     },
     {
         "id": 12165646,
@@ -15962,7 +16052,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-22 16:38:14",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:45:54"
+        "last_updated": "2025-08-11 15:16:29"
     },
     {
         "id": 12174342,
@@ -16042,7 +16132,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:37:44",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:46:23"
+        "last_updated": "2025-08-11 15:17:02"
     },
     {
         "id": 12179685,
@@ -16102,7 +16192,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:37:21",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:46:31"
+        "last_updated": "2025-08-11 15:17:10"
     },
     {
         "id": 12165653,
@@ -16187,7 +16277,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-22 15:42:08",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:45:55"
+        "last_updated": "2025-08-11 15:16:34"
     },
     {
         "id": 12198131,
@@ -16302,7 +16392,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-21 08:55:51",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:47:35"
+        "last_updated": "2025-08-11 15:18:14"
     },
     {
         "id": 12072812,
@@ -16367,7 +16457,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-06-17 08:56:11",
         "agentId": 74243,
-        "last_updated": "2025-08-11 14:43:58"
+        "last_updated": "2025-08-11 15:14:36"
     },
     {
         "id": 12063843,
@@ -16482,102 +16572,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-16 12:13:46",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:43:36"
-    },
-    {
-        "id": 12001822,
-        "title": "",
-        "price": 570000,
-        "is_special": 0,
-        "building_type": "LowBlock",
-        "country_name": "Polska",
-        "description": "W ofercie biura <b>Eagles Estates</b> przedstawiamy Państwu 3-pokojowe mieszkanie o powierzchni 49 m2 znajdujące się na ul. Hetmańskiej, w samym centrum miasta.<br>Nieruchomość mieści się na trzecim piętrze w niskim bloku z cegły.&nbsp;<br>Mieszkanie przeszło generalny remont kilka lat temu, wymieniona została elektryka, hydraulika, okna itd. Sprzedawane jest z pełnym wyposażeniem, gotowe do zamieszkania od zaraz.<br><br><b>Układ mieszkania:</b><br>    -         2 pokoje od strony wschodniej, idealne na poranne słońce<br>    -         Salon z aneksem kuchennym od strony zachodniej, co zapewnia doskonałe oświetlenie popołudniami<br>    -         Łazienka z prysznicem<br>- Hall<br>- Dodatkowo przynależna piwnica<br><br><b>Dodatkowe informacje:<br></b>- Ogrzewanie z sieci miejskiej<br>- W pełni wyposażone<br>- Okna plastikowe<br>- Balkon z ładnym widokiem<br>- Ekspozycja mieszkania wschód-zachód<br>- Bardzo dobry stan budynku<br>- Wokół bloku jest dostępny parking dla mieszkańców<br><br><br>Idealne mieszkanie dla osób ceniących klimat kamienicy, poszukujących funkcjonalnej przestrzeni w dobrze skomunikowanej lokalizacji. Zapraszam do kontaktu i umówienia się na prezentację.<br><br>",
-        "elevator": 0,
-        "floor_no": 3,
-        "garage": 0,
-        "garage_parking_price": null,
-        "short_description": "3 pokoje blisko rynku - ul. Hetmańska",
-        "headerAdvertisement": "3 pokoje blisko rynku - ul. Hetmańska",
-        "kitchen_type": "Adjoining",
-        "location_name": "/Podkarpackie/Rzeszów/Gen. Dąbrowskiego",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "Gen. Dąbrowskiego",
-        "material": "Brick",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 3,
-        "ownership_type": "HousingCooperativeKW",
-        "parking_spaces_no": null,
-        "price_m2": 11632.65,
-        "provision_amount": 11400,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 49,
-        "year_built": 1956,
-        "street_name": "Hetmańska",
-        "street_full_name": "ul. Hetmańska",
-        "images": [
-            {
-                "id": 103765731,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103765732,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103765735,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103765730,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103765733,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103765737,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103765738,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103765736,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103765739,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103765740,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103613890,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "274/17058/OMS",
-        "no_of_floors": 3,
-        "actualisation_date": "2025-06-16 10:57:31",
-        "agentId": 72735,
-        "last_updated": "2025-08-11 14:32:55"
+        "last_updated": "2025-08-11 15:14:18"
     },
     {
         "id": 12068607,
@@ -16727,7 +16722,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-16 10:57:08",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:43:41"
+        "last_updated": "2025-08-11 15:14:20"
     },
     {
         "id": 12017007,
@@ -16827,7 +16822,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-16 10:51:38",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:42:21"
+        "last_updated": "2025-08-11 15:12:56"
     },
     {
         "id": 12130277,
@@ -16957,7 +16952,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-16 10:51:15",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:45:00"
+        "last_updated": "2025-08-11 15:15:41"
     },
     {
         "id": 11999908,
@@ -17037,7 +17032,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-13 14:08:15",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:41:22"
+        "last_updated": "2025-08-11 15:12:07"
     },
     {
         "id": 12121502,
@@ -17147,7 +17142,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-13 09:37:02",
         "agentId": 74243,
-        "last_updated": "2025-08-11 14:31:53"
+        "last_updated": "2025-08-11 15:02:48"
     },
     {
         "id": 11999793,
@@ -17212,7 +17207,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:44:27",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:41:01"
+        "last_updated": "2025-08-11 15:11:55"
     },
     {
         "id": 12006342,
@@ -17277,7 +17272,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:43:50",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:41:52"
+        "last_updated": "2025-08-11 15:12:34"
     },
     {
         "id": 12071964,
@@ -17342,7 +17337,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:07:00",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:43:49"
+        "last_updated": "2025-08-11 15:14:28"
     },
     {
         "id": 12166312,
@@ -17417,7 +17412,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 15:05:15",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:46:04"
+        "last_updated": "2025-08-11 15:16:42"
     },
     {
         "id": 12006360,
@@ -17502,7 +17497,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 14:29:09",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:41:54"
+        "last_updated": "2025-08-11 15:12:36"
     },
     {
         "id": 11873058,
@@ -17612,7 +17607,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 09:22:27",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:32:41"
+        "last_updated": "2025-08-11 15:03:35"
     },
     {
         "id": 12220827,
@@ -17752,7 +17747,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-11 14:39:02",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:48:23"
+        "last_updated": "2025-08-11 15:18:59"
     },
     {
         "id": 11998796,
@@ -17837,7 +17832,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-11 11:54:21",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:40:57"
+        "last_updated": "2025-08-11 15:11:48"
     },
     {
         "id": 12208219,
@@ -17922,7 +17917,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-06-11 10:58:22",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:48:13"
+        "last_updated": "2025-08-11 15:18:46"
     },
     {
         "id": 11939123,
@@ -17987,7 +17982,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 09:19:30",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:36:46"
+        "last_updated": "2025-08-11 15:07:38"
     },
     {
         "id": 11976775,
@@ -18052,7 +18047,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 09:18:20",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:40:31"
+        "last_updated": "2025-08-11 15:11:23"
     },
     {
         "id": 12237930,
@@ -18147,7 +18142,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-09 14:00:43",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:49:04"
+        "last_updated": "2025-08-11 15:19:36"
     },
     {
         "id": 12236296,
@@ -18242,7 +18237,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 15:21:48",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:48:59"
+        "last_updated": "2025-08-11 15:19:34"
     },
     {
         "id": 12235142,
@@ -18337,7 +18332,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 15:15:06",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:48:57"
+        "last_updated": "2025-08-11 15:19:29"
     },
     {
         "id": 12101818,
@@ -18427,7 +18422,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 13:54:10",
         "agentId": 74243,
-        "last_updated": "2025-08-11 14:44:19"
+        "last_updated": "2025-08-11 15:14:56"
     },
     {
         "id": 12062536,
@@ -18472,7 +18467,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-06-05 15:20:40",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:39:29"
+        "last_updated": "2025-08-11 15:10:23"
     },
     {
         "id": 11884666,
@@ -18567,7 +18562,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-05 10:47:55",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:33:24"
+        "last_updated": "2025-08-11 15:04:17"
     },
     {
         "id": 12230356,
@@ -18667,7 +18662,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-04 10:26:18",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:48:44"
+        "last_updated": "2025-08-11 15:19:20"
     },
     {
         "id": 11940618,
@@ -18752,7 +18747,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:43:58",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:37:14"
+        "last_updated": "2025-08-11 15:08:05"
     },
     {
         "id": 11949561,
@@ -18832,7 +18827,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-04 09:37:26",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:38:58"
+        "last_updated": "2025-08-11 15:09:51"
     },
     {
         "id": 11949581,
@@ -18902,7 +18897,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-04 09:36:50",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:39:00"
+        "last_updated": "2025-08-11 15:09:53"
     },
     {
         "id": 12006107,
@@ -19007,7 +19002,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:32:29",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:41:44"
+        "last_updated": "2025-08-11 15:12:23"
     },
     {
         "id": 12174715,
@@ -19172,7 +19167,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:16:02",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:46:25"
+        "last_updated": "2025-08-11 15:17:03"
     },
     {
         "id": 12196425,
@@ -19252,7 +19247,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:14:36",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:47:25"
+        "last_updated": "2025-08-11 15:17:59"
     },
     {
         "id": 12229908,
@@ -19362,7 +19357,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-03 18:55:08",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:48:39"
+        "last_updated": "2025-08-11 15:19:15"
     },
     {
         "id": 11976787,
@@ -19427,7 +19422,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:34:55",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:40:33"
+        "last_updated": "2025-08-11 15:11:28"
     },
     {
         "id": 12048276,
@@ -19507,7 +19502,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-02 10:33:30",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:43:18"
+        "last_updated": "2025-08-11 15:13:54"
     },
     {
         "id": 12108087,
@@ -19577,7 +19572,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:31:43",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:44:42"
+        "last_updated": "2025-08-11 15:15:19"
     },
     {
         "id": 12108126,
@@ -19652,7 +19647,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:31:28",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:44:44"
+        "last_updated": "2025-08-11 15:15:21"
     },
     {
         "id": 12181741,
@@ -19722,7 +19717,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:29:38",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:46:50"
+        "last_updated": "2025-08-11 15:17:30"
     },
     {
         "id": 12196031,
@@ -19842,7 +19837,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:29:04",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:47:17"
+        "last_updated": "2025-08-11 15:17:52"
     },
     {
         "id": 11970123,
@@ -19907,7 +19902,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-05-30 21:10:39",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:39:54"
+        "last_updated": "2025-08-11 15:10:50"
     },
     {
         "id": 12195964,
@@ -19987,7 +19982,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-05-30 14:19:47",
         "agentId": 74243,
-        "last_updated": "2025-08-11 14:47:15"
+        "last_updated": "2025-08-11 15:17:47"
     },
     {
         "id": 12046057,
@@ -20087,7 +20082,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-05-29 11:34:06",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:31:08"
+        "last_updated": "2025-08-11 15:02:02"
     },
     {
         "id": 12225525,
@@ -20187,7 +20182,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-05-29 10:00:34",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:48:30"
+        "last_updated": "2025-08-11 15:19:05"
     },
     {
         "id": 12003024,
@@ -20267,7 +20262,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-29 08:30:40",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:41:31"
+        "last_updated": "2025-08-11 15:12:13"
     },
     {
         "id": 12169075,
@@ -20337,7 +20332,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-29 08:25:47",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:46:15"
+        "last_updated": "2025-08-11 15:16:50"
     },
     {
         "id": 12181120,
@@ -20397,7 +20392,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-29 08:24:12",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:46:38"
+        "last_updated": "2025-08-11 15:17:16"
     },
     {
         "id": 11939884,
@@ -20492,7 +20487,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-05-28 17:09:08",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:36:55"
+        "last_updated": "2025-08-11 15:07:47"
     },
     {
         "id": 11950386,
@@ -20562,7 +20557,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-05-28 10:04:28",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:39:11"
+        "last_updated": "2025-08-11 15:10:08"
     },
     {
         "id": 12122711,
@@ -20652,7 +20647,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-05-28 10:03:30",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:32:00"
+        "last_updated": "2025-08-11 15:02:55"
     },
     {
         "id": 11940282,
@@ -20722,7 +20717,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-28 09:59:54",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:36:57"
+        "last_updated": "2025-08-11 15:07:52"
     },
     {
         "id": 11932644,
@@ -20797,7 +20792,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-05-28 09:58:04",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:35:42"
+        "last_updated": "2025-08-11 15:06:32"
     },
     {
         "id": 11976484,
@@ -20862,7 +20857,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-28 09:48:05",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:37:21"
+        "last_updated": "2025-08-11 15:08:15"
     },
     {
         "id": 11987480,
@@ -20932,7 +20927,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-05-28 09:47:53",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:31:34"
+        "last_updated": "2025-08-11 15:02:26"
     },
     {
         "id": 12117406,
@@ -21002,7 +20997,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-28 09:45:50",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:30:58"
+        "last_updated": "2025-08-11 15:01:49"
     },
     {
         "id": 12224345,
@@ -21047,7 +21042,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-05-27 15:45:01",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:32:50"
+        "last_updated": "2025-08-11 15:03:47"
     },
     {
         "id": 12201608,
@@ -21177,7 +21172,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-27 13:39:04",
         "agentId": 74243,
-        "last_updated": "2025-08-11 14:47:49"
+        "last_updated": "2025-08-11 15:18:32"
     },
     {
         "id": 12046032,
@@ -21257,7 +21252,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-05-27 08:48:27",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:31:06"
+        "last_updated": "2025-08-11 15:02:00"
     },
     {
         "id": 12222851,
@@ -21372,7 +21367,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-26 16:18:56",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:48:25"
+        "last_updated": "2025-08-11 15:19:01"
     },
     {
         "id": 12201548,
@@ -21452,7 +21447,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-05-26 16:14:29",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:47:48"
+        "last_updated": "2025-08-11 15:18:27"
     },
     {
         "id": 12206693,
@@ -21532,7 +21527,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-26 14:05:23",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:48:03"
+        "last_updated": "2025-08-11 15:18:42"
     },
     {
         "id": 12049106,
@@ -21627,7 +21622,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-05-26 09:58:17",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:43:28"
+        "last_updated": "2025-08-11 15:14:07"
     },
     {
         "id": 12165640,
@@ -21702,7 +21697,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-05-23 18:29:53",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:45:49"
+        "last_updated": "2025-08-11 15:16:28"
     },
     {
         "id": 12125398,
@@ -21827,7 +21822,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-05-23 13:29:51",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:32:22"
+        "last_updated": "2025-08-11 15:03:17"
     },
     {
         "id": 12217644,
@@ -21897,7 +21892,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-22 15:57:35",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:48:18"
+        "last_updated": "2025-08-11 15:18:54"
     },
     {
         "id": 12124316,
@@ -21987,7 +21982,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-05-21 13:44:31",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:32:14"
+        "last_updated": "2025-08-11 15:03:09"
     },
     {
         "id": 11932681,
@@ -22062,7 +22057,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-05-20 13:46:19",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:35:47"
+        "last_updated": "2025-08-11 15:06:36"
     },
     {
         "id": 12124973,
@@ -22232,7 +22227,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-05-19 09:03:28",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:32:17"
+        "last_updated": "2025-08-11 15:03:15"
     },
     {
         "id": 11881491,
@@ -22347,7 +22342,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-18 19:33:37",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:33:01"
+        "last_updated": "2025-08-11 15:03:54"
     },
     {
         "id": 12205309,
@@ -22477,7 +22472,7 @@
         "no_of_floors": 12,
         "actualisation_date": "2025-05-15 15:34:14",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:47:10"
+        "last_updated": "2025-08-11 15:17:46"
     },
     {
         "id": 12132897,
@@ -22562,7 +22557,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-15 11:01:50",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:33:18"
+        "last_updated": "2025-08-11 15:04:10"
     },
     {
         "id": 12018532,
@@ -22642,7 +22637,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-12 11:27:00",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:42:24"
+        "last_updated": "2025-08-11 15:13:03"
     },
     {
         "id": 12195908,
@@ -22747,7 +22742,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-05-08 15:29:38",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:47:06"
+        "last_updated": "2025-08-11 15:17:44"
     },
     {
         "id": 11941815,
@@ -22837,7 +22832,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-05-07 10:17:14",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:37:27"
+        "last_updated": "2025-08-11 15:08:21"
     },
     {
         "id": 11946946,
@@ -22957,7 +22952,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 10:10:56",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:38:35"
+        "last_updated": "2025-08-11 15:09:28"
     },
     {
         "id": 11948164,
@@ -23037,7 +23032,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 10:02:15",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:38:40"
+        "last_updated": "2025-08-11 15:09:34"
     },
     {
         "id": 11990302,
@@ -23117,7 +23112,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-05-07 09:33:07",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:49:59"
+        "last_updated": "2025-08-11 15:20:37"
     },
     {
         "id": 12021768,
@@ -23182,7 +23177,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 09:30:05",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:42:34"
+        "last_updated": "2025-08-11 15:13:13"
     },
     {
         "id": 12021777,
@@ -23252,7 +23247,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 09:29:01",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:42:36"
+        "last_updated": "2025-08-11 15:13:15"
     },
     {
         "id": 12043706,
@@ -23317,7 +23312,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 09:26:09",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:43:05"
+        "last_updated": "2025-08-11 15:13:41"
     },
     {
         "id": 12043793,
@@ -23387,7 +23382,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 09:25:51",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:43:07"
+        "last_updated": "2025-08-11 15:13:46"
     },
     {
         "id": 12163242,
@@ -23477,7 +23472,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-05-07 09:18:41",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:45:15"
+        "last_updated": "2025-08-11 15:15:55"
     },
     {
         "id": 12163257,
@@ -23547,7 +23542,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-05-07 09:17:55",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:45:20"
+        "last_updated": "2025-08-11 15:15:57"
     },
     {
         "id": 12168116,
@@ -23642,7 +23637,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-05-07 08:46:56",
         "agentId": 74243,
-        "last_updated": "2025-08-11 14:46:10"
+        "last_updated": "2025-08-11 15:16:49"
     },
     {
         "id": 11940625,
@@ -23727,7 +23722,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-06 14:42:03",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:37:15"
+        "last_updated": "2025-08-11 15:08:09"
     },
     {
         "id": 12166305,
@@ -23807,7 +23802,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-05-06 09:39:36",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:46:02"
+        "last_updated": "2025-08-11 15:16:41"
     },
     {
         "id": 12123752,
@@ -23907,7 +23902,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-05-05 12:54:22",
         "agentId": 74243,
-        "last_updated": "2025-08-11 14:32:12"
+        "last_updated": "2025-08-11 15:02:58"
     },
     {
         "id": 12134910,
@@ -24037,7 +24032,7 @@
         "no_of_floors": 5,
         "actualisation_date": "2025-05-05 12:24:20",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:45:07"
+        "last_updated": "2025-08-11 15:15:47"
     },
     {
         "id": 12193436,
@@ -24122,7 +24117,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-05-05 11:21:39",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:47:01"
+        "last_updated": "2025-08-11 15:17:39"
     },
     {
         "id": 12182516,
@@ -24197,7 +24192,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-03 08:57:41",
         "agentId": 74243,
-        "last_updated": "2025-08-11 14:46:54"
+        "last_updated": "2025-08-11 15:17:33"
     },
     {
         "id": 12174340,
@@ -24277,7 +24272,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-04-29 09:35:51",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:46:18"
+        "last_updated": "2025-08-11 15:16:57"
     },
     {
         "id": 12182093,
@@ -24337,7 +24332,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-04-28 17:16:50",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:46:46"
+        "last_updated": "2025-08-11 15:17:24"
     },
     {
         "id": 11990349,
@@ -24417,7 +24412,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-04-25 22:31:43",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:50:24"
+        "last_updated": "2025-08-11 15:20:51"
     },
     {
         "id": 12179801,
@@ -24557,7 +24552,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-04-25 15:09:06",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:46:36"
+        "last_updated": "2025-08-11 15:17:11"
     },
     {
         "id": 11998548,
@@ -24627,7 +24622,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-04-23 10:27:40",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:40:48"
+        "last_updated": "2025-08-11 15:11:43"
     },
     {
         "id": 12174334,
@@ -24707,7 +24702,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-04-22 18:49:15",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:46:17"
+        "last_updated": "2025-08-11 15:16:55"
     },
     {
         "id": 12011072,
@@ -24787,7 +24782,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-04-22 12:35:06",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:31:41"
+        "last_updated": "2025-08-11 15:02:36"
     },
     {
         "id": 11981173,
@@ -24872,7 +24867,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-17 08:22:00",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:40:37"
+        "last_updated": "2025-08-11 15:11:30"
     },
     {
         "id": 12164311,
@@ -24957,7 +24952,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-04-17 08:21:20",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:45:42"
+        "last_updated": "2025-08-11 15:16:21"
     },
     {
         "id": 12166251,
@@ -25047,7 +25042,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-14 11:07:24",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:45:57"
+        "last_updated": "2025-08-11 15:16:36"
     },
     {
         "id": 12164753,
@@ -25137,7 +25132,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-11 14:19:17",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:44:59"
+        "last_updated": "2025-08-11 15:15:36"
     },
     {
         "id": 12164730,
@@ -25212,7 +25207,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-11 14:12:16",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:44:57"
+        "last_updated": "2025-08-11 15:15:34"
     },
     {
         "id": 12164135,
@@ -25302,7 +25297,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-11 11:48:05",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:45:26"
+        "last_updated": "2025-08-11 15:16:08"
     },
     {
         "id": 12164163,
@@ -25392,7 +25387,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-11 11:47:22",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:45:39"
+        "last_updated": "2025-08-11 15:16:15"
     },
     {
         "id": 12161368,
@@ -25437,7 +25432,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-04-10 09:22:19",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:45:12"
+        "last_updated": "2025-08-11 15:15:48"
     },
     {
         "id": 12070097,
@@ -25517,7 +25512,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-04-09 07:10:45",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:43:48"
+        "last_updated": "2025-08-11 15:14:23"
     },
     {
         "id": 12160079,
@@ -25592,7 +25587,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-04-08 14:20:04",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:44:12"
+        "last_updated": "2025-08-11 15:14:50"
     },
     {
         "id": 12101755,
@@ -25662,7 +25657,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-04-07 13:26:16",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:44:17"
+        "last_updated": "2025-08-11 15:14:55"
     },
     {
         "id": 12108611,
@@ -25772,7 +25767,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-02 11:16:42",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:44:45"
+        "last_updated": "2025-08-11 15:15:26"
     },
     {
         "id": 11951393,
@@ -25842,7 +25837,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-03-26 09:46:12",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:39:18"
+        "last_updated": "2025-08-11 15:10:15"
     },
     {
         "id": 11987477,
@@ -25912,7 +25907,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-03-26 09:17:40",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:31:29"
+        "last_updated": "2025-08-11 15:02:24"
     },
     {
         "id": 12103068,
@@ -26007,7 +26002,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-03-25 10:16:57",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:44:25"
+        "last_updated": "2025-08-11 15:15:03"
     },
     {
         "id": 12120906,
@@ -26057,7 +26052,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-03-24 15:54:19",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:31:45"
+        "last_updated": "2025-08-11 15:02:37"
     },
     {
         "id": 12026644,
@@ -26137,7 +26132,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-03-21 20:00:59",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:42:53"
+        "last_updated": "2025-08-11 15:13:29"
     },
     {
         "id": 12116416,
@@ -26292,7 +26287,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-03-20 22:03:33",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:30:46"
+        "last_updated": "2025-08-11 15:01:39"
     },
     {
         "id": 12074599,
@@ -26372,7 +26367,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-03-20 15:53:18",
         "agentId": 74243,
-        "last_updated": "2025-08-11 14:44:06"
+        "last_updated": "2025-08-11 15:14:47"
     },
     {
         "id": 12062985,
@@ -26462,7 +26457,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-03-20 14:42:15",
         "agentId": 74243,
-        "last_updated": "2025-08-11 14:40:45"
+        "last_updated": "2025-08-11 15:11:36"
     },
     {
         "id": 12006114,
@@ -26527,7 +26522,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-03-20 14:36:50",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:41:46"
+        "last_updated": "2025-08-11 15:12:27"
     },
     {
         "id": 12006332,
@@ -26592,7 +26587,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-03-20 14:36:01",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:41:50"
+        "last_updated": "2025-08-11 15:12:29"
     },
     {
         "id": 11912983,
@@ -26662,7 +26657,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-03-20 11:03:51",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:35:11"
+        "last_updated": "2025-08-11 15:05:43"
     },
     {
         "id": 11896304,
@@ -26747,7 +26742,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-03-20 11:00:43",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:35:00"
+        "last_updated": "2025-08-11 15:05:38"
     },
     {
         "id": 12109417,
@@ -26867,7 +26862,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-03-19 14:08:19",
         "agentId": 74243,
-        "last_updated": "2025-08-11 14:44:52"
+        "last_updated": "2025-08-11 15:15:29"
     },
     {
         "id": 12021923,
@@ -26932,7 +26927,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-03-19 13:05:17",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:42:29"
+        "last_updated": "2025-08-11 15:13:07"
     },
     {
         "id": 12047061,
@@ -27017,7 +27012,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-03-17 21:04:54",
         "agentId": 74395,
-        "last_updated": "2025-08-11 14:43:11"
+        "last_updated": "2025-08-11 15:13:48"
     },
     {
         "id": 12096686,
@@ -27097,7 +27092,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-03-13 17:15:10",
         "agentId": 74243,
-        "last_updated": "2025-08-11 14:44:11"
+        "last_updated": "2025-08-11 15:14:48"
     },
     {
         "id": 12023609,
@@ -27192,7 +27187,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-03-11 16:33:39",
         "agentId": 74243,
-        "last_updated": "2025-08-11 14:42:42"
+        "last_updated": "2025-08-11 15:13:21"
     },
     {
         "id": 12072156,
@@ -27267,7 +27262,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-03-05 11:47:24",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:44:02"
+        "last_updated": "2025-08-11 15:14:40"
     },
     {
         "id": 12017609,
@@ -27357,7 +27352,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-03-03 13:23:04",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:42:22"
+        "last_updated": "2025-08-11 15:13:01"
     },
     {
         "id": 12016148,
@@ -27457,7 +27452,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-02-27 08:04:02",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:42:14"
+        "last_updated": "2025-08-11 15:12:50"
     },
     {
         "id": 11883496,
@@ -27542,7 +27537,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-02-20 19:41:46",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:33:22"
+        "last_updated": "2025-08-11 15:04:15"
     },
     {
         "id": 11882283,
@@ -27627,7 +27622,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-02-12 16:24:46",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:33:16"
+        "last_updated": "2025-08-11 15:04:08"
     },
     {
         "id": 11881502,
@@ -27722,7 +27717,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-02-06 08:48:57",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:33:03"
+        "last_updated": "2025-08-11 15:03:56"
     },
     {
         "id": 11882107,
@@ -27897,7 +27892,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-02-05 11:29:41",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:33:09"
+        "last_updated": "2025-08-11 15:04:02"
     },
     {
         "id": 11999873,
@@ -28032,7 +28027,7 @@
         "no_of_floors": 0,
         "actualisation_date": "2025-02-05 09:48:25",
         "agentId": 74041,
-        "last_updated": "2025-08-11 14:41:12"
+        "last_updated": "2025-08-11 15:11:56"
     },
     {
         "id": 12015333,
@@ -28097,7 +28092,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-02-05 09:45:09",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:42:13"
+        "last_updated": "2025-08-11 15:12:48"
     },
     {
         "id": 12009357,
@@ -28197,7 +28192,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-01-30 11:45:30",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:42:11"
+        "last_updated": "2025-08-11 15:12:44"
     },
     {
         "id": 12001413,
@@ -28277,7 +28272,7 @@
         "no_of_floors": 12,
         "actualisation_date": "2025-01-23 14:45:03",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:32:57"
+        "last_updated": "2025-08-11 15:03:49"
     },
     {
         "id": 11983753,
@@ -28347,7 +28342,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-01-15 08:05:17",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:30:39"
+        "last_updated": "2025-08-11 15:01:33"
     },
     {
         "id": 11945439,
@@ -28417,7 +28412,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:26:30",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:37:56"
+        "last_updated": "2025-08-11 15:08:47"
     },
     {
         "id": 11945447,
@@ -28487,7 +28482,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:24:00",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:37:57"
+        "last_updated": "2025-08-11 15:08:51"
     },
     {
         "id": 11945461,
@@ -28557,7 +28552,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:23:45",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:38:02"
+        "last_updated": "2025-08-11 15:08:53"
     },
     {
         "id": 11945472,
@@ -28627,7 +28622,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:23:26",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:38:04"
+        "last_updated": "2025-08-11 15:08:58"
     },
     {
         "id": 11946080,
@@ -28697,7 +28692,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:23:11",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:38:15"
+        "last_updated": "2025-08-11 15:09:09"
     },
     {
         "id": 11947197,
@@ -28762,7 +28757,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:22:44",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:38:21"
+        "last_updated": "2025-08-11 15:09:15"
     },
     {
         "id": 11947234,
@@ -28827,7 +28822,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:22:30",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:38:26"
+        "last_updated": "2025-08-11 15:09:17"
     },
     {
         "id": 11947299,
@@ -28892,7 +28887,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:22:13",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:38:28"
+        "last_updated": "2025-08-11 15:09:22"
     },
     {
         "id": 11947354,
@@ -28957,7 +28952,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:22:00",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:38:30"
+        "last_updated": "2025-08-11 15:09:23"
     },
     {
         "id": 11948315,
@@ -29027,7 +29022,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:21:44",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:38:42"
+        "last_updated": "2025-08-11 15:09:35"
     },
     {
         "id": 11948335,
@@ -29097,7 +29092,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:21:30",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:38:47"
+        "last_updated": "2025-08-11 15:09:40"
     },
     {
         "id": 11948377,
@@ -29167,7 +29162,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:21:16",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:38:52"
+        "last_updated": "2025-08-11 15:09:46"
     },
     {
         "id": 11950380,
@@ -29237,7 +29232,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:20:01",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:39:08"
+        "last_updated": "2025-08-11 15:10:02"
     },
     {
         "id": 11983061,
@@ -29312,7 +29307,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-01-11 13:48:50",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:30:33"
+        "last_updated": "2025-08-11 15:01:26"
     },
     {
         "id": 11983073,
@@ -29387,7 +29382,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-01-11 13:48:28",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:30:37"
+        "last_updated": "2025-08-11 15:01:28"
     },
     {
         "id": 11982929,
@@ -29467,7 +29462,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-11 08:25:40",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:30:26"
+        "last_updated": "2025-08-11 15:01:20"
     },
     {
         "id": 11983035,
@@ -29542,7 +29537,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-01-11 08:24:38",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:30:31"
+        "last_updated": "2025-08-11 15:01:24"
     },
     {
         "id": 11954302,
@@ -29607,7 +29602,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-01-08 09:17:11",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:31:27"
+        "last_updated": "2025-08-11 15:02:19"
     },
     {
         "id": 11954595,
@@ -29672,7 +29667,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-01-08 09:16:38",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:31:21"
+        "last_updated": "2025-08-11 15:02:16"
     },
     {
         "id": 11954620,
@@ -29737,7 +29732,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-01-08 09:16:17",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:31:26"
+        "last_updated": "2025-08-11 15:02:17"
     },
     {
         "id": 11932136,
@@ -29812,7 +29807,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:10:09",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:36:04"
+        "last_updated": "2025-08-11 15:06:53"
     },
     {
         "id": 11932184,
@@ -29887,7 +29882,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:09:55",
         "agentId": 72795,
-        "last_updated": "2025-08-11 14:36:05"
+        "last_updated": "2025-08-11 15:06:58"
     },
     {
         "id": 11932736,
@@ -29962,7 +29957,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:07:22",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:35:50"
+        "last_updated": "2025-08-11 15:06:43"
     },
     {
         "id": 11932742,
@@ -30037,7 +30032,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:07:01",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:35:55"
+        "last_updated": "2025-08-11 15:06:45"
     },
     {
         "id": 11932745,
@@ -30112,7 +30107,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:06:17",
         "agentId": 72664,
-        "last_updated": "2025-08-11 14:35:57"
+        "last_updated": "2025-08-11 15:06:46"
     },
     {
         "id": 11935282,
@@ -30187,7 +30182,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:05:10",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:36:21"
+        "last_updated": "2025-08-11 15:07:16"
     },
     {
         "id": 11935221,
@@ -30262,7 +30257,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:04:12",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:36:14"
+        "last_updated": "2025-08-11 15:07:12"
     },
     {
         "id": 11935301,
@@ -30337,7 +30332,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:01:42",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:36:26"
+        "last_updated": "2025-08-11 15:07:17"
     },
     {
         "id": 11935316,
@@ -30412,7 +30407,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:00:56",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:36:27"
+        "last_updated": "2025-08-11 15:07:23"
     },
     {
         "id": 11935344,
@@ -30487,7 +30482,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:00:42",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:36:32"
+        "last_updated": "2025-08-11 15:07:25"
     },
     {
         "id": 11937430,
@@ -30557,7 +30552,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 08:59:32",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:36:36"
+        "last_updated": "2025-08-11 15:07:28"
     },
     {
         "id": 11939127,
@@ -30627,7 +30622,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 08:59:19",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:36:48"
+        "last_updated": "2025-08-11 15:07:43"
     },
     {
         "id": 11939150,
@@ -30697,7 +30692,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 08:59:03",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:36:53"
+        "last_updated": "2025-08-11 15:07:45"
     },
     {
         "id": 11873553,
@@ -30782,7 +30777,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2024-12-20 15:54:44",
         "agentId": 72735,
-        "last_updated": "2025-08-11 14:32:42"
+        "last_updated": "2025-08-11 15:03:40"
     },
     {
         "id": 11951483,
@@ -30867,7 +30862,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2024-12-13 16:28:58",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:39:25"
+        "last_updated": "2025-08-11 15:10:21"
     },
     {
         "id": 11951457,
@@ -30957,7 +30952,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2024-12-13 16:14:45",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:39:23"
+        "last_updated": "2025-08-11 15:10:16"
     },
     {
         "id": 11942825,
@@ -31027,7 +31022,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2024-12-07 08:05:50",
         "agentId": 72663,
-        "last_updated": "2025-08-11 14:37:43"
+        "last_updated": "2025-08-11 15:08:35"
     },
     {
         "id": 11935281,
@@ -31102,7 +31097,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2024-12-05 16:03:07",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:36:19"
+        "last_updated": "2025-08-11 15:07:14"
     },
     {
         "id": 11891807,
@@ -31167,6 +31162,6 @@
         "no_of_floors": null,
         "actualisation_date": "2024-11-09 13:50:49",
         "agentId": 72665,
-        "last_updated": "2025-08-11 14:34:59"
+        "last_updated": "2025-08-11 15:05:37"
     }
 ]
