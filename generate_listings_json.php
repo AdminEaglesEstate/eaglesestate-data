@@ -103,9 +103,8 @@ foreach ($idList as $index => $item) {
     $l = isset($json['data']) ? $json['data'] : null;
     if (!$l || !isset($l['id'])) continue;
 
-    //pomijam ogłoszenia z nestedListings
-    if (isset($l['nestedListings']) && is_array($l['nestedListings']) && count($l['nestedListings']) > 0) {
-        logInfo("Pomijam listing $listingId - posiada nestedListings");
+    if (isset($l['section']) && $l['section'] === 'Investment') {
+        logInfo("Pomijam listing $listingId - sekcja Investment");
         continue;
     }
 
