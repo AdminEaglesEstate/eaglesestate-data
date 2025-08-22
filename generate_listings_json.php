@@ -26,6 +26,25 @@ function logInfo($msg)
     echo "[$timestamp] $msg\n";
 }
 
+function mapToBuildingType($section)
+{
+    if (!$section) return null;
+    
+    if (strpos($section, 'House') === 0) {
+        return 'Dom';
+    } elseif (strpos($section, 'Apartment') === 0) {
+        return 'Mieszkanie';
+    } elseif (strpos($section, 'CommercialSpace') === 0) {
+        return 'Lokal';
+    } elseif (strpos($section, 'Lot') === 0) {
+        return 'Dzialka';
+    } elseif (strpos($section, 'CommercialObject') === 0) {
+        return 'Obiekt';
+    }
+    
+    return null;
+}
+
 function postForm($url, $fields, $siteAuth, $cookie, $maxRetries = 7)
 {
     $retryDelay = 3;
@@ -113,7 +132,8 @@ foreach ($idList as $index => $item) {
         'title' => isset($l['name']) ? $l['name'] : '',
         'price' => isset($l['price']['amount']) ? $l['price']['amount'] : 0,
         'is_special' => isset($l['isSpecial']) ? (int)(bool)$l['isSpecial'] : 0,
-        'building_type' => isset($l['buildingType']) ? $l['buildingType'] : null,
+        'building_type' => mapToBuildingType(isset($l['section']) ? $l['section'] : null),
+        'isForSaleOrRental' => isset($l['section']) ? (strpos($l['section'], 'Sale') !== false ? true : (strpos($l['section'], 'Rental') !== false ? false : null)) : null,
         'country_name' => isset($l['country']['name']) ? $l['country']['name'] : null,
         'description' => isset($l['description']) ? $l['description'] : null,
         'elevator' => isset($l['elevator']) ? (int)(bool)$l['elevator'] : null,
