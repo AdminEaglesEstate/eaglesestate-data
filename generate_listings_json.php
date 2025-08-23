@@ -127,6 +127,11 @@ foreach ($idList as $index => $item) {
         continue;
     }
 
+    if (isset($l['nestedListings']) && is_array($l['nestedListings']) && count($l['nestedListings']) > 0) {
+        logInfo("Pomijam listing $listingId - posiada nestedListings");
+        continue;
+    }
+
     $listings[] = [
         'id' => $l['id'],
         'title' => isset($l['name']) ? $l['name'] : '',
