@@ -162,6 +162,7 @@ foreach ($idList as $index => $item) {
         'section' => isset($l['section']) ? $l['section'] : null,
         'status' => isset($l['status']) ? $l['status'] : null,
         'total_area' => isset($l['totalArea']) ? $l['totalArea'] : null,
+        'plot_area_ha' => isset($l['lotArea']) ? $l['lotArea'] : null,
         'year_built' => isset($l['yearBuilt']) ? $l['yearBuilt'] : null,
         'street_name' => isset($l['street']['name']) ? $l['street']['name'] : null,
         'street_full_name' => isset($l['street']['fullName']) ? $l['street']['fullName'] : null,
