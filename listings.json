@@ -29,6 +29,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 37.84,
+        "plot_area_ha": null,
         "year_built": 2017,
         "street_name": "Załęska",
         "street_full_name": "ul. Załęska",
@@ -108,7 +109,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-23 21:39:27",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:00:11"
+        "last_updated": "2025-08-25 14:30:03"
     },
     {
         "id": 12310252,
@@ -140,6 +141,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 73.5,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Eugeniusza Kwiatkowskiego",
         "street_full_name": "ul. Eugeniusza Kwiatkowskiego",
@@ -294,7 +296,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-08-23 15:36:00",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:06:04"
+        "last_updated": "2025-08-25 14:36:31"
     },
     {
         "id": 12195908,
@@ -326,6 +328,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 61.82,
+        "plot_area_ha": null,
         "year_built": 2013,
         "street_name": "Miła",
         "street_full_name": "ul. Miła",
@@ -400,7 +403,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-23 13:06:28",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:16:19"
+        "last_updated": "2025-08-25 14:46:53"
     },
     {
         "id": 12015333,
@@ -432,6 +435,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 50.39,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Gościnna",
         "street_full_name": "ul. Gościnna",
@@ -481,7 +485,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-22 23:12:46",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:11:40"
+        "last_updated": "2025-08-25 14:42:19"
     },
     {
         "id": 12307381,
@@ -513,6 +517,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 53.26,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Henryka Wieniawskiego",
         "street_full_name": "ul. Henryka Wieniawskiego",
@@ -607,7 +612,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-08-22 16:11:05",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:05:22"
+        "last_updated": "2025-08-25 14:35:52"
     },
     {
         "id": 12302040,
@@ -639,6 +644,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 65.3,
+        "plot_area_ha": null,
         "year_built": 1977,
         "street_name": "Jacka Malczewskiego",
         "street_full_name": "ul. Jacka Malczewskiego",
@@ -698,7 +704,7 @@
         "no_of_floors": 11,
         "actualisation_date": "2025-08-22 14:50:18",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:05:17"
+        "last_updated": "2025-08-25 14:35:50"
     },
     {
         "id": 12204942,
@@ -730,6 +736,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 58.78,
+        "plot_area_ha": null,
         "year_built": 1980,
         "street_name": "Króla Stanisława Augusta",
         "street_full_name": "ul. Króla Stanisława Augusta",
@@ -809,7 +816,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-22 12:33:12",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:17:03"
+        "last_updated": "2025-08-25 14:47:38"
     },
     {
         "id": 12315974,
@@ -841,6 +848,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 73.65,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Eugeniusza Kwiatkowskiego",
         "street_full_name": "ul. Eugeniusza Kwiatkowskiego",
@@ -1010,7 +1018,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-08-22 12:20:16",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:06:05"
+        "last_updated": "2025-08-25 14:36:32"
     },
     {
         "id": 12103566,
@@ -1042,6 +1050,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 36.41,
+        "plot_area_ha": null,
         "year_built": 2016,
         "street_name": "al. mjr. Wacława Kopisto",
         "street_full_name": "al. mjr. Wacława Kopisto",
@@ -1116,7 +1125,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-08-21 15:15:54",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:13:59"
+        "last_updated": "2025-08-25 14:44:37"
     },
     {
         "id": 11929886,
@@ -1148,6 +1157,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 49.6,
+        "plot_area_ha": null,
         "year_built": 1977,
         "street_name": "Stanisława Mikołajczyka",
         "street_full_name": "ul. Stanisława Mikołajczyka",
@@ -1222,7 +1232,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-19 15:07:59",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:05:16"
+        "last_updated": "2025-08-25 14:35:48"
     },
     {
         "id": 12101818,
@@ -1254,6 +1264,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 68.43,
+        "plot_area_ha": null,
         "year_built": 2001,
         "street_name": "św. Jana z Dukli",
         "street_full_name": "ul. św. Jana z Dukli",
@@ -1313,7 +1324,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-19 12:51:42",
         "agentId": 74243,
-        "last_updated": "2025-08-25 14:13:51"
+        "last_updated": "2025-08-25 14:44:29"
     },
     {
         "id": 12117244,
@@ -1345,6 +1356,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 82,
+        "plot_area_ha": null,
         "year_built": 1980,
         "street_name": "Stefana Okrzei",
         "street_full_name": "ul. Stefana Okrzei",
@@ -1374,7 +1386,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 12:48:30",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:01:02"
+        "last_updated": "2025-08-25 14:31:14"
     },
     {
         "id": 12288008,
@@ -1406,6 +1418,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 150,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "św. Walentego",
         "street_full_name": "ul. św. Walentego",
@@ -1570,7 +1583,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 12:05:16",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:03:44"
+        "last_updated": "2025-08-25 14:33:59"
     },
     {
         "id": 12023609,
@@ -1602,6 +1615,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 68.8,
+        "plot_area_ha": null,
         "year_built": 1985,
         "street_name": "os. gen. Stanisława Maczka",
         "street_full_name": "os. gen. Stanisława Maczka",
@@ -1666,7 +1680,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-19 10:29:31",
         "agentId": 74243,
-        "last_updated": "2025-08-25 14:12:19"
+        "last_updated": "2025-08-25 14:42:53"
     },
     {
         "id": 12096686,
@@ -1698,6 +1712,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 42.7,
+        "plot_area_ha": null,
         "year_built": 1967,
         "street_name": "Rycerska",
         "street_full_name": "ul. Rycerska",
@@ -1747,7 +1762,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-19 10:24:01",
         "agentId": 74243,
-        "last_updated": "2025-08-25 14:13:43"
+        "last_updated": "2025-08-25 14:44:18"
     },
     {
         "id": 12024984,
@@ -1779,6 +1794,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 39.11,
+        "plot_area_ha": null,
         "year_built": 1965,
         "street_name": "Warszawska",
         "street_full_name": "ul. Warszawska",
@@ -1833,7 +1849,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-19 09:52:52",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:10:39"
+        "last_updated": "2025-08-25 14:41:14"
     },
     {
         "id": 12291528,
@@ -1865,6 +1881,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 35,
+        "plot_area_ha": null,
         "year_built": 1960,
         "street_name": "pl. Ofiar Getta",
         "street_full_name": "pl. Ofiar Getta",
@@ -1914,7 +1931,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-19 09:51:25",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:04:14"
+        "last_updated": "2025-08-25 14:34:32"
     },
     {
         "id": 12121502,
@@ -1946,6 +1963,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 86.21,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Łanowa",
         "street_full_name": "ul. Łanowa",
@@ -2025,7 +2043,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 09:50:16",
         "agentId": 74243,
-        "last_updated": "2025-08-25 14:02:12"
+        "last_updated": "2025-08-25 14:32:18"
     },
     {
         "id": 12120775,
@@ -2057,6 +2075,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 30,
+        "plot_area_ha": null,
         "year_built": 1980,
         "street_name": "Podwisłocze",
         "street_full_name": "ul. Podwisłocze",
@@ -2121,7 +2140,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-19 09:49:53",
         "agentId": 74243,
-        "last_updated": "2025-08-25 14:02:00"
+        "last_updated": "2025-08-25 14:32:12"
     },
     {
         "id": 12252909,
@@ -2153,6 +2172,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 36,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Czesława Miłosza",
         "street_full_name": "ul. Czesława Miłosza",
@@ -2202,7 +2222,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-19 09:47:57",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:18:54"
+        "last_updated": "2025-08-25 14:49:29"
     },
     {
         "id": 12220827,
@@ -2234,6 +2254,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 160,
+        "plot_area_ha": 2039,
         "year_built": 1993,
         "street_name": null,
         "street_full_name": null,
@@ -2343,7 +2364,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 09:47:25",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:17:29"
+        "last_updated": "2025-08-25 14:48:01"
     },
     {
         "id": 12208219,
@@ -2375,6 +2396,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 60.97,
+        "plot_area_ha": null,
         "year_built": 2009,
         "street_name": "Zabłocie",
         "street_full_name": "ul. Zabłocie",
@@ -2429,7 +2451,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-08-19 09:46:39",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:17:14"
+        "last_updated": "2025-08-25 14:47:51"
     },
     {
         "id": 12205021,
@@ -2461,6 +2483,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 122,
+        "plot_area_ha": 997,
         "year_built": 1990,
         "street_name": null,
         "street_full_name": null,
@@ -2515,7 +2538,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 09:46:14",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:17:08"
+        "last_updated": "2025-08-25 14:47:40"
     },
     {
         "id": 12201548,
@@ -2547,6 +2570,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 61.9,
+        "plot_area_ha": null,
         "year_built": 2017,
         "street_name": "Maksymiliana Marii Kolbego",
         "street_full_name": "ul. Maksymiliana Marii Kolbego",
@@ -2596,7 +2620,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 09:45:47",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:16:57"
+        "last_updated": "2025-08-25 14:47:31"
     },
     {
         "id": 12195964,
@@ -2628,6 +2652,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 90,
+        "plot_area_ha": null,
         "year_built": 2013,
         "street_name": "Mieczysławy Ćwiklińskiej",
         "street_full_name": "ul. Mieczysławy Ćwiklińskiej",
@@ -2677,7 +2702,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-19 09:45:26",
         "agentId": 74243,
-        "last_updated": "2025-08-25 14:16:26"
+        "last_updated": "2025-08-25 14:46:59"
     },
     {
         "id": 12197406,
@@ -2709,6 +2734,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 58,
+        "plot_area_ha": null,
         "year_built": 2023,
         "street_name": "Czesława Miłosza",
         "street_full_name": "ul. Czesława Miłosza",
@@ -2763,7 +2789,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 09:44:40",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:16:50"
+        "last_updated": "2025-08-25 14:47:25"
     },
     {
         "id": 12201608,
@@ -2795,6 +2821,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 280,
+        "plot_area_ha": 6100,
         "year_built": 1980,
         "street_name": null,
         "street_full_name": null,
@@ -2894,7 +2921,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-19 09:43:50",
         "agentId": 74243,
-        "last_updated": "2025-08-25 14:17:02"
+        "last_updated": "2025-08-25 14:47:33"
     },
     {
         "id": 12162728,
@@ -2926,6 +2953,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 77.9,
+        "plot_area_ha": null,
         "year_built": 1980,
         "street_name": "al. prof. Adama Krzyżanowskiego",
         "street_full_name": "al. prof. Adama Krzyżanowskiego",
@@ -2975,7 +3003,7 @@
         "no_of_floors": 11,
         "actualisation_date": "2025-08-19 09:43:29",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:14:45"
+        "last_updated": "2025-08-25 14:45:21"
     },
     {
         "id": 12134910,
@@ -3007,6 +3035,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 119.65,
+        "plot_area_ha": null,
         "year_built": 2023,
         "street_name": "Jana Pawła II",
         "street_full_name": "ul. Jana Pawła II",
@@ -3106,7 +3135,7 @@
         "no_of_floors": 5,
         "actualisation_date": "2025-08-19 09:43:07",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:14:39"
+        "last_updated": "2025-08-25 14:45:14"
     },
     {
         "id": 12280603,
@@ -3138,6 +3167,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 60.06,
+        "plot_area_ha": null,
         "year_built": 2023,
         "street_name": "Wschodnia",
         "street_full_name": "ul. Wschodnia",
@@ -3237,7 +3267,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-19 09:42:57",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:03:43"
+        "last_updated": "2025-08-25 14:33:54"
     },
     {
         "id": 12125398,
@@ -3269,6 +3299,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 81.77,
+        "plot_area_ha": null,
         "year_built": 2022,
         "street_name": "Złoty Stok",
         "street_full_name": "ul. Złoty Stok",
@@ -3363,7 +3394,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-08-19 09:42:23",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:02:30"
+        "last_updated": "2025-08-25 14:32:39"
     },
     {
         "id": 12310112,
@@ -3395,6 +3426,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 182.69,
+        "plot_area_ha": 0.08,
         "year_built": 2024,
         "street_name": null,
         "street_full_name": null,
@@ -3564,7 +3596,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-19 09:42:15",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:05:58"
+        "last_updated": "2025-08-25 14:36:26"
     },
     {
         "id": 12124316,
@@ -3596,6 +3628,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 42,
+        "plot_area_ha": null,
         "year_built": 1970,
         "street_name": "gen. Mieczysława Boruty-Spiechowicza",
         "street_full_name": "ul. gen. Mieczysława Boruty-Spiechowicza",
@@ -3655,7 +3688,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-19 09:41:56",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:02:22"
+        "last_updated": "2025-08-25 14:32:31"
     },
     {
         "id": 12122711,
@@ -3687,6 +3720,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 43.76,
+        "plot_area_ha": null,
         "year_built": 2018,
         "street_name": "Solińska",
         "street_full_name": "ul. Solińska",
@@ -3746,7 +3780,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-08-19 09:41:34",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:02:14"
+        "last_updated": "2025-08-25 14:32:23"
     },
     {
         "id": 12300652,
@@ -3778,6 +3812,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 67,
+        "plot_area_ha": null,
         "year_built": 2000,
         "street_name": "Krośnieńska",
         "street_full_name": "ul. Krośnieńska",
@@ -3842,7 +3877,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-19 09:41:29",
         "agentId": 74243,
-        "last_updated": "2025-08-25 14:04:22"
+        "last_updated": "2025-08-25 14:34:40"
     },
     {
         "id": 12296197,
@@ -3874,6 +3909,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 205.87,
+        "plot_area_ha": 13,
         "year_built": 2022,
         "street_name": null,
         "street_full_name": null,
@@ -4043,7 +4079,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-19 09:40:46",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:04:19"
+        "last_updated": "2025-08-25 14:34:33"
     },
     {
         "id": 12121375,
@@ -4075,6 +4111,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 53.12,
+        "plot_area_ha": null,
         "year_built": 1955,
         "street_name": "Jarosława Dąbrowskiego",
         "street_full_name": "ul. Jarosława Dąbrowskiego",
@@ -4124,7 +4161,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-19 09:40:41",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:02:01"
+        "last_updated": "2025-08-25 14:32:17"
     },
     {
         "id": 12103068,
@@ -4156,6 +4193,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 46.18,
+        "plot_area_ha": null,
         "year_built": 1982,
         "street_name": "Bohaterów Westerplatte",
         "street_full_name": "ul. Bohaterów Westerplatte",
@@ -4220,7 +4258,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-19 09:40:01",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:13:58"
+        "last_updated": "2025-08-25 14:44:35"
     },
     {
         "id": 12287836,
@@ -4252,6 +4290,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 73.7,
+        "plot_area_ha": null,
         "year_built": 1989,
         "street_name": "Franciszka Ślusarczyka",
         "street_full_name": "ul. Franciszka Ślusarczyka",
@@ -4311,7 +4350,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-19 09:39:49",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:04:01"
+        "last_updated": "2025-08-25 14:34:18"
     },
     {
         "id": 12048705,
@@ -4343,6 +4382,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 52.19,
+        "plot_area_ha": null,
         "year_built": 2019,
         "street_name": "Laurowa",
         "street_full_name": "ul. Laurowa",
@@ -4427,7 +4467,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-19 09:38:59",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:12:54"
+        "last_updated": "2025-08-25 14:43:29"
     },
     {
         "id": 12047061,
@@ -4459,6 +4499,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 82.89,
+        "plot_area_ha": null,
         "year_built": 1978,
         "street_name": "Sportowa",
         "street_full_name": "ul. Sportowa",
@@ -4513,7 +4554,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-19 09:38:45",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:12:46"
+        "last_updated": "2025-08-25 14:43:18"
     },
     {
         "id": 11990059,
@@ -4545,6 +4586,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 66.03,
+        "plot_area_ha": null,
         "year_built": 2020,
         "street_name": "Podgórska",
         "street_full_name": "ul. Podgórska",
@@ -4594,7 +4636,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-08-19 09:38:17",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:04:45"
+        "last_updated": "2025-08-25 14:35:00"
     },
     {
         "id": 11981173,
@@ -4626,6 +4668,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 41,
+        "plot_area_ha": null,
         "year_built": 1910,
         "street_name": "Baldachówka",
         "street_full_name": "ul. Baldachówka",
@@ -4680,7 +4723,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-19 09:37:47",
         "agentId": 74395,
-        "last_updated": "2025-08-25 14:10:31"
+        "last_updated": "2025-08-25 14:40:57"
     },
     {
         "id": 12016329,
@@ -4712,6 +4755,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 58.8,
+        "plot_area_ha": null,
         "year_built": 1977,
         "street_name": "Jacka Malczewskiego",
         "street_full_name": "ul. Jacka Malczewskiego",
@@ -4781,7 +4825,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-18 12:41:56",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:11:46"
+        "last_updated": "2025-08-25 14:42:26"
     },
     {
         "id": 12223695,
@@ -4813,6 +4857,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 49.5,
+        "plot_area_ha": null,
         "year_built": 1980,
         "street_name": "Kosynierów",
         "street_full_name": "ul. Kosynierów",
@@ -4867,7 +4912,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-18 08:21:22",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:02:50"
+        "last_updated": "2025-08-25 14:33:04"
     },
     {
         "id": 12306781,
@@ -4899,6 +4944,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 39,
+        "plot_area_ha": null,
         "year_built": 1981,
         "street_name": "Cicha",
         "street_full_name": "ul. Cicha",
@@ -4948,7 +4994,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-16 14:02:07",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:05:24"
+        "last_updated": "2025-08-25 14:35:54"
     },
     {
         "id": 11884666,
@@ -4980,6 +5026,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 66.53,
+        "plot_area_ha": null,
         "year_built": 2023,
         "street_name": "Świętojańska",
         "street_full_name": "ul. Świętojańska",
@@ -5044,7 +5091,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-13 15:02:05",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:03:29"
+        "last_updated": "2025-08-25 14:33:40"
     },
     {
         "id": 12201478,
@@ -5076,6 +5123,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 308,
+        "plot_area_ha": 1551,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -5185,7 +5233,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-13 11:53:40",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:16:55"
+        "last_updated": "2025-08-25 14:47:30"
     },
     {
         "id": 12108611,
@@ -5217,6 +5265,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 68,
+        "plot_area_ha": null,
         "year_built": 2015,
         "street_name": "Gromskiego",
         "street_full_name": "ul. Gromskiego",
@@ -5296,7 +5345,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-13 11:39:14",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:14:24"
+        "last_updated": "2025-08-25 14:44:58"
     },
     {
         "id": 12017007,
@@ -5328,6 +5377,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 49.9,
+        "plot_area_ha": null,
         "year_built": 1977,
         "street_name": "Janusza Korczaka",
         "street_full_name": "ul. Janusza Korczaka",
@@ -5397,7 +5447,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-13 10:02:10",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:11:48"
+        "last_updated": "2025-08-25 14:42:27"
     },
     {
         "id": 12022712,
@@ -5429,6 +5479,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 38,
+        "plot_area_ha": null,
         "year_built": 2019,
         "street_name": "Hetmańska",
         "street_full_name": "ul. Hetmańska",
@@ -5508,7 +5559,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-08-13 10:00:39",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:12:14"
+        "last_updated": "2025-08-25 14:42:48"
     },
     {
         "id": 12023481,
@@ -5540,6 +5591,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 59.35,
+        "plot_area_ha": null,
         "year_built": 2019,
         "street_name": "Hetmańska",
         "street_full_name": "ul. Hetmańska",
@@ -5624,7 +5676,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-08-13 09:58:56",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:12:26"
+        "last_updated": "2025-08-25 14:42:57"
     },
     {
         "id": 12226346,
@@ -5656,6 +5708,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 71.65,
+        "plot_area_ha": null,
         "year_built": 2015,
         "street_name": "al. mjr. Wacława Kopisto",
         "street_full_name": "al. mjr. Wacława Kopisto",
@@ -5745,7 +5798,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-13 09:58:26",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:17:44"
+        "last_updated": "2025-08-25 14:48:17"
     },
     {
         "id": 12227970,
@@ -5777,6 +5830,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 60.55,
+        "plot_area_ha": null,
         "year_built": 2023,
         "street_name": "Węglowskiego",
         "street_full_name": "ul. Węglowskiego",
@@ -5866,7 +5920,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-13 09:56:30",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:17:46"
+        "last_updated": "2025-08-25 14:48:18"
     },
     {
         "id": 12264298,
@@ -5898,6 +5952,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 77.36,
+        "plot_area_ha": null,
         "year_built": 2017,
         "street_name": "św. Rocha",
         "street_full_name": "ul. św. Rocha",
@@ -5977,7 +6032,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-13 09:54:38",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:19:18"
+        "last_updated": "2025-08-25 14:49:53"
     },
     {
         "id": 12279890,
@@ -6009,6 +6064,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 35,
+        "plot_area_ha": null,
         "year_built": 1970,
         "street_name": "Rycerska",
         "street_full_name": "ul. Rycerska",
@@ -6053,7 +6109,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-13 09:54:01",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:03:41"
+        "last_updated": "2025-08-25 14:33:53"
     },
     {
         "id": 12046032,
@@ -6085,6 +6141,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 64,
+        "plot_area_ha": null,
         "year_built": 1970,
         "street_name": "Ignacego Solarza",
         "street_full_name": "ul. Ignacego Solarza",
@@ -6134,7 +6191,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-08-12 15:22:10",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:01:15"
+        "last_updated": "2025-08-25 14:31:25"
     },
     {
         "id": 12046057,
@@ -6166,6 +6223,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 64,
+        "plot_area_ha": null,
         "year_built": 1970,
         "street_name": "Witolda Świadka",
         "street_full_name": "ul. Witolda Świadka",
@@ -6235,7 +6293,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-12 15:21:08",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:01:17"
+        "last_updated": "2025-08-25 14:31:29"
     },
     {
         "id": 12018532,
@@ -6267,6 +6325,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 111,
+        "plot_area_ha": 250,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -6316,7 +6375,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-11 17:53:00",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:11:54"
+        "last_updated": "2025-08-25 14:42:34"
     },
     {
         "id": 12291429,
@@ -6348,6 +6407,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 58.7,
+        "plot_area_ha": null,
         "year_built": 1977,
         "street_name": "Stanisława Mikołajczyka",
         "street_full_name": "ul. Stanisława Mikołajczyka",
@@ -6407,7 +6467,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-11 14:35:23",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:04:12"
+        "last_updated": "2025-08-25 14:34:30"
     },
     {
         "id": 12299674,
@@ -6439,6 +6499,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 38.43,
+        "plot_area_ha": null,
         "year_built": 1951,
         "street_name": "Hetmańska",
         "street_full_name": "ul. Hetmańska",
@@ -6473,7 +6534,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-11 13:28:53",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:05:04"
+        "last_updated": "2025-08-25 14:35:21"
     },
     {
         "id": 11939038,
@@ -6505,6 +6566,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 130.55,
+        "plot_area_ha": 205,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -6569,7 +6631,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-11 11:48:50",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:06:36"
+        "last_updated": "2025-08-25 14:37:04"
     },
     {
         "id": 11976362,
@@ -6601,6 +6663,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 95.85,
+        "plot_area_ha": 135,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -6630,7 +6693,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-11 11:12:26",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:04:59"
+        "last_updated": "2025-08-25 14:35:18"
     },
     {
         "id": 11976007,
@@ -6662,6 +6725,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 95.85,
+        "plot_area_ha": 240,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -6691,7 +6755,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-11 11:11:06",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:03:09"
+        "last_updated": "2025-08-25 14:33:21"
     },
     {
         "id": 12239185,
@@ -6723,6 +6787,7 @@
         "section": "ApartmentSale",
         "status": "Closed",
         "total_area": 34.81,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Graniczna",
         "street_full_name": "ul. Graniczna",
@@ -6792,7 +6857,7 @@
         "no_of_floors": 13,
         "actualisation_date": "2025-08-11 10:40:51",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:18:13"
+        "last_updated": "2025-08-25 14:48:45"
     },
     {
         "id": 12198463,
@@ -6824,6 +6889,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 42.21,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Kornela Makuszyńskiego",
         "street_full_name": "ul. Kornela Makuszyńskiego",
@@ -6893,7 +6959,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-07 09:28:38",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:16:40"
+        "last_updated": "2025-08-25 14:47:15"
     },
     {
         "id": 12071266,
@@ -6925,6 +6991,7 @@
         "section": "ApartmentRental",
         "status": "Active",
         "total_area": 34,
+        "plot_area_ha": null,
         "year_built": null,
         "street_name": "Technologiczna",
         "street_full_name": "ul. Technologiczna",
@@ -6959,7 +7026,7 @@
         "no_of_floors": 12,
         "actualisation_date": "2025-08-07 08:27:15",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:13:24"
+        "last_updated": "2025-08-25 14:43:58"
     },
     {
         "id": 12300547,
@@ -6991,6 +7058,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 66.66,
+        "plot_area_ha": null,
         "year_built": 2023,
         "street_name": "Świętojańska",
         "street_full_name": "ul. Świętojańska",
@@ -7065,7 +7133,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-06 12:40:41",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:04:20"
+        "last_updated": "2025-08-25 14:34:38"
     },
     {
         "id": 12122950,
@@ -7097,6 +7165,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 60.29,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Graniczna",
         "street_full_name": "ul. Graniczna",
@@ -7116,7 +7185,7 @@
         "no_of_floors": 13,
         "actualisation_date": "2025-08-06 09:59:43",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:02:15"
+        "last_updated": "2025-08-25 14:32:25"
     },
     {
         "id": 12214815,
@@ -7148,6 +7217,7 @@
         "section": "ApartmentSale",
         "status": "Closed",
         "total_area": 55.47,
+        "plot_area_ha": null,
         "year_built": 2015,
         "street_name": "Potokowa",
         "street_full_name": "ul. Potokowa",
@@ -7217,7 +7287,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-05 15:43:50",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:17:21"
+        "last_updated": "2025-08-25 14:47:54"
     },
     {
         "id": 11973063,
@@ -7249,6 +7319,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 57.52,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Graniczna",
         "street_full_name": "ul. Graniczna",
@@ -7333,7 +7404,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-08-05 14:53:52",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:09:59"
+        "last_updated": "2025-08-25 14:40:31"
     },
     {
         "id": 12117411,
@@ -7365,6 +7436,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 27.66,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Aleksandra Zelwerowicza",
         "street_full_name": "ul. Aleksandra Zelwerowicza",
@@ -7399,7 +7471,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-05 13:41:40",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:01:09"
+        "last_updated": "2025-08-25 14:31:18"
     },
     {
         "id": 12288619,
@@ -7431,6 +7503,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 51.99,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Staroniwska",
         "street_full_name": "ul. Staroniwska",
@@ -7515,7 +7588,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-05 13:16:30",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:04:06"
+        "last_updated": "2025-08-25 14:34:23"
     },
     {
         "id": 12298645,
@@ -7547,6 +7620,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 65,
+        "plot_area_ha": null,
         "year_built": 2008,
         "street_name": "Podpromie",
         "street_full_name": "ul. Podpromie",
@@ -7611,7 +7685,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-05 12:08:28",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:04:27"
+        "last_updated": "2025-08-25 14:34:44"
     },
     {
         "id": 12232918,
@@ -7643,6 +7717,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 48.7,
+        "plot_area_ha": null,
         "year_built": 1985,
         "street_name": "osiedle gen. Stanisława Maczka",
         "street_full_name": "osiedle gen. Stanisława Maczka",
@@ -7712,7 +7787,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-05 11:38:40",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:17:51"
+        "last_updated": "2025-08-25 14:48:30"
     },
     {
         "id": 11932698,
@@ -7744,6 +7819,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 46.51,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -7788,7 +7864,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-08-04 19:02:28",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:05:32"
+        "last_updated": "2025-08-25 14:35:59"
     },
     {
         "id": 11973264,
@@ -7820,6 +7896,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 59.44,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Myśliwska",
         "street_full_name": "ul. Myśliwska",
@@ -7854,7 +7931,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-04 18:40:23",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:10:04"
+        "last_updated": "2025-08-25 14:40:32"
     },
     {
         "id": 12003039,
@@ -7886,6 +7963,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 114,
+        "plot_area_ha": 674,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -7925,7 +8003,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-04 18:29:12",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:11:05"
+        "last_updated": "2025-08-25 14:41:41"
     },
     {
         "id": 12298035,
@@ -7957,6 +8035,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 114.09,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Ekologiczna",
         "street_full_name": "ul. Ekologiczna",
@@ -8011,7 +8090,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-04 12:18:25",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:04:08"
+        "last_updated": "2025-08-25 14:34:25"
     },
     {
         "id": 12224251,
@@ -8043,6 +8122,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 85.3,
+        "plot_area_ha": null,
         "year_built": 1999,
         "street_name": "Eugeniusza Nazimka",
         "street_full_name": "ul. Eugeniusza Nazimka",
@@ -8097,7 +8177,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-01 17:24:26",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:02:54"
+        "last_updated": "2025-08-25 14:33:06"
     },
     {
         "id": 12023682,
@@ -8129,6 +8209,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 65.9,
+        "plot_area_ha": null,
         "year_built": 1992,
         "street_name": "Karola Lewakowskiego",
         "street_full_name": "ul. Karola Lewakowskiego",
@@ -8208,7 +8289,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-01 17:20:29",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:12:20"
+        "last_updated": "2025-08-25 14:42:55"
     },
     {
         "id": 11964770,
@@ -8240,6 +8321,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 73.53,
+        "plot_area_ha": 257.2,
         "year_built": 2024,
         "street_name": null,
         "street_full_name": null,
@@ -8299,7 +8381,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-01 16:35:49",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:09:32"
+        "last_updated": "2025-08-25 14:39:59"
     },
     {
         "id": 12065816,
@@ -8331,6 +8413,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 77.05,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Eugeniusza Kwiatkowskiego",
         "street_full_name": "ul. Eugeniusza Kwiatkowskiego",
@@ -8375,7 +8458,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-07-31 15:51:32",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:12:30"
+        "last_updated": "2025-08-25 14:43:03"
     },
     {
         "id": 12065861,
@@ -8407,6 +8490,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 46.33,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Eugeniusza Kwiatkowskiego",
         "street_full_name": "ul. Eugeniusza Kwiatkowskiego",
@@ -8446,7 +8530,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-07-31 15:51:19",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:12:34"
+        "last_updated": "2025-08-25 14:43:09"
     },
     {
         "id": 12107390,
@@ -8478,6 +8562,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 54.82,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Techniczna",
         "street_full_name": "ul. Techniczna",
@@ -8517,7 +8602,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:49:39",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:14:14"
+        "last_updated": "2025-08-25 14:44:42"
     },
     {
         "id": 12107657,
@@ -8549,6 +8634,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 63.36,
+        "plot_area_ha": null,
         "year_built": 2027,
         "street_name": "Techniczna",
         "street_full_name": "ul. Techniczna",
@@ -8588,7 +8674,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:49:24",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:14:16"
+        "last_updated": "2025-08-25 14:44:47"
     },
     {
         "id": 12116693,
@@ -8620,6 +8706,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 54.57,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -8654,7 +8741,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:48:51",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:00:56"
+        "last_updated": "2025-08-25 14:31:07"
     },
     {
         "id": 12116727,
@@ -8686,6 +8773,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 84.53,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -8720,7 +8808,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:48:40",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:01:00"
+        "last_updated": "2025-08-25 14:31:12"
     },
     {
         "id": 12132803,
@@ -8752,6 +8840,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 56.2,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -8796,7 +8885,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:47:08",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:04:51"
+        "last_updated": "2025-08-25 14:35:09"
     },
     {
         "id": 12179603,
@@ -8828,6 +8917,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 74.39,
+        "plot_area_ha": 94.52,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -8857,7 +8947,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:42:29",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:15:52"
+        "last_updated": "2025-08-25 14:46:26"
     },
     {
         "id": 12181203,
@@ -8889,6 +8979,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 74.39,
+        "plot_area_ha": 110.09,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -8928,7 +9019,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:41:42",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:16:02"
+        "last_updated": "2025-08-25 14:46:34"
     },
     {
         "id": 12240742,
@@ -8960,6 +9051,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 47.77,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "św. Rocha",
         "street_full_name": "ul. św. Rocha",
@@ -9009,7 +9101,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:29:19",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:18:23"
+        "last_updated": "2025-08-25 14:48:56"
     },
     {
         "id": 12240878,
@@ -9041,6 +9133,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 72.47,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "św. Rocha",
         "street_full_name": "ul. św. Rocha",
@@ -9100,7 +9193,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:29:05",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:18:15"
+        "last_updated": "2025-08-25 14:48:54"
     },
     {
         "id": 12241418,
@@ -9132,6 +9225,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 56.34,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "św. Rocha",
         "street_full_name": "ul. św. Rocha",
@@ -9171,7 +9265,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:28:52",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:13:16"
+        "last_updated": "2025-08-25 14:43:50"
     },
     {
         "id": 12250242,
@@ -9203,6 +9297,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 83,
+        "plot_area_ha": 270,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -9242,7 +9337,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:28:09",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:18:35"
+        "last_updated": "2025-08-25 14:49:10"
     },
     {
         "id": 12250243,
@@ -9274,6 +9369,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 83,
+        "plot_area_ha": 960,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -9313,7 +9409,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:27:29",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:18:40"
+        "last_updated": "2025-08-25 14:49:15"
     },
     {
         "id": 12198151,
@@ -9345,6 +9441,7 @@
         "section": "CommercialObjectSale",
         "status": "Active",
         "total_area": 348,
+        "plot_area_ha": 1019,
         "year_built": 2007,
         "street_name": null,
         "street_full_name": null,
@@ -9469,7 +9566,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-07-30 16:05:22",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:16:49"
+        "last_updated": "2025-08-25 14:47:23"
     },
     {
         "id": 12253763,
@@ -9501,6 +9598,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 45.09,
+        "plot_area_ha": null,
         "year_built": 2023,
         "street_name": "Eugeniusza Kwiatkowskiego",
         "street_full_name": "ul. Eugeniusza Kwiatkowskiego",
@@ -9630,7 +9728,7 @@
         "no_of_floors": 16,
         "actualisation_date": "2025-07-30 09:53:53",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:19:03"
+        "last_updated": "2025-08-25 14:49:37"
     },
     {
         "id": 12286065,
@@ -9662,6 +9760,7 @@
         "section": "ApartmentRental",
         "status": "Active",
         "total_area": 50,
+        "plot_area_ha": null,
         "year_built": null,
         "street_name": "Zabłocie",
         "street_full_name": "ul. Zabłocie",
@@ -9721,7 +9820,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-29 16:27:28",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:04:00"
+        "last_updated": "2025-08-25 14:34:16"
     },
     {
         "id": 11974616,
@@ -9753,6 +9852,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 117.49,
+        "plot_area_ha": 260,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -9892,7 +9992,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-29 12:24:52",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:10:20"
+        "last_updated": "2025-08-25 14:40:45"
     },
     {
         "id": 11969229,
@@ -9924,6 +10024,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 141.49,
+        "plot_area_ha": 700,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -10028,7 +10129,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-28 15:11:45",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:02:31"
+        "last_updated": "2025-08-25 14:32:44"
     },
     {
         "id": 11882210,
@@ -10060,6 +10161,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 139,
+        "plot_area_ha": 350,
         "year_built": 2024,
         "street_name": null,
         "street_full_name": null,
@@ -10114,7 +10216,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-28 14:23:41",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:03:15"
+        "last_updated": "2025-08-25 14:33:33"
     },
     {
         "id": 12253501,
@@ -10146,6 +10248,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 54,
+        "plot_area_ha": null,
         "year_built": 2016,
         "street_name": "Strzelnicza",
         "street_full_name": "ul. Strzelnicza",
@@ -10220,7 +10323,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-28 11:23:09",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:19:02"
+        "last_updated": "2025-08-25 14:49:36"
     },
     {
         "id": 12278973,
@@ -10252,6 +10355,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 113,
+        "plot_area_ha": 281,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -10326,7 +10430,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-25 10:33:53",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:03:33"
+        "last_updated": "2025-08-25 14:33:47"
     },
     {
         "id": 12242522,
@@ -10358,6 +10462,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 55.37,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Nowosądecka",
         "street_full_name": "ul. Nowosądecka",
@@ -10432,7 +10537,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-24 12:28:06",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:01:52"
+        "last_updated": "2025-08-25 14:32:04"
     },
     {
         "id": 12279401,
@@ -10464,6 +10569,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 199,
+        "plot_area_ha": 2100,
         "year_built": 1998,
         "street_name": null,
         "street_full_name": null,
@@ -10603,7 +10709,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-23 10:40:12",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:03:34"
+        "last_updated": "2025-08-25 14:33:48"
     },
     {
         "id": 12213928,
@@ -10635,6 +10741,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 53.97,
+        "plot_area_ha": null,
         "year_built": 1970,
         "street_name": "Józefa Ignacego Kraszewskiego",
         "street_full_name": "ul. Józefa Ignacego Kraszewskiego",
@@ -10649,7 +10756,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-23 10:27:41",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:17:19"
+        "last_updated": "2025-08-25 14:47:53"
     },
     {
         "id": 12286007,
@@ -10681,6 +10788,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 125.08,
+        "plot_area_ha": 219,
         "year_built": 2024,
         "street_name": null,
         "street_full_name": null,
@@ -10730,7 +10838,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-23 10:26:52",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:03:58"
+        "last_updated": "2025-08-25 14:34:15"
     },
     {
         "id": 12285845,
@@ -10762,6 +10870,7 @@
         "section": "CommercialSpaceSale",
         "status": "Active",
         "total_area": 21.8,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -10836,7 +10945,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-23 08:05:54",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:03:53"
+        "last_updated": "2025-08-25 14:34:13"
     },
     {
         "id": 12285842,
@@ -10868,6 +10977,7 @@
         "section": "CommercialSpaceSale",
         "status": "Active",
         "total_area": 25.11,
+        "plot_area_ha": null,
         "year_built": 2022,
         "street_name": null,
         "street_full_name": null,
@@ -10932,7 +11042,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-23 07:58:10",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:03:52"
+        "last_updated": "2025-08-25 14:34:11"
     },
     {
         "id": 12222907,
@@ -10964,6 +11074,7 @@
         "section": "LotSale",
         "status": "Closed",
         "total_area": null,
+        "plot_area_ha": 1322,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -11008,7 +11119,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-07-22 16:38:35",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:17:37"
+        "last_updated": "2025-08-25 14:48:12"
     },
     {
         "id": 12197287,
@@ -11040,6 +11151,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 83.06,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "św. Marcina",
         "street_full_name": "ul. św. Marcina",
@@ -11099,7 +11211,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-22 16:32:33",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:16:36"
+        "last_updated": "2025-08-25 14:47:10"
     },
     {
         "id": 12285255,
@@ -11131,6 +11243,7 @@
         "section": "CommercialSpaceSale",
         "status": "Active",
         "total_area": 74.8,
+        "plot_area_ha": null,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -11165,7 +11278,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-07-22 16:03:44",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:03:50"
+        "last_updated": "2025-08-25 14:34:01"
     },
     {
         "id": 12243776,
@@ -11197,6 +11310,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 44.77,
+        "plot_area_ha": null,
         "year_built": 2016,
         "street_name": "Władysława Grabskiego",
         "street_full_name": "ul. Władysława Grabskiego",
@@ -11236,7 +11350,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-22 10:55:41",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:18:25"
+        "last_updated": "2025-08-25 14:48:58"
     },
     {
         "id": 12206451,
@@ -11268,6 +11382,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 270,
+        "plot_area_ha": 18,
         "year_built": 1983,
         "street_name": null,
         "street_full_name": null,
@@ -11402,7 +11517,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-22 10:15:25",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:17:10"
+        "last_updated": "2025-08-25 14:47:44"
     },
     {
         "id": 12108039,
@@ -11434,6 +11549,7 @@
         "section": "ApartmentSale",
         "status": "Closed",
         "total_area": 47.29,
+        "plot_area_ha": null,
         "year_built": 2021,
         "street_name": "Bałtycka",
         "street_full_name": "ul. Bałtycka",
@@ -11523,7 +11639,7 @@
         "no_of_floors": 11,
         "actualisation_date": "2025-07-21 15:09:16",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:14:17"
+        "last_updated": "2025-08-25 14:44:50"
     },
     {
         "id": 11870529,
@@ -11555,6 +11671,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 40.5,
+        "plot_area_ha": null,
         "year_built": 1960,
         "street_name": "al. Józefa Piłsudskiego",
         "street_full_name": "al. Józefa Piłsudskiego",
@@ -11614,7 +11731,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-21 11:38:48",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:02:43"
+        "last_updated": "2025-08-25 14:32:56"
     },
     {
         "id": 11999441,
@@ -11646,6 +11763,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 110.2,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "al. gen. Władysława Sikorskiego",
         "street_full_name": "al. gen. Władysława Sikorskiego",
@@ -11735,7 +11853,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-21 10:53:36",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:10:49"
+        "last_updated": "2025-08-25 14:41:21"
     },
     {
         "id": 11891290,
@@ -11767,6 +11885,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 51.39,
+        "plot_area_ha": null,
         "year_built": 1956,
         "street_name": "Stanisława Staszica",
         "street_full_name": "ul. Stanisława Staszica",
@@ -11826,7 +11945,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-15 12:29:59",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:04:29"
+        "last_updated": "2025-08-25 14:34:46"
     },
     {
         "id": 11891414,
@@ -11858,6 +11977,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 48.7,
+        "plot_area_ha": null,
         "year_built": 1980,
         "street_name": "ks. Jerzego Popiełuszki",
         "street_full_name": "ul. ks. Jerzego Popiełuszki",
@@ -11917,7 +12037,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-07-15 12:28:54",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:04:33"
+        "last_updated": "2025-08-25 14:34:51"
     },
     {
         "id": 12271796,
@@ -11949,6 +12069,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 51,
+        "plot_area_ha": null,
         "year_built": 1989,
         "street_name": "bp. Józefa Sebastiana Pelczara",
         "street_full_name": "ul. bp. Józefa Sebastiana Pelczara",
@@ -12033,7 +12154,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-15 11:53:26",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:03:31"
+        "last_updated": "2025-08-25 14:33:45"
     },
     {
         "id": 12073870,
@@ -12065,6 +12186,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 51,
+        "plot_area_ha": null,
         "year_built": 2009,
         "street_name": "Nowosądecka",
         "street_full_name": "ul. Nowosądecka",
@@ -12114,7 +12236,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-08 17:47:11",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:13:26"
+        "last_updated": "2025-08-25 14:44:04"
     },
     {
         "id": 11932313,
@@ -12146,6 +12268,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 117.49,
+        "plot_area_ha": 1.5,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -12310,7 +12433,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-08 13:49:15",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:05:56"
+        "last_updated": "2025-08-25 14:36:24"
     },
     {
         "id": 11929382,
@@ -12342,6 +12465,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 114.09,
+        "plot_area_ha": 170.95,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -12421,7 +12545,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-08 13:28:27",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:05:09"
+        "last_updated": "2025-08-25 14:35:32"
     },
     {
         "id": 11974578,
@@ -12453,6 +12577,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 114.09,
+        "plot_area_ha": 246.43,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -12532,7 +12657,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-08 13:21:49",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:10:18"
+        "last_updated": "2025-08-25 14:40:44"
     },
     {
         "id": 12263516,
@@ -12564,6 +12689,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 40.73,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Krakowska",
         "street_full_name": "ul. Krakowska",
@@ -12598,7 +12724,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-08 13:03:06",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:19:11"
+        "last_updated": "2025-08-25 14:49:46"
     },
     {
         "id": 12181301,
@@ -12630,6 +12756,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 106,
+        "plot_area_ha": 600,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -12694,7 +12821,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 22:43:13",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:16:04"
+        "last_updated": "2025-08-25 14:46:39"
     },
     {
         "id": 12233305,
@@ -12726,6 +12853,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 44.48,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Gościnna",
         "street_full_name": "ul. Gościnna",
@@ -12800,7 +12928,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 18:16:47",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:17:56"
+        "last_updated": "2025-08-25 14:48:31"
     },
     {
         "id": 12233360,
@@ -12832,6 +12960,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 39.17,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Gościnna",
         "street_full_name": "ul. Gościnna",
@@ -12906,7 +13035,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 18:16:35",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:17:57"
+        "last_updated": "2025-08-25 14:48:36"
     },
     {
         "id": 12259915,
@@ -12938,6 +13067,7 @@
         "section": "CommercialSpaceSale",
         "status": "Active",
         "total_area": 123,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": null,
         "street_full_name": null,
@@ -12992,7 +13122,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 17:29:04",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:01:24"
+        "last_updated": "2025-08-25 14:31:36"
     },
     {
         "id": 12259099,
@@ -13024,6 +13154,7 @@
         "section": "CommercialSpaceSale",
         "status": "Active",
         "total_area": 107.13,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": null,
         "street_full_name": null,
@@ -13083,7 +13214,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 16:19:13",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:19:10"
+        "last_updated": "2025-08-25 14:49:44"
     },
     {
         "id": 12263208,
@@ -13115,6 +13246,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 121.31,
+        "plot_area_ha": 300,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -13154,7 +13286,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 12:58:08",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:19:16"
+        "last_updated": "2025-08-25 14:49:50"
     },
     {
         "id": 12260335,
@@ -13186,6 +13318,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 112,
+        "plot_area_ha": 200,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -13235,7 +13368,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 12:44:13",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:01:26"
+        "last_updated": "2025-08-25 14:31:37"
     },
     {
         "id": 11982690,
@@ -13267,6 +13400,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 141.7,
+        "plot_area_ha": 180,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -13406,7 +13540,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 11:57:05",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:00:32"
+        "last_updated": "2025-08-25 14:30:43"
     },
     {
         "id": 11942394,
@@ -13438,6 +13572,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 59.32,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Senatorska",
         "street_full_name": "ul. Senatorska",
@@ -13487,7 +13622,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 10:12:14",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:07:38"
+        "last_updated": "2025-08-25 14:38:06"
     },
     {
         "id": 12074942,
@@ -13519,6 +13654,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 97,
+        "plot_area_ha": null,
         "year_built": 1938,
         "street_name": "Marii Skłodowskiej-Curie",
         "street_full_name": "ul. Marii Skłodowskiej-Curie",
@@ -13533,7 +13669,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-03 08:55:02",
         "agentId": 74243,
-        "last_updated": "2025-08-25 14:13:37"
+        "last_updated": "2025-08-25 14:44:12"
     },
     {
         "id": 12225225,
@@ -13565,6 +13701,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 54.6,
+        "plot_area_ha": null,
         "year_built": 2021,
         "street_name": "Władysława Grabskiego",
         "street_full_name": "ul. Władysława Grabskiego",
@@ -13654,7 +13791,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-07-02 12:28:57",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:17:43"
+        "last_updated": "2025-08-25 14:48:15"
     },
     {
         "id": 11988912,
@@ -13686,6 +13823,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 53,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Ottona i Jana Pileckich",
         "street_full_name": "ul. Ottona i Jana Pileckich",
@@ -13730,7 +13868,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-01 09:40:27",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:02:42"
+        "last_updated": "2025-08-25 14:32:51"
     },
     {
         "id": 12244082,
@@ -13762,6 +13900,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 99,
+        "plot_area_ha": 790,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -13806,7 +13945,7 @@
         "no_of_floors": 0,
         "actualisation_date": "2025-07-01 08:41:48",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:18:27"
+        "last_updated": "2025-08-25 14:49:02"
     },
     {
         "id": 12131149,
@@ -13838,6 +13977,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 220,
+        "plot_area_ha": 700,
         "year_built": 2000,
         "street_name": null,
         "street_full_name": null,
@@ -13977,7 +14117,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-26 16:22:38",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:14:37"
+        "last_updated": "2025-08-25 14:45:10"
     },
     {
         "id": 12254049,
@@ -14009,6 +14149,7 @@
         "section": "CommercialSpaceSale",
         "status": "Active",
         "total_area": 22.8,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -14083,7 +14224,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-25 12:30:44",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:18:59"
+        "last_updated": "2025-08-25 14:49:31"
     },
     {
         "id": 12248457,
@@ -14115,6 +14256,7 @@
         "section": "CommercialObjectSale",
         "status": "Active",
         "total_area": 1489.3,
+        "plot_area_ha": 0.31,
         "year_built": 2018,
         "street_name": null,
         "street_full_name": null,
@@ -14369,7 +14511,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-25 11:54:44",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:18:32"
+        "last_updated": "2025-08-25 14:49:04"
     },
     {
         "id": 12252499,
@@ -14401,6 +14543,7 @@
         "section": "CommercialSpaceSale",
         "status": "Active",
         "total_area": 21.8,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -14475,7 +14618,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-24 12:48:32",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:18:53"
+        "last_updated": "2025-08-25 14:49:24"
     },
     {
         "id": 12251299,
@@ -14507,6 +14650,7 @@
         "section": "CommercialSpaceSale",
         "status": "Active",
         "total_area": 21.5,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -14581,7 +14725,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-23 15:08:20",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:18:48"
+        "last_updated": "2025-08-25 14:49:23"
     },
     {
         "id": 12251007,
@@ -14613,6 +14757,7 @@
         "section": "LotSale",
         "status": "Active",
         "total_area": null,
+        "plot_area_ha": 0.27,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -14652,7 +14797,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:54:45",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:18:46"
+        "last_updated": "2025-08-25 14:49:18"
     },
     {
         "id": 12251003,
@@ -14684,6 +14829,7 @@
         "section": "LotSale",
         "status": "Active",
         "total_area": null,
+        "plot_area_ha": 0.2,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -14718,7 +14864,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:34:05",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:18:42"
+        "last_updated": "2025-08-25 14:49:17"
     },
     {
         "id": 12250966,
@@ -14750,6 +14896,7 @@
         "section": "LotSale",
         "status": "Active",
         "total_area": null,
+        "plot_area_ha": 0.18,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -14789,7 +14936,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:26:20",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:18:34"
+        "last_updated": "2025-08-25 14:49:09"
     },
     {
         "id": 11932116,
@@ -14821,6 +14968,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 83.61,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -14865,7 +15013,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-06-23 11:13:22",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:05:45"
+        "last_updated": "2025-08-25 14:36:15"
     },
     {
         "id": 11932197,
@@ -14897,6 +15045,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 68.58,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -14941,7 +15090,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-06-23 11:10:50",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:05:54"
+        "last_updated": "2025-08-25 14:36:23"
     },
     {
         "id": 11942057,
@@ -14973,6 +15122,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 58.32,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Senatorska",
         "street_full_name": "ul. Senatorska",
@@ -15022,7 +15172,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 11:09:16",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:07:28"
+        "last_updated": "2025-08-25 14:37:56"
     },
     {
         "id": 11970091,
@@ -15054,6 +15204,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 58.02,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Henryka Wieniawskiego",
         "street_full_name": "ul. Henryka Wieniawskiego",
@@ -15088,7 +15239,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:07:36",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:09:38"
+        "last_updated": "2025-08-25 14:40:05"
     },
     {
         "id": 11970097,
@@ -15120,6 +15271,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 53.43,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Henryka Wieniawskiego",
         "street_full_name": "ul. Henryka Wieniawskiego",
@@ -15154,7 +15306,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:07:11",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:09:43"
+        "last_updated": "2025-08-25 14:40:16"
     },
     {
         "id": 11970101,
@@ -15186,6 +15338,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 43.22,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Henryka Wieniawskiego",
         "street_full_name": "ul. Henryka Wieniawskiego",
@@ -15220,7 +15373,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:06:49",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:09:45"
+        "last_updated": "2025-08-25 14:40:18"
     },
     {
         "id": 11974234,
@@ -15252,6 +15405,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 59.44,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Myśliwska",
         "street_full_name": "ul. Myśliwska",
@@ -15286,7 +15440,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 11:06:24",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:10:06"
+        "last_updated": "2025-08-25 14:40:37"
     },
     {
         "id": 11974259,
@@ -15318,6 +15472,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 53.69,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Myśliwska",
         "street_full_name": "ul. Myśliwska",
@@ -15352,7 +15507,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 11:05:53",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:10:16"
+        "last_updated": "2025-08-25 14:40:39"
     },
     {
         "id": 11982539,
@@ -15384,6 +15539,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 37.72,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Bałtycka",
         "street_full_name": "ul. Bałtycka",
@@ -15433,7 +15589,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:04:47",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:00:17"
+        "last_updated": "2025-08-25 14:30:06"
     },
     {
         "id": 11982597,
@@ -15465,6 +15621,7 @@
         "section": "CommercialSpaceSale",
         "status": "Active",
         "total_area": 47.69,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -15514,7 +15671,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:04:10",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:00:19"
+        "last_updated": "2025-08-25 14:30:12"
     },
     {
         "id": 11982631,
@@ -15546,6 +15703,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 30.65,
+        "plot_area_ha": null,
         "year_built": 2027,
         "street_name": "Stanisława Wyspiańskiego",
         "street_full_name": "ul. Stanisława Wyspiańskiego",
@@ -15585,7 +15743,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-23 11:03:45",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:00:24"
+        "last_updated": "2025-08-25 14:30:14"
     },
     {
         "id": 11982660,
@@ -15617,6 +15775,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 58.16,
+        "plot_area_ha": null,
         "year_built": 2027,
         "street_name": "Stanisława Wyspiańskiego",
         "street_full_name": "ul. Stanisława Wyspiańskiego",
@@ -15656,7 +15815,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-23 11:03:15",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:00:26"
+        "last_updated": "2025-08-25 14:30:15"
     },
     {
         "id": 11982667,
@@ -15688,6 +15847,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 65.07,
+        "plot_area_ha": null,
         "year_built": 2027,
         "street_name": "Stanisława Wyspiańskiego",
         "street_full_name": "ul. Stanisława Wyspiańskiego",
@@ -15727,7 +15887,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-23 11:02:25",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:00:31"
+        "last_updated": "2025-08-25 14:30:39"
     },
     {
         "id": 11988684,
@@ -15759,6 +15919,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 49.84,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Staroniwska",
         "street_full_name": "ul. Staroniwska",
@@ -15823,7 +15984,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:58:36",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:02:36"
+        "last_updated": "2025-08-25 14:32:46"
     },
     {
         "id": 11991262,
@@ -15855,6 +16016,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 25.32,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Henryka Wieniawskiego",
         "street_full_name": "ul. Henryka Wieniawskiego",
@@ -15889,7 +16051,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:57:31",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:19:24"
+        "last_updated": "2025-08-25 14:49:59"
     },
     {
         "id": 11991275,
@@ -15921,6 +16083,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 76.16,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Henryka Wieniawskiego",
         "street_full_name": "ul. Henryka Wieniawskiego",
@@ -15955,7 +16118,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:57:06",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:19:29"
+        "last_updated": "2025-08-25 14:50:01"
     },
     {
         "id": 12006464,
@@ -15987,6 +16150,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 54.57,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -16016,7 +16180,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:56:34",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:11:31"
+        "last_updated": "2025-08-25 14:42:11"
     },
     {
         "id": 12006475,
@@ -16048,6 +16212,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 84.53,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -16082,7 +16247,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:56:11",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:11:34"
+        "last_updated": "2025-08-25 14:42:13"
     },
     {
         "id": 12047738,
@@ -16114,6 +16279,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 62.03,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Eugeniusza Kwiatkowskiego",
         "street_full_name": "ul. Eugeniusza Kwiatkowskiego",
@@ -16203,7 +16369,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-23 10:55:22",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:12:48"
+        "last_updated": "2025-08-25 14:43:23"
     },
     {
         "id": 12047959,
@@ -16235,6 +16401,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 46.33,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Eugeniusza Kwiatkowskiego",
         "street_full_name": "ul. Eugeniusza Kwiatkowskiego",
@@ -16309,7 +16476,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-23 10:54:56",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:13:00"
+        "last_updated": "2025-08-25 14:43:31"
     },
     {
         "id": 12103735,
@@ -16341,6 +16508,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 64.13,
+        "plot_area_ha": 1.32,
         "year_built": 2024,
         "street_name": null,
         "street_full_name": null,
@@ -16395,7 +16563,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:54:31",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:13:56"
+        "last_updated": "2025-08-25 14:44:31"
     },
     {
         "id": 12167887,
@@ -16427,6 +16595,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 69.58,
+        "plot_area_ha": 270,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -16481,7 +16650,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:53:14",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:15:30"
+        "last_updated": "2025-08-25 14:46:03"
     },
     {
         "id": 12196400,
@@ -16513,6 +16682,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 83,
+        "plot_area_ha": 270,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -16552,7 +16722,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:52:40",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:16:29"
+        "last_updated": "2025-08-25 14:47:06"
     },
     {
         "id": 11935365,
@@ -16584,6 +16754,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 75.81,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -16628,7 +16799,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-06-23 10:09:57",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:06:28"
+        "last_updated": "2025-08-25 14:36:55"
     },
     {
         "id": 11940575,
@@ -16660,6 +16831,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 127.46,
+        "plot_area_ha": 308,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -16714,7 +16886,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:09:22",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:07:01"
+        "last_updated": "2025-08-25 14:37:29"
     },
     {
         "id": 11942225,
@@ -16746,6 +16918,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 66.38,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Jana Olbrachta",
         "street_full_name": "ul. Jana Olbrachta",
@@ -16790,7 +16963,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-23 10:08:56",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:07:30"
+        "last_updated": "2025-08-25 14:37:57"
     },
     {
         "id": 11946045,
@@ -16822,6 +16995,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 116.61,
+        "plot_area_ha": 100,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -16876,7 +17050,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-23 10:07:29",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:08:01"
+        "last_updated": "2025-08-25 14:38:28"
     },
     {
         "id": 11946084,
@@ -16908,6 +17082,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 83.06,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "św. Marcina",
         "street_full_name": "ul. św. Marcina",
@@ -16967,7 +17142,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-23 10:05:56",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:08:08"
+        "last_updated": "2025-08-25 14:38:36"
     },
     {
         "id": 11950384,
@@ -16999,6 +17174,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 39.74,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Pańska",
         "street_full_name": "ul. Pańska",
@@ -17038,7 +17214,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:04:31",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:08:59"
+        "last_updated": "2025-08-25 14:39:26"
     },
     {
         "id": 11950388,
@@ -17070,6 +17246,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 42.63,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Pańska",
         "street_full_name": "ul. Pańska",
@@ -17109,7 +17286,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:03:57",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:09:09"
+        "last_updated": "2025-08-25 14:39:33"
     },
     {
         "id": 11976288,
@@ -17141,6 +17318,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 58.19,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Henryka Wieniawskiego",
         "street_full_name": "ul. Henryka Wieniawskiego",
@@ -17175,7 +17353,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:01:58",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:04:53"
+        "last_updated": "2025-08-25 14:35:11"
     },
     {
         "id": 11976307,
@@ -17207,6 +17385,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 49.34,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Henryka Wieniawskiego",
         "street_full_name": "ul. Henryka Wieniawskiego",
@@ -17241,7 +17420,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:01:30",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:04:57"
+        "last_updated": "2025-08-25 14:35:13"
     },
     {
         "id": 11976491,
@@ -17273,6 +17452,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 47.81,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Henryka Wieniawskiego",
         "street_full_name": "ul. Henryka Wieniawskiego",
@@ -17307,7 +17487,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:00:53",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:07:18"
+        "last_updated": "2025-08-25 14:37:46"
     },
     {
         "id": 11981775,
@@ -17339,6 +17519,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 141.7,
+        "plot_area_ha": 200,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -17398,7 +17579,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:00:20",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:10:33"
+        "last_updated": "2025-08-25 14:41:02"
     },
     {
         "id": 11983760,
@@ -17430,6 +17611,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 58.17,
+        "plot_area_ha": null,
         "year_built": 2027,
         "street_name": "Stanisława Wyspiańskiego",
         "street_full_name": "ul. Stanisława Wyspiańskiego",
@@ -17474,7 +17656,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-23 09:59:01",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:00:49"
+        "last_updated": "2025-08-25 14:31:00"
     },
     {
         "id": 11988372,
@@ -17506,6 +17688,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 63.16,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Staroniwska",
         "street_full_name": "ul. Staroniwska",
@@ -17575,7 +17758,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 09:58:21",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:02:23"
+        "last_updated": "2025-08-25 14:32:36"
     },
     {
         "id": 12003042,
@@ -17607,6 +17790,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 114,
+        "plot_area_ha": 220,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -17676,7 +17860,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 09:54:45",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:11:09"
+        "last_updated": "2025-08-25 14:41:42"
     },
     {
         "id": 12003077,
@@ -17708,6 +17892,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 43.42,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "al. mjr. Wacława Kopisto",
         "street_full_name": "al. mjr. Wacława Kopisto",
@@ -17752,7 +17937,7 @@
         "no_of_floors": 12,
         "actualisation_date": "2025-06-23 09:51:15",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:11:11"
+        "last_updated": "2025-08-25 14:41:47"
     },
     {
         "id": 12046235,
@@ -17784,6 +17969,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 77.03,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Eugeniusza Kwiatkowskiego",
         "street_full_name": "ul. Eugeniusza Kwiatkowskiego",
@@ -17853,7 +18039,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-23 09:49:35",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:01:21"
+        "last_updated": "2025-08-25 14:31:31"
     },
     {
         "id": 12047996,
@@ -17885,6 +18071,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 39.77,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Eugeniusza Kwiatkowskiego",
         "street_full_name": "ul. Eugeniusza Kwiatkowskiego",
@@ -17944,7 +18131,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-23 09:49:16",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:13:01"
+        "last_updated": "2025-08-25 14:43:35"
     },
     {
         "id": 12164141,
@@ -17976,6 +18163,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 46.25,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Jana Pawła II",
         "street_full_name": "ul. Jana Pawła II",
@@ -18015,7 +18203,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-23 09:48:57",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:14:59"
+        "last_updated": "2025-08-25 14:45:34"
     },
     {
         "id": 12164172,
@@ -18047,6 +18235,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 60.02,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Jana Pawła II",
         "street_full_name": "ul. Jana Pawła II",
@@ -18091,7 +18280,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-23 09:48:32",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:15:07"
+        "last_updated": "2025-08-25 14:45:41"
     },
     {
         "id": 12182647,
@@ -18123,6 +18312,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 74.39,
+        "plot_area_ha": 152.1,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -18162,7 +18352,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 09:47:59",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:16:13"
+        "last_updated": "2025-08-25 14:46:47"
     },
     {
         "id": 12198489,
@@ -18194,6 +18384,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 116.61,
+        "plot_area_ha": 100,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -18248,7 +18439,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-23 09:46:56",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:16:42"
+        "last_updated": "2025-08-25 14:47:17"
     },
     {
         "id": 12048843,
@@ -18280,6 +18471,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 73.28,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Eugeniusza Kwiatkowskiego",
         "street_full_name": "ul. Eugeniusza Kwiatkowskiego",
@@ -18359,7 +18551,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-22 17:05:18",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:13:08"
+        "last_updated": "2025-08-25 14:43:39"
     },
     {
         "id": 11966952,
@@ -18391,6 +18583,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 83,
+        "plot_area_ha": 234,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -18425,7 +18618,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:47:44",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:09:37"
+        "last_updated": "2025-08-25 14:40:00"
     },
     {
         "id": 11940324,
@@ -18457,6 +18650,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 127.46,
+        "plot_area_ha": 916,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -18496,7 +18690,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:46:03",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:06:55"
+        "last_updated": "2025-08-25 14:37:20"
     },
     {
         "id": 11942532,
@@ -18528,6 +18722,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 56.03,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Jana Olbrachta",
         "street_full_name": "ul. Jana Olbrachta",
@@ -18567,7 +18762,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-22 16:45:49",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:07:32"
+        "last_updated": "2025-08-25 14:38:02"
     },
     {
         "id": 12117566,
@@ -18599,6 +18794,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 63.36,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Techniczna",
         "street_full_name": "ul. Techniczna",
@@ -18638,7 +18834,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:38:45",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:01:10"
+        "last_updated": "2025-08-25 14:31:23"
     },
     {
         "id": 12165646,
@@ -18670,6 +18866,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 54.48,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Jana Pawła II",
         "street_full_name": "ul. Jana Pawła II",
@@ -18724,7 +18921,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-22 16:38:14",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:15:15"
+        "last_updated": "2025-08-25 14:45:49"
     },
     {
         "id": 12174342,
@@ -18756,6 +18953,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 91.08,
+        "plot_area_ha": 415,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -18805,7 +19003,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:37:44",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:15:46"
+        "last_updated": "2025-08-25 14:46:20"
     },
     {
         "id": 12179685,
@@ -18837,6 +19035,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 74.39,
+        "plot_area_ha": 78.74,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -18866,7 +19065,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:37:21",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:15:54"
+        "last_updated": "2025-08-25 14:46:28"
     },
     {
         "id": 12165653,
@@ -18898,6 +19097,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 41.26,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Jana Pawła II",
         "street_full_name": "ul. Jana Pawła II",
@@ -18952,7 +19152,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-22 15:42:08",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:15:20"
+        "last_updated": "2025-08-25 14:45:54"
     },
     {
         "id": 12198131,
@@ -18984,6 +19184,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 171.1,
+        "plot_area_ha": 15.75,
         "year_built": 2003,
         "street_name": null,
         "street_full_name": null,
@@ -19068,7 +19269,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-21 08:55:51",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:16:47"
+        "last_updated": "2025-08-25 14:47:19"
     },
     {
         "id": 12072812,
@@ -19100,6 +19301,7 @@
         "section": "LotSale",
         "status": "Active",
         "total_area": null,
+        "plot_area_ha": 2100,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -19149,7 +19351,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-06-17 08:56:11",
         "agentId": 74243,
-        "last_updated": "2025-08-25 14:13:30"
+        "last_updated": "2025-08-25 14:44:06"
     },
     {
         "id": 12063843,
@@ -19181,6 +19383,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 260,
+        "plot_area_ha": 980,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -19265,7 +19468,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-16 12:13:46",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:13:09"
+        "last_updated": "2025-08-25 14:43:43"
     },
     {
         "id": 12068607,
@@ -19297,6 +19500,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 85.39,
+        "plot_area_ha": null,
         "year_built": 2022,
         "street_name": "Ceramiczna",
         "street_full_name": "ul. Ceramiczna",
@@ -19416,7 +19620,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-16 10:57:08",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:13:11"
+        "last_updated": "2025-08-25 14:43:45"
     },
     {
         "id": 12130277,
@@ -19448,6 +19652,7 @@
         "section": "ApartmentRental",
         "status": "Active",
         "total_area": 102.08,
+        "plot_area_ha": null,
         "year_built": 2018,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -19547,7 +19752,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-16 10:51:15",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:14:32"
+        "last_updated": "2025-08-25 14:45:08"
     },
     {
         "id": 11999908,
@@ -19579,6 +19784,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 110,
+        "plot_area_ha": 5300,
         "year_built": 1975,
         "street_name": null,
         "street_full_name": null,
@@ -19628,7 +19834,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-13 14:08:15",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:10:57"
+        "last_updated": "2025-08-25 14:41:32"
     },
     {
         "id": 11999793,
@@ -19660,6 +19866,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 125.62,
+        "plot_area_ha": 486,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -19694,7 +19901,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:44:27",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:10:51"
+        "last_updated": "2025-08-25 14:41:26"
     },
     {
         "id": 12006342,
@@ -19726,6 +19933,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 125.08,
+        "plot_area_ha": 365,
         "year_built": 2024,
         "street_name": null,
         "street_full_name": null,
@@ -19760,7 +19968,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:43:50",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:11:25"
+        "last_updated": "2025-08-25 14:41:58"
     },
     {
         "id": 12071964,
@@ -19792,6 +20000,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 53.69,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Myśliwska",
         "street_full_name": "ul. Myśliwska",
@@ -19826,7 +20035,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:07:00",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:13:23"
+        "last_updated": "2025-08-25 14:43:56"
     },
     {
         "id": 12166312,
@@ -19858,6 +20067,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 53.09,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Jana Pawła II",
         "street_full_name": "ul. Jana Pawła II",
@@ -19902,7 +20112,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 15:05:15",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:15:28"
+        "last_updated": "2025-08-25 14:46:02"
     },
     {
         "id": 12006360,
@@ -19934,6 +20144,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 125.08,
+        "plot_area_ha": 233,
         "year_built": 2024,
         "street_name": null,
         "street_full_name": null,
@@ -19988,7 +20199,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 14:29:09",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:11:27"
+        "last_updated": "2025-08-25 14:42:00"
     },
     {
         "id": 11873058,
@@ -20020,6 +20231,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 52.14,
+        "plot_area_ha": null,
         "year_built": 1960,
         "street_name": "Baldachówka",
         "street_full_name": "ul. Baldachówka",
@@ -20099,7 +20311,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 09:22:27",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:02:48"
+        "last_updated": "2025-08-25 14:32:58"
     },
     {
         "id": 11939123,
@@ -20131,6 +20343,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 129.95,
+        "plot_area_ha": 205,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -20165,7 +20378,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 09:19:30",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:06:37"
+        "last_updated": "2025-08-25 14:37:06"
     },
     {
         "id": 11976775,
@@ -20197,6 +20410,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 53.69,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Myśliwska",
         "street_full_name": "ul. Myśliwska",
@@ -20231,7 +20445,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 09:18:20",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:10:25"
+        "last_updated": "2025-08-25 14:40:51"
     },
     {
         "id": 12237930,
@@ -20263,6 +20477,7 @@
         "section": "CommercialSpaceSale",
         "status": "Active",
         "total_area": 24.64,
+        "plot_area_ha": null,
         "year_built": 2022,
         "street_name": null,
         "street_full_name": null,
@@ -20327,7 +20542,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-09 14:00:43",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:18:08"
+        "last_updated": "2025-08-25 14:48:44"
     },
     {
         "id": 12236296,
@@ -20359,6 +20574,7 @@
         "section": "CommercialSpaceSale",
         "status": "Active",
         "total_area": 24.87,
+        "plot_area_ha": null,
         "year_built": 2022,
         "street_name": null,
         "street_full_name": null,
@@ -20423,7 +20639,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 15:21:48",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:18:07"
+        "last_updated": "2025-08-25 14:48:39"
     },
     {
         "id": 12235142,
@@ -20455,6 +20671,7 @@
         "section": "CommercialSpaceSale",
         "status": "Active",
         "total_area": 25.18,
+        "plot_area_ha": null,
         "year_built": 2022,
         "street_name": null,
         "street_full_name": null,
@@ -20519,7 +20736,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 15:15:06",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:18:02"
+        "last_updated": "2025-08-25 14:48:38"
     },
     {
         "id": 12062536,
@@ -20551,6 +20768,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 49,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Dynowska",
         "street_full_name": "ul. Dynowska",
@@ -20565,7 +20783,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-06-05 15:20:40",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:09:22"
+        "last_updated": "2025-08-25 14:39:46"
     },
     {
         "id": 12230356,
@@ -20597,6 +20815,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 52.72,
+        "plot_area_ha": null,
         "year_built": 1990,
         "street_name": "Tyszkiewiczów",
         "street_full_name": "ul. Tyszkiewiczów",
@@ -20666,7 +20885,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-04 10:26:18",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:17:49"
+        "last_updated": "2025-08-25 14:48:25"
     },
     {
         "id": 11940618,
@@ -20698,6 +20917,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 54.66,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Tkacka",
         "street_full_name": "ul. Tkacka",
@@ -20752,7 +20972,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:43:58",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:07:06"
+        "last_updated": "2025-08-25 14:37:33"
     },
     {
         "id": 11949561,
@@ -20784,6 +21004,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 43.41,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "hr. Alfreda Potockiego",
         "street_full_name": "ul. hr. Alfreda Potockiego",
@@ -20833,7 +21054,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-04 09:37:26",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:08:47"
+        "last_updated": "2025-08-25 14:39:15"
     },
     {
         "id": 11949581,
@@ -20865,6 +21086,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 49.88,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "hr. Alfreda Potockiego",
         "street_full_name": "ul. hr. Alfreda Potockiego",
@@ -20904,7 +21126,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-04 09:36:50",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:08:51"
+        "last_updated": "2025-08-25 14:39:19"
     },
     {
         "id": 12006107,
@@ -20936,6 +21158,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 68.76,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Szpitalna",
         "street_full_name": "ul. Szpitalna",
@@ -21010,7 +21233,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:32:29",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:11:16"
+        "last_updated": "2025-08-25 14:41:49"
     },
     {
         "id": 12174715,
@@ -21042,6 +21265,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 144.31,
+        "plot_area_ha": 443,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -21176,7 +21400,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:16:02",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:15:47"
+        "last_updated": "2025-08-25 14:46:21"
     },
     {
         "id": 12196425,
@@ -21208,6 +21432,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 93.01,
+        "plot_area_ha": 214.27,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -21257,7 +21482,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:14:36",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:16:34"
+        "last_updated": "2025-08-25 14:47:08"
     },
     {
         "id": 12229908,
@@ -21289,6 +21514,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 57.32,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Jana Olbrachta",
         "street_full_name": "ul. Jana Olbrachta",
@@ -21368,7 +21594,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-03 18:55:08",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:17:47"
+        "last_updated": "2025-08-25 14:48:23"
     },
     {
         "id": 11976787,
@@ -21400,6 +21626,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 59.44,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Myśliwska",
         "street_full_name": "ul. Myśliwska",
@@ -21434,7 +21661,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:34:55",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:10:27"
+        "last_updated": "2025-08-25 14:40:56"
     },
     {
         "id": 12048276,
@@ -21466,6 +21693,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 41.04,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Eugeniusza Kwiatkowskiego",
         "street_full_name": "ul. Eugeniusza Kwiatkowskiego",
@@ -21515,7 +21743,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-02 10:33:30",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:12:52"
+        "last_updated": "2025-08-25 14:43:24"
     },
     {
         "id": 12108087,
@@ -21547,6 +21775,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 54.82,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Techniczna",
         "street_full_name": "ul. Techniczna",
@@ -21586,7 +21815,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:31:43",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:14:20"
+        "last_updated": "2025-08-25 14:44:52"
     },
     {
         "id": 12108126,
@@ -21618,6 +21847,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 63.36,
+        "plot_area_ha": null,
         "year_built": 2027,
         "street_name": "Techniczna",
         "street_full_name": "ul. Techniczna",
@@ -21662,7 +21892,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:31:28",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:14:22"
+        "last_updated": "2025-08-25 14:44:54"
     },
     {
         "id": 12181741,
@@ -21694,6 +21924,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 74.39,
+        "plot_area_ha": 241.7,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -21733,7 +21964,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:29:38",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:16:11"
+        "last_updated": "2025-08-25 14:46:42"
     },
     {
         "id": 12196031,
@@ -21765,6 +21996,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 50.12,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Staroniwska",
         "street_full_name": "ul. Staroniwska",
@@ -21854,7 +22086,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:29:04",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:16:27"
+        "last_updated": "2025-08-25 14:47:01"
     },
     {
         "id": 11970123,
@@ -21886,6 +22118,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 42.78,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Henryka Wieniawskiego",
         "street_full_name": "ul. Henryka Wieniawskiego",
@@ -21920,7 +22153,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-05-30 21:10:39",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:09:47"
+        "last_updated": "2025-08-25 14:40:20"
     },
     {
         "id": 12225525,
@@ -21952,6 +22185,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 60.41,
+        "plot_area_ha": null,
         "year_built": 2021,
         "street_name": "Władysława Grabskiego",
         "street_full_name": "ul. Władysława Grabskiego",
@@ -22021,7 +22255,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-05-29 10:00:34",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:17:41"
+        "last_updated": "2025-08-25 14:48:13"
     },
     {
         "id": 12003024,
@@ -22053,6 +22287,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 114,
+        "plot_area_ha": 220,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -22102,7 +22337,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-29 08:30:40",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:11:03"
+        "last_updated": "2025-08-25 14:41:39"
     },
     {
         "id": 12169075,
@@ -22134,6 +22369,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 85.28,
+        "plot_area_ha": 350,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -22173,7 +22409,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-29 08:25:47",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:15:37"
+        "last_updated": "2025-08-25 14:46:12"
     },
     {
         "id": 12181120,
@@ -22205,6 +22441,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 74.39,
+        "plot_area_ha": 122.14,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -22234,7 +22471,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-29 08:24:12",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:16:00"
+        "last_updated": "2025-08-25 14:46:33"
     },
     {
         "id": 11939884,
@@ -22266,6 +22503,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 75,
+        "plot_area_ha": null,
         "year_built": 2020,
         "street_name": "Podwisłocze",
         "street_full_name": "ul. Podwisłocze",
@@ -22330,7 +22568,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-05-28 17:09:08",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:06:49"
+        "last_updated": "2025-08-25 14:37:14"
     },
     {
         "id": 11950386,
@@ -22362,6 +22600,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 66.13,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Pańska",
         "street_full_name": "ul. Pańska",
@@ -22401,7 +22640,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-05-28 10:04:28",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:09:04"
+        "last_updated": "2025-08-25 14:39:31"
     },
     {
         "id": 11940282,
@@ -22433,6 +22672,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 127.08,
+        "plot_area_ha": 308,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -22472,7 +22712,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-28 09:59:54",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:06:50"
+        "last_updated": "2025-08-25 14:37:19"
     },
     {
         "id": 11932644,
@@ -22504,6 +22744,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 37.53,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -22548,7 +22789,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-05-28 09:58:04",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:05:25"
+        "last_updated": "2025-08-25 14:35:55"
     },
     {
         "id": 11976484,
@@ -22580,6 +22821,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 110.42,
+        "plot_area_ha": 170,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -22614,7 +22856,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-28 09:48:05",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:07:16"
+        "last_updated": "2025-08-25 14:37:44"
     },
     {
         "id": 11987480,
@@ -22646,6 +22888,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 65.07,
+        "plot_area_ha": null,
         "year_built": 2027,
         "street_name": "Stanisława Wyspiańskiego",
         "street_full_name": "ul. Stanisława Wyspiańskiego",
@@ -22685,7 +22928,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-05-28 09:47:53",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:01:46"
+        "last_updated": "2025-08-25 14:31:57"
     },
     {
         "id": 12117406,
@@ -22717,6 +22960,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 54.82,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Techniczna",
         "street_full_name": "ul. Techniczna",
@@ -22756,7 +23000,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-28 09:45:50",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:01:04"
+        "last_updated": "2025-08-25 14:31:17"
     },
     {
         "id": 12224345,
@@ -22788,6 +23032,7 @@
         "section": "LotSale",
         "status": "Active",
         "total_area": null,
+        "plot_area_ha": 8733,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -22802,7 +23047,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-05-27 15:45:01",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:02:56"
+        "last_updated": "2025-08-25 14:33:08"
     },
     {
         "id": 12206693,
@@ -22834,6 +23079,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 114.29,
+        "plot_area_ha": 193.18,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -22883,7 +23129,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-26 14:05:23",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:17:13"
+        "last_updated": "2025-08-25 14:47:46"
     },
     {
         "id": 12049106,
@@ -22915,6 +23161,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 62.03,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Eugeniusza Kwiatkowskiego",
         "street_full_name": "ul. Eugeniusza Kwiatkowskiego",
@@ -22979,7 +23226,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-05-26 09:58:17",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:13:03"
+        "last_updated": "2025-08-25 14:43:37"
     },
     {
         "id": 12165640,
@@ -23011,6 +23258,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 42.55,
+        "plot_area_ha": null,
         "year_built": 2016,
         "street_name": "Rymanowska",
         "street_full_name": "ul. Rymanowska",
@@ -23055,7 +23303,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-05-23 18:29:53",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:15:13"
+        "last_updated": "2025-08-25 14:45:47"
     },
     {
         "id": 12217644,
@@ -23087,6 +23335,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 68.39,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "al. gen. Władysława Sikorskiego",
         "street_full_name": "al. gen. Władysława Sikorskiego",
@@ -23126,7 +23375,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-22 15:57:35",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:17:26"
+        "last_updated": "2025-08-25 14:47:59"
     },
     {
         "id": 11932681,
@@ -23158,6 +23407,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 37.95,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -23202,7 +23452,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-05-20 13:46:19",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:05:31"
+        "last_updated": "2025-08-25 14:35:57"
     },
     {
         "id": 12124973,
@@ -23234,6 +23484,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 183.2,
+        "plot_area_ha": 94,
         "year_built": 1970,
         "street_name": null,
         "street_full_name": null,
@@ -23373,7 +23624,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-05-19 09:03:28",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:02:25"
+        "last_updated": "2025-08-25 14:32:38"
     },
     {
         "id": 11881491,
@@ -23405,6 +23656,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 181.2,
+        "plot_area_ha": 1700,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -23489,7 +23741,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-18 19:33:37",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:03:02"
+        "last_updated": "2025-08-25 14:33:14"
     },
     {
         "id": 12205309,
@@ -23521,6 +23773,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 265,
+        "plot_area_ha": null,
         "year_built": 2020,
         "street_name": "Karola Lewakowskiego",
         "street_full_name": "ul. Karola Lewakowskiego",
@@ -23620,7 +23873,7 @@
         "no_of_floors": 12,
         "actualisation_date": "2025-05-15 15:34:14",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:16:21"
+        "last_updated": "2025-08-25 14:46:55"
     },
     {
         "id": 12132897,
@@ -23652,6 +23905,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 57.38,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -23706,7 +23960,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-15 11:01:50",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:03:21"
+        "last_updated": "2025-08-25 14:33:36"
     },
     {
         "id": 11941815,
@@ -23738,6 +23992,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 57.72,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Jana Olbrachta",
         "street_full_name": "ul. Jana Olbrachta",
@@ -23797,7 +24052,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-05-07 10:17:14",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:07:20"
+        "last_updated": "2025-08-25 14:37:47"
     },
     {
         "id": 11946946,
@@ -23829,6 +24084,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 56.78,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Szpitalna",
         "street_full_name": "ul. Szpitalna",
@@ -23918,7 +24174,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 10:10:56",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:08:23"
+        "last_updated": "2025-08-25 14:38:52"
     },
     {
         "id": 11948164,
@@ -23950,6 +24206,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 93.01,
+        "plot_area_ha": 0,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -23999,7 +24256,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 10:02:15",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:08:31"
+        "last_updated": "2025-08-25 14:38:57"
     },
     {
         "id": 11990302,
@@ -24031,6 +24288,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 112.13,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Ottona i Jana Pileckich",
         "street_full_name": "ul. Ottona i Jana Pileckich",
@@ -24080,7 +24338,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-05-07 09:33:07",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:19:08"
+        "last_updated": "2025-08-25 14:49:42"
     },
     {
         "id": 12021768,
@@ -24112,6 +24370,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 56.63,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -24146,7 +24405,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 09:30:05",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:12:10"
+        "last_updated": "2025-08-25 14:42:43"
     },
     {
         "id": 12021777,
@@ -24178,6 +24437,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 67.08,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -24217,7 +24477,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 09:29:01",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:12:12"
+        "last_updated": "2025-08-25 14:42:47"
     },
     {
         "id": 12043706,
@@ -24249,6 +24509,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 63,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Legionistów",
         "street_full_name": "ul. Legionistów",
@@ -24283,7 +24544,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 09:26:09",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:12:40"
+        "last_updated": "2025-08-25 14:43:15"
     },
     {
         "id": 12043793,
@@ -24315,6 +24576,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 80,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Legionistów",
         "street_full_name": "ul. Legionistów",
@@ -24354,7 +24616,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 09:25:51",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:12:41"
+        "last_updated": "2025-08-25 14:43:16"
     },
     {
         "id": 12163242,
@@ -24386,6 +24648,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 40.06,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Jana Pawła II",
         "street_full_name": "ul. Jana Pawła II",
@@ -24445,7 +24708,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-05-07 09:18:41",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:14:50"
+        "last_updated": "2025-08-25 14:45:22"
     },
     {
         "id": 12163257,
@@ -24477,6 +24740,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 57.94,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Jana Pawła II",
         "street_full_name": "ul. Jana Pawła II",
@@ -24516,7 +24780,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-05-07 09:17:55",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:14:52"
+        "last_updated": "2025-08-25 14:45:24"
     },
     {
         "id": 12168116,
@@ -24548,6 +24812,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 50,
+        "plot_area_ha": null,
         "year_built": 1960,
         "street_name": "płk. Leopolda Lisa-Kuli",
         "street_full_name": "ul. płk. Leopolda Lisa-Kuli",
@@ -24612,7 +24877,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-05-07 08:46:56",
         "agentId": 74243,
-        "last_updated": "2025-08-25 14:15:36"
+        "last_updated": "2025-08-25 14:46:08"
     },
     {
         "id": 11940625,
@@ -24644,6 +24909,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 67.47,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Tkacka",
         "street_full_name": "ul. Tkacka",
@@ -24698,7 +24964,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-06 14:42:03",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:07:08"
+        "last_updated": "2025-08-25 14:37:38"
     },
     {
         "id": 12166305,
@@ -24730,6 +24996,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 47.11,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Podpromie",
         "street_full_name": "ul. Podpromie",
@@ -24779,7 +25046,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-05-06 09:39:36",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:15:23"
+        "last_updated": "2025-08-25 14:46:00"
     },
     {
         "id": 12123752,
@@ -24811,6 +25078,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 75,
+        "plot_area_ha": null,
         "year_built": 2018,
         "street_name": "Kornela Makuszyńskiego",
         "street_full_name": "ul. Kornela Makuszyńskiego",
@@ -24880,7 +25148,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-05-05 12:54:22",
         "agentId": 74243,
-        "last_updated": "2025-08-25 14:02:17"
+        "last_updated": "2025-08-25 14:32:29"
     },
     {
         "id": 12182516,
@@ -24912,6 +25180,7 @@
         "section": "CommercialSpaceRental",
         "status": "Active",
         "total_area": 98,
+        "plot_area_ha": null,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -24956,7 +25225,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-03 08:57:41",
         "agentId": 74243,
-        "last_updated": "2025-08-25 14:16:14"
+        "last_updated": "2025-08-25 14:46:48"
     },
     {
         "id": 12174340,
@@ -24988,6 +25257,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 91.08,
+        "plot_area_ha": 316,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -25037,7 +25307,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-04-29 09:35:51",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:15:44"
+        "last_updated": "2025-08-25 14:46:15"
     },
     {
         "id": 12182093,
@@ -25069,6 +25339,7 @@
         "section": "CommercialSpaceSale",
         "status": "Active",
         "total_area": 76,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -25098,7 +25369,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-04-28 17:16:50",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:16:06"
+        "last_updated": "2025-08-25 14:46:40"
     },
     {
         "id": 11990349,
@@ -25130,6 +25401,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 114.29,
+        "plot_area_ha": 158.01,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -25179,7 +25451,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-04-25 22:31:43",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:19:23"
+        "last_updated": "2025-08-25 14:49:55"
     },
     {
         "id": 11998548,
@@ -25211,6 +25483,7 @@
         "section": "LotSale",
         "status": "Active",
         "total_area": null,
+        "plot_area_ha": 942,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -25250,7 +25523,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-04-23 10:27:40",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:10:41"
+        "last_updated": "2025-08-25 14:41:16"
     },
     {
         "id": 12174334,
@@ -25282,6 +25555,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 91.08,
+        "plot_area_ha": 312,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -25331,7 +25605,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-04-22 18:49:15",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:15:39"
+        "last_updated": "2025-08-25 14:46:13"
     },
     {
         "id": 12011072,
@@ -25363,6 +25637,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 91.08,
+        "plot_area_ha": 321,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -25412,7 +25687,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-04-22 12:35:06",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:01:53"
+        "last_updated": "2025-08-25 14:32:09"
     },
     {
         "id": 12164311,
@@ -25444,6 +25719,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 55,
+        "plot_area_ha": null,
         "year_built": 2010,
         "street_name": "Staroniwska",
         "street_full_name": "ul. Staroniwska",
@@ -25498,7 +25774,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-04-17 08:21:20",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:15:09"
+        "last_updated": "2025-08-25 14:45:42"
     },
     {
         "id": 12166251,
@@ -25530,6 +25806,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 40.06,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Jana Pawła II",
         "street_full_name": "ul. Jana Pawła II",
@@ -25589,7 +25866,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-14 11:07:24",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:15:22"
+        "last_updated": "2025-08-25 14:45:55"
     },
     {
         "id": 12164753,
@@ -25621,6 +25898,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 39.99,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Jana Pawła II",
         "street_full_name": "ul. Jana Pawła II",
@@ -25680,7 +25958,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-11 14:19:17",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:14:31"
+        "last_updated": "2025-08-25 14:45:05"
     },
     {
         "id": 12164730,
@@ -25712,6 +25990,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 57.57,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Jana Pawła II",
         "street_full_name": "ul. Jana Pawła II",
@@ -25756,7 +26035,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-11 14:12:16",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:14:29"
+        "last_updated": "2025-08-25 14:45:00"
     },
     {
         "id": 12164135,
@@ -25788,6 +26067,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 44.52,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Jana Pawła II",
         "street_full_name": "ul. Jana Pawła II",
@@ -25847,7 +26127,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-11 11:48:05",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:14:57"
+        "last_updated": "2025-08-25 14:45:33"
     },
     {
         "id": 12164163,
@@ -25879,6 +26159,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 53.09,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Jana Pawła II",
         "street_full_name": "ul. Jana Pawła II",
@@ -25938,7 +26219,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-11 11:47:22",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:15:05"
+        "last_updated": "2025-08-25 14:45:36"
     },
     {
         "id": 12161368,
@@ -25970,6 +26251,7 @@
         "section": "LotSale",
         "status": "Active",
         "total_area": null,
+        "plot_area_ha": 9100,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -25984,7 +26266,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-04-10 09:22:19",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:14:43"
+        "last_updated": "2025-08-25 14:45:16"
     },
     {
         "id": 12070097,
@@ -26016,6 +26298,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 64,
+        "plot_area_ha": null,
         "year_built": 1980,
         "street_name": "ks. Jerzego Popiełuszki",
         "street_full_name": "ul. ks. Jerzego Popiełuszki",
@@ -26065,7 +26348,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-04-09 07:10:45",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:13:18"
+        "last_updated": "2025-08-25 14:43:51"
     },
     {
         "id": 12160079,
@@ -26097,6 +26380,7 @@
         "section": "CommercialSpaceSale",
         "status": "Active",
         "total_area": 148,
+        "plot_area_ha": null,
         "year_built": 1995,
         "street_name": null,
         "street_full_name": null,
@@ -26141,7 +26425,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-04-08 14:20:04",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:13:45"
+        "last_updated": "2025-08-25 14:44:23"
     },
     {
         "id": 12101755,
@@ -26173,6 +26457,7 @@
         "section": "CommercialSpaceSale",
         "status": "Active",
         "total_area": 257,
+        "plot_area_ha": null,
         "year_built": 2003,
         "street_name": null,
         "street_full_name": null,
@@ -26212,7 +26497,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-04-07 13:26:16",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:13:49"
+        "last_updated": "2025-08-25 14:44:24"
     },
     {
         "id": 11951393,
@@ -26244,6 +26529,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 43.42,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "hr. Alfreda Potockiego",
         "street_full_name": "ul. hr. Alfreda Potockiego",
@@ -26283,7 +26569,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-03-26 09:46:12",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:09:11"
+        "last_updated": "2025-08-25 14:39:38"
     },
     {
         "id": 11987477,
@@ -26315,6 +26601,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 58.9,
+        "plot_area_ha": null,
         "year_built": 2027,
         "street_name": "Stanisława Wyspiańskiego",
         "street_full_name": "ul. Stanisława Wyspiańskiego",
@@ -26354,7 +26641,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-03-26 09:17:40",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:01:41"
+        "last_updated": "2025-08-25 14:31:52"
     },
     {
         "id": 12120906,
@@ -26386,6 +26673,7 @@
         "section": "LotSale",
         "status": "Active",
         "total_area": null,
+        "plot_area_ha": 0.93,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -26405,7 +26693,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-03-24 15:54:19",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:01:55"
+        "last_updated": "2025-08-25 14:32:10"
     },
     {
         "id": 12026644,
@@ -26437,6 +26725,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 62,
+        "plot_area_ha": null,
         "year_built": 1970,
         "street_name": "Marszałkowska",
         "street_full_name": "ul. Marszałkowska",
@@ -26486,7 +26775,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-03-21 20:00:59",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:12:28"
+        "last_updated": "2025-08-25 14:43:01"
     },
     {
         "id": 12116416,
@@ -26518,6 +26807,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 330.46,
+        "plot_area_ha": 2.6,
         "year_built": 1911,
         "street_name": null,
         "street_full_name": null,
@@ -26642,7 +26932,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-03-20 22:03:33",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:00:54"
+        "last_updated": "2025-08-25 14:31:05"
     },
     {
         "id": 12074599,
@@ -26674,6 +26964,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 48.09,
+        "plot_area_ha": null,
         "year_built": 2023,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -26723,7 +27014,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-03-20 15:53:18",
         "agentId": 74243,
-        "last_updated": "2025-08-25 14:13:39"
+        "last_updated": "2025-08-25 14:44:17"
     },
     {
         "id": 12062985,
@@ -26755,6 +27046,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 56.66,
+        "plot_area_ha": null,
         "year_built": 2022,
         "street_name": "Urocza",
         "street_full_name": "ul. Urocza",
@@ -26814,7 +27106,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-03-20 14:42:15",
         "agentId": 74243,
-        "last_updated": "2025-08-25 14:10:35"
+        "last_updated": "2025-08-25 14:41:04"
     },
     {
         "id": 12006114,
@@ -26846,6 +27138,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 68.76,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Szpitalna",
         "street_full_name": "ul. Szpitalna",
@@ -26880,7 +27173,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-03-20 14:36:50",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:11:17"
+        "last_updated": "2025-08-25 14:41:52"
     },
     {
         "id": 12006332,
@@ -26912,6 +27205,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 116.67,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -26946,7 +27240,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-03-20 14:36:01",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:11:22"
+        "last_updated": "2025-08-25 14:41:56"
     },
     {
         "id": 11912983,
@@ -26978,6 +27272,7 @@
         "section": "LotSale",
         "status": "Active",
         "total_area": null,
+        "plot_area_ha": 795,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -27017,7 +27312,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-03-20 11:03:51",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:04:41"
+        "last_updated": "2025-08-25 14:34:59"
     },
     {
         "id": 11896304,
@@ -27049,6 +27344,7 @@
         "section": "LotSale",
         "status": "Active",
         "total_area": null,
+        "plot_area_ha": 1408,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -27103,7 +27399,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-03-20 11:00:43",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:04:39"
+        "last_updated": "2025-08-25 14:34:57"
     },
     {
         "id": 12021923,
@@ -27135,6 +27431,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 34.9,
+        "plot_area_ha": null,
         "year_built": 1960,
         "street_name": "Armii Krajowej",
         "street_full_name": "ul. Armii Krajowej",
@@ -27169,7 +27466,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-03-19 13:05:17",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:11:56"
+        "last_updated": "2025-08-25 14:42:38"
     },
     {
         "id": 12072156,
@@ -27201,6 +27498,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 18.99,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "Legionów",
         "street_full_name": "ul. Legionów",
@@ -27245,7 +27543,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-03-05 11:47:24",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:13:32"
+        "last_updated": "2025-08-25 14:44:10"
     },
     {
         "id": 12017609,
@@ -27277,6 +27575,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 47.06,
+        "plot_area_ha": null,
         "year_built": 2013,
         "street_name": "Św. Kingi",
         "street_full_name": "ul. Św. Kingi",
@@ -27336,7 +27635,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-03-03 13:23:04",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:11:53"
+        "last_updated": "2025-08-25 14:42:32"
     },
     {
         "id": 12016148,
@@ -27368,6 +27667,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 52,
+        "plot_area_ha": null,
         "year_built": 1910,
         "street_name": "Baldachówka",
         "street_full_name": "ul. Baldachówka",
@@ -27437,7 +27737,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-02-27 08:04:02",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:11:42"
+        "last_updated": "2025-08-25 14:42:21"
     },
     {
         "id": 11883496,
@@ -27469,6 +27769,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 42.11,
+        "plot_area_ha": null,
         "year_built": null,
         "street_name": "Stefana Batorego",
         "street_full_name": "ul. Stefana Batorego",
@@ -27523,7 +27824,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-02-20 19:41:46",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:03:23"
+        "last_updated": "2025-08-25 14:33:39"
     },
     {
         "id": 11882283,
@@ -27555,6 +27856,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 106,
+        "plot_area_ha": null,
         "year_built": 2008,
         "street_name": "al. gen. Władysława Sikorskiego",
         "street_full_name": "al. gen. Władysława Sikorskiego",
@@ -27609,7 +27911,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-02-12 16:24:46",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:03:16"
+        "last_updated": "2025-08-25 14:33:35"
     },
     {
         "id": 11881502,
@@ -27641,6 +27943,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 100,
+        "plot_area_ha": 200,
         "year_built": 2021,
         "street_name": null,
         "street_full_name": null,
@@ -27705,7 +28008,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-02-06 08:48:57",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:03:04"
+        "last_updated": "2025-08-25 14:33:16"
     },
     {
         "id": 11882107,
@@ -27737,6 +28040,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 240,
+        "plot_area_ha": 2.13,
         "year_built": 1982,
         "street_name": null,
         "street_full_name": null,
@@ -27881,7 +28185,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-02-05 11:29:41",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:03:10"
+        "last_updated": "2025-08-25 14:33:22"
     },
     {
         "id": 11999873,
@@ -27913,6 +28217,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 146.3,
+        "plot_area_ha": 2289,
         "year_built": 2018,
         "street_name": null,
         "street_full_name": null,
@@ -28017,7 +28322,7 @@
         "no_of_floors": 0,
         "actualisation_date": "2025-02-05 09:48:25",
         "agentId": 74041,
-        "last_updated": "2025-08-25 14:10:53"
+        "last_updated": "2025-08-25 14:41:28"
     },
     {
         "id": 12009357,
@@ -28049,6 +28354,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 36.18,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Złoty Stok",
         "street_full_name": "ul. Złoty Stok",
@@ -28118,7 +28424,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-01-30 11:45:30",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:11:35"
+        "last_updated": "2025-08-25 14:42:15"
     },
     {
         "id": 12001413,
@@ -28150,6 +28456,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 72.46,
+        "plot_area_ha": null,
         "year_built": 2024,
         "street_name": "al. mjr. Wacława Kopisto",
         "street_full_name": "al. mjr. Wacława Kopisto",
@@ -28199,7 +28506,7 @@
         "no_of_floors": 12,
         "actualisation_date": "2025-01-23 14:45:03",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:03:01"
+        "last_updated": "2025-08-25 14:33:09"
     },
     {
         "id": 11983753,
@@ -28231,6 +28538,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 30.65,
+        "plot_area_ha": null,
         "year_built": 2027,
         "street_name": "Stanisława Wyspiańskiego",
         "street_full_name": "ul. Stanisława Wyspiańskiego",
@@ -28270,7 +28578,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-01-15 08:05:17",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:00:47"
+        "last_updated": "2025-08-25 14:30:59"
     },
     {
         "id": 11945439,
@@ -28302,6 +28610,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 62.44,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Pańska",
         "street_full_name": "ul. Pańska",
@@ -28341,7 +28650,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:26:30",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:07:44"
+        "last_updated": "2025-08-25 14:38:14"
     },
     {
         "id": 11945447,
@@ -28373,6 +28682,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 40.82,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Pańska",
         "street_full_name": "ul. Pańska",
@@ -28412,7 +28722,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:24:00",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:07:48"
+        "last_updated": "2025-08-25 14:38:16"
     },
     {
         "id": 11945461,
@@ -28444,6 +28754,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 47.03,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Pańska",
         "street_full_name": "ul. Pańska",
@@ -28483,7 +28794,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:23:45",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:07:51"
+        "last_updated": "2025-08-25 14:38:17"
     },
     {
         "id": 11945472,
@@ -28515,6 +28826,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 41.46,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Pańska",
         "street_full_name": "ul. Pańska",
@@ -28554,7 +28866,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:23:26",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:07:52"
+        "last_updated": "2025-08-25 14:38:22"
     },
     {
         "id": 11946080,
@@ -28586,6 +28898,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 81.53,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Pańska",
         "street_full_name": "ul. Pańska",
@@ -28625,7 +28938,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:23:11",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:08:06"
+        "last_updated": "2025-08-25 14:38:34"
     },
     {
         "id": 11947197,
@@ -28657,6 +28970,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 40.99,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Pańska",
         "street_full_name": "ul. Pańska",
@@ -28691,7 +29005,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:22:44",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:08:13"
+        "last_updated": "2025-08-25 14:38:40"
     },
     {
         "id": 11947234,
@@ -28723,6 +29037,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 58.28,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Pańska",
         "street_full_name": "ul. Pańska",
@@ -28757,7 +29072,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:22:30",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:08:14"
+        "last_updated": "2025-08-25 14:38:42"
     },
     {
         "id": 11947299,
@@ -28789,6 +29104,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 62.31,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Pańska",
         "street_full_name": "ul. Pańska",
@@ -28823,7 +29139,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:22:13",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:08:19"
+        "last_updated": "2025-08-25 14:38:48"
     },
     {
         "id": 11947354,
@@ -28855,6 +29171,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 42.62,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Pańska",
         "street_full_name": "ul. Pańska",
@@ -28889,7 +29206,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:22:00",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:08:21"
+        "last_updated": "2025-08-25 14:38:50"
     },
     {
         "id": 11948315,
@@ -28921,6 +29238,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 48.46,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Pańska",
         "street_full_name": "ul. Pańska",
@@ -28960,7 +29278,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:21:44",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:08:34"
+        "last_updated": "2025-08-25 14:39:02"
     },
     {
         "id": 11948335,
@@ -28992,6 +29310,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 62.3,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Pańska",
         "street_full_name": "ul. Pańska",
@@ -29031,7 +29350,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:21:30",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:08:36"
+        "last_updated": "2025-08-25 14:39:04"
     },
     {
         "id": 11948377,
@@ -29063,6 +29382,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 40.8,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Pańska",
         "street_full_name": "ul. Pańska",
@@ -29102,7 +29422,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:21:16",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:08:41"
+        "last_updated": "2025-08-25 14:39:09"
     },
     {
         "id": 11950380,
@@ -29134,6 +29454,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 48.45,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Pańska",
         "street_full_name": "ul. Pańska",
@@ -29173,7 +29494,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:20:01",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:08:57"
+        "last_updated": "2025-08-25 14:39:25"
     },
     {
         "id": 11983061,
@@ -29205,6 +29526,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 36.23,
+        "plot_area_ha": null,
         "year_built": 2027,
         "street_name": "Stanisława Wyspiańskiego",
         "street_full_name": "ul. Stanisława Wyspiańskiego",
@@ -29249,7 +29571,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-01-11 13:48:50",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:00:41"
+        "last_updated": "2025-08-25 14:30:52"
     },
     {
         "id": 11983073,
@@ -29281,6 +29603,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 58.93,
+        "plot_area_ha": null,
         "year_built": 2027,
         "street_name": "Stanisława Wyspiańskiego",
         "street_full_name": "ul. Stanisława Wyspiańskiego",
@@ -29325,7 +29648,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-01-11 13:48:28",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:00:46"
+        "last_updated": "2025-08-25 14:30:57"
     },
     {
         "id": 11982929,
@@ -29357,6 +29680,7 @@
         "section": "CommercialSpaceSale",
         "status": "Active",
         "total_area": 47.69,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -29406,7 +29730,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-11 08:25:40",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:00:34"
+        "last_updated": "2025-08-25 14:30:45"
     },
     {
         "id": 11983035,
@@ -29438,6 +29762,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 28.42,
+        "plot_area_ha": null,
         "year_built": 2027,
         "street_name": "Stanisława Wyspiańskiego",
         "street_full_name": "ul. Stanisława Wyspiańskiego",
@@ -29482,7 +29807,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-01-11 08:24:38",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:00:39"
+        "last_updated": "2025-08-25 14:30:50"
     },
     {
         "id": 11954302,
@@ -29514,6 +29839,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 47.82,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "hr. Alfreda Potockiego",
         "street_full_name": "ul. hr. Alfreda Potockiego",
@@ -29548,7 +29874,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-01-08 09:17:11",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:01:39"
+        "last_updated": "2025-08-25 14:31:50"
     },
     {
         "id": 11954595,
@@ -29580,6 +29906,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 43.41,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "hr. Alfreda Potockiego",
         "street_full_name": "ul. hr. Alfreda Potockiego",
@@ -29614,7 +29941,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-01-08 09:16:38",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:01:30"
+        "last_updated": "2025-08-25 14:31:39"
     },
     {
         "id": 11954620,
@@ -29646,6 +29973,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 49.88,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "hr. Alfreda Potockiego",
         "street_full_name": "ul. hr. Alfreda Potockiego",
@@ -29680,7 +30008,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-01-08 09:16:17",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:01:32"
+        "last_updated": "2025-08-25 14:31:44"
     },
     {
         "id": 11932136,
@@ -29712,6 +30040,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 51.44,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -29756,7 +30085,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:10:09",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:05:47"
+        "last_updated": "2025-08-25 14:36:16"
     },
     {
         "id": 11932184,
@@ -29788,6 +30117,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 70.51,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -29832,7 +30162,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:09:55",
         "agentId": 72795,
-        "last_updated": "2025-08-25 14:05:51"
+        "last_updated": "2025-08-25 14:36:18"
     },
     {
         "id": 11932736,
@@ -29864,6 +30194,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 58.42,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -29908,7 +30239,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:07:22",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:05:40"
+        "last_updated": "2025-08-25 14:36:00"
     },
     {
         "id": 11932742,
@@ -29940,6 +30271,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 69.57,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -29984,7 +30316,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:07:01",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:05:41"
+        "last_updated": "2025-08-25 14:36:02"
     },
     {
         "id": 11932745,
@@ -30016,6 +30348,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 70.66,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -30060,7 +30393,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:06:17",
         "agentId": 72664,
-        "last_updated": "2025-08-25 14:05:43"
+        "last_updated": "2025-08-25 14:36:13"
     },
     {
         "id": 11935282,
@@ -30092,6 +30425,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 47.96,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -30136,7 +30470,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:05:10",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:06:14"
+        "last_updated": "2025-08-25 14:36:44"
     },
     {
         "id": 11935221,
@@ -30168,6 +30502,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 41.57,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -30212,7 +30547,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:04:12",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:06:11"
+        "last_updated": "2025-08-25 14:36:37"
     },
     {
         "id": 11935301,
@@ -30244,6 +30579,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 67.81,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -30288,7 +30624,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:01:42",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:06:19"
+        "last_updated": "2025-08-25 14:36:47"
     },
     {
         "id": 11935316,
@@ -30320,6 +30656,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 70.34,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -30364,7 +30701,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:00:56",
         "agentId": 72735,
-        "last_updated": "2025-08-25 14:06:20"
+        "last_updated": "2025-08-25 14:36:48"
     },
     {
         "id": 11935344,
@@ -30396,6 +30733,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 68.75,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -30440,7 +30778,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:00:42",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:06:27"
+        "last_updated": "2025-08-25 14:36:50"
     },
     {
         "id": 11937430,
@@ -30472,6 +30810,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 71.44,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -30511,7 +30850,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 08:59:32",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:06:30"
+        "last_updated": "2025-08-25 14:36:57"
     },
     {
         "id": 11939127,
@@ -30543,6 +30882,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 59.19,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -30582,7 +30922,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 08:59:19",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:06:42"
+        "last_updated": "2025-08-25 14:37:11"
     },
     {
         "id": 11939150,
@@ -30614,6 +30954,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 69.74,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -30653,7 +30994,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 08:59:03",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:06:47"
+        "last_updated": "2025-08-25 14:37:12"
     },
     {
         "id": 11954689,
@@ -30685,6 +31026,7 @@
         "section": "ApartmentRental",
         "status": "Active",
         "total_area": 17.8,
+        "plot_area_ha": null,
         "year_built": null,
         "street_name": "Jarosława Dąbrowskiego",
         "street_full_name": "ul. Jarosława Dąbrowskiego",
@@ -30714,7 +31056,7 @@
         "no_of_floors": null,
         "actualisation_date": "2024-12-17 14:52:39",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:01:34"
+        "last_updated": "2025-08-25 14:31:46"
     },
     {
         "id": 11951483,
@@ -30746,6 +31088,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 116.61,
+        "plot_area_ha": 100,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -30800,7 +31143,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2024-12-13 16:28:58",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:09:17"
+        "last_updated": "2025-08-25 14:39:44"
     },
     {
         "id": 11951457,
@@ -30832,6 +31175,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 89.14,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "św. Marcina",
         "street_full_name": "ul. św. Marcina",
@@ -30891,7 +31235,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2024-12-13 16:14:45",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:09:15"
+        "last_updated": "2025-08-25 14:39:39"
     },
     {
         "id": 11942825,
@@ -30923,6 +31267,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 66.38,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": "Jana Olbrachta",
         "street_full_name": "ul. Jana Olbrachta",
@@ -30962,7 +31307,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2024-12-07 08:05:50",
         "agentId": 72663,
-        "last_updated": "2025-08-25 14:07:37"
+        "last_updated": "2025-08-25 14:38:04"
     },
     {
         "id": 11935281,
@@ -30994,6 +31339,7 @@
         "section": "ApartmentSale",
         "status": "Active",
         "total_area": 41.91,
+        "plot_area_ha": null,
         "year_built": 2026,
         "street_name": "Lubelska",
         "street_full_name": "ul. Lubelska",
@@ -31038,7 +31384,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2024-12-05 16:03:07",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:06:12"
+        "last_updated": "2025-08-25 14:36:39"
     },
     {
         "id": 11891807,
@@ -31070,6 +31416,7 @@
         "section": "CommercialObjectSale",
         "status": "Active",
         "total_area": 270,
+        "plot_area_ha": 3600,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -31104,6 +31451,6 @@
         "no_of_floors": null,
         "actualisation_date": "2024-11-09 13:50:49",
         "agentId": 72665,
-        "last_updated": "2025-08-25 14:04:37"
+        "last_updated": "2025-08-25 14:34:52"
     }
 ]
