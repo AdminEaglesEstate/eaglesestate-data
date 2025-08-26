@@ -132,6 +132,28 @@ foreach ($idList as $index => $item) {
         continue;
     }
 
+    $plotAreaHa = null;
+    if (isset($l['lotArea']) && $l['lotArea'] !== null && $l['lotArea'] !== '') {
+        $area = (float)$l['lotArea'];
+        $unit = isset($l['lotAreaUnit']) ? $l['lotAreaUnit'] : null;
+        if ($area > 0) {
+            switch ($unit) {
+                case null:
+                case 'Sqm':
+                    $plotAreaHa = $area / 10000.0;
+                    break;
+                case 'Ha':
+                    $plotAreaHa = $area;
+                    break;
+                case 'A':
+                    $plotAreaHa = $area / 100.0;
+                    break;
+                default:
+                    $plotAreaHa = null;
+            }
+        }
+    }
+
     $listings[] = [
         'id' => $l['id'],
         'title' => isset($l['name']) ? $l['name'] : '',
@@ -162,7 +184,7 @@ foreach ($idList as $index => $item) {
         'section' => isset($l['section']) ? $l['section'] : null,
         'status' => isset($l['status']) ? $l['status'] : null,
         'total_area' => isset($l['totalArea']) ? $l['totalArea'] : null,
-        'plot_area_ha' => isset($l['lotArea']) ? $l['lotArea'] : null,
+        'plot_area_ha' => $plotAreaHa,
         'year_built' => isset($l['yearBuilt']) ? $l['yearBuilt'] : null,
         'street_name' => isset($l['street']['name']) ? $l['street']['name'] : null,
         'street_full_name' => isset($l['street']['fullName']) ? $l['street']['fullName'] : null,
