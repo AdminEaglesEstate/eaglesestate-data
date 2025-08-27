@@ -1,5 +1,607 @@
 [
     {
+        "id": 12246719,
+        "title": "",
+        "price": 430000,
+        "is_special": 0,
+        "building_type": "Mieszkanie",
+        "isForSaleOrRental": true,
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate prezentuje Państwu 2-pokojowe mieszkanie o powierzchni 32,07 m², usytuowane na 2. piętrze niskiego bloku z windą, wybudowanego w 2025 roku. Nieruchomość zlokalizowana jest przy ul. Antoniego Gromskiego 16 na osiedlu Staromieście w Rzeszowie. Mieszkanie znajduje się w spokojnej, nowoczesnej części miasta z szybkim dostępem do centrum oraz obwodnicy.<br><br>&nbsp; W SKŁAD NIERUCHOMOŚCI WCHODZI: <ul> <li> salon z aneksem kuchennym (15,56 m²)<br> </li> <li> sypialnia (8,19 m²)<br> </li> <li> łazienka (3,68 m²)<br> </li> <li> przedpokój (4,64 m²)<br> </li> <li> balkon<br> </li> <li> komórka lokatorska<br> </li> </ul><br>&nbsp; ATUTY NIERUCHOMOŚCI: <ul> <li> mieszkanie w stanie deweloperskim — możliwość aranżacji według własnych potrzeb<br> </li> <li> południowo-wschodnia ekspozycja zapewniająca dobre nasłonecznienie wnętrza<br> </li> <li> nowoczesny blok z 2025 roku z cichobieżną windą<br> </li> <li> do mieszkania przynależy komórka lokatorska<br> </li> <li> dogodna lokalizacja: szybki dojazd do centrum Rzeszowa, bliskość sklepów, punktów usługowych, terenów rekreacyjnych<br> </li> </ul><br>&nbsp;&nbsp;<br> Nowoczesne mieszkanie o funkcjonalnym układzie, idealne dla singla, pary lub jako inwestycja pod wynajem. Stan deweloperski pozwala na pełną dowolność w aranżacji wnętrza. Atrakcyjna lokalizacja na osiedlu Staromieście zapewnia spokój oraz komfort życia z jednoczesnym szybkim dostępem do centrum i głównych tras wylotowych z miasta.<br><br>Po więcej informacji zapraszam do kontaktu.<br> Na rynku pierwotnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
+        "elevator": 1,
+        "floor_no": 2,
+        "garage": 0,
+        "garage_parking_price": null,
+        "short_description": "Dwa pokoje na północy do własnej aranżacji",
+        "headerAdvertisement": "Dwa pokoje na północy do własnej aranżacji",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "Mixed",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 2,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 13437.5,
+        "provision_amount": 1.63,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 32,
+        "plot_area_ha": null,
+        "year_built": 2025,
+        "street_name": "Antoniego Gromskiego",
+        "street_full_name": "ul. Antoniego Gromskiego",
+        "images": [
+            {
+                "id": 107492154,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107492259,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107492155,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107492156,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107492172,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "980/17058/OMS",
+        "no_of_floors": 4,
+        "actualisation_date": "2025-08-27 14:40:54",
+        "agentId": 72664,
+        "last_updated": "2025-08-27 16:18:50"
+    },
+    {
+        "id": 12319657,
+        "title": "",
+        "price": 990000,
+        "is_special": 0,
+        "building_type": "Dom",
+        "isForSaleOrRental": true,
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości Eagles Estate prezentuje Państwu dom wolnostojący o powierzchni 180m², usytuowany na działce o powierzchni 12,4a , wybudowany w 1978 roku. Nieruchomość zlokalizowana jest przy ul. Słocińskiej na osiedlu Słocina. Dom znajduje się w niedalekiej odległości od szkoły oraz posiada doskonały dostęp do komunikacji miejskiej.<br><br>W SKŁAD NIERUCHOMOŚCI WCHODZI:<ul><li>2 łazienki na każdym z pięter</li><li>5 przestronnych pokoi (2 na niższym piętrze oraz 3 na wyższym)</li><li>2 kuchnie</li></ul>ATUTY NIERUCHOMOŚCI:<ul><li>przestronna ogrodzona działka</li><li>budynek gospodarczy na działce z możliwością przerobienia go na drugi budynek mieszkalny lub biuro do własnej działalności.<br></li><li>Wolnostojący garaż dwustanowiskowy</li></ul><br><br>Nieruchomość idealna dla osób które wymagają od swojego przyszłego domu możliwości dostosowania go w pełni pod siebie, ale także dla inwestorów którzy poszukują dużej stopy zwrotu z inwestycji.<br><br>Po więcej informacji zapraszam do kontaktu.<br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
+        "elevator": null,
+        "floor_no": null,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "Działka 1260m2 z dwoma budynkami 180 m² oraz 80 m²",
+        "headerAdvertisement": "Działka 1260m2 z dwoma budynkami 180 m² oraz 80 m²",
+        "kitchen_type": "Separate",
+        "location_name": "/Podkarpackie/Rzeszów/Słocina",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Słocina",
+        "material": "Brick",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 5,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 5500,
+        "provision_amount": 24156,
+        "section": "HouseSale",
+        "status": "Active",
+        "total_area": 180,
+        "plot_area_ha": 0.124,
+        "year_built": 1978,
+        "street_name": null,
+        "street_full_name": null,
+        "images": [
+            {
+                "id": 107490994,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107477932,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107477934,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107490996,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107490997,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107490999,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107491000,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107491001,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107491002,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107491004,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107491006,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107491007,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107491008,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107491009,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107491011,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107491012,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107491016,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107491020,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107491022,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107491024,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107491025,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107491027,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107491028,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "162/17058/ODS",
+        "no_of_floors": 2,
+        "actualisation_date": "2025-08-27 14:38:27",
+        "agentId": 74041,
+        "last_updated": "2025-08-27 16:00:10"
+    },
+    {
+        "id": 12207649,
+        "title": "",
+        "price": 565000,
+        "is_special": 0,
+        "building_type": "Mieszkanie",
+        "isForSaleOrRental": true,
+        "country_name": "Polska",
+        "description": "Biuro nieruchomości&nbsp;<b>Eagles Estate</b>&nbsp;prezentuje Państwu 3-pokojowe mieszkanie o powierzchni 53m2, usytuowane na 3 piętrze w bloku 10 piętrowym. Zlokalizowane przy ul. Podwisłocze w Rzeszowie. Mieszkanie znajduje się w niedalekiej odległości od kluczowych punktów usługowo-handlowych.&nbsp;<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br>- Salon&nbsp;<br>-Pokój<br>- Pokój<br>-Kuchnia<br>- Łazienka z toaletą<br>-Przedpokój<br>-Balkon<br><br><b>ATUTY NIERUCHOMOŚCI:</b><br>- dostępność punktów usługo - handlowych&nbsp;<br>-bliskość terenów zielonych<br><br><b>LOKALIZACJA:</b><br>Osiedle łącząca wygodę życia w mieście z bliskością terenów zielonych. W okolicy znajdują się liczne punkty handlowo-usługowe, m.in.:<br>-Szkoła<br>-Przedszkole<br>-Sklepy<br>-przystanek autobusowy<br><br>Mieszkanie sprawdzi się także jako inwestycja, jest gotowe do zamieszkania stylowo urządzone i w pełni umeblowane.<br>&nbsp;<br>Po więcej informacji zapraszam do kontaktu.<br><br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.&nbsp;",
+        "elevator": 1,
+        "floor_no": 3,
+        "garage": 0,
+        "garage_parking_price": null,
+        "short_description": "Mieszkanie 3 pokojowe Rzeszów",
+        "headerAdvertisement": "Mieszkanie 3 pokojowe Rzeszów",
+        "kitchen_type": "Separate",
+        "location_name": "/Podkarpackie/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "PrecastConcreteSlabs",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 10660.38,
+        "provision_amount": 8475,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 53,
+        "plot_area_ha": null,
+        "year_built": 1980,
+        "street_name": "Podwisłocze",
+        "street_full_name": "ul. Podwisłocze",
+        "images": [
+            {
+                "id": 107489958,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107490230,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107489953,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107489956,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107489955,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107489954,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107489957,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "876/17058/OMS",
+        "no_of_floors": 10,
+        "actualisation_date": "2025-08-27 14:37:02",
+        "agentId": 72664,
+        "last_updated": "2025-08-27 16:17:44"
+    },
+    {
+        "id": 11990302,
+        "title": "",
+        "price": 650000,
+        "is_special": 0,
+        "building_type": "Mieszkanie",
+        "isForSaleOrRental": true,
+        "country_name": "Polska",
+        "description": "Biuro Eagles Estate ma przyjemność przedstawić Państwu nową inwestycję zlokalizowaną przy ul. Pileckich na os. Słocina w Rzeszowie.<br><br>Inwestycja zlokalizowana jest w&nbsp;otoczeniu zieleni i&nbsp;terenów rekreacyjnych pozwalających na kontakt z&nbsp;przyrodą i&nbsp;aktywny wypoczynek, zapewniający wysoki komfort mieszkania.<br>To urokliwe miejsce&nbsp;z nowoczesną zabudową zarówno jednorodzinnych segmentów mieszkalnych z dużymi ogrodami, jak również kameralnych mieszkań w zabudowie dwulokalowej.<br><br>Osiedle to jest idealne dla osób, które cenią sobie ciszę i&nbsp;spokój, a jednocześnie potrzebują mieć w&nbsp;zasięgu ręki dostęp do centrum miasta.<br><br>Zabudowa inwestycji składać się będzie z 6 segmentów, a w nich znajdą się zarówno mieszkania jednorodzinne, mieszkania dwulokalowe i szeregówki z kompleksowym zagospodarowaniem terenu oraz drogami dojazdowymi.<br><br>Dodatkowym atutem inwestycji będzie wysoki standard wykończenia stanu deweloperskiego.<br><br>SZCZEGÓŁY INWESTYCJI:<br>METRAŻE: od 53,15 m2 - 166 m2&nbsp;<br>TERMIN REALIZACJI: 2 KWARTAŁ 2025<br>MIEJSCE POSTOJOWE W CENIE MIESZKANIA<br>OGRZEWANIE: GAZOWE, PODŁOGOWE<br><br>OGŁOSZENIE DOTYCZY MIESZKANIA DWUPOZIOMOWEGO F2.B&nbsp;<br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie&nbsp; od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.<br><br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.<br><br>Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.<br><br>Zapraszamy do kontaktu oraz prezentacji nieruchomości.   Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.  Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.",
+        "elevator": 0,
+        "floor_no": 1,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "Mieszkanie dwupoziomowe Słocina 6 sypialni !",
+        "headerAdvertisement": "Mieszkanie dwupoziomowe Słocina 6 sypialni !",
+        "kitchen_type": "Open",
+        "location_name": "/Podkarpackie/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "AirBrick",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 7,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": 1,
+        "price_m2": 5796.84,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 112.13,
+        "plot_area_ha": null,
+        "year_built": 2025,
+        "street_name": "Ottona i Jana Pileckich",
+        "street_full_name": "ul. Ottona i Jana Pileckich",
+        "images": [
+            {
+                "id": 107492074,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107492076,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103337269,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103337271,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105607366,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103337067,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105607367,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103337063,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103337065,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103337066,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "252/17058/OMS",
+        "no_of_floors": 2,
+        "actualisation_date": "2025-08-27 12:56:29",
+        "agentId": 72795,
+        "last_updated": "2025-08-27 16:19:36"
+    },
+    {
+        "id": 12206693,
+        "title": "",
+        "price": 850000,
+        "is_special": 0,
+        "building_type": "Dom",
+        "isForSaleOrRental": true,
+        "country_name": "Polska",
+        "description": "Biuro Eagles Estate ma przyjemność przedstawić Państwu nową inwestycję zlokalizowaną przy ul. Pileckich na os. Słocina w Rzeszowie.<br><br>Inwestycja zlokalizowana jest w&nbsp;otoczeniu zieleni i&nbsp;terenów rekreacyjnych pozwalających na kontakt z&nbsp;przyrodą i&nbsp;aktywny wypoczynek, zapewniający wysoki komfort mieszkania. <br>To urokliwe miejsce&nbsp;z nowoczesną zabudową zarówno jednorodzinnych segmentów mieszkalnych z dużymi ogrodami, jak również kameralnych mieszkań w zabudowie dwulokalowej.<br><br>Osiedle to jest idealne dla osób, które cenią sobie ciszę i&nbsp;spokój, a jednocześnie potrzebują mieć w&nbsp;zasięgu ręki dostęp do centrum miasta.<br><br>Zabudowa inwestycji składać się będzie z 6 segmentów, a w nich znajdą się zarówno mieszkania jednorodzinne, mieszkania dwulokalowe i szeregówki z kompleksowym zagospodarowaniem terenu oraz drogami dojazdowymi.<br><br>Dodatkowym atutem inwestycji będzie wysoki standard wykończenia stanu deweloperskiego.<br><br>SZCZEGÓŁY INWESTYCJI:<br>METRAŻE: od 53,15 m2 - 166 m2&nbsp;<br>TERMIN REALIZACJI: 2 KWARTAŁ 2025<br>MIEJSCE POSTOJOWE W CENIE MIESZKANIA<br>OGRZEWANIE: GAZOWE, PODŁOGOWE<br><br>OGŁOSZENIE DOTYCZY SZEREGÓWKI NR B3<br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie&nbsp; od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.<br><br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.<br><br>Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.<br><br><br><br>",
+        "elevator": null,
+        "floor_no": null,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "Promocja Szeregówka 729 000 zł 114 m2 Słocina",
+        "headerAdvertisement": "Promocja Szeregówka 729 000 zł 114 m2 Słocina",
+        "kitchen_type": "Open",
+        "location_name": "/Podkarpackie/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "AirBrick",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 5,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 7437.22,
+        "provision_amount": 0,
+        "section": "HouseSale",
+        "status": "Active",
+        "total_area": 114.29,
+        "plot_area_ha": 0.019318000000000002,
+        "year_built": 2025,
+        "street_name": null,
+        "street_full_name": null,
+        "images": [
+            {
+                "id": 105766366,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766371,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766407,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766406,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766365,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766367,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766370,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766372,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "125/17058/ODS",
+        "no_of_floors": 1,
+        "actualisation_date": "2025-08-27 12:51:44",
+        "agentId": 72795,
+        "last_updated": "2025-08-27 16:17:39"
+    },
+    {
+        "id": 12204942,
+        "title": "",
+        "price": 554000,
+        "is_special": 1,
+        "building_type": "Mieszkanie",
+        "isForSaleOrRental": true,
+        "country_name": "Polska",
+        "description": "<b>Biuro Nieruchomości Eagles Estate</b> z przyjemnością prezentuje Państwu przestronne i funkcjonalne mieszkanie o powierzchni <b>58,78 m²</b>, zlokalizowane na <b>2. piętrze niskiego, czteropiętrowego bloku</b> przy ul. <b>Króla Stanisława Augusta</b>, na popularnym i doskonale skomunikowanym osiedlu o tej samej nazwie – <b>Osiedle Króla Stanisława Augusta</b> w Rzeszowie.<br>  To idealna propozycja dla rodzin z dziećmi, par poszukujących większego metrażu, jak również jako inwestycja pod wynajem – zarówno długoterminowy, jak i dla studentów lub pracowników.<br>  Mieszkanie położone jest w atrakcyjnej części Rzeszowa, w pobliżu ścisłego centrum miasta. Zaledwie kilka minut dzieli nieruchomość od <b>Galerii Rzeszów</b>, dworca PKP i PKS oraz rzeszowskiego rynku. W bliskim sąsiedztwie znajdują się liczne sklepy, punkty usługowe, szkoły, przedszkola, przychodnie lekarskie, tereny rekreacyjne i ścieżki spacerowe.<br>  <b><i>&nbsp;</i></b><br> <b>W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br> - salon z aneksem kuchenny,<br> - duża sypialnia z balkonem<br> - pokój<br> - pokój<br> - WC<br> - łazienka<br> &nbsp;<br> <b>ATUTY NIERUCHOMOŚCI:</b><br> - praktyczny układ <br> - 3 sypialnie<br> - podłogi wykończone deską barlinecką<br> - ogrzewanie miejskie <br> - przestronny balkon<br> - okna plastikowe<br> - mieszkanie dobrze doświetlone, z ekspozycją wschód-zachód<br> <b>-&nbsp;</b>otoczone sporą ilością zieleni<br> <b>-&nbsp;</b>bliskość licznych sklepów, placówek edukacyjnych i medycznych<br> <br> Do mieszkania przynależy piwnica oraz posiada dostęp do parkingu ogólnodostępnego pod blokiem.<br> <br> Po więcej informacji zapraszam do kontaktu.<br> <i>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości.</i><br>",
+        "elevator": 0,
+        "floor_no": 2,
+        "garage": 0,
+        "garage_parking_price": null,
+        "short_description": "Mieszkanie 4-pokojowe na Os. Augusta",
+        "headerAdvertisement": "Mieszkanie 4-pokojowe na Os. Augusta",
+        "kitchen_type": "Open",
+        "location_name": "/Podkarpackie/Rzeszów/Króla Stanisława Augusta",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Króla Stanisława Augusta",
+        "material": "PrecastConcreteSlabs",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 4,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 9424.97,
+        "provision_amount": 8310,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "total_area": 58.78,
+        "plot_area_ha": null,
+        "year_built": 1980,
+        "street_name": "Króla Stanisława Augusta",
+        "street_full_name": "ul. Króla Stanisława Augusta",
+        "images": [
+            {
+                "id": 107482987,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105742844,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766442,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766433,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766429,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766428,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766430,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766432,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107482989,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766434,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766435,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766437,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766441,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766443,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766444,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105766445,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107482991,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "865/17058/OMS",
+        "no_of_floors": 4,
+        "actualisation_date": "2025-08-26 22:12:22",
+        "agentId": 72663,
+        "last_updated": "2025-08-27 16:17:31"
+    },
+    {
         "id": 12070097,
         "title": "",
         "price": 699000,
@@ -79,7 +681,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-26 11:43:01",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:13:26"
+        "last_updated": "2025-08-27 16:13:39"
     },
     {
         "id": 12321887,
@@ -180,13 +782,18 @@
                 "id": 107464181,
                 "description": null,
                 "isScheme": false
+            },
+            {
+                "id": 107482957,
+                "description": null,
+                "isScheme": false
             }
         ],
         "listing_offer_id": "1214/17058/OMS",
         "no_of_floors": 2,
         "actualisation_date": "2025-08-26 10:54:42",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:02:15"
+        "last_updated": "2025-08-27 16:02:20"
     },
     {
         "id": 12319753,
@@ -298,7 +905,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-23 21:39:27",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:00:09"
+        "last_updated": "2025-08-27 16:00:12"
     },
     {
         "id": 12310252,
@@ -485,7 +1092,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-08-23 15:36:00",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:06:02"
+        "last_updated": "2025-08-27 16:06:16"
     },
     {
         "id": 12195908,
@@ -592,7 +1199,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-23 13:06:28",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:16:34"
+        "last_updated": "2025-08-27 16:16:45"
     },
     {
         "id": 12015333,
@@ -674,7 +1281,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-22 23:12:46",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:11:42"
+        "last_updated": "2025-08-27 16:12:10"
     },
     {
         "id": 12307381,
@@ -801,7 +1408,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-08-22 16:11:05",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:05:20"
+        "last_updated": "2025-08-27 16:05:27"
     },
     {
         "id": 12302040,
@@ -893,119 +1500,7 @@
         "no_of_floors": 11,
         "actualisation_date": "2025-08-22 14:50:18",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:05:15"
-    },
-    {
-        "id": 12204942,
-        "title": "",
-        "price": 554000,
-        "is_special": 1,
-        "building_type": "Mieszkanie",
-        "isForSaleOrRental": true,
-        "country_name": "Polska",
-        "description": "<b>Biuro Nieruchomości Eagles Estate</b> z przyjemnością prezentuje Państwu przestronne i funkcjonalne mieszkanie o powierzchni <b>58,78 m²</b>, zlokalizowane na <b>2. piętrze niskiego, czteropiętrowego bloku</b> przy ul. <b>Króla Stanisława Augusta</b>, na popularnym i doskonale skomunikowanym osiedlu o tej samej nazwie – <b>Osiedle Króla Stanisława Augusta</b> w Rzeszowie.<br>  To idealna propozycja dla rodzin z dziećmi, par poszukujących większego metrażu, jak również jako inwestycja pod wynajem – zarówno długoterminowy, jak i dla studentów lub pracowników.<br>  Mieszkanie położone jest w atrakcyjnej części Rzeszowa, w pobliżu ścisłego centrum miasta. Zaledwie kilka minut dzieli nieruchomość od <b>Galerii Rzeszów</b>, dworca PKP i PKS oraz rzeszowskiego rynku. W bliskim sąsiedztwie znajdują się liczne sklepy, punkty usługowe, szkoły, przedszkola, przychodnie lekarskie, tereny rekreacyjne i ścieżki spacerowe.<br>  <b><i>&nbsp;</i></b><br> <b>W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br> - salon z aneksem kuchenny,<br> - duża sypialnia z balkonem<br> - pokój<br> - pokój<br> - WC<br> - łazienka<br> &nbsp;<br> <b>ATUTY NIERUCHOMOŚCI:</b><br> - praktyczny układ <br> - 3 sypialnie<br> - podłogi wykończone deską barlinecką<br> - ogrzewanie miejskie <br> - przestronny balkon<br> - okna plastikowe<br> - mieszkanie dobrze doświetlone, z ekspozycją wschód-zachód<br> <b>-&nbsp;</b>otoczone sporą ilością zieleni<br> <b>-&nbsp;</b>bliskość licznych sklepów, placówek edukacyjnych i medycznych<br> <br> Do mieszkania przynależy piwnica oraz posiada dostęp do parkingu ogólnodostępnego pod blokiem.<br> <br> Po więcej informacji zapraszam do kontaktu.<br> <i>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości.</i><br>",
-        "elevator": 0,
-        "floor_no": 2,
-        "garage": 0,
-        "garage_parking_price": null,
-        "short_description": "Jasne mieszkanie blisko centrum Rzeszowa",
-        "headerAdvertisement": "Jasne mieszkanie blisko centrum Rzeszowa",
-        "kitchen_type": "Open",
-        "location_name": "/Podkarpackie/Rzeszów/Króla Stanisława Augusta",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "Króla Stanisława Augusta",
-        "material": "PrecastConcreteSlabs",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 4,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 9424.97,
-        "provision_amount": 8310,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 58.78,
-        "plot_area_ha": null,
-        "year_built": 1980,
-        "street_name": "Króla Stanisława Augusta",
-        "street_full_name": "ul. Króla Stanisława Augusta",
-        "images": [
-            {
-                "id": 105766442,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105742844,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766433,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766429,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766428,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766430,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766432,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766434,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766435,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766437,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766441,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766443,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766444,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766445,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "865/17058/OMS",
-        "no_of_floors": 4,
-        "actualisation_date": "2025-08-22 12:33:12",
-        "agentId": 72663,
-        "last_updated": "2025-08-26 13:17:17"
+        "last_updated": "2025-08-27 16:05:23"
     },
     {
         "id": 12315974,
@@ -1207,7 +1702,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-08-22 12:20:16",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:06:04"
+        "last_updated": "2025-08-27 16:06:17"
     },
     {
         "id": 12103566,
@@ -1314,7 +1809,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-08-21 15:15:54",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:14:14"
+        "last_updated": "2025-08-27 16:14:28"
     },
     {
         "id": 11929886,
@@ -1421,7 +1916,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-19 15:07:59",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:05:14"
+        "last_updated": "2025-08-27 16:05:21"
     },
     {
         "id": 12101818,
@@ -1513,7 +2008,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-19 12:51:42",
         "agentId": 74243,
-        "last_updated": "2025-08-26 13:14:00"
+        "last_updated": "2025-08-27 16:14:20"
     },
     {
         "id": 12117244,
@@ -1575,7 +2070,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 12:48:30",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:00:58"
+        "last_updated": "2025-08-27 16:01:00"
     },
     {
         "id": 12288008,
@@ -1772,7 +2267,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 12:05:16",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:03:44"
+        "last_updated": "2025-08-27 16:03:47"
     },
     {
         "id": 12023609,
@@ -1869,7 +2364,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-19 10:29:31",
         "agentId": 74243,
-        "last_updated": "2025-08-26 13:12:16"
+        "last_updated": "2025-08-27 16:12:43"
     },
     {
         "id": 12096686,
@@ -1951,7 +2446,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-19 10:24:01",
         "agentId": 74243,
-        "last_updated": "2025-08-26 13:13:49"
+        "last_updated": "2025-08-27 16:14:09"
     },
     {
         "id": 12024984,
@@ -2038,7 +2533,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-19 09:52:52",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:10:42"
+        "last_updated": "2025-08-27 16:11:03"
     },
     {
         "id": 12291528,
@@ -2120,7 +2615,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-19 09:51:25",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:04:14"
+        "last_updated": "2025-08-27 16:04:27"
     },
     {
         "id": 12121502,
@@ -2232,7 +2727,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 09:50:16",
         "agentId": 74243,
-        "last_updated": "2025-08-26 13:02:00"
+        "last_updated": "2025-08-27 16:02:07"
     },
     {
         "id": 12120775,
@@ -2329,7 +2824,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-19 09:49:53",
         "agentId": 74243,
-        "last_updated": "2025-08-26 13:01:57"
+        "last_updated": "2025-08-27 16:01:58"
     },
     {
         "id": 12252909,
@@ -2411,7 +2906,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-19 09:47:57",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:19:04"
+        "last_updated": "2025-08-27 16:19:23"
     },
     {
         "id": 12220827,
@@ -2443,7 +2938,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 160,
-        "plot_area_ha": 2039,
+        "plot_area_ha": 0.2039,
         "year_built": 1993,
         "street_name": null,
         "street_full_name": null,
@@ -2553,7 +3048,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 09:47:25",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:17:43"
+        "last_updated": "2025-08-27 16:17:53"
     },
     {
         "id": 12208219,
@@ -2640,7 +3135,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-08-19 09:46:39",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:17:30"
+        "last_updated": "2025-08-27 16:17:45"
     },
     {
         "id": 12205021,
@@ -2672,7 +3167,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 122,
-        "plot_area_ha": 997,
+        "plot_area_ha": 0.0997,
         "year_built": 1990,
         "street_name": null,
         "street_full_name": null,
@@ -2727,7 +3222,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 09:46:14",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:17:22"
+        "last_updated": "2025-08-27 16:17:33"
     },
     {
         "id": 12201548,
@@ -2809,7 +3304,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 09:45:47",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:17:11"
+        "last_updated": "2025-08-27 16:17:25"
     },
     {
         "id": 12195964,
@@ -2891,7 +3386,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-19 09:45:26",
         "agentId": 74243,
-        "last_updated": "2025-08-26 13:16:40"
+        "last_updated": "2025-08-27 16:16:51"
     },
     {
         "id": 12197406,
@@ -2978,7 +3473,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 09:44:40",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:17:04"
+        "last_updated": "2025-08-27 16:17:18"
     },
     {
         "id": 12201608,
@@ -3010,7 +3505,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 280,
-        "plot_area_ha": 6100,
+        "plot_area_ha": 0.61,
         "year_built": 1980,
         "street_name": null,
         "street_full_name": null,
@@ -3110,7 +3605,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-19 09:43:50",
         "agentId": 74243,
-        "last_updated": "2025-08-26 13:17:15"
+        "last_updated": "2025-08-27 16:17:26"
     },
     {
         "id": 12162728,
@@ -3192,7 +3687,7 @@
         "no_of_floors": 11,
         "actualisation_date": "2025-08-19 09:43:29",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:14:58"
+        "last_updated": "2025-08-27 16:15:09"
     },
     {
         "id": 12134910,
@@ -3324,7 +3819,7 @@
         "no_of_floors": 5,
         "actualisation_date": "2025-08-19 09:43:07",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:14:52"
+        "last_updated": "2025-08-27 16:15:05"
     },
     {
         "id": 12280603,
@@ -3456,7 +3951,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-19 09:42:57",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:03:42"
+        "last_updated": "2025-08-27 16:03:45"
     },
     {
         "id": 12125398,
@@ -3583,7 +4078,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-08-19 09:42:23",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:02:29"
+        "last_updated": "2025-08-27 16:02:33"
     },
     {
         "id": 12310112,
@@ -3785,7 +4280,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-19 09:42:15",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:05:57"
+        "last_updated": "2025-08-27 16:06:11"
     },
     {
         "id": 12124316,
@@ -3877,7 +4372,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-19 09:41:56",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:02:21"
+        "last_updated": "2025-08-27 16:02:22"
     },
     {
         "id": 12122711,
@@ -3969,7 +4464,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-08-19 09:41:34",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:02:11"
+        "last_updated": "2025-08-27 16:02:09"
     },
     {
         "id": 12300652,
@@ -4066,7 +4561,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-19 09:41:29",
         "agentId": 74243,
-        "last_updated": "2025-08-26 13:04:22"
+        "last_updated": "2025-08-27 16:04:32"
     },
     {
         "id": 12296197,
@@ -4098,7 +4593,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 205.87,
-        "plot_area_ha": 13,
+        "plot_area_ha": 0.13,
         "year_built": 2022,
         "street_name": null,
         "street_full_name": null,
@@ -4144,6 +4639,11 @@
                 "isScheme": false
             },
             {
+                "id": 107158351,
+                "description": null,
+                "isScheme": false
+            },
+            {
                 "id": 107158321,
                 "description": null,
                 "isScheme": false
@@ -4160,11 +4660,6 @@
             },
             {
                 "id": 107158350,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 107158351,
                 "description": null,
                 "isScheme": false
             },
@@ -4268,7 +4763,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-19 09:40:46",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:04:15"
+        "last_updated": "2025-08-27 16:04:29"
     },
     {
         "id": 12121375,
@@ -4350,7 +4845,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-19 09:40:41",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:01:58"
+        "last_updated": "2025-08-27 16:02:03"
     },
     {
         "id": 12103068,
@@ -4447,7 +4942,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-19 09:40:01",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:14:12"
+        "last_updated": "2025-08-27 16:14:23"
     },
     {
         "id": 12048705,
@@ -4564,7 +5059,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-19 09:38:59",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:12:53"
+        "last_updated": "2025-08-27 16:13:14"
     },
     {
         "id": 12047061,
@@ -4651,7 +5146,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-19 09:38:45",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:12:44"
+        "last_updated": "2025-08-27 16:13:06"
     },
     {
         "id": 11990059,
@@ -4733,7 +5228,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-08-19 09:38:17",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:04:45"
+        "last_updated": "2025-08-27 16:04:52"
     },
     {
         "id": 11981173,
@@ -4820,7 +5315,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-19 09:37:47",
         "agentId": 74395,
-        "last_updated": "2025-08-26 13:10:31"
+        "last_updated": "2025-08-27 16:10:50"
     },
     {
         "id": 12016329,
@@ -4922,7 +5417,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-18 12:41:56",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:11:49"
+        "last_updated": "2025-08-27 16:12:13"
     },
     {
         "id": 12223695,
@@ -5009,7 +5504,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-18 08:21:22",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:02:49"
+        "last_updated": "2025-08-27 16:02:52"
     },
     {
         "id": 12306781,
@@ -5091,7 +5586,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-16 14:02:07",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:05:22"
+        "last_updated": "2025-08-27 16:05:29"
     },
     {
         "id": 11884666,
@@ -5188,7 +5683,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-13 15:02:05",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:03:24"
+        "last_updated": "2025-08-27 16:03:28"
     },
     {
         "id": 12201478,
@@ -5220,7 +5715,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 308,
-        "plot_area_ha": 1551,
+        "plot_area_ha": 0.1551,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -5330,7 +5825,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-13 11:53:40",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:17:09"
+        "last_updated": "2025-08-27 16:17:20"
     },
     {
         "id": 12108611,
@@ -5442,7 +5937,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-13 11:39:14",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:14:34"
+        "last_updated": "2025-08-27 16:14:47"
     },
     {
         "id": 12017007,
@@ -5544,7 +6039,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-13 10:02:10",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:11:50"
+        "last_updated": "2025-08-27 16:12:15"
     },
     {
         "id": 12022712,
@@ -5656,7 +6151,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-08-13 10:00:39",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:12:14"
+        "last_updated": "2025-08-27 16:12:38"
     },
     {
         "id": 12023481,
@@ -5773,7 +6268,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-08-13 09:58:56",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:12:22"
+        "last_updated": "2025-08-27 16:12:46"
     },
     {
         "id": 12226346,
@@ -5895,7 +6390,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-13 09:58:26",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:17:50"
+        "last_updated": "2025-08-27 16:18:04"
     },
     {
         "id": 12227970,
@@ -6017,7 +6512,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-13 09:56:30",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:17:55"
+        "last_updated": "2025-08-27 16:18:06"
     },
     {
         "id": 12264298,
@@ -6129,7 +6624,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-13 09:54:38",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:19:29"
+        "last_updated": "2025-08-27 16:19:49"
     },
     {
         "id": 12279890,
@@ -6206,7 +6701,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-13 09:54:01",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:03:37"
+        "last_updated": "2025-08-27 16:03:41"
     },
     {
         "id": 12046032,
@@ -6288,7 +6783,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-08-12 15:22:10",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:01:11"
+        "last_updated": "2025-08-27 16:01:12"
     },
     {
         "id": 12046057,
@@ -6390,7 +6885,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-12 15:21:08",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:01:13"
+        "last_updated": "2025-08-27 16:01:17"
     },
     {
         "id": 12018532,
@@ -6422,7 +6917,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 111,
-        "plot_area_ha": 250,
+        "plot_area_ha": 0.025,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -6472,7 +6967,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-11 17:53:00",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:11:57"
+        "last_updated": "2025-08-27 16:12:21"
     },
     {
         "id": 12291429,
@@ -6564,7 +7059,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-11 14:35:23",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:04:09"
+        "last_updated": "2025-08-27 16:04:25"
     },
     {
         "id": 12299674,
@@ -6631,7 +7126,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-11 13:28:53",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:05:04"
+        "last_updated": "2025-08-27 16:05:11"
     },
     {
         "id": 11939038,
@@ -6663,7 +7158,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 130.55,
-        "plot_area_ha": 205,
+        "plot_area_ha": 0.0205,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -6728,7 +7223,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-11 11:48:50",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:06:39"
+        "last_updated": "2025-08-27 16:06:49"
     },
     {
         "id": 11976362,
@@ -6760,7 +7255,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 95.85,
-        "plot_area_ha": 135,
+        "plot_area_ha": 0.0135,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -6790,7 +7285,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-11 11:12:26",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:04:59"
+        "last_updated": "2025-08-27 16:05:06"
     },
     {
         "id": 11976007,
@@ -6822,7 +7317,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 95.85,
-        "plot_area_ha": 240,
+        "plot_area_ha": 0.024,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -6852,7 +7347,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-11 11:11:06",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:03:08"
+        "last_updated": "2025-08-27 16:03:09"
     },
     {
         "id": 12239185,
@@ -6954,7 +7449,7 @@
         "no_of_floors": 13,
         "actualisation_date": "2025-08-11 10:40:51",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:18:25"
+        "last_updated": "2025-08-27 16:18:32"
     },
     {
         "id": 12198463,
@@ -7056,7 +7551,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-07 09:28:38",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:16:55"
+        "last_updated": "2025-08-27 16:17:06"
     },
     {
         "id": 12071266,
@@ -7123,7 +7618,7 @@
         "no_of_floors": 12,
         "actualisation_date": "2025-08-07 08:27:15",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:13:33"
+        "last_updated": "2025-08-27 16:13:48"
     },
     {
         "id": 12300547,
@@ -7230,7 +7725,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-06 12:40:41",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:04:20"
+        "last_updated": "2025-08-27 16:04:30"
     },
     {
         "id": 12122950,
@@ -7282,109 +7777,7 @@
         "no_of_floors": 13,
         "actualisation_date": "2025-08-06 09:59:43",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:02:12"
-    },
-    {
-        "id": 12214815,
-        "title": "",
-        "price": 599000,
-        "is_special": 1,
-        "building_type": "Mieszkanie",
-        "isForSaleOrRental": true,
-        "country_name": "Polska",
-        "description": "Biuro nieruchomości <b>Eagles Estate </b>prezentuje na sprzedaż 2-pokojowe mieszkanie o powierzchni<b> 55,47 m² </b>z antresolą położone na 2. piętrze kameralnego, dwupiętrowego bloku wybudowanego w 2015 roku, zlokalizowanego na zamkniętym i spokojnym osiedlu przy <b>ul. Potokowej </b>w Rzeszowie.&nbsp;<br><br><b>W skład mieszkania wchodzi:<br>Poziom I:</b><br>- Przestronny salon z aneksem kuchennym i wyjściem na balkon<br>- Łazienka<br>- Przedpokój<br><b>Antresola:</b><br>- Sypialnia<br>- Garderoba<br>- Gabinet<br><br><b>LOKALIZACJA I OTOCZENIE:</b><br>- Osiedle jest ogrodzone, z bramą wjazdową na pilota i licznymi ogólnodostępnymi miejscami parkingowymi – zapewnia komfort parkowania nawet dla kilku aut<br>- Teren zielony i cicha okolica czynią to miejsce idealnym dla rodzin, par oraz osób ceniących prywatność i spokój<br>- W pobliżu znajdują się przystanki komunikacji miejskiej (linie: 9, 10, 34, 35), a także szkoły, przedszkola i żłobki (ul. Staroniwska i Kielanówka)<br><br><b>ATUTY NIERUCHOMOŚCI: <br></b>- Gotowe do zamieszkania, nie wymaga nakładów finansowych<br>- Gotowe do zamieszkania, wolne od zaraz<br>- Klimatyzacja w salonie i sypialni<br>- Szybki internet – światłowód<br>- W pełni wyposażona kuchnia: płyta indukcyjna, zmywarka, lodówka, mikrofalówka  Pralka w łazience<br>- Niskie koszty eksploatacyjne<br>- Nowe budownictwo<br><br>Idealna propozycja dla<b> par, singli</b> lub osób szukających komfortowego życia w spokojnej okolicy, z szybkim dojazdem do centrum. <br><br>Oferta tylko u nas!<br><br>Zapraszamy do kontaktu w celu umówienia prezentacji!  <br><br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.&nbsp;",
-        "elevator": 0,
-        "floor_no": 2,
-        "garage": 0,
-        "garage_parking_price": null,
-        "short_description": "Gotowe mieszkanie z balkonem na zachodzie miasta",
-        "headerAdvertisement": "Gotowe mieszkanie z balkonem na zachodzie miasta",
-        "kitchen_type": "Adjoining",
-        "location_name": "/Podkarpackie/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": "Mixed",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 2,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 10798.63,
-        "provision_amount": 8985,
-        "section": "ApartmentSale",
-        "status": "Closed",
-        "total_area": 55.47,
-        "plot_area_ha": null,
-        "year_built": 2015,
-        "street_name": "Potokowa",
-        "street_full_name": "ul. Potokowa",
-        "images": [
-            {
-                "id": 106042236,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105959522,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106781163,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106042255,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106042251,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106042230,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106042248,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106042243,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106042299,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106042280,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106042304,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106042302,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "886/17058/OMS",
-        "no_of_floors": 2,
-        "actualisation_date": "2025-08-05 15:43:50",
-        "agentId": 72664,
-        "last_updated": "2025-08-26 13:17:36"
+        "last_updated": "2025-08-27 16:02:14"
     },
     {
         "id": 11973063,
@@ -7501,7 +7894,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-08-05 14:53:52",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:10:02"
+        "last_updated": "2025-08-27 16:10:24"
     },
     {
         "id": 12117411,
@@ -7568,7 +7961,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-05 13:41:40",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:01:05"
+        "last_updated": "2025-08-27 16:01:06"
     },
     {
         "id": 12288619,
@@ -7685,7 +8078,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-05 13:16:30",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:04:02"
+        "last_updated": "2025-08-27 16:04:11"
     },
     {
         "id": 12298645,
@@ -7782,7 +8175,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-05 12:08:28",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:04:26"
+        "last_updated": "2025-08-27 16:04:33"
     },
     {
         "id": 12232918,
@@ -7884,7 +8277,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-05 11:38:40",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:18:09"
+        "last_updated": "2025-08-27 16:18:17"
     },
     {
         "id": 11932698,
@@ -7961,7 +8354,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-08-04 19:02:28",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:05:33"
+        "last_updated": "2025-08-27 16:05:46"
     },
     {
         "id": 11973264,
@@ -8028,7 +8421,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-04 18:40:23",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:10:04"
+        "last_updated": "2025-08-27 16:10:28"
     },
     {
         "id": 12003039,
@@ -8060,7 +8453,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 114,
-        "plot_area_ha": 674,
+        "plot_area_ha": 0.0674,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -8100,7 +8493,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-04 18:29:12",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:11:08"
+        "last_updated": "2025-08-27 16:11:31"
     },
     {
         "id": 12298035,
@@ -8187,7 +8580,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-04 12:18:25",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:04:07"
+        "last_updated": "2025-08-27 16:04:24"
     },
     {
         "id": 12224251,
@@ -8274,7 +8667,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-01 17:24:26",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:02:51"
+        "last_updated": "2025-08-27 16:02:54"
     },
     {
         "id": 12023682,
@@ -8386,7 +8779,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-01 17:20:29",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:12:21"
+        "last_updated": "2025-08-27 16:12:45"
     },
     {
         "id": 11964770,
@@ -8418,7 +8811,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 73.53,
-        "plot_area_ha": 257.2,
+        "plot_area_ha": 0.02572,
         "year_built": 2024,
         "street_name": null,
         "street_full_name": null,
@@ -8478,7 +8871,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-01 16:35:49",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:09:35"
+        "last_updated": "2025-08-27 16:09:53"
     },
     {
         "id": 12065816,
@@ -8555,7 +8948,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-07-31 15:51:32",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:12:29"
+        "last_updated": "2025-08-27 16:12:53"
     },
     {
         "id": 12065861,
@@ -8627,7 +9020,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-07-31 15:51:19",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:12:33"
+        "last_updated": "2025-08-27 16:12:54"
     },
     {
         "id": 12107390,
@@ -8699,7 +9092,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:49:39",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:14:19"
+        "last_updated": "2025-08-27 16:14:33"
     },
     {
         "id": 12107657,
@@ -8771,7 +9164,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:49:24",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:14:24"
+        "last_updated": "2025-08-27 16:14:38"
     },
     {
         "id": 12116693,
@@ -8838,7 +9231,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:48:51",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:00:52"
+        "last_updated": "2025-08-27 16:00:56"
     },
     {
         "id": 12116727,
@@ -8905,7 +9298,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:48:40",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:00:57"
+        "last_updated": "2025-08-27 16:00:58"
     },
     {
         "id": 12132803,
@@ -8982,7 +9375,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:47:08",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:04:50"
+        "last_updated": "2025-08-27 16:04:57"
     },
     {
         "id": 12179603,
@@ -9014,7 +9407,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 74.39,
-        "plot_area_ha": 94.52,
+        "plot_area_ha": 0.009452,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -9044,7 +9437,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:42:29",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:16:10"
+        "last_updated": "2025-08-27 16:16:17"
     },
     {
         "id": 12181203,
@@ -9076,7 +9469,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 74.39,
-        "plot_area_ha": 110.09,
+        "plot_area_ha": 0.011009,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -9116,7 +9509,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:41:42",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:16:15"
+        "last_updated": "2025-08-27 16:16:29"
     },
     {
         "id": 12240742,
@@ -9198,7 +9591,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:29:19",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:18:34"
+        "last_updated": "2025-08-27 16:18:42"
     },
     {
         "id": 12240878,
@@ -9290,7 +9683,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:29:05",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:18:27"
+        "last_updated": "2025-08-27 16:18:37"
     },
     {
         "id": 12241418,
@@ -9362,7 +9755,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:28:52",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:13:25"
+        "last_updated": "2025-08-27 16:13:38"
     },
     {
         "id": 12250242,
@@ -9394,7 +9787,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 83,
-        "plot_area_ha": 270,
+        "plot_area_ha": 0.027,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -9434,7 +9827,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:28:09",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:18:48"
+        "last_updated": "2025-08-27 16:19:01"
     },
     {
         "id": 12250243,
@@ -9466,7 +9859,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 83,
-        "plot_area_ha": 960,
+        "plot_area_ha": 0.096,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -9506,7 +9899,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:27:29",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:18:50"
+        "last_updated": "2025-08-27 16:19:03"
     },
     {
         "id": 12198151,
@@ -9538,7 +9931,7 @@
         "section": "CommercialObjectSale",
         "status": "Active",
         "total_area": 348,
-        "plot_area_ha": 1019,
+        "plot_area_ha": 0.1019,
         "year_built": 2007,
         "street_name": null,
         "street_full_name": null,
@@ -9663,7 +10056,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-07-30 16:05:22",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:17:03"
+        "last_updated": "2025-08-27 16:17:17"
     },
     {
         "id": 12253763,
@@ -9825,7 +10218,7 @@
         "no_of_floors": 16,
         "actualisation_date": "2025-07-30 09:53:53",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:19:15"
+        "last_updated": "2025-08-27 16:19:34"
     },
     {
         "id": 12286065,
@@ -9917,7 +10310,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-29 16:27:28",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:03:58"
+        "last_updated": "2025-08-27 16:04:01"
     },
     {
         "id": 11974616,
@@ -9949,7 +10342,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 117.49,
-        "plot_area_ha": 260,
+        "plot_area_ha": 0.026,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -10089,7 +10482,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-29 12:24:52",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:10:21"
+        "last_updated": "2025-08-27 16:10:38"
     },
     {
         "id": 11969229,
@@ -10121,7 +10514,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 141.49,
-        "plot_area_ha": 700,
+        "plot_area_ha": 0.07,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -10226,7 +10619,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-28 15:11:45",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:02:31"
+        "last_updated": "2025-08-27 16:02:34"
     },
     {
         "id": 11882210,
@@ -10258,7 +10651,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 139,
-        "plot_area_ha": 350,
+        "plot_area_ha": 0.035,
         "year_built": 2024,
         "street_name": null,
         "street_full_name": null,
@@ -10313,7 +10706,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-28 14:23:41",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:03:15"
+        "last_updated": "2025-08-27 16:03:15"
     },
     {
         "id": 12253501,
@@ -10420,7 +10813,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-28 11:23:09",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:19:10"
+        "last_updated": "2025-08-27 16:19:30"
     },
     {
         "id": 12278973,
@@ -10452,7 +10845,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 113,
-        "plot_area_ha": 281,
+        "plot_area_ha": 0.0281,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -10527,7 +10920,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-25 10:33:53",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:03:31"
+        "last_updated": "2025-08-27 16:03:34"
     },
     {
         "id": 12242522,
@@ -10634,7 +11027,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-24 12:28:06",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:01:45"
+        "last_updated": "2025-08-27 16:01:50"
     },
     {
         "id": 12279401,
@@ -10666,7 +11059,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 199,
-        "plot_area_ha": 2100,
+        "plot_area_ha": 0.21,
         "year_built": 1998,
         "street_name": null,
         "street_full_name": null,
@@ -10806,7 +11199,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-23 10:40:12",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:03:36"
+        "last_updated": "2025-08-27 16:03:36"
     },
     {
         "id": 12213928,
@@ -10853,7 +11246,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-23 10:27:41",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:17:31"
+        "last_updated": "2025-08-27 16:17:50"
     },
     {
         "id": 12286007,
@@ -10885,7 +11278,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 125.08,
-        "plot_area_ha": 219,
+        "plot_area_ha": 0.0219,
         "year_built": 2024,
         "street_name": null,
         "street_full_name": null,
@@ -10935,7 +11328,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-23 10:26:52",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:03:56"
+        "last_updated": "2025-08-27 16:03:59"
     },
     {
         "id": 12285845,
@@ -11042,7 +11435,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-23 08:05:54",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:03:51"
+        "last_updated": "2025-08-27 16:03:54"
     },
     {
         "id": 12285842,
@@ -11139,7 +11532,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-23 07:58:10",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:03:50"
+        "last_updated": "2025-08-27 16:03:53"
     },
     {
         "id": 12197287,
@@ -11231,7 +11624,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-22 16:32:33",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:16:50"
+        "last_updated": "2025-08-27 16:17:04"
     },
     {
         "id": 12285255,
@@ -11298,7 +11691,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-07-22 16:03:44",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:03:45"
+        "last_updated": "2025-08-27 16:03:48"
     },
     {
         "id": 12243776,
@@ -11370,7 +11763,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-22 10:55:41",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:18:36"
+        "last_updated": "2025-08-27 16:18:47"
     },
     {
         "id": 12206451,
@@ -11402,7 +11795,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 270,
-        "plot_area_ha": 18,
+        "plot_area_ha": 0.18,
         "year_built": 1983,
         "street_name": null,
         "street_full_name": null,
@@ -11537,7 +11930,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-22 10:15:25",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:17:23"
+        "last_updated": "2025-08-27 16:17:37"
     },
     {
         "id": 12108039,
@@ -11659,7 +12052,7 @@
         "no_of_floors": 11,
         "actualisation_date": "2025-07-21 15:09:16",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:14:26"
+        "last_updated": "2025-08-27 16:14:39"
     },
     {
         "id": 11870529,
@@ -11751,7 +12144,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-21 11:38:48",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:02:43"
+        "last_updated": "2025-08-27 16:02:46"
     },
     {
         "id": 11999441,
@@ -11873,7 +12266,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-21 10:53:36",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:10:49"
+        "last_updated": "2025-08-27 16:11:14"
     },
     {
         "id": 11891290,
@@ -11965,7 +12358,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-15 12:29:59",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:04:28"
+        "last_updated": "2025-08-27 16:04:35"
     },
     {
         "id": 11891414,
@@ -12057,7 +12450,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-07-15 12:28:54",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:04:33"
+        "last_updated": "2025-08-27 16:04:40"
     },
     {
         "id": 12271796,
@@ -12174,7 +12567,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-15 11:53:26",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:03:29"
+        "last_updated": "2025-08-27 16:03:30"
     },
     {
         "id": 12073870,
@@ -12256,7 +12649,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-08 17:47:11",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:13:35"
+        "last_updated": "2025-08-27 16:13:52"
     },
     {
         "id": 11932313,
@@ -12288,7 +12681,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 117.49,
-        "plot_area_ha": 1.5,
+        "plot_area_ha": 0.015,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -12453,7 +12846,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-08 13:49:15",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:05:56"
+        "last_updated": "2025-08-27 16:06:09"
     },
     {
         "id": 11929382,
@@ -12485,7 +12878,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 114.09,
-        "plot_area_ha": 170.95,
+        "plot_area_ha": 0.017095,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -12565,7 +12958,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-08 13:28:27",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:05:09"
+        "last_updated": "2025-08-27 16:05:16"
     },
     {
         "id": 11974578,
@@ -12597,7 +12990,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 114.09,
-        "plot_area_ha": 246.43,
+        "plot_area_ha": 0.024643,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -12677,7 +13070,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-08 13:21:49",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:10:16"
+        "last_updated": "2025-08-27 16:10:36"
     },
     {
         "id": 12263516,
@@ -12744,7 +13137,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-08 13:03:06",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:19:23"
+        "last_updated": "2025-08-27 16:19:42"
     },
     {
         "id": 12181301,
@@ -12776,7 +13169,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 106,
-        "plot_area_ha": 600,
+        "plot_area_ha": 0.06,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -12841,7 +13234,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 22:43:13",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:16:16"
+        "last_updated": "2025-08-27 16:16:30"
     },
     {
         "id": 12233305,
@@ -12948,7 +13341,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 18:16:47",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:18:11"
+        "last_updated": "2025-08-27 16:18:18"
     },
     {
         "id": 12233360,
@@ -13055,7 +13448,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 18:16:35",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:18:13"
+        "last_updated": "2025-08-27 16:18:23"
     },
     {
         "id": 12259915,
@@ -13142,7 +13535,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 17:29:04",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:01:19"
+        "last_updated": "2025-08-27 16:01:23"
     },
     {
         "id": 12259099,
@@ -13234,7 +13627,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 16:19:13",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:19:21"
+        "last_updated": "2025-08-27 16:19:41"
     },
     {
         "id": 12263208,
@@ -13266,7 +13659,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 121.31,
-        "plot_area_ha": 300,
+        "plot_area_ha": 0.03,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -13306,7 +13699,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 12:58:08",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:19:28"
+        "last_updated": "2025-08-27 16:19:47"
     },
     {
         "id": 12260335,
@@ -13338,7 +13731,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 112,
-        "plot_area_ha": 200,
+        "plot_area_ha": 0.02,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -13388,7 +13781,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 12:44:13",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:01:24"
+        "last_updated": "2025-08-27 16:01:25"
     },
     {
         "id": 11982690,
@@ -13420,7 +13813,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 141.7,
-        "plot_area_ha": 180,
+        "plot_area_ha": 0.018,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -13560,7 +13953,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 11:57:05",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:00:29"
+        "last_updated": "2025-08-27 16:00:30"
     },
     {
         "id": 11942394,
@@ -13642,7 +14035,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 10:12:14",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:07:41"
+        "last_updated": "2025-08-27 16:07:50"
     },
     {
         "id": 12074942,
@@ -13689,7 +14082,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-03 08:55:02",
         "agentId": 74243,
-        "last_updated": "2025-08-26 13:13:46"
+        "last_updated": "2025-08-27 16:14:00"
     },
     {
         "id": 12225225,
@@ -13811,7 +14204,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-07-02 12:28:57",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:17:49"
+        "last_updated": "2025-08-27 16:18:00"
     },
     {
         "id": 11988912,
@@ -13888,7 +14281,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-01 09:40:27",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:02:41"
+        "last_updated": "2025-08-27 16:02:44"
     },
     {
         "id": 12244082,
@@ -13920,7 +14313,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 99,
-        "plot_area_ha": 790,
+        "plot_area_ha": 0.079,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -13965,7 +14358,7 @@
         "no_of_floors": 0,
         "actualisation_date": "2025-07-01 08:41:48",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:18:37"
+        "last_updated": "2025-08-27 16:18:49"
     },
     {
         "id": 12131149,
@@ -13997,7 +14390,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 220,
-        "plot_area_ha": 700,
+        "plot_area_ha": 0.07,
         "year_built": 2000,
         "street_name": null,
         "street_full_name": null,
@@ -14137,7 +14530,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-26 16:22:38",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:14:47"
+        "last_updated": "2025-08-27 16:15:00"
     },
     {
         "id": 12254049,
@@ -14244,7 +14637,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-25 12:30:44",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:19:09"
+        "last_updated": "2025-08-27 16:19:28"
     },
     {
         "id": 12248457,
@@ -14531,7 +14924,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-25 11:54:44",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:18:42"
+        "last_updated": "2025-08-27 16:18:55"
     },
     {
         "id": 12252499,
@@ -14638,7 +15031,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-24 12:48:32",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:19:03"
+        "last_updated": "2025-08-27 16:19:18"
     },
     {
         "id": 12251299,
@@ -14745,7 +15138,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-23 15:08:20",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:19:01"
+        "last_updated": "2025-08-27 16:19:17"
     },
     {
         "id": 12251007,
@@ -14817,7 +15210,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:54:45",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:18:56"
+        "last_updated": "2025-08-27 16:19:15"
     },
     {
         "id": 12251003,
@@ -14884,7 +15277,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:34:05",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:18:55"
+        "last_updated": "2025-08-27 16:19:14"
     },
     {
         "id": 12250966,
@@ -14956,7 +15349,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:26:20",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:18:44"
+        "last_updated": "2025-08-27 16:18:56"
     },
     {
         "id": 11932116,
@@ -15033,7 +15426,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-06-23 11:13:22",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:05:43"
+        "last_updated": "2025-08-27 16:05:56"
     },
     {
         "id": 11932197,
@@ -15110,7 +15503,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-06-23 11:10:50",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:05:54"
+        "last_updated": "2025-08-27 16:06:08"
     },
     {
         "id": 11942057,
@@ -15192,7 +15585,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 11:09:16",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:07:28"
+        "last_updated": "2025-08-27 16:07:40"
     },
     {
         "id": 11970091,
@@ -15259,7 +15652,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:07:36",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:09:41"
+        "last_updated": "2025-08-27 16:10:00"
     },
     {
         "id": 11970097,
@@ -15326,7 +15719,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:07:11",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:09:43"
+        "last_updated": "2025-08-27 16:10:04"
     },
     {
         "id": 11970101,
@@ -15393,7 +15786,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:06:49",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:09:48"
+        "last_updated": "2025-08-27 16:10:09"
     },
     {
         "id": 11974234,
@@ -15460,7 +15853,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 11:06:24",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:10:09"
+        "last_updated": "2025-08-27 16:10:30"
     },
     {
         "id": 11974259,
@@ -15527,7 +15920,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 11:05:53",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:10:14"
+        "last_updated": "2025-08-27 16:10:32"
     },
     {
         "id": 11982539,
@@ -15609,7 +16002,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:04:47",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:00:13"
+        "last_updated": "2025-08-27 16:00:15"
     },
     {
         "id": 11982597,
@@ -15691,7 +16084,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:04:10",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:00:15"
+        "last_updated": "2025-08-27 16:00:20"
     },
     {
         "id": 11982631,
@@ -15763,7 +16156,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-23 11:03:45",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:00:20"
+        "last_updated": "2025-08-27 16:00:22"
     },
     {
         "id": 11982660,
@@ -15835,7 +16228,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-23 11:03:15",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:00:22"
+        "last_updated": "2025-08-27 16:00:24"
     },
     {
         "id": 11982667,
@@ -15907,7 +16300,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-23 11:02:25",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:00:24"
+        "last_updated": "2025-08-27 16:00:28"
     },
     {
         "id": 11988684,
@@ -16004,7 +16397,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:58:36",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:02:35"
+        "last_updated": "2025-08-27 16:02:36"
     },
     {
         "id": 11991262,
@@ -16071,7 +16464,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:57:31",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:19:36"
+        "last_updated": "2025-08-27 16:19:55"
     },
     {
         "id": 11991275,
@@ -16138,7 +16531,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:57:06",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:19:38"
+        "last_updated": "2025-08-27 16:19:57"
     },
     {
         "id": 12006464,
@@ -16200,7 +16593,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:56:34",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:11:31"
+        "last_updated": "2025-08-27 16:11:53"
     },
     {
         "id": 12006475,
@@ -16267,7 +16660,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:56:11",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:11:36"
+        "last_updated": "2025-08-27 16:11:58"
     },
     {
         "id": 12047738,
@@ -16389,7 +16782,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-23 10:55:22",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:12:50"
+        "last_updated": "2025-08-27 16:13:11"
     },
     {
         "id": 12047959,
@@ -16496,7 +16889,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-23 10:54:56",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:12:55"
+        "last_updated": "2025-08-27 16:13:19"
     },
     {
         "id": 12103735,
@@ -16528,7 +16921,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 64.13,
-        "plot_area_ha": 1.32,
+        "plot_area_ha": 0.0132,
         "year_built": 2024,
         "street_name": null,
         "street_full_name": null,
@@ -16583,7 +16976,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:54:31",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:14:02"
+        "last_updated": "2025-08-27 16:14:21"
     },
     {
         "id": 12167887,
@@ -16615,7 +17008,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 69.58,
-        "plot_area_ha": 270,
+        "plot_area_ha": 0.027,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -16670,7 +17063,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:53:14",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:15:43"
+        "last_updated": "2025-08-27 16:15:56"
     },
     {
         "id": 12196400,
@@ -16702,7 +17095,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 83,
-        "plot_area_ha": 270,
+        "plot_area_ha": 0.027,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -16742,7 +17135,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:52:40",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:16:44"
+        "last_updated": "2025-08-27 16:16:58"
     },
     {
         "id": 11935365,
@@ -16819,7 +17212,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-06-23 10:09:57",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:06:28"
+        "last_updated": "2025-08-27 16:06:38"
     },
     {
         "id": 11940575,
@@ -16851,7 +17244,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 127.46,
-        "plot_area_ha": 308,
+        "plot_area_ha": 0.0308,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -16906,7 +17299,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:09:22",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:07:03"
+        "last_updated": "2025-08-27 16:07:13"
     },
     {
         "id": 11942225,
@@ -16983,7 +17376,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-23 10:08:56",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:07:32"
+        "last_updated": "2025-08-27 16:07:42"
     },
     {
         "id": 11946045,
@@ -17015,7 +17408,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 116.61,
-        "plot_area_ha": 100,
+        "plot_area_ha": 0.01,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -17070,7 +17463,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-23 10:07:29",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:08:02"
+        "last_updated": "2025-08-27 16:08:14"
     },
     {
         "id": 11946084,
@@ -17162,7 +17555,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-23 10:05:56",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:08:15"
+        "last_updated": "2025-08-27 16:08:21"
     },
     {
         "id": 11950384,
@@ -17234,7 +17627,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:04:31",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:09:04"
+        "last_updated": "2025-08-27 16:09:28"
     },
     {
         "id": 11950388,
@@ -17306,7 +17699,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:03:57",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:09:10"
+        "last_updated": "2025-08-27 16:09:31"
     },
     {
         "id": 11976288,
@@ -17373,7 +17766,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:01:58",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:04:52"
+        "last_updated": "2025-08-27 16:04:59"
     },
     {
         "id": 11976307,
@@ -17440,7 +17833,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:01:30",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:04:57"
+        "last_updated": "2025-08-27 16:05:04"
     },
     {
         "id": 11976491,
@@ -17507,7 +17900,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:00:53",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:07:20"
+        "last_updated": "2025-08-27 16:07:30"
     },
     {
         "id": 11981775,
@@ -17539,7 +17932,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 141.7,
-        "plot_area_ha": 200,
+        "plot_area_ha": 0.02,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -17599,7 +17992,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:00:20",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:10:36"
+        "last_updated": "2025-08-27 16:10:54"
     },
     {
         "id": 11983760,
@@ -17676,7 +18069,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-23 09:59:01",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:00:46"
+        "last_updated": "2025-08-27 16:00:50"
     },
     {
         "id": 11988372,
@@ -17778,7 +18171,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 09:58:21",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:02:22"
+        "last_updated": "2025-08-27 16:02:26"
     },
     {
         "id": 12003042,
@@ -17810,7 +18203,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 114,
-        "plot_area_ha": 220,
+        "plot_area_ha": 0.022,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -17880,7 +18273,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 09:54:45",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:11:10"
+        "last_updated": "2025-08-27 16:11:32"
     },
     {
         "id": 12003077,
@@ -17957,7 +18350,7 @@
         "no_of_floors": 12,
         "actualisation_date": "2025-06-23 09:51:15",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:11:15"
+        "last_updated": "2025-08-27 16:11:37"
     },
     {
         "id": 12046235,
@@ -18059,7 +18452,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-23 09:49:35",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:01:17"
+        "last_updated": "2025-08-27 16:01:19"
     },
     {
         "id": 12047996,
@@ -18151,7 +18544,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-23 09:49:16",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:13:00"
+        "last_updated": "2025-08-27 16:13:20"
     },
     {
         "id": 12164141,
@@ -18223,7 +18616,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-23 09:48:57",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:15:12"
+        "last_updated": "2025-08-27 16:15:26"
     },
     {
         "id": 12164172,
@@ -18300,7 +18693,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-23 09:48:32",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:15:19"
+        "last_updated": "2025-08-27 16:15:29"
     },
     {
         "id": 12182647,
@@ -18332,7 +18725,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 74.39,
-        "plot_area_ha": 152.1,
+        "plot_area_ha": 0.01521,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -18372,7 +18765,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 09:47:59",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:16:28"
+        "last_updated": "2025-08-27 16:16:38"
     },
     {
         "id": 12198489,
@@ -18404,7 +18797,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 116.61,
-        "plot_area_ha": 100,
+        "plot_area_ha": 0.01,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -18459,7 +18852,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-23 09:46:56",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:16:56"
+        "last_updated": "2025-08-27 16:17:11"
     },
     {
         "id": 12048843,
@@ -18571,7 +18964,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-22 17:05:18",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:13:06"
+        "last_updated": "2025-08-27 16:13:27"
     },
     {
         "id": 11966952,
@@ -18603,7 +18996,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 83,
-        "plot_area_ha": 234,
+        "plot_area_ha": 0.0234,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -18638,7 +19031,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:47:44",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:09:39"
+        "last_updated": "2025-08-27 16:09:58"
     },
     {
         "id": 11940324,
@@ -18670,7 +19063,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 127.46,
-        "plot_area_ha": 916,
+        "plot_area_ha": 0.0916,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -18710,7 +19103,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:46:03",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:06:54"
+        "last_updated": "2025-08-27 16:07:05"
     },
     {
         "id": 11942532,
@@ -18782,7 +19175,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-22 16:45:49",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:07:34"
+        "last_updated": "2025-08-27 16:07:47"
     },
     {
         "id": 12117566,
@@ -18854,7 +19247,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:38:45",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:01:06"
+        "last_updated": "2025-08-27 16:01:11"
     },
     {
         "id": 12165646,
@@ -18941,7 +19334,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-22 16:38:14",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:15:28"
+        "last_updated": "2025-08-27 16:15:41"
     },
     {
         "id": 12174342,
@@ -18973,7 +19366,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 91.08,
-        "plot_area_ha": 415,
+        "plot_area_ha": 0.0415,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -19023,7 +19416,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:37:44",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:15:57"
+        "last_updated": "2025-08-27 16:16:11"
     },
     {
         "id": 12179685,
@@ -19055,7 +19448,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 74.39,
-        "plot_area_ha": 78.74,
+        "plot_area_ha": 0.007873999999999999,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -19085,7 +19478,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:37:21",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:16:11"
+        "last_updated": "2025-08-27 16:16:22"
     },
     {
         "id": 12165653,
@@ -19172,7 +19565,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-22 15:42:08",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:15:30"
+        "last_updated": "2025-08-27 16:15:43"
     },
     {
         "id": 12198131,
@@ -19204,7 +19597,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 171.1,
-        "plot_area_ha": 15.75,
+        "plot_area_ha": 0.001575,
         "year_built": 2003,
         "street_name": null,
         "street_full_name": null,
@@ -19289,7 +19682,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-21 08:55:51",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:17:01"
+        "last_updated": "2025-08-27 16:17:12"
     },
     {
         "id": 12072812,
@@ -19321,7 +19714,7 @@
         "section": "LotSale",
         "status": "Active",
         "total_area": null,
-        "plot_area_ha": 2100,
+        "plot_area_ha": 0.21,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -19371,7 +19764,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-06-17 08:56:11",
         "agentId": 74243,
-        "last_updated": "2025-08-26 13:13:39"
+        "last_updated": "2025-08-27 16:13:54"
     },
     {
         "id": 12063843,
@@ -19403,7 +19796,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 260,
-        "plot_area_ha": 980,
+        "plot_area_ha": 0.098,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -19488,7 +19881,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-16 12:13:46",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:13:17"
+        "last_updated": "2025-08-27 16:13:31"
     },
     {
         "id": 12068607,
@@ -19640,7 +20033,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-16 10:57:08",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:13:23"
+        "last_updated": "2025-08-27 16:13:33"
     },
     {
         "id": 12130277,
@@ -19772,7 +20165,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-16 10:51:15",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:14:45"
+        "last_updated": "2025-08-27 16:14:58"
     },
     {
         "id": 11999908,
@@ -19804,7 +20197,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 110,
-        "plot_area_ha": 5300,
+        "plot_area_ha": 0.53,
         "year_built": 1975,
         "street_name": null,
         "street_full_name": null,
@@ -19854,7 +20247,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-13 14:08:15",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:10:58"
+        "last_updated": "2025-08-27 16:11:21"
     },
     {
         "id": 11999793,
@@ -19886,7 +20279,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 125.62,
-        "plot_area_ha": 486,
+        "plot_area_ha": 0.0486,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -19921,7 +20314,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:44:27",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:10:55"
+        "last_updated": "2025-08-27 16:11:17"
     },
     {
         "id": 12006342,
@@ -19953,7 +20346,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 125.08,
-        "plot_area_ha": 365,
+        "plot_area_ha": 0.0365,
         "year_built": 2024,
         "street_name": null,
         "street_full_name": null,
@@ -19988,7 +20381,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:43:50",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:11:27"
+        "last_updated": "2025-08-27 16:11:50"
     },
     {
         "id": 12071964,
@@ -20055,7 +20448,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:07:00",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:13:28"
+        "last_updated": "2025-08-27 16:13:46"
     },
     {
         "id": 12166312,
@@ -20132,7 +20525,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 15:05:15",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:15:38"
+        "last_updated": "2025-08-27 16:15:51"
     },
     {
         "id": 12006360,
@@ -20164,7 +20557,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 125.08,
-        "plot_area_ha": 233,
+        "plot_area_ha": 0.0233,
         "year_built": 2024,
         "street_name": null,
         "street_full_name": null,
@@ -20219,7 +20612,139 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 14:29:09",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:11:30"
+        "last_updated": "2025-08-27 16:11:51"
+    },
+    {
+        "id": 12069567,
+        "title": "",
+        "price": 649000,
+        "is_special": 0,
+        "building_type": "Mieszkanie",
+        "isForSaleOrRental": true,
+        "country_name": "Polska",
+        "description": "W ofercie biura&nbsp;<b>Eagles Estate</b>&nbsp;przedstawiamy Państwu 3 pokojowe mieszkanie o powierzchni 55,79 m2, zlokalizowane przy ul. Błogosławionej Karoliny w Rzeszowie. Usytuowane jest na ósmym piętrze w bloku z 2020 roku. Mieszkanie zostało wykończone w wysokim standardzie, przy użyciu materiałów bardzo dobrej jakości. Mieszkanie posiada funkcjonalny układ, a dzięki ekspozycji południowo-zachodniej jest idealnie doświetlone.<br>Sprzedawane z wyposażeniem- gotowe do wprowadzenia.<br><br><b>Mieszkanie składa się z:</b><br>- Salonu z aneksem kuchennym z wyjściem na balkon o powierzchni 7,84 m2<br>- 2 sypialni z szafami w zabudowie<br>- Łazienki<br>- Przedpokoju z szafą w zabudowie<br><br><b>Dodatkowe informacje:</b><br>- Nowoczesne budownictwo z 2020 roku<br>- Mieszkanie w pełni umeblowane i wyposażone w sprzęt AGD – gotowe do zamieszkania od zaraz<br>- Ogrzewanie podłogowe w łazience<br>- Niskie koszty utrzymania – czynsz na dwie osoby 700 zł (zaliczka na ogrzewanie i wodę, fundusz remontowy, utrzymanie części wspólnych, wywóz śmieci, utrzymanie garażu)<br>- W najbliższej okolicy znajdują się szkoły, przedszkola, sklepy, restauracje, przystanek autobusowy i wiele innych usług<br><br>Do mieszkania przynależy <b>miejsce postojowe w garażu podziemnym</b> oraz <b>komórka lokatorska</b> o powierzchni 4,18 m2 - <b>dodatkowo płatne 45 000 zł</b> (zakup obowiązkowy).<br><br>Zapraszamy do kontaktu i umówienia się na obejrzenie tej atrakcyjnej nieruchomości.<br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości.<br><br>",
+        "elevator": 1,
+        "floor_no": 8,
+        "garage": 1,
+        "garage_parking_price": 45000,
+        "short_description": "3 pokoje wykończone pod klucz z pięknym widokiem",
+        "headerAdvertisement": "3 pokoje wykończone pod klucz z pięknym widokiem",
+        "kitchen_type": null,
+        "location_name": "/Podkarpackie/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "Mixed",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": 1,
+        "price_m2": 11639.17,
+        "provision_amount": 9735,
+        "section": "ApartmentSale",
+        "status": "Closed",
+        "total_area": 55.76,
+        "plot_area_ha": null,
+        "year_built": 2020,
+        "street_name": "bł. Karoliny",
+        "street_full_name": "ul. bł. Karoliny",
+        "images": [
+            {
+                "id": 105041415,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105041416,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105041414,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104371433,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104371432,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104371438,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104371439,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104371434,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104371435,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104371436,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104371437,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105041413,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104371444,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104371443,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104371446,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104371448,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 104371447,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 105075048,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "575/17058/OMS",
+        "no_of_floors": 8,
+        "actualisation_date": "2025-06-12 10:50:22",
+        "agentId": 72735,
+        "last_updated": "2025-08-27 16:13:41"
     },
     {
         "id": 11873058,
@@ -20331,7 +20856,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 09:22:27",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:02:48"
+        "last_updated": "2025-08-27 16:02:51"
     },
     {
         "id": 11939123,
@@ -20363,7 +20888,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 129.95,
-        "plot_area_ha": 205,
+        "plot_area_ha": 0.0205,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -20398,7 +20923,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 09:19:30",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:06:41"
+        "last_updated": "2025-08-27 16:06:50"
     },
     {
         "id": 11976775,
@@ -20465,7 +20990,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 09:18:20",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:10:25"
+        "last_updated": "2025-08-27 16:10:46"
     },
     {
         "id": 12237930,
@@ -20562,7 +21087,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-09 14:00:43",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:18:20"
+        "last_updated": "2025-08-27 16:18:31"
     },
     {
         "id": 12236296,
@@ -20659,7 +21184,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 15:21:48",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:18:19"
+        "last_updated": "2025-08-27 16:18:26"
     },
     {
         "id": 12235142,
@@ -20756,7 +21281,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 15:15:06",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:18:14"
+        "last_updated": "2025-08-27 16:18:25"
     },
     {
         "id": 12062536,
@@ -20803,7 +21328,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-06-05 15:20:40",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:09:25"
+        "last_updated": "2025-08-27 16:09:41"
     },
     {
         "id": 12230356,
@@ -20905,7 +21430,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-04 10:26:18",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:17:59"
+        "last_updated": "2025-08-27 16:18:12"
     },
     {
         "id": 11940618,
@@ -20992,7 +21517,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:43:58",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:07:09"
+        "last_updated": "2025-08-27 16:07:19"
     },
     {
         "id": 11949561,
@@ -21074,7 +21599,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-04 09:37:26",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:08:52"
+        "last_updated": "2025-08-27 16:09:01"
     },
     {
         "id": 11949581,
@@ -21146,7 +21671,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-04 09:36:50",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:08:57"
+        "last_updated": "2025-08-27 16:09:02"
     },
     {
         "id": 12006107,
@@ -21253,7 +21778,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:32:29",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:11:16"
+        "last_updated": "2025-08-27 16:11:39"
     },
     {
         "id": 12174715,
@@ -21285,7 +21810,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 144.31,
-        "plot_area_ha": 443,
+        "plot_area_ha": 0.0443,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -21420,7 +21945,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:16:02",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:15:59"
+        "last_updated": "2025-08-27 16:16:16"
     },
     {
         "id": 12196425,
@@ -21452,7 +21977,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 93.01,
-        "plot_area_ha": 214.27,
+        "plot_area_ha": 0.021427,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -21502,7 +22027,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:14:36",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:16:48"
+        "last_updated": "2025-08-27 16:16:59"
     },
     {
         "id": 12229908,
@@ -21614,7 +22139,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-03 18:55:08",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:17:57"
+        "last_updated": "2025-08-27 16:18:11"
     },
     {
         "id": 11976787,
@@ -21681,7 +22206,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:34:55",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:10:29"
+        "last_updated": "2025-08-27 16:10:48"
     },
     {
         "id": 12048276,
@@ -21763,7 +22288,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-02 10:33:30",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:12:52"
+        "last_updated": "2025-08-27 16:13:12"
     },
     {
         "id": 12108087,
@@ -21835,7 +22360,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:31:43",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:14:31"
+        "last_updated": "2025-08-27 16:14:41"
     },
     {
         "id": 12108126,
@@ -21912,7 +22437,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:31:28",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:14:32"
+        "last_updated": "2025-08-27 16:14:46"
     },
     {
         "id": 12181741,
@@ -21944,7 +22469,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 74.39,
-        "plot_area_ha": 241.7,
+        "plot_area_ha": 0.02417,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -21984,7 +22509,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:29:38",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:16:23"
+        "last_updated": "2025-08-27 16:16:37"
     },
     {
         "id": 12196031,
@@ -22106,7 +22631,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:29:04",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:16:42"
+        "last_updated": "2025-08-27 16:16:56"
     },
     {
         "id": 11970123,
@@ -22173,7 +22698,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-05-30 21:10:39",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:09:49"
+        "last_updated": "2025-08-27 16:10:11"
     },
     {
         "id": 12225525,
@@ -22275,7 +22800,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-05-29 10:00:34",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:17:44"
+        "last_updated": "2025-08-27 16:17:58"
     },
     {
         "id": 12003024,
@@ -22307,7 +22832,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 114,
-        "plot_area_ha": 220,
+        "plot_area_ha": 0.022,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -22357,7 +22882,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-29 08:30:40",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:11:06"
+        "last_updated": "2025-08-27 16:11:26"
     },
     {
         "id": 12169075,
@@ -22389,7 +22914,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 85.28,
-        "plot_area_ha": 350,
+        "plot_area_ha": 0.035,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -22429,7 +22954,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-29 08:25:47",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:15:46"
+        "last_updated": "2025-08-27 16:16:03"
     },
     {
         "id": 12181120,
@@ -22461,7 +22986,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 74.39,
-        "plot_area_ha": 122.14,
+        "plot_area_ha": 0.012214000000000001,
         "year_built": 2026,
         "street_name": null,
         "street_full_name": null,
@@ -22491,7 +23016,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-29 08:24:12",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:16:13"
+        "last_updated": "2025-08-27 16:16:24"
     },
     {
         "id": 11939884,
@@ -22588,7 +23113,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-05-28 17:09:08",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:06:51"
+        "last_updated": "2025-08-27 16:07:01"
     },
     {
         "id": 11950386,
@@ -22660,7 +23185,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-05-28 10:04:28",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:09:09"
+        "last_updated": "2025-08-27 16:09:29"
     },
     {
         "id": 11940282,
@@ -22692,7 +23217,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 127.08,
-        "plot_area_ha": 308,
+        "plot_area_ha": 0.0308,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -22732,7 +23257,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-28 09:59:54",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:06:53"
+        "last_updated": "2025-08-27 16:07:03"
     },
     {
         "id": 11932644,
@@ -22809,7 +23334,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-05-28 09:58:04",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:05:26"
+        "last_updated": "2025-08-27 16:05:34"
     },
     {
         "id": 11976484,
@@ -22841,7 +23366,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 110.42,
-        "plot_area_ha": 170,
+        "plot_area_ha": 0.017,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -22876,7 +23401,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-28 09:48:05",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:07:16"
+        "last_updated": "2025-08-27 16:07:29"
     },
     {
         "id": 11987480,
@@ -22948,7 +23473,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-05-28 09:47:53",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:01:40"
+        "last_updated": "2025-08-27 16:01:44"
     },
     {
         "id": 12117406,
@@ -23020,7 +23545,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-28 09:45:50",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:01:00"
+        "last_updated": "2025-08-27 16:01:04"
     },
     {
         "id": 12224345,
@@ -23052,7 +23577,7 @@
         "section": "LotSale",
         "status": "Active",
         "total_area": null,
-        "plot_area_ha": 8733,
+        "plot_area_ha": 0.8733,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -23067,89 +23592,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-05-27 15:45:01",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:02:56"
-    },
-    {
-        "id": 12206693,
-        "title": "",
-        "price": 769000,
-        "is_special": 0,
-        "building_type": "Dom",
-        "isForSaleOrRental": true,
-        "country_name": "Polska",
-        "description": "Biuro Eagles Estate ma przyjemność przedstawić Państwu nową inwestycję zlokalizowaną przy ul. Pileckich na os. Słocina w Rzeszowie.<br><br>Inwestycja zlokalizowana jest w&nbsp;otoczeniu zieleni i&nbsp;terenów rekreacyjnych pozwalających na kontakt z&nbsp;przyrodą i&nbsp;aktywny wypoczynek, zapewniający wysoki komfort mieszkania. <br>To urokliwe miejsce&nbsp;z nowoczesną zabudową zarówno jednorodzinnych segmentów mieszkalnych z dużymi ogrodami, jak również kameralnych mieszkań w zabudowie dwulokalowej.<br><br>Osiedle to jest idealne dla osób, które cenią sobie ciszę i&nbsp;spokój, a jednocześnie potrzebują mieć w&nbsp;zasięgu ręki dostęp do centrum miasta.<br><br>Zabudowa inwestycji składać się będzie z 6 segmentów, a w nich znajdą się zarówno mieszkania jednorodzinne, mieszkania dwulokalowe i szeregówki z kompleksowym zagospodarowaniem terenu oraz drogami dojazdowymi.<br><br>Dodatkowym atutem inwestycji będzie wysoki standard wykończenia stanu deweloperskiego.<br><br>SZCZEGÓŁY INWESTYCJI:<br>METRAŻE: od 53,15 m2 - 166 m2&nbsp;<br>TERMIN REALIZACJI: 2 KWARTAŁ 2025<br>MIEJSCE POSTOJOWE W CENIE MIESZKANIA<br>OGRZEWANIE: GAZOWE, PODŁOGOWE<br><br>OGŁOSZENIE DOTYCZY SZEREGÓWKI NR B3<br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie&nbsp; od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.<br><br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.<br><br>Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.<br><br><br><br>",
-        "elevator": null,
-        "floor_no": null,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Promocja Szeregówka 729 000 zł 114 m2 Słocina",
-        "headerAdvertisement": "Promocja Szeregówka 729 000 zł 114 m2 Słocina",
-        "kitchen_type": "Open",
-        "location_name": "/Podkarpackie/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 5,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 6728.5,
-        "provision_amount": 0,
-        "section": "HouseSale",
-        "status": "Active",
-        "total_area": 114.29,
-        "plot_area_ha": 193.18,
-        "year_built": 2025,
-        "street_name": null,
-        "street_full_name": null,
-        "images": [
-            {
-                "id": 105766366,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766371,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766407,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766406,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766365,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766367,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766370,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105766372,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "125/17058/ODS",
-        "no_of_floors": 1,
-        "actualisation_date": "2025-05-26 14:05:23",
-        "agentId": 72795,
-        "last_updated": "2025-08-26 13:17:28"
+        "last_updated": "2025-08-27 16:02:58"
     },
     {
         "id": 12049106,
@@ -23246,7 +23689,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-05-26 09:58:17",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:13:01"
+        "last_updated": "2025-08-27 16:13:25"
     },
     {
         "id": 12165640,
@@ -23323,7 +23766,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-05-23 18:29:53",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:15:23"
+        "last_updated": "2025-08-27 16:15:39"
     },
     {
         "id": 12217644,
@@ -23395,7 +23838,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-22 15:57:35",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:17:38"
+        "last_updated": "2025-08-27 16:17:52"
     },
     {
         "id": 11932681,
@@ -23472,7 +23915,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-05-20 13:46:19",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:05:28"
+        "last_updated": "2025-08-27 16:05:45"
     },
     {
         "id": 12124973,
@@ -23504,7 +23947,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 183.2,
-        "plot_area_ha": 94,
+        "plot_area_ha": 0.94,
         "year_built": 1970,
         "street_name": null,
         "street_full_name": null,
@@ -23644,7 +24087,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-05-19 09:03:28",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:02:27"
+        "last_updated": "2025-08-27 16:02:28"
     },
     {
         "id": 11881491,
@@ -23676,7 +24119,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 181.2,
-        "plot_area_ha": 1700,
+        "plot_area_ha": 0.17,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -23761,7 +24204,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-18 19:33:37",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:03:02"
+        "last_updated": "2025-08-27 16:03:03"
     },
     {
         "id": 12205309,
@@ -23893,7 +24336,7 @@
         "no_of_floors": 12,
         "actualisation_date": "2025-05-15 15:34:14",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:16:35"
+        "last_updated": "2025-08-27 16:16:49"
     },
     {
         "id": 12132897,
@@ -23980,7 +24423,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-15 11:01:50",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:03:18"
+        "last_updated": "2025-08-27 16:03:22"
     },
     {
         "id": 11941815,
@@ -24072,7 +24515,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-05-07 10:17:14",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:07:22"
+        "last_updated": "2025-08-27 16:07:32"
     },
     {
         "id": 11946946,
@@ -24194,7 +24637,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 10:10:56",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:08:29"
+        "last_updated": "2025-08-27 16:08:35"
     },
     {
         "id": 11948164,
@@ -24226,7 +24669,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 93.01,
-        "plot_area_ha": 0,
+        "plot_area_ha": null,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -24276,89 +24719,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 10:02:15",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:08:34"
-    },
-    {
-        "id": 11990302,
-        "title": "",
-        "price": 590000,
-        "is_special": 0,
-        "building_type": "Mieszkanie",
-        "isForSaleOrRental": true,
-        "country_name": "Polska",
-        "description": "Biuro Eagles Estate ma przyjemność przedstawić Państwu nową inwestycję zlokalizowaną przy ul. Pileckich na os. Słocina w Rzeszowie.<br><br>Inwestycja zlokalizowana jest w&nbsp;otoczeniu zieleni i&nbsp;terenów rekreacyjnych pozwalających na kontakt z&nbsp;przyrodą i&nbsp;aktywny wypoczynek, zapewniający wysoki komfort mieszkania.<br>To urokliwe miejsce&nbsp;z nowoczesną zabudową zarówno jednorodzinnych segmentów mieszkalnych z dużymi ogrodami, jak również kameralnych mieszkań w zabudowie dwulokalowej.<br><br>Osiedle to jest idealne dla osób, które cenią sobie ciszę i&nbsp;spokój, a jednocześnie potrzebują mieć w&nbsp;zasięgu ręki dostęp do centrum miasta.<br><br>Zabudowa inwestycji składać się będzie z 6 segmentów, a w nich znajdą się zarówno mieszkania jednorodzinne, mieszkania dwulokalowe i szeregówki z kompleksowym zagospodarowaniem terenu oraz drogami dojazdowymi.<br><br>Dodatkowym atutem inwestycji będzie wysoki standard wykończenia stanu deweloperskiego.<br><br>SZCZEGÓŁY INWESTYCJI:<br>METRAŻE: od 53,15 m2 - 166 m2&nbsp;<br>TERMIN REALIZACJI: 2 KWARTAŁ 2025<br>MIEJSCE POSTOJOWE W CENIE MIESZKANIA<br>OGRZEWANIE: GAZOWE, PODŁOGOWE<br><br>OGŁOSZENIE DOTYCZY MIESZKANIA DWUPOZIOMOWEGO F2.B&nbsp;<br><br>W naszym biurze nieruchomości wiemy, jak ważna jest każda decyzja związana z zakupem nieruchomości. Dlatego oferujemy pełne wsparcie&nbsp; od początku do końca transakcji, aby mogli Państwo czuć się pewnie i bezpiecznie na każdym kroku.<br>Zapraszamy do kontaktu w celu uzyskania dodatkowych informacji i umówienia się na prezentację.<br><br>Przy zakupie nieruchomości z rynku pierwotnego, nie płacą Państwo prowizji ani podatku PCC.<br><br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.<br><br>Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.<br><br>Zapraszamy do kontaktu oraz prezentacji nieruchomości.   Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.  Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.",
-        "elevator": 0,
-        "floor_no": 1,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Mieszkanie dwupoziomowe Słocina 6 sypialni !",
-        "headerAdvertisement": "Mieszkanie dwupoziomowe Słocina 6 sypialni !",
-        "kitchen_type": "Open",
-        "location_name": "/Podkarpackie/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 7,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": 1,
-        "price_m2": 5261.75,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "total_area": 112.13,
-        "plot_area_ha": null,
-        "year_built": 2025,
-        "street_name": "Ottona i Jana Pileckich",
-        "street_full_name": "ul. Ottona i Jana Pileckich",
-        "images": [
-            {
-                "id": 105607366,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103337067,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 105607367,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103337269,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103337271,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103337063,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103337065,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103337066,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "252/17058/OMS",
-        "no_of_floors": 2,
-        "actualisation_date": "2025-05-07 09:33:07",
-        "agentId": 72795,
-        "last_updated": "2025-08-26 13:19:17"
+        "last_updated": "2025-08-27 16:08:44"
     },
     {
         "id": 12021768,
@@ -24425,7 +24786,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 09:30:05",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:12:11"
+        "last_updated": "2025-08-27 16:12:31"
     },
     {
         "id": 12021777,
@@ -24497,7 +24858,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 09:29:01",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:12:13"
+        "last_updated": "2025-08-27 16:12:33"
     },
     {
         "id": 12043706,
@@ -24564,7 +24925,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 09:26:09",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:12:37"
+        "last_updated": "2025-08-27 16:13:00"
     },
     {
         "id": 12043793,
@@ -24636,7 +24997,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 09:25:51",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:12:42"
+        "last_updated": "2025-08-27 16:13:04"
     },
     {
         "id": 12163242,
@@ -24728,7 +25089,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-05-07 09:18:41",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:15:00"
+        "last_updated": "2025-08-27 16:15:13"
     },
     {
         "id": 12163257,
@@ -24800,7 +25161,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-05-07 09:17:55",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:15:01"
+        "last_updated": "2025-08-27 16:15:15"
     },
     {
         "id": 12168116,
@@ -24897,7 +25258,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-05-07 08:46:56",
         "agentId": 74243,
-        "last_updated": "2025-08-26 13:15:45"
+        "last_updated": "2025-08-27 16:15:57"
     },
     {
         "id": 11940625,
@@ -24984,7 +25345,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-06 14:42:03",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:07:10"
+        "last_updated": "2025-08-27 16:07:20"
     },
     {
         "id": 12166305,
@@ -25066,7 +25427,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-05-06 09:39:36",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:15:36"
+        "last_updated": "2025-08-27 16:15:49"
     },
     {
         "id": 12123752,
@@ -25168,7 +25529,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-05-05 12:54:22",
         "agentId": 74243,
-        "last_updated": "2025-08-26 13:02:14"
+        "last_updated": "2025-08-27 16:02:15"
     },
     {
         "id": 12182516,
@@ -25245,7 +25606,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-03 08:57:41",
         "agentId": 74243,
-        "last_updated": "2025-08-26 13:16:29"
+        "last_updated": "2025-08-27 16:16:43"
     },
     {
         "id": 12174340,
@@ -25277,7 +25638,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 91.08,
-        "plot_area_ha": 316,
+        "plot_area_ha": 0.0316,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -25327,7 +25688,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-04-29 09:35:51",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:15:53"
+        "last_updated": "2025-08-27 16:16:10"
     },
     {
         "id": 12182093,
@@ -25389,12 +25750,12 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-04-28 17:16:50",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:16:21"
+        "last_updated": "2025-08-27 16:16:32"
     },
     {
         "id": 11990349,
         "title": "",
-        "price": 769000,
+        "price": 790000,
         "is_special": 0,
         "building_type": "Dom",
         "isForSaleOrRental": true,
@@ -25416,12 +25777,12 @@
         "no_of_rooms": 5,
         "ownership_type": "Mortgage",
         "parking_spaces_no": null,
-        "price_m2": 6728.5,
+        "price_m2": 6912.24,
         "provision_amount": 0,
         "section": "HouseSale",
         "status": "Active",
         "total_area": 114.29,
-        "plot_area_ha": 158.01,
+        "plot_area_ha": 0.015801,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -25471,7 +25832,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-04-25 22:31:43",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:19:34"
+        "last_updated": "2025-08-27 16:19:50"
     },
     {
         "id": 11998548,
@@ -25503,7 +25864,7 @@
         "section": "LotSale",
         "status": "Active",
         "total_area": null,
-        "plot_area_ha": 942,
+        "plot_area_ha": 0.0942,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -25543,7 +25904,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-04-23 10:27:40",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:10:44"
+        "last_updated": "2025-08-27 16:11:05"
     },
     {
         "id": 12174334,
@@ -25575,7 +25936,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 91.08,
-        "plot_area_ha": 312,
+        "plot_area_ha": 0.0312,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -25625,7 +25986,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-04-22 18:49:15",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:15:51"
+        "last_updated": "2025-08-27 16:16:08"
     },
     {
         "id": 12011072,
@@ -25657,7 +26018,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 91.08,
-        "plot_area_ha": 321,
+        "plot_area_ha": 0.0321,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -25707,7 +26068,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-04-22 12:35:06",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:01:50"
+        "last_updated": "2025-08-27 16:01:51"
     },
     {
         "id": 12164311,
@@ -25794,7 +26155,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-04-17 08:21:20",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:15:21"
+        "last_updated": "2025-08-27 16:15:38"
     },
     {
         "id": 12166251,
@@ -25886,7 +26247,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-14 11:07:24",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:15:32"
+        "last_updated": "2025-08-27 16:15:44"
     },
     {
         "id": 12164753,
@@ -25978,7 +26339,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-11 14:19:17",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:14:41"
+        "last_updated": "2025-08-27 16:14:54"
     },
     {
         "id": 12164730,
@@ -26055,7 +26416,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-11 14:12:16",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:14:39"
+        "last_updated": "2025-08-27 16:14:52"
     },
     {
         "id": 12164135,
@@ -26147,7 +26508,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-11 11:48:05",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:15:10"
+        "last_updated": "2025-08-27 16:15:21"
     },
     {
         "id": 12164163,
@@ -26239,7 +26600,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-11 11:47:22",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:15:13"
+        "last_updated": "2025-08-27 16:15:28"
     },
     {
         "id": 12161368,
@@ -26271,7 +26632,7 @@
         "section": "LotSale",
         "status": "Active",
         "total_area": null,
-        "plot_area_ha": 9100,
+        "plot_area_ha": 0.91,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -26286,7 +26647,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-04-10 09:22:19",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:14:53"
+        "last_updated": "2025-08-27 16:15:07"
     },
     {
         "id": 12160079,
@@ -26363,7 +26724,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-04-08 14:20:04",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:13:54"
+        "last_updated": "2025-08-27 16:14:13"
     },
     {
         "id": 12101755,
@@ -26435,7 +26796,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-04-07 13:26:16",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:13:55"
+        "last_updated": "2025-08-27 16:14:15"
     },
     {
         "id": 11951393,
@@ -26507,7 +26868,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-03-26 09:46:12",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:09:15"
+        "last_updated": "2025-08-27 16:09:33"
     },
     {
         "id": 11987477,
@@ -26579,7 +26940,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-03-26 09:17:40",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:01:38"
+        "last_updated": "2025-08-27 16:01:40"
     },
     {
         "id": 12120906,
@@ -26631,7 +26992,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-03-24 15:54:19",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:01:52"
+        "last_updated": "2025-08-27 16:01:56"
     },
     {
         "id": 12026644,
@@ -26713,7 +27074,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-03-21 20:00:59",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:12:27"
+        "last_updated": "2025-08-27 16:12:48"
     },
     {
         "id": 12116416,
@@ -26745,7 +27106,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 330.46,
-        "plot_area_ha": 2.6,
+        "plot_area_ha": 0.026000000000000002,
         "year_built": 1911,
         "street_name": null,
         "street_full_name": null,
@@ -26870,7 +27231,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-03-20 22:03:33",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:00:50"
+        "last_updated": "2025-08-27 16:00:51"
     },
     {
         "id": 12074599,
@@ -26952,7 +27313,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-03-20 15:53:18",
         "agentId": 74243,
-        "last_updated": "2025-08-26 13:13:47"
+        "last_updated": "2025-08-27 16:14:04"
     },
     {
         "id": 12062985,
@@ -27044,7 +27405,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-03-20 14:42:15",
         "agentId": 74243,
-        "last_updated": "2025-08-26 13:10:37"
+        "last_updated": "2025-08-27 16:10:56"
     },
     {
         "id": 12006114,
@@ -27111,7 +27472,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-03-20 14:36:50",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:11:21"
+        "last_updated": "2025-08-27 16:11:43"
     },
     {
         "id": 12006332,
@@ -27178,7 +27539,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-03-20 14:36:01",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:11:22"
+        "last_updated": "2025-08-27 16:11:45"
     },
     {
         "id": 11912983,
@@ -27210,7 +27571,7 @@
         "section": "LotSale",
         "status": "Active",
         "total_area": null,
-        "plot_area_ha": 795,
+        "plot_area_ha": 0.0795,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -27250,7 +27611,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-03-20 11:03:51",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:04:40"
+        "last_updated": "2025-08-27 16:04:47"
     },
     {
         "id": 11896304,
@@ -27282,7 +27643,7 @@
         "section": "LotSale",
         "status": "Active",
         "total_area": null,
-        "plot_area_ha": 1408,
+        "plot_area_ha": 0.1408,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -27337,7 +27698,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-03-20 11:00:43",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:04:39"
+        "last_updated": "2025-08-27 16:04:46"
     },
     {
         "id": 12021923,
@@ -27404,7 +27765,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-03-19 13:05:17",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:11:59"
+        "last_updated": "2025-08-27 16:12:23"
     },
     {
         "id": 12072156,
@@ -27481,7 +27842,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-03-05 11:47:24",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:13:41"
+        "last_updated": "2025-08-27 16:13:59"
     },
     {
         "id": 12017609,
@@ -27573,7 +27934,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-03-03 13:23:04",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:11:52"
+        "last_updated": "2025-08-27 16:12:20"
     },
     {
         "id": 12016148,
@@ -27675,7 +28036,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-02-27 08:04:02",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:11:44"
+        "last_updated": "2025-08-27 16:12:12"
     },
     {
         "id": 11883496,
@@ -27762,7 +28123,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-02-20 19:41:46",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:03:23"
+        "last_updated": "2025-08-27 16:03:27"
     },
     {
         "id": 11882283,
@@ -27849,7 +28210,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-02-12 16:24:46",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:03:16"
+        "last_updated": "2025-08-27 16:03:20"
     },
     {
         "id": 11881502,
@@ -27881,7 +28242,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 100,
-        "plot_area_ha": 200,
+        "plot_area_ha": 0.02,
         "year_built": 2021,
         "street_name": null,
         "street_full_name": null,
@@ -27946,7 +28307,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-02-06 08:48:57",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:03:04"
+        "last_updated": "2025-08-27 16:03:07"
     },
     {
         "id": 11882107,
@@ -27978,7 +28339,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 240,
-        "plot_area_ha": 2.13,
+        "plot_area_ha": 0.0213,
         "year_built": 1982,
         "street_name": null,
         "street_full_name": null,
@@ -28123,7 +28484,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-02-05 11:29:41",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:03:10"
+        "last_updated": "2025-08-27 16:03:14"
     },
     {
         "id": 11999873,
@@ -28155,7 +28516,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 146.3,
-        "plot_area_ha": 2289,
+        "plot_area_ha": 0.2289,
         "year_built": 2018,
         "street_name": null,
         "street_full_name": null,
@@ -28260,7 +28621,7 @@
         "no_of_floors": 0,
         "actualisation_date": "2025-02-05 09:48:25",
         "agentId": 74041,
-        "last_updated": "2025-08-26 13:10:56"
+        "last_updated": "2025-08-27 16:11:19"
     },
     {
         "id": 12009357,
@@ -28362,7 +28723,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-01-30 11:45:30",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:11:38"
+        "last_updated": "2025-08-27 16:11:59"
     },
     {
         "id": 12001413,
@@ -28444,7 +28805,7 @@
         "no_of_floors": 12,
         "actualisation_date": "2025-01-23 14:45:03",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:02:57"
+        "last_updated": "2025-08-27 16:03:01"
     },
     {
         "id": 11983753,
@@ -28516,7 +28877,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-01-15 08:05:17",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:00:44"
+        "last_updated": "2025-08-27 16:00:45"
     },
     {
         "id": 11945439,
@@ -28588,7 +28949,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:26:30",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:07:48"
+        "last_updated": "2025-08-27 16:08:00"
     },
     {
         "id": 11945447,
@@ -28660,7 +29021,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:24:00",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:07:49"
+        "last_updated": "2025-08-27 16:08:02"
     },
     {
         "id": 11945461,
@@ -28732,7 +29093,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:23:45",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:07:54"
+        "last_updated": "2025-08-27 16:08:04"
     },
     {
         "id": 11945472,
@@ -28804,7 +29165,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:23:26",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:07:56"
+        "last_updated": "2025-08-27 16:08:05"
     },
     {
         "id": 11946080,
@@ -28876,7 +29237,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:23:11",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:08:13"
+        "last_updated": "2025-08-27 16:08:19"
     },
     {
         "id": 11947197,
@@ -28943,7 +29304,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:22:44",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:08:16"
+        "last_updated": "2025-08-27 16:08:26"
     },
     {
         "id": 11947234,
@@ -29010,7 +29371,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:22:30",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:08:21"
+        "last_updated": "2025-08-27 16:08:27"
     },
     {
         "id": 11947299,
@@ -29077,7 +29438,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:22:13",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:08:23"
+        "last_updated": "2025-08-27 16:08:29"
     },
     {
         "id": 11947354,
@@ -29144,7 +29505,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:22:00",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:08:27"
+        "last_updated": "2025-08-27 16:08:34"
     },
     {
         "id": 11948315,
@@ -29216,7 +29577,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:21:44",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:08:39"
+        "last_updated": "2025-08-27 16:08:45"
     },
     {
         "id": 11948335,
@@ -29288,7 +29649,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:21:30",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:08:41"
+        "last_updated": "2025-08-27 16:08:47"
     },
     {
         "id": 11948377,
@@ -29360,7 +29721,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:21:16",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:08:46"
+        "last_updated": "2025-08-27 16:08:55"
     },
     {
         "id": 11950380,
@@ -29432,7 +29793,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:20:01",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:09:02"
+        "last_updated": "2025-08-27 16:09:26"
     },
     {
         "id": 11983061,
@@ -29509,7 +29870,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-01-11 13:48:50",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:00:37"
+        "last_updated": "2025-08-27 16:00:42"
     },
     {
         "id": 11983073,
@@ -29586,7 +29947,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-01-11 13:48:28",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:00:39"
+        "last_updated": "2025-08-27 16:00:43"
     },
     {
         "id": 11982929,
@@ -29668,7 +30029,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-11 08:25:40",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:00:31"
+        "last_updated": "2025-08-27 16:00:35"
     },
     {
         "id": 11983035,
@@ -29745,7 +30106,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-01-11 08:24:38",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:00:36"
+        "last_updated": "2025-08-27 16:00:37"
     },
     {
         "id": 11954302,
@@ -29812,7 +30173,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-01-08 09:17:11",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:01:34"
+        "last_updated": "2025-08-27 16:01:38"
     },
     {
         "id": 11954595,
@@ -29879,7 +30240,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-01-08 09:16:38",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:01:25"
+        "last_updated": "2025-08-27 16:01:27"
     },
     {
         "id": 11954620,
@@ -29946,7 +30307,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-01-08 09:16:17",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:01:27"
+        "last_updated": "2025-08-27 16:01:32"
     },
     {
         "id": 11932136,
@@ -30023,7 +30384,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:10:09",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:05:47"
+        "last_updated": "2025-08-27 16:06:01"
     },
     {
         "id": 11932184,
@@ -30100,7 +30461,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:09:55",
         "agentId": 72795,
-        "last_updated": "2025-08-26 13:05:49"
+        "last_updated": "2025-08-27 16:06:03"
     },
     {
         "id": 11932736,
@@ -30177,7 +30538,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:07:22",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:05:35"
+        "last_updated": "2025-08-27 16:05:48"
     },
     {
         "id": 11932742,
@@ -30254,7 +30615,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:07:01",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:05:36"
+        "last_updated": "2025-08-27 16:05:50"
     },
     {
         "id": 11932745,
@@ -30331,7 +30692,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:06:17",
         "agentId": 72664,
-        "last_updated": "2025-08-26 13:05:41"
+        "last_updated": "2025-08-27 16:05:55"
     },
     {
         "id": 11935282,
@@ -30408,7 +30769,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:05:10",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:06:18"
+        "last_updated": "2025-08-27 16:06:29"
     },
     {
         "id": 11935221,
@@ -30485,7 +30846,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:04:12",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:06:15"
+        "last_updated": "2025-08-27 16:06:22"
     },
     {
         "id": 11935301,
@@ -30562,7 +30923,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:01:42",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:06:20"
+        "last_updated": "2025-08-27 16:06:30"
     },
     {
         "id": 11935316,
@@ -30639,7 +31000,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:00:56",
         "agentId": 72735,
-        "last_updated": "2025-08-26 13:06:24"
+        "last_updated": "2025-08-27 16:06:32"
     },
     {
         "id": 11935344,
@@ -30716,7 +31077,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:00:42",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:06:26"
+        "last_updated": "2025-08-27 16:06:37"
     },
     {
         "id": 11937430,
@@ -30788,7 +31149,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 08:59:32",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:06:34"
+        "last_updated": "2025-08-27 16:06:43"
     },
     {
         "id": 11939127,
@@ -30860,7 +31221,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 08:59:19",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:06:44"
+        "last_updated": "2025-08-27 16:06:55"
     },
     {
         "id": 11939150,
@@ -30932,7 +31293,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 08:59:03",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:06:46"
+        "last_updated": "2025-08-27 16:06:57"
     },
     {
         "id": 11954689,
@@ -30994,7 +31355,7 @@
         "no_of_floors": null,
         "actualisation_date": "2024-12-17 14:52:39",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:01:32"
+        "last_updated": "2025-08-27 16:01:33"
     },
     {
         "id": 11951483,
@@ -31026,7 +31387,7 @@
         "section": "HouseSale",
         "status": "Active",
         "total_area": 116.61,
-        "plot_area_ha": 100,
+        "plot_area_ha": 0.01,
         "year_built": 2025,
         "street_name": null,
         "street_full_name": null,
@@ -31081,7 +31442,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2024-12-13 16:28:58",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:09:22"
+        "last_updated": "2025-08-27 16:09:39"
     },
     {
         "id": 11951457,
@@ -31173,7 +31534,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2024-12-13 16:14:45",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:09:17"
+        "last_updated": "2025-08-27 16:09:37"
     },
     {
         "id": 11942825,
@@ -31245,7 +31606,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2024-12-07 08:05:50",
         "agentId": 72663,
-        "last_updated": "2025-08-26 13:07:39"
+        "last_updated": "2025-08-27 16:07:48"
     },
     {
         "id": 11935281,
@@ -31322,7 +31683,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2024-12-05 16:03:07",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:06:16"
+        "last_updated": "2025-08-27 16:06:24"
     },
     {
         "id": 11891807,
@@ -31354,7 +31715,7 @@
         "section": "CommercialObjectSale",
         "status": "Active",
         "total_area": 270,
-        "plot_area_ha": 3600,
+        "plot_area_ha": 0.36,
         "year_built": null,
         "street_name": null,
         "street_full_name": null,
@@ -31389,6 +31750,6 @@
         "no_of_floors": null,
         "actualisation_date": "2024-11-09 13:50:49",
         "agentId": 72665,
-        "last_updated": "2025-08-26 13:04:34"
+        "last_updated": "2025-08-27 16:04:41"
     }
 ]
