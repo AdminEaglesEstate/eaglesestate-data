@@ -154,6 +154,26 @@ foreach ($idList as $index => $item) {
         }
     }
 
+    $plotAreaA = ($plotAreaHa !== null) ? ($plotAreaHa * 100.0) : null;
+
+    $locationLocality = isset($l['location']['locality']) ? $l['location']['locality'] : null;
+    $fullStreet = null;
+    if (isset($l['street']['fullName']) && is_string($l['street']['fullName'])) {
+        $fullStreet = trim($l['street']['fullName']);
+    }
+    if (!$fullStreet && isset($l['fullStreet']) && is_string($l['fullStreet'])) {
+        $fullStreet = trim($l['fullStreet']);
+    }
+    if ($fullStreet) {
+        if (preg_match('/^ul\.?\s*([^\d,]+?)\s+\d+/iu', $fullStreet, $m)) {
+            $candidate = trim($m[1]);
+            $candidate = trim(preg_replace('/\s*,.*$/', '', $candidate));
+            if ($candidate !== '') {
+                $locationLocality = $candidate;
+            }
+        }
+    }
+
     $listings[] = [
         'id' => $l['id'],
         'title' => isset($l['name']) ? $l['name'] : '',
@@ -172,7 +192,7 @@ foreach ($idList as $index => $item) {
         'kitchen_type' => isset($l['kitchenType']) ? $l['kitchenType'] : null,
         'location_name' => isset($l['location']['name']) ? $l['location']['name'] : null,
         'location_province' => isset($l['location']['province']) ? $l['location']['province'] : null,
-        'location_locality' => isset($l['location']['locality']) ? $l['location']['locality'] : null,
+        'location_locality' => $locationLocality,
         'location_quarter' => isset($l['location']['quarter']) ? $l['location']['quarter'] : null,
         'material' => isset($l['material']) ? $l['material'] : null,
         'mortgage_market' => isset($l['mortgageMarket']) ? $l['mortgageMarket'] : null,
@@ -183,8 +203,9 @@ foreach ($idList as $index => $item) {
         'provision_amount' => isset($l['provisionAmount']) ? $l['provisionAmount'] : null,
         'section' => isset($l['section']) ? $l['section'] : null,
         'status' => isset($l['status']) ? $l['status'] : null,
+        'statusChangeDate' => isset($l['statusChangeDate']) ? $l['statusChangeDate'] : null,
         'total_area' => isset($l['totalArea']) ? $l['totalArea'] : null,
-        'plot_area_ha' => $plotAreaHa,
+        'plot_area_a' => $plotAreaA,
         'year_built' => isset($l['yearBuilt']) ? $l['yearBuilt'] : null,
         'street_name' => isset($l['street']['name']) ? $l['street']['name'] : null,
         'street_full_name' => isset($l['street']['fullName']) ? $l['street']['fullName'] : null,
