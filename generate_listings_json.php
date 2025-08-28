@@ -45,6 +45,87 @@ function mapToBuildingType($section)
     return null;
 }
 
+function mapLotForm($value)
+{
+    if (!$value) return null;
+    $v = strtolower(trim($value));
+    switch ($v) {
+        case 'rectangle':
+        case 'rectangular':
+            return 'Prostokąt';
+        case 'square':
+            return 'Kwadrat';
+        case 'triangle':
+            return 'Trójkąt';
+        case 'trapezoid':
+        case 'trapezium':
+            return 'Trapez';
+        case 'irregular':
+        case 'irregular shape':
+            return 'Nieregularny';
+        default:
+            return null;
+    }
+}
+
+function mapLotType($value)
+{
+    if (!$value) return null;
+    $v = strtolower(trim($value));
+
+    // Order matters: check the most specific combinations first
+    if (strpos($v, 'forest') !== false && strpos($v, 'build') !== false) {
+        return 'Leśna z prawem budowy';
+    }
+    if ((strpos($v, 'agri') !== false || strpos($v, 'agro') !== false || strpos($v, 'rol') !== false) && strpos($v, 'build') !== false) {
+        return 'Rolno-budowlana';
+    }
+
+    if (strpos($v, 'residential') !== false || strpos($v, 'residentialbu') !== false) {
+        return 'Budowlana';
+    }
+    if (strpos($v, 'commercial') !== false) {
+        return 'Komercyjna';
+    }
+    if (strpos($v, 'recreat') !== false) { // recreational
+        return 'Rekreacyjna';
+    }
+    if (strpos($v, 'forest') !== false) {
+        return 'Leśna';
+    }
+    if (strpos($v, 'habitat') !== false || strpos($v, 'siedlisk') !== false) {
+        return 'Siedliskowa';
+    }
+    if (strpos($v, 'agricult') !== false || strpos($v, 'roln') !== false || $v === 'farm') {
+        // Note: pure 'farm' below maps to Gospodarstwo, but if mixed strings include agricultur it stays Rolna
+        if ($v === 'farm') {
+            // fall through to dedicated mapping later
+        } else {
+            return 'Rolna';
+        }
+    }
+    if (strpos($v, 'invest') !== false) {
+        return 'Inwestycyjna';
+    }
+    if (strpos($v, 'industrial') !== false) {
+        return 'Przemysłowa';
+    }
+    if (strpos($v, 'service') !== false) {
+        return 'Usługowa';
+    }
+    if (strpos($v, 'craft') !== false) {
+        return 'Rzemieślnicza';
+    }
+    if ($v === 'farm' || strpos($v, 'gospodar') !== false) {
+        return 'Gospodarstwo';
+    }
+    if (strpos($v, 'other') !== false) {
+        return 'Inna';
+    }
+
+    return null;
+}
+
 function postForm($url, $fields, $siteAuth, $cookie, $maxRetries = 7)
 {
     $retryDelay = 3;
@@ -206,6 +287,8 @@ foreach ($idList as $index => $item) {
         'statusChangeDate' => isset($l['statusChangeDate']) ? $l['statusChangeDate'] : null,
         'total_area' => isset($l['totalArea']) ? $l['totalArea'] : null,
         'plot_area_a' => $plotAreaA,
+        'lotForm' => mapLotForm(isset($l['lotForm']) ? $l['lotForm'] : null),
+        'lotType' => mapLotType(isset($l['lotType']) ? $l['lotType'] : null),
         'year_built' => isset($l['yearBuilt']) ? $l['yearBuilt'] : null,
         'street_name' => isset($l['street']['name']) ? $l['street']['name'] : null,
         'street_full_name' => isset($l['street']['fullName']) ? $l['street']['fullName'] : null,
