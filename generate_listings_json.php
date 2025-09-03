@@ -81,9 +81,20 @@ function mapLotType($value)
         return 'Rolno-budowlana';
     }
 
-    if (strpos($v, 'residential') !== false || strpos($v, 'residentialbu') !== false) {
+    // Common residential/building land cases, including common misspelling "residental"
+    if (
+        strpos($v, 'residential') !== false ||
+        strpos($v, 'residentialbu') !== false ||
+        strpos($v, 'residental') !== false ||
+        strpos($v, 'residentalbu') !== false
+    ) {
         return 'Budowlana';
     }
+    // Generic fallback for building-type lots when not matched by more specific combos above
+    if (strpos($v, 'build') !== false) {
+        return 'Budowlana';
+    }
+
     if (strpos($v, 'commercial') !== false) {
         return 'Komercyjna';
     }
