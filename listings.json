@@ -1,5 +1,70 @@
 [
     {
+        "id": 11976362,
+        "title": "",
+        "price": 499000,
+        "is_special": 0,
+        "building_type": "Dom",
+        "isForSaleOrRental": true,
+        "country_name": "Polska",
+        "description": "Biuro Eagles Estate przedstawia nowe osiedle domów w zabudowie bliźniaczej i szeregowej przy ul. Karkonoskiej.<br><br>Osiedle to, to 8 domów w zabudowie szeregowej oraz 4 domy w zabudowie bliźniaczej&nbsp;&nbsp;o powierzchni użytkowej&nbsp;95,85 m2&nbsp;wybudowanych na działkach o powierzchniach od 1,35 ara do 2,71 ar, z łatwym i szybkim dojazdem do centrum miasta. Projekty domów zostały starannie przemyślane tak, aby na całej powierzchni uzyskać trzy pokoje, dwie łazienki, przestronny salon z kuchnią oraz garaż jednostanowiskowy.<br><br>Oferta dotyczy domu nr 4 w zabudowie szeregowej o pow. 95,85 m2 i o pow. działki 135 m2&nbsp;<br><br>Domy będą sprzedawane w stanie surowym zamkniętym, bądź deweloperskim- za dopłatą 229 000 zł<br><br>Standard Wykonania<br><br>I. STAN SUROWY ZAMKNIĘTY:<br><br>budynek wykonany z czerwonego pustaka gr 25cm<br>ławy fundamentowe lane żelbetowe<br>ściany fundamentowe wykonane z bloczku betonowego<br>izolacja przeciwwilgociowa i termiczna fundamentów<br>dach pokryty blachodachówką kolor grafit<br>impregnacja konstrukcji dachowej<br>kominy systemowe<br>okna PCV 3 szybowe<br>drzwi wejściowe do budynku- budowlane<br>brama garażowa ocieplana w kolorze grafitowym- bez sterownika<br>ślepa wylewka<br>schody lane żelbetowe na poddasze<br>woda oraz kanalizacja rozprowadzone w poziomie po parterze<br>gaz oraz energia elektryczna w skrzynkach na budynku<br><br>II. STAN DEWELOPERSKI:<br>ścianki działowe na parterze i poddaszu<br>rozprowadzone w budynku wszystkie media (parter i poddasze)<br>tynki wewnętrzne cementowo-wapienne lub gipsowe oraz właściwe <br>wylewki z zewnątrz <br>budynek ocieplony styropianem 20cm oraz elewacja<br>montaż podbicia dachowego<br>montaż parapetów zewnętrznych<br>poddasze ocieplone wełną mineralną 25 cm na przekładkę oraz wykończone płytami g-k<br>wykonana instalacja centralnego ogrzewania wraz z zamontowanymi grzejnikami (poza łazienką dolną i górną - te kaloryfery we własnym zakresie) oraz z zamontowanym piecem gazowym<br>kostka brukowa na podjeździe zgodnie z zagospodarowaniem terenu<br><br>III. DODATKOWE PRACE NA ŻYCZENIE KLIENTA<br>rolety zewnętrzne na wszystkie okna sterowane pilotem - 12 000 zł<br>Przesuwne drzwi tarasowe - 10 000 zł<br>Drzwi właściwe wejściowe z przeszkleniem - 6 000 zł<br>Ogrzewanie na parterze - 6 000 zł<br>Ogrzewanie na piętrze - 6 000 zł<br>Inne dodatki do uzgodnienia<br><br><br>",
+        "elevator": null,
+        "floor_no": null,
+        "garage": 1,
+        "garage_parking_price": null,
+        "short_description": "Szeregówka Karkonoska 499 000 zł segment środkowy",
+        "headerAdvertisement": "Szeregówka Karkonoska 499 000 zł segment środkowy",
+        "kitchen_type": "Open",
+        "location_name": "/Podkarpackie/Rzeszów",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "",
+        "material": "AirBrick",
+        "mortgage_market": "Primary",
+        "no_of_rooms": 4,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": null,
+        "price_m2": 5206.05,
+        "provision_amount": 0,
+        "section": "HouseSale",
+        "status": "Active",
+        "statusChangeDate": "2025-01-09 14:22:58",
+        "total_area": 95.85,
+        "plot_area_a": 1.35,
+        "lotForm": null,
+        "lotType": null,
+        "year_built": 2025,
+        "street_name": null,
+        "street_full_name": null,
+        "images": [
+            {
+                "id": 106219567,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103179054,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 103158744,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106219568,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "50/17058/ODS",
+        "no_of_floors": 1,
+        "actualisation_date": "2025-09-22 14:21:18",
+        "agentId": 72795,
+        "last_updated": "2025-09-22 14:35:45"
+    },
+    {
         "id": 11891807,
         "title": "",
         "price": 899000,
@@ -67,7 +132,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-09-22 14:00:39",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:04:42"
+        "last_updated": "2025-09-22 14:35:18"
     },
     {
         "id": 12121502,
@@ -182,7 +247,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-09-22 13:59:43",
         "agentId": 74243,
-        "last_updated": "2025-09-22 14:02:20"
+        "last_updated": "2025-09-22 14:32:53"
     },
     {
         "id": 12161368,
@@ -232,7 +297,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-09-22 13:59:16",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:15:15"
+        "last_updated": "2025-09-22 14:45:54"
     },
     {
         "id": 12162728,
@@ -317,7 +382,7 @@
         "no_of_floors": 11,
         "actualisation_date": "2025-09-22 13:59:01",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:15:17"
+        "last_updated": "2025-09-22 14:45:57"
     },
     {
         "id": 12198151,
@@ -477,7 +542,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-09-22 13:58:43",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:17:20"
+        "last_updated": "2025-09-22 14:48:17"
     },
     {
         "id": 12201478,
@@ -622,7 +687,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-22 13:57:54",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:17:30"
+        "last_updated": "2025-09-22 14:48:24"
     },
     {
         "id": 12227970,
@@ -747,7 +812,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-22 13:57:20",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:18:21"
+        "last_updated": "2025-09-22 14:49:06"
     },
     {
         "id": 12310728,
@@ -822,7 +887,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-09-22 13:53:39",
         "agentId": 77474,
-        "last_updated": "2025-09-22 14:06:14"
+        "last_updated": "2025-09-22 14:37:07"
     },
     {
         "id": 12326944,
@@ -887,7 +952,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-09-22 13:42:34",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:03:02"
+        "last_updated": "2025-09-22 14:33:35"
     },
     {
         "id": 12343051,
@@ -1177,7 +1242,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-22 13:42:03",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:06:24"
+        "last_updated": "2025-09-22 14:37:14"
     },
     {
         "id": 12347690,
@@ -1267,7 +1332,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-09-22 13:41:33",
         "agentId": 77474,
-        "last_updated": "2025-09-22 14:00:12"
+        "last_updated": "2025-09-22 14:30:10"
     },
     {
         "id": 12321680,
@@ -1377,7 +1442,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-09-22 12:58:35",
         "agentId": 76926,
-        "last_updated": "2025-09-22 14:02:31"
+        "last_updated": "2025-09-22 14:33:04"
     },
     {
         "id": 12336563,
@@ -1467,7 +1532,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-09-22 12:16:30",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:14:09"
+        "last_updated": "2025-09-22 14:44:47"
     },
     {
         "id": 12198131,
@@ -1597,7 +1662,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-22 11:25:45",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:17:18"
+        "last_updated": "2025-09-22 14:48:14"
     },
     {
         "id": 12304777,
@@ -1702,7 +1767,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-09-22 11:00:35",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:05:25"
+        "last_updated": "2025-09-22 14:36:04"
     },
     {
         "id": 11973063,
@@ -1822,7 +1887,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-09-22 10:46:42",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:10:33"
+        "last_updated": "2025-09-22 14:41:10"
     },
     {
         "id": 12343626,
@@ -1832,7 +1897,7 @@
         "building_type": "Mieszkanie",
         "isForSaleOrRental": true,
         "country_name": "Polska",
-        "description": "Biuro nieruchomości<b> Eagles Estate</b> prezentuje Państwu 3-pokojowe mieszkanie o powierzchni 68 m², usytuowane na 2. piętrze 3-piętrowego bloku mieszkalnego z 1959 roku.<br> Nieruchomość położona jest w Rzeszowie przy ul. <b>Hetmańskiej</b>, w spokojnej okolicy z dużą ilością zieleni i bardzo blisko ścisłego <b>centrum miasta</b>.<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI</b>: <ul> <li> 3 osobne, słoneczne pokoje<br> </li> <li> oddzielna kuchnia<br> </li> <li> garderoba<br> </li> <li> spiżarnia<br> </li> <li> łazienka z oknem<br> </li> <li> osobne WC<br> </li> <li> 2 przedpokoje<br> </li> <li>balkon typu loggia</li></ul>Do mieszkania przynależy również piwnica o pow. 7 m², ogólnodostępna suszar­nia na 4. piętrze oraz boks w garażu podziemnym.<br><br><b> ATUTY NIERUCHOMOŚCI</b>: <ul> <li> ekspozycja północ–wschód–południe – dobrze doświetlone pomieszczenia<br> </li> <li> blok ocieplony, z wyremontowaną elewacją<br> </li> <li> centralne ogrzewanie i ciepła woda z sieci miejskiej<br> </li> <li> dostępne miejsca postojowe przed blokiem – parking zamykany szlabanem na pilota<br> </li> <li> bardzo dobra lokalizacja: park Bulwary, stadion miejski, Politechnika, przedszkola, szkoły, przychodnia, apteka, sklepy, przystanki autobusowe – wszystko w zasięgu krótkiego spaceru<br> </li> <li> mieszkanie z dużym potencjałem aranżacyjnym – idealne do własnej adaptacji<br> </li></ul><br><ul> </ul><b> INFORMACJE DODATKOWE</b>:<br><ul> </ul>  To mieszkanie to doskonała propozycja dla osób szukających lokum z potencjałem w świetnej lokalizacji – zarówno dla rodziny, jak i jako inwestycja pod wynajem.<br><br> Po więcej informacji<b> zapraszam do kontaktu</b>.<br> Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
+        "description": "Biuro nieruchomości<b> Eagles Estate</b> prezentuje Państwu 3-pokojowe mieszkanie o powierzchni 68 m², usytuowane na 2. piętrze 3-piętrowego bloku mieszkalnego z 1959 roku.<br> Nieruchomość położona jest w Rzeszowie przy ul. <b>Hetmańskiej</b>, w spokojnej okolicy z dużą ilością zieleni i bardzo blisko ścisłego <b>centrum miasta</b>.<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI</b>: <ul> <li> 3 osobne, słoneczne pokoje<br> </li> <li> oddzielna kuchnia<br> </li> <li> garderoba<br> </li> <li> spiżarnia<br> </li> <li> łazienka z oknem<br> </li> <li> osobne WC<br> </li> <li> 2 przedpokoje<br> </li> <li>balkon typu loggia</li></ul>Do mieszkania przynależy również piwnica o pow. 7 m², ogólnodostępna suszar­nia na 4. piętrze oraz boks w garażu podziemnym.<br><br><b> ATUTY NIERUCHOMOŚCI</b>: <ul> <li> ekspozycja północ–wschód–południe – dobrze doświetlone pomieszczenia<br> </li> <li> blok ocieplony, z wyremontowaną elewacją<br> </li> <li> centralne ogrzewanie i ciepła woda z sieci miejskiej<br> </li> <li> dostępne miejsca postojowe przed blokiem – parking zamykany szlabanem na pilota<br> </li> <li> bardzo dobra lokalizacja: park Bulwary, stadion miejski, Politechnika, przedszkola, szkoły, przychodnia, apteka, sklepy, przystanki autobusowe – wszystko w zasięgu krótkiego spaceru<br> </li> <li> mieszkanie z dużym potencjałem aranżacyjnym – idealne do własnej adaptacji<br> </li></ul><br><ul> </ul><ul> </ul>&nbsp;To mieszkanie to doskonała propozycja dla osób szukających lokum z potencjałem w świetnej lokalizacji – zarówno dla rodziny, jak i jako inwestycja pod wynajem.<br><br> Po więcej informacji<b> zapraszam do kontaktu</b>.<br> Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
         "elevator": 0,
         "floor_no": 2,
         "garage": 0,
@@ -1942,7 +2007,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-09-22 10:08:19",
         "agentId": 76926,
-        "last_updated": "2025-09-22 14:06:26"
+        "last_updated": "2025-09-22 14:37:16"
     },
     {
         "id": 12061200,
@@ -1952,7 +2017,7 @@
         "building_type": "Mieszkanie",
         "isForSaleOrRental": true,
         "country_name": "Polska",
-        "description": "Biuro nieruchomości <b>Eagles Estate</b> prezentuje Państwu 2-pokojowe mieszkanie o powierzchni 44 m², usytuowane na 6. piętrze wysokiego, nowoczesnego apartamentowca (z windą), wybudowanego w 2023 roku, zlokalizowanego przy al. Wacława Kopisto w Rzeszowie. Mieszkanie znajduje się w ścisłym centrum miasta, w pobliżu Zamku, Rynku, Filharmonii oraz Hali Podpromie, i posiada doskonały dostęp do terenów rekreacyjnych nad Wisłokiem, ścieżek rowerowych, sklepów, restauracji, Millenium Hall oraz komunikacji miejskiej.<br><b>  W SKŁAD NIERUCHOMOŚCI WCHODZI: </b><ul> <li> Salon z aneksem kuchennym (23,08 m²) z wyjściem na balkon (3,25 m²)<br> </li> <li> Sypialnia (10,10 m²)<br> </li> <li> Łazienka (3,67 m²)<br> </li> <li> Komunikacja z garderobą (7,15 m²)<br> </li> </ul><b>  ATUTY NIERUCHOMOŚCI: </b><ul> <li> Nowe, nigdy niezamieszkałe mieszkanie – wykończone w wysokim standardzie<br> </li> <li> Pełne umeblowanie i sprzęt AGD na gwarancji – gotowe do wprowadzenia od zaraz<br> </li> <li> Prestiżowa lokalizacja – al. Kopisto w centrum Rzeszowa – blisko uczelni, sklepów i terenów zielonych<br> </li> <li> Klimatyzacja, ogrzewanie podłogowe w łazience i przedpokoju – komfort przez cały rok<br> </li> </ul><b><br></b>Mieszkanie przy al. Wacława Kopisto to połączenie <b>nowoczesnego designu</b>, funkcjonalności i doskonałej lokalizacji. Wnętrza zostały zaprojektowane z dbałością o detale i wykończone materiałami wysokiej jakości. Przestronny salon z aneksem kuchennym tworzy przyjazną strefę dzienną, a sypialnia zapewnia wygodę i prywatność. Garderoba w komunikacji to dodatkowy atut zwiększający funkcjonalność. Balkon z 6. piętra oferuje przyjemny widok na miasto, a prestiżowy apartamentowiec z ochroną i monitoringiem gwarantuje <b>bezpieczeństwo</b>. Bliskość terenów nad Wisłokiem i Millenium Hall czyni tę ofertę atrakcyjną dla osób ceniących miejski styl życia i szybki dostęp do rozrywki oraz rekreacji.<br><br>  Po więcej informacji zapraszam do kontaktu.<br> Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br><br>",
+        "description": "Biuro nieruchomości <b>Eagles Estate</b> prezentuje Państwu 2-pokojowe mieszkanie o powierzchni 44 m², usytuowane na 6. piętrze wysokiego, nowoczesnego apartamentowca (z windą), wybudowanego w 2023 roku, zlokalizowanego przy al. Wacława Kopisto w Rzeszowie. Mieszkanie znajduje się w ścisłym centrum miasta, w pobliżu Zamku, Rynku, Filharmonii oraz Hali Podpromie, i posiada doskonały dostęp do terenów rekreacyjnych nad Wisłokiem, ścieżek rowerowych, sklepów, restauracji, Millenium Hall oraz komunikacji miejskiej.<br><b>  W SKŁAD NIERUCHOMOŚCI WCHODZI: </b><ul> <li> Salon z aneksem kuchennym (23,08 m²) z wyjściem na balkon (3,25 m²)<br> </li> <li> Sypialnia (10,10 m²)<br> </li> <li> Łazienka (3,67 m²)<br> </li> <li> Komunikacja z garderobą (7,15 m²)<br> </li> </ul><b>  ATUTY NIERUCHOMOŚCI: </b><ul> <li> Nowe, nigdy niezamieszkałe mieszkanie – wykończone w wysokim standardzie<br> </li> <li> Pełne umeblowanie i sprzęt AGD na gwarancji – gotowe do wprowadzenia od zaraz<br> </li> <li> Prestiżowa lokalizacja – al. Kopisto w centrum Rzeszowa – blisko uczelni, sklepów i terenów zielonych<br> </li> <li> Klimatyzacja, ogrzewanie podłogowe w łazience i przedpokoju – komfort przez cały rok<br> </li> </ul><b><br></b>Mieszkanie przy al. Wacława Kopisto to połączenie <b>nowoczesnego designu</b>, funkcjonalności i doskonałej lokalizacji. Wnętrza zostały zaprojektowane z dbałością o detale i wykończone materiałami wysokiej jakości. Przestronny salon z aneksem kuchennym tworzy przyjazną strefę dzienną, a sypialnia zapewnia wygodę i prywatność. Garderoba w komunikacji to dodatkowy atut zwiększający funkcjonalność. Balkon z 6. piętra oferuje przyjemny widok na miasto, a prestiżowy apartamentowiec z ochroną i monitoringiem gwarantuje <b>bezpieczeństwo</b>. Bliskość terenów nad Wisłokiem i Millenium Hall czyni tę ofertę atrakcyjną dla osób ceniących miejski styl życia i szybki dostęp do rozrywki oraz rekreacji.<br><br>  Po więcej informacji <b>zapraszam do kontaktu</b>.<br> Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br><br>",
         "elevator": 1,
         "floor_no": 6,
         "garage": 0,
@@ -2032,7 +2097,7 @@
         "no_of_floors": 13,
         "actualisation_date": "2025-09-22 09:56:27",
         "agentId": 76926,
-        "last_updated": "2025-09-22 14:13:33"
+        "last_updated": "2025-09-22 14:44:14"
     },
     {
         "id": 12174334,
@@ -2212,7 +2277,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-21 21:43:49",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:16:12"
+        "last_updated": "2025-09-22 14:46:55"
     },
     {
         "id": 12350483,
@@ -2317,7 +2382,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-09-21 17:16:17",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:01:20"
+        "last_updated": "2025-09-22 14:31:53"
     },
     {
         "id": 12336794,
@@ -2327,7 +2392,7 @@
         "building_type": "Mieszkanie",
         "isForSaleOrRental": true,
         "country_name": "Polska",
-        "description": "Biuro nieruchomości <b>Eagles Estate</b> prezentuje Państwu wyjątkową nieruchomość o łącznej powierzchni ok. <b>200 m²</b>, składającą się z <b>dwóch niezależnych mieszkań</b> w jednej kamienicy, położonej w samym <b>centrum Jarosławia</b>. Nieruchomość posiada dodatkowy atut w postaci <b>prywatnego ogrodu</b> o powierzchni ok. 4 arów.<br>  W SKŁAD NIERUCHOMOŚCI WCHODZI:<br><br><b>I piętro </b>– 122,4 m²<br> <ul><li>4 pokoje (z czego 2 są zrobione z poddasza)</li> <li> jasne, przestronne wnętrza po generalnym remoncie<br> </li> <li> gotowe do zamieszkania od zaraz<br> </li> <li> funkcjonalny układ pomieszczeń – idealne dla większej (nawet 3-pokoleniowej) rodziny<br> </li></ul><br><ul> </ul><b> Parter</b> – około 62 m²&nbsp;<br> <ul><li>2 pokoje</li> <li> wymaga kapitalnego remontu,<br> </li> <li> możliwość zrobienia niezależnego wejścia,<br> </li><li>sprawny kominek na drewno</li> <li> daje duże możliwości aranżacyjne – lokal mieszkalny, gabinet, biuro lub pracownia.<br> </li> </ul><ul><li>pięknie zagospodarowana przestrzeń z zadbaną zielenią, krzewami i drzewami owocowymi,</li></ul><br><ul> </ul><b>  ATUTY NIERUCHOMOŚCI</b>: <ul> <li> przedwojenna architektura z duszą, wysokie sufity i solidne mury,<br> </li> <li> atrakcyjna lokalizacja – ścisłe centrum Jarosławia, jedynie 5 minut pieszo od Rynku, sklepów, szkół i przedszkoli,</li> <li> możliwość różnorodnego wykorzystania:<ul> <li> połączenie funkcji mieszkalnej i usługowej,<br> </li> </ul> </li> <li> brak czynszu – nieruchomość bez dodatkowych opłat administracyjnych,<br> </li><li>ogród – ok. 4 ary<br><ul></ul></li><li>dodatkowym pomieszczeniem może stać się duża, 16m² piwnica</li> <li>dostępne media: prąd, gaz, internet.<br> </li><li>duża drewniana altana, huśtawka, alejka z kamiennych płyt, idealne miejsce do odpoczynku, zabawy dla dzieci czy spotkań towarzyskich.</li> </ul>  Do nieruchomości przynależy piwnica, balkon, pomieszczenia użytkowe, a także ogród. Istnieje możliwość parkowania samochodu.<br><br><b>DODATKOWY OPIS NIERUCHOMOŚCI:<br></b>Nieruchomość przy ul. Legionów 3 to rzadko spotykana okazja – kamienica z klimatem i dużym prywatnym ogrodem w samym sercu Jarosławia. Piętro jest po generalnym remoncie i nadaje się do natychmiastowego zamieszkania, natomiast parter wymaga kapitalnego remontu i daje duże możliwości aranżacyjne. To idealna propozycja dla rodzin poszukujących przestrzeni, lub osób marzących o klimatycznej kamienicy z własnym ogrodem. Kamienice można podzielić na 2 mieszkania z całkowicie niezależnymi wejściami<br><br>Po więcej informacji <b>zapraszam do kontaktu.</b><br> Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
+        "description": "Biuro nieruchomości <b>Eagles Estate</b> prezentuje Państwu wyjątkową nieruchomość o łącznej powierzchni ok. <b>200 m²</b>, składającą się z <b>dwóch niezależnych mieszkań</b> w jednej kamienicy, położonej w samym <b>centrum Jarosławia</b>. Nieruchomość posiada dodatkowy atut w postaci <b>prywatnego ogrodu</b> o powierzchni ok. 4 arów.<br>  W SKŁAD NIERUCHOMOŚCI WCHODZI:<br><br><b>I piętro </b>– 122,4 m²<br> <ul><li>4 pokoje (z czego 2 są zrobione z poddasza)</li> <li> jasne, przestronne wnętrza po generalnym remoncie<br> </li> <li> gotowe do zamieszkania od zaraz<br> </li> <li> funkcjonalny układ pomieszczeń – idealne dla większej (nawet 3-pokoleniowej) rodziny<br> </li></ul><br><ul> </ul><b> Parter</b> – około 62 m²&nbsp;<br> <ul><li>2 pokoje</li> <li> wymaga kapitalnego remontu,<br> </li> <li> możliwość zrobienia niezależnego wejścia,<br> </li><li>sprawny kominek na drewno</li> <li> daje duże możliwości aranżacyjne – lokal mieszkalny, gabinet, biuro lub pracownia.<br> </li> </ul><ul><li>pięknie zagospodarowana przestrzeń z zadbaną zielenią, krzewami i drzewami owocowymi,</li></ul><br><ul> </ul><b>  ATUTY NIERUCHOMOŚCI</b>: <ul> <li> przedwojenna architektura z duszą, wysokie sufity i solidne mury,<br> </li> <li> atrakcyjna lokalizacja – ścisłe centrum Jarosławia, jedynie 5 minut pieszo od Rynku, sklepów, szkół i przedszkoli,</li> <li> możliwość różnorodnego wykorzystania:<ul> <li> połączenie funkcji mieszkalnej i usługowej,<br> </li> </ul> </li> <li> brak czynszu – nieruchomość bez dodatkowych opłat administracyjnych,<br> </li><li>ogród – ok. 4 ary<br><ul></ul></li><li>dodatkowym pomieszczeniem może stać się duża, 16m² piwnica</li> <li>dostępne media: prąd, gaz, internet.<br> </li><li>duża drewniana altana, huśtawka, alejka z kamiennych płyt, idealne miejsce do odpoczynku, zabawy dla dzieci czy spotkań towarzyskich.</li> </ul>  Do nieruchomości przynależy piwnica, balkon, pomieszczenia użytkowe, a także ogród. Istnieje możliwość parkowania samochodu.<br><br>Nieruchomość przy ul. Legionów to rzadko spotykana okazja – kamienica z klimatem i dużym prywatnym ogrodem w samym sercu Jarosławia. Piętro jest po generalnym remoncie i nadaje się do natychmiastowego zamieszkania, natomiast parter wymaga kapitalnego remontu i daje duże możliwości aranżacyjne. To idealna propozycja dla rodzin poszukujących przestrzeni, lub osób marzących o klimatycznej kamienicy z własnym ogrodem. Kamienice można podzielić na 2 mieszkania z całkowicie niezależnymi wejściami<br><br>Po więcej informacji <b>zapraszam do kontaktu.</b><br> Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
         "elevator": 0,
         "floor_no": 1,
         "garage": 1,
@@ -2452,7 +2517,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-19 17:32:18",
         "agentId": 76926,
-        "last_updated": "2025-09-22 14:14:28"
+        "last_updated": "2025-09-22 14:45:06"
     },
     {
         "id": 12341881,
@@ -2572,7 +2637,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-09-19 15:26:45",
         "agentId": 77474,
-        "last_updated": "2025-09-22 14:19:53"
+        "last_updated": "2025-09-22 14:50:52"
     },
     {
         "id": 12340367,
@@ -2697,7 +2762,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-09-19 15:06:18",
         "agentId": 77474,
-        "last_updated": "2025-09-22 14:17:28"
+        "last_updated": "2025-09-22 14:48:22"
     },
     {
         "id": 12351503,
@@ -2787,7 +2852,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-09-19 14:30:56",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:01:23"
+        "last_updated": "2025-09-22 14:31:56"
     },
     {
         "id": 12174340,
@@ -2872,7 +2937,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-19 12:42:00",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:16:14"
+        "last_updated": "2025-09-22 14:47:01"
     },
     {
         "id": 12017007,
@@ -2977,7 +3042,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-09-19 11:31:39",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:12:26"
+        "last_updated": "2025-09-22 14:43:03"
     },
     {
         "id": 12230356,
@@ -3082,7 +3147,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-09-19 10:15:56",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:18:28"
+        "last_updated": "2025-09-22 14:49:15"
     },
     {
         "id": 12253501,
@@ -3192,7 +3257,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-09-19 09:07:07",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:19:31"
+        "last_updated": "2025-09-22 14:50:29"
     },
     {
         "id": 12338738,
@@ -3352,7 +3417,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-09-18 14:58:54",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:15:09"
+        "last_updated": "2025-09-22 14:45:51"
     },
     {
         "id": 11951483,
@@ -3442,7 +3507,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-09-18 14:15:20",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:09:50"
+        "last_updated": "2025-09-22 14:40:28"
     },
     {
         "id": 11951457,
@@ -3537,7 +3602,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-09-18 14:12:31",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:09:47"
+        "last_updated": "2025-09-22 14:40:25"
     },
     {
         "id": 12181741,
@@ -3612,7 +3677,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-18 14:07:48",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:16:38"
+        "last_updated": "2025-09-22 14:47:26"
     },
     {
         "id": 12196400,
@@ -3687,7 +3752,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-18 13:11:46",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:17:03"
+        "last_updated": "2025-09-22 14:47:50"
     },
     {
         "id": 11974578,
@@ -3802,7 +3867,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-18 13:02:24",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:10:43"
+        "last_updated": "2025-09-22 14:41:20"
     },
     {
         "id": 11929382,
@@ -3917,7 +3982,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-18 13:00:18",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:05:14"
+        "last_updated": "2025-09-22 14:35:51"
     },
     {
         "id": 11929886,
@@ -4027,7 +4092,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-09-17 16:04:50",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:05:20"
+        "last_updated": "2025-09-22 14:35:59"
     },
     {
         "id": 12024984,
@@ -4037,7 +4102,7 @@
         "building_type": "Mieszkanie",
         "isForSaleOrRental": true,
         "country_name": "Polska",
-        "description": "Biuro nieruchomości<b> Eagles Estate</b> ma przyjemność zaprezentować Państwu <b>2-pokojowe </b>mieszkanie zlokalizowane przy <b>ul. Warszawskiej</b> w Rzeszowie.<br>Nieruchomość o powierzchni <b>39,11m2 </b>usytuowana jest na 8 piętrze w 10 piętrowym bloku z windą wybudowanym w 1975 roku. Mieszkanie dla pary lub dla inwestora.&nbsp;<br>Nieruchomość znajduję się w świetnej lokalizacji, jest w pełni umeblowana i wyposażona. To idealne rozwiązanie dla osób poszukujących gotowego do zamieszkania mieszkania lub mieszkania inwestycyjnego.&nbsp;<br><br><b>UKŁAD MIESZKANIA:</b><br><ul><li>2 oddzielne pokoje,</li><li>łazienka,<br></li><li>kuchnia,</li><li>przedpokój,</li><li>balkon</li></ul>Do mieszkania przynależy piwnica&nbsp;<br><br><b>ATUTY NIERUCHOMOŚCI:</b><br>-&nbsp;doskonała lokalizacja zapewnia łatwy dostęp do wszystkich części miasta<br>-&nbsp;bliskość licznych terenów zielonych&nbsp;<br>- mieszkanie przeszło gruntowny remont<br><b><br>LOKALIZACJA:</b><br>Osiedle 1000-lecia to jedna z najbardziej pożądanych lokalizacji w Rzeszowie, łącząca wygodę życia w mieście z bliskością terenów zielonych. W okolicy znajdują się liczne punkty handlowo-usługowe, m.in.:<br><ul><li>sklepy spożywcze<br></li><li>drogerie&nbsp;</li><li>restauracje&nbsp;<br></li><li>przystanki autobusowe<br></li></ul><br><br>Zapraszamy do kontaktu oraz prezentacji nieruchomości.<br><i>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości. </i><br><br>",
+        "description": "Biuro nieruchomości<b> Eagles Estate</b> ma przyjemność zaprezentować Państwu <b>2-pokojowe </b>mieszkanie zlokalizowane przy <b>ul. Warszawskiej</b> w Rzeszowie.<br>Nieruchomość o powierzchni <b>39,11m2 </b>usytuowana jest na 8 piętrze w 10 piętrowym bloku z windą wybudowanym w 1975 roku. Mieszkanie dla pary lub dla inwestora.&nbsp;<br>Nieruchomość znajduję się w świetnej lokalizacji, jest w pełni umeblowana i wyposażona. To idealne rozwiązanie dla osób poszukujących gotowego do zamieszkania mieszkania lub mieszkania inwestycyjnego.&nbsp;<br><br><b>UKŁAD MIESZKANIA:</b><br><ul><li>2 oddzielne pokoje,</li><li>łazienka,<br></li><li>kuchnia,</li><li>przedpokój,</li><li>balkon</li></ul>Do mieszkania przynależy piwnica&nbsp;<br><br><b>ATUTY NIERUCHOMOŚCI:</b><br>-&nbsp;doskonała lokalizacja zapewnia łatwy dostęp do wszystkich części miasta<br>-&nbsp;bliskość licznych terenów zielonych&nbsp;<br>- mieszkanie przeszło gruntowny remont<br><b><br>LOKALIZACJA:</b><br>Osiedle 1000-lecia to jedna z najbardziej pożądanych lokalizacji w Rzeszowie, łącząca wygodę życia w mieście z bliskością terenów zielonych. W okolicy znajdują się liczne punkty handlowo-usługowe, m.in.:<br><ul><li>sklepy spożywcze<br></li><li>drogerie&nbsp;</li><li>restauracje&nbsp;<br></li><li>przystanki autobusowe</li></ul><br><br>Po więcej informacji zapraszam do kontaktu.&nbsp;<br><i>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości. </i><br><br>",
         "elevator": 1,
         "floor_no": 8,
         "garage": 0,
@@ -4112,7 +4177,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-09-17 15:42:31",
         "agentId": 76926,
-        "last_updated": "2025-09-22 14:11:16"
+        "last_updated": "2025-09-22 14:41:48"
     },
     {
         "id": 12340531,
@@ -4212,7 +4277,7 @@
         "no_of_floors": 5,
         "actualisation_date": "2025-09-17 14:46:59",
         "agentId": 77474,
-        "last_updated": "2025-09-22 14:18:23"
+        "last_updated": "2025-09-22 14:49:08"
     },
     {
         "id": 12241418,
@@ -4287,7 +4352,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-17 12:17:43",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:13:46"
+        "last_updated": "2025-09-22 14:44:26"
     },
     {
         "id": 12330655,
@@ -4362,7 +4427,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-09-17 11:58:43",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:11:19"
+        "last_updated": "2025-09-22 14:41:50"
     },
     {
         "id": 12331437,
@@ -4532,7 +4597,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-09-17 11:39:11",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:12:22"
+        "last_updated": "2025-09-22 14:42:56"
     },
     {
         "id": 11999908,
@@ -4617,7 +4682,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-17 10:49:02",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:11:32"
+        "last_updated": "2025-09-22 14:42:12"
     },
     {
         "id": 11999441,
@@ -4722,7 +4787,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-17 10:40:54",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:11:25"
+        "last_updated": "2025-09-22 14:41:59"
     },
     {
         "id": 12182516,
@@ -4802,7 +4867,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-17 09:45:29",
         "agentId": 74243,
-        "last_updated": "2025-09-22 14:16:44"
+        "last_updated": "2025-09-22 14:47:32"
     },
     {
         "id": 12346317,
@@ -4927,7 +4992,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-09-16 16:41:07",
         "agentId": 77474,
-        "last_updated": "2025-09-22 14:00:10"
+        "last_updated": "2025-09-22 14:30:08"
     },
     {
         "id": 11935221,
@@ -5007,7 +5072,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-09-16 15:23:39",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:06:28"
+        "last_updated": "2025-09-22 14:37:19"
     },
     {
         "id": 11935282,
@@ -5087,7 +5152,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-09-16 15:21:13",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:06:52"
+        "last_updated": "2025-09-22 14:37:24"
     },
     {
         "id": 11935316,
@@ -5162,7 +5227,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-09-16 15:17:55",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:06:58"
+        "last_updated": "2025-09-22 14:37:31"
     },
     {
         "id": 11946045,
@@ -5252,7 +5317,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-09-16 14:58:42",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:08:37"
+        "last_updated": "2025-09-22 14:39:05"
     },
     {
         "id": 11946084,
@@ -5347,7 +5412,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-09-16 14:57:30",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:08:45"
+        "last_updated": "2025-09-22 14:39:14"
     },
     {
         "id": 11964770,
@@ -5442,7 +5507,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-16 14:56:53",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:10:04"
+        "last_updated": "2025-09-22 14:40:41"
     },
     {
         "id": 11976307,
@@ -5512,7 +5577,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-09-16 14:55:05",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:05:03"
+        "last_updated": "2025-09-22 14:35:42"
     },
     {
         "id": 11976491,
@@ -5582,7 +5647,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-09-16 14:54:16",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:07:52"
+        "last_updated": "2025-09-22 14:38:23"
     },
     {
         "id": 11981775,
@@ -5677,7 +5742,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-16 14:50:16",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:11:00"
+        "last_updated": "2025-09-22 14:41:40"
     },
     {
         "id": 11983760,
@@ -5757,7 +5822,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-09-16 14:49:33",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:01:01"
+        "last_updated": "2025-09-22 14:31:31"
     },
     {
         "id": 11988372,
@@ -5862,7 +5927,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-16 14:45:02",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:02:37"
+        "last_updated": "2025-09-22 14:33:10"
     },
     {
         "id": 12003042,
@@ -5962,7 +6027,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-16 14:43:07",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:11:49"
+        "last_updated": "2025-09-22 14:42:27"
     },
     {
         "id": 12046235,
@@ -6067,7 +6132,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-09-16 14:40:49",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:01:33"
+        "last_updated": "2025-09-22 14:32:11"
     },
     {
         "id": 12047996,
@@ -6162,7 +6227,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-09-16 14:34:00",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:13:24"
+        "last_updated": "2025-09-22 14:44:02"
     },
     {
         "id": 12164141,
@@ -6237,7 +6302,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-09-16 14:26:55",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:15:33"
+        "last_updated": "2025-09-22 14:46:17"
     },
     {
         "id": 12164172,
@@ -6317,7 +6382,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-09-16 14:26:12",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:15:38"
+        "last_updated": "2025-09-22 14:46:25"
     },
     {
         "id": 12182647,
@@ -6392,7 +6457,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-16 14:24:36",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:16:40"
+        "last_updated": "2025-09-22 14:47:28"
     },
     {
         "id": 12198489,
@@ -6482,7 +6547,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-09-16 14:23:17",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:17:15"
+        "last_updated": "2025-09-22 14:48:02"
     },
     {
         "id": 12296197,
@@ -6687,7 +6752,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-16 14:03:01",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:04:22"
+        "last_updated": "2025-09-22 14:35:01"
     },
     {
         "id": 11940575,
@@ -6792,7 +6857,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-16 11:52:03",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:07:33"
+        "last_updated": "2025-09-22 14:38:02"
     },
     {
         "id": 12279890,
@@ -6872,7 +6937,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-09-15 15:48:16",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:03:46"
+        "last_updated": "2025-09-22 14:34:26"
     },
     {
         "id": 12330399,
@@ -7022,7 +7087,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-15 14:10:49",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:11:04"
+        "last_updated": "2025-09-22 14:41:45"
     },
     {
         "id": 12321887,
@@ -7137,7 +7202,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-09-15 13:09:55",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:02:33"
+        "last_updated": "2025-09-22 14:33:06"
     },
     {
         "id": 12342255,
@@ -7267,7 +7332,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-09-13 16:35:33",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:19:55"
+        "last_updated": "2025-09-22 14:50:54"
     },
     {
         "id": 12291429,
@@ -7362,7 +7427,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-09-12 11:20:05",
         "agentId": 76926,
-        "last_updated": "2025-09-22 14:04:18"
+        "last_updated": "2025-09-22 14:34:53"
     },
     {
         "id": 12179685,
@@ -7427,7 +7492,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-12 10:45:52",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:16:25"
+        "last_updated": "2025-09-22 14:47:16"
     },
     {
         "id": 12264298,
@@ -7547,7 +7612,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-09-11 14:11:04",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:19:44"
+        "last_updated": "2025-09-22 14:50:48"
     },
     {
         "id": 12252909,
@@ -7657,7 +7722,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-11 13:51:16",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:19:25"
+        "last_updated": "2025-09-22 14:50:24"
     },
     {
         "id": 12134910,
@@ -7827,7 +7892,7 @@
         "no_of_floors": 5,
         "actualisation_date": "2025-09-11 13:50:51",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:14:59"
+        "last_updated": "2025-09-22 14:45:42"
     },
     {
         "id": 11990302,
@@ -7922,7 +7987,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-09-11 13:16:07",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:19:38"
+        "last_updated": "2025-09-22 14:50:41"
     },
     {
         "id": 12181203,
@@ -7997,7 +8062,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-11 13:14:46",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:16:30"
+        "last_updated": "2025-09-22 14:47:20"
     },
     {
         "id": 12179603,
@@ -8062,72 +8127,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-11 12:58:25",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:16:22"
-    },
-    {
-        "id": 11976362,
-        "title": "",
-        "price": 499000,
-        "is_special": 0,
-        "building_type": "Dom",
-        "isForSaleOrRental": true,
-        "country_name": "Polska",
-        "description": "Biuro Eagles Estate przedstawia nowe osiedle domów w zabudowie bliźniaczej i szeregowej przy ul. Karkonoskiej.<br><br>Osiedle to, to 8 domów w zabudowie szeregowej oraz 4 domy w zabudowie bliźniaczej&nbsp;&nbsp;o powierzchni użytkowej&nbsp;95,85 m2&nbsp;wybudowanych na działkach o powierzchniach od 1,35 ara do 2,71 ar, z łatwym i szybkim dojazdem do centrum miasta. Projekty domów zostały starannie przemyślane tak, aby na całej powierzchni uzyskać trzy pokoje, dwie łazienki, przestronny salon z kuchnią oraz garaż jednostanowiskowy.<br><br>Oferta dotyczy domu nr 4 w zabudowie szeregowej o pow. 95,85 m2 i o pow. działki 135 m2&nbsp;<br><br>Domy będą sprzedawane w stanie surowym zamkniętym, bądź deweloperskim- za dopłatą 200 000 zł<br><br>Standard Wykonania<br><br>I. STAN SUROWY ZAMKNIĘTY:<br><br>budynek wykonany z czerwonego pustaka gr 25cm<br>ławy fundamentowe lane żelbetowe<br>ściany fundamentowe wykonane z bloczku betonowego<br>izolacja przeciwwilgociowa i termiczna fundamentów<br>dach pokryty blachodachówką kolor grafit<br>impregnacja konstrukcji dachowej<br>kominy systemowe<br>okna PCV 3 szybowe<br>drzwi wejściowe do budynku- budowlane<br>brama garażowa ocieplana w kolorze grafitowym- bez sterownika<br>ślepa wylewka<br>schody lane żelbetowe na poddasze<br>woda oraz kanalizacja rozprowadzone w poziomie po parterze<br>gaz oraz energia elektryczna w skrzynkach na budynku<br><br>II. STAN DEWELOPERSKI:<br>ścianki działowe na parterze i poddaszu<br>rozprowadzone w budynku wszystkie media (parter i poddasze)<br>tynki wewnętrzne cementowo-wapienne lub gipsowe oraz właściwe <br>wylewki z zewnątrz <br>budynek ocieplony styropianem 20cm oraz elewacja<br>montaż podbicia dachowego<br>montaż parapetów zewnętrznych<br>poddasze ocieplone wełną mineralną 25 cm na przekładkę oraz wykończone płytami g-k<br>wykonana instalacja centralnego ogrzewania wraz z zamontowanymi grzejnikami (poza łazienką dolną i górną - te kaloryfery we własnym zakresie) oraz z zamontowanym piecem gazowym<br>kostka brukowa na podjeździe zgodnie z zagospodarowaniem terenu<br><br>III. DODATKOWE PRACE NA ŻYCZENIE KLIENTA<br>rolety zewnętrzne na wszystkie okna sterowane pilotem - 12 000 zł<br>Przesuwne drzwi tarasowe - 10 000 zł<br>Drzwi właściwe wejściowe z przeszkleniem - 6 000 zł<br>Ogrzewanie na parterze - 6 000 zł<br>Ogrzewanie na piętrze - 6 000 zł<br>Inne dodatki do uzgodnienia<br><br><br>",
-        "elevator": null,
-        "floor_no": null,
-        "garage": 1,
-        "garage_parking_price": null,
-        "short_description": "Szeregówka Karkonoska 499 000 zł segment środkowy",
-        "headerAdvertisement": "Szeregówka Karkonoska 499 000 zł segment środkowy",
-        "kitchen_type": "Open",
-        "location_name": "/Podkarpackie/Rzeszów",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "",
-        "material": "AirBrick",
-        "mortgage_market": "Primary",
-        "no_of_rooms": 4,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": null,
-        "price_m2": 5206.05,
-        "provision_amount": 0,
-        "section": "HouseSale",
-        "status": "Active",
-        "statusChangeDate": "2025-01-09 14:22:58",
-        "total_area": 95.85,
-        "plot_area_a": 1.35,
-        "lotForm": null,
-        "lotType": null,
-        "year_built": 2025,
-        "street_name": null,
-        "street_full_name": null,
-        "images": [
-            {
-                "id": 106219567,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103179054,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 103158744,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106219568,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "50/17058/ODS",
-        "no_of_floors": 1,
-        "actualisation_date": "2025-09-11 11:56:49",
-        "agentId": 72795,
-        "last_updated": "2025-09-22 14:05:05"
+        "last_updated": "2025-09-22 14:47:05"
     },
     {
         "id": 11990349,
@@ -8212,7 +8212,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-11 11:50:00",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:19:50"
+        "last_updated": "2025-09-22 14:50:50"
     },
     {
         "id": 12063690,
@@ -8307,7 +8307,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-09-11 08:43:06",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:13:35"
+        "last_updated": "2025-09-22 14:44:16"
     },
     {
         "id": 12023481,
@@ -8427,7 +8427,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-09-10 12:58:49",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:12:50"
+        "last_updated": "2025-09-22 14:43:29"
     },
     {
         "id": 12022712,
@@ -8542,7 +8542,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-09-10 12:55:40",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:12:46"
+        "last_updated": "2025-09-22 14:43:25"
     },
     {
         "id": 12182775,
@@ -8552,7 +8552,7 @@
         "building_type": "Mieszkanie",
         "isForSaleOrRental": true,
         "country_name": "Polska",
-        "description": "Biuro nieruchomości <b>Eagles Estate</b> ma przyjemność zaprezentować Państwu przestronne 3 pokojowe mieszkanie o powierzchni 71,43 m², zlokalizowane na 16. piętrze w wysokim, nowo powstałym bloku z windą. Nieruchomość znajduje się przy ul. <b>Żołnierzy 9 Dywizji Piechoty</b>. Mieszkanie cieszy się doskonałą lokalizacją, zapewniając szybki dostęp do centrum miasta (12 min) oraz obwodnicy S19 (4 min) i autostrady A4 (7 min).<br><br><b> W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br> <ul> <li> przestronny salon z aneksem kuchennym<br> </li> <li> garderoba<br> </li> <li> biuro<br> </li> <li> sypialnia<br> </li> <li> łazienka<br> </li> <li>przedpokój</li></ul><br>&nbsp;<b>ATUTY NIERUCHOMOŚCI:</b><br> <ul> <li> wyjątkowy widok na zieloną, spokojną okolicę<br> </li> <li> doskonałe doświetlenie dzięki południowo-zachodniej ekspozycji<br> </li> <li>2 miejsca postojowe w garażu podziemnym (możliwość wykluczenia z oferty)<br> </li> <li> komórka lokatorska o powierzchni 4,79 m²<br> </li> <li> bliskość placu zabaw, siłowni zewnętrznej oraz lokali usługowych<br> </li> <li> mieszkanie sprzedawane z pełnym wyposażeniem widocznym na zdjęciach<br> </li> <li> gotowe do wprowadzenia<br></li><li>klimatyzacja&nbsp;</li> </ul><br>Do mieszkania przynależy komórka lokatorska oraz 2 miejsca postojowe w garażu podziemnym (zakup nie jest obowiązkowy).<br><br>Po więcej informacji zapraszam do kontaktu.<br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
+        "description": "Biuro nieruchomości <b>Eagles Estate</b> ma przyjemność zaprezentować Państwu przestronne 3 pokojowe mieszkanie o powierzchni 71,43 m², zlokalizowane na 16. piętrze w wysokim, nowo powstałym bloku z windą. Nieruchomość znajduje się przy ul. <b>Żołnierzy 9 Dywizji Piechoty</b>. Mieszkanie cieszy się doskonałą lokalizacją, zapewniając dostęp do centrum miasta, obwodnicy S19 czy autostrady A4.<br><br><b> W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br> <ul> <li> przestronny salon z aneksem kuchennym<br> </li> <li> garderoba<br> </li> <li> biuro<br> </li> <li> sypialnia<br> </li> <li> łazienka<br> </li> <li>przedpokój</li></ul><br>&nbsp;<b>ATUTY NIERUCHOMOŚCI:</b><br> <ul> <li> wyjątkowy widok na zieloną, spokojną okolicę<br> </li> <li> doskonałe doświetlenie dzięki południowo-zachodniej ekspozycji<br> </li> <li>2 miejsca postojowe w garażu podziemnym (możliwość wykluczenia z oferty)<br> </li> <li> komórka lokatorska o powierzchni 4,79 m²<br> </li> <li> bliskość placu zabaw, siłowni zewnętrznej oraz lokali usługowych<br> </li> <li> mieszkanie sprzedawane z pełnym wyposażeniem widocznym na zdjęciach<br> </li> <li> gotowe do wprowadzenia<br></li><li>klimatyzacja&nbsp;</li> </ul><br>Do mieszkania przynależy komórka lokatorska oraz 2 miejsca postojowe w garażu podziemnym (zakup nie jest obowiązkowy).<br><br>Po więcej informacji <b>zapraszam do kontaktu</b>.<br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
         "elevator": 1,
         "floor_no": 16,
         "garage": 1,
@@ -8677,7 +8677,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-09-10 09:29:51",
         "agentId": 76926,
-        "last_updated": "2025-09-22 14:16:42"
+        "last_updated": "2025-09-22 14:47:30"
     },
     {
         "id": 12103735,
@@ -8767,7 +8767,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-10 09:14:18",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:14:21"
+        "last_updated": "2025-09-22 14:45:02"
     },
     {
         "id": 12280603,
@@ -8897,7 +8897,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-09 19:13:34",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:03:51"
+        "last_updated": "2025-09-22 14:34:28"
     },
     {
         "id": 12246719,
@@ -8967,7 +8967,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-09-09 14:50:43",
         "agentId": 77474,
-        "last_updated": "2025-09-22 14:18:55"
+        "last_updated": "2025-09-22 14:49:45"
     },
     {
         "id": 12338003,
@@ -9107,7 +9107,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-09 10:21:28",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:15:07"
+        "last_updated": "2025-09-22 14:45:49"
     },
     {
         "id": 12121375,
@@ -9192,7 +9192,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-09-08 15:41:15",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:02:18"
+        "last_updated": "2025-09-22 14:32:51"
     },
     {
         "id": 12319703,
@@ -9312,7 +9312,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-09-08 12:57:41",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:00:17"
+        "last_updated": "2025-09-22 14:30:18"
     },
     {
         "id": 12304965,
@@ -9412,7 +9412,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-09-08 11:41:17",
         "agentId": 77474,
-        "last_updated": "2025-09-22 14:05:30"
+        "last_updated": "2025-09-22 14:36:07"
     },
     {
         "id": 11999793,
@@ -9472,7 +9472,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-08 11:31:25",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:11:27"
+        "last_updated": "2025-09-22 14:42:01"
     },
     {
         "id": 12310112,
@@ -9677,7 +9677,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-08 10:20:10",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:06:07"
+        "last_updated": "2025-09-22 14:36:52"
     },
     {
         "id": 12319753,
@@ -9792,7 +9792,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-09-08 10:08:35",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:00:19"
+        "last_updated": "2025-09-22 14:30:42"
     },
     {
         "id": 12147305,
@@ -9877,7 +9877,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-09-05 16:15:42",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:15:04"
+        "last_updated": "2025-09-22 14:45:44"
     },
     {
         "id": 12318804,
@@ -10007,7 +10007,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-09-05 13:33:54",
         "agentId": 77474,
-        "last_updated": "2025-09-22 14:06:19"
+        "last_updated": "2025-09-22 14:37:11"
     },
     {
         "id": 12306781,
@@ -10092,7 +10092,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-09-05 10:45:28",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:05:32"
+        "last_updated": "2025-09-22 14:36:18"
     },
     {
         "id": 12288008,
@@ -10292,7 +10292,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-09-05 10:36:29",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:03:53"
+        "last_updated": "2025-09-22 14:34:30"
     },
     {
         "id": 12183596,
@@ -10302,7 +10302,7 @@
         "building_type": "Mieszkanie",
         "isForSaleOrRental": true,
         "country_name": "Polska",
-        "description": "Biuro nieruchomości Eagles Estate prezentuje Państwu 2-pokojowe mieszkanie o powierzchni 41 m², usytuowane na 1 piętrze w nowoczesnym bloku z windą, wybudowanym w 2024 roku. Nieruchomość znajduje się w Osiedlu Dworzysko Park przy ul. Technologicznej w Rzeszowie. Mieszkanie dostępne jest od ręki.<br><br> W SKŁAD NIERUCHOMOŚCI WCHODZI:<br> <ul> <li> Salon z aneksem kuchennym<br> </li> <li> Sypialnia<br> </li> <li> Łazienka<br> </li><li>Przedpokój</li> <li> Balkon<br> </li> </ul><br>&nbsp;ATUTY NIERUCHOMOŚCI:<br> <ul> <li> Wysoki standard wykończenia<br> </li> <li> Mieszkanie w pełni umeblowane i wyposażone w sprzęty AGD&nbsp;<br> </li> <li> Nowoczesne budownictwo z 2024 roku, z windą<br> </li> <li> Bezpieczeństwo zapewnia wideofon<br> </li> <li>Duży balkon, idealny do wypoczynku na świeżym powietrzu&nbsp;<br> </li> </ul><br>&nbsp;Dodatkowe informacje:<br> <ul> <li> Mieszkanie dostępne od września<br> </li> <li> Niskie koszty utrzymania<br> </li> <li> Bliskość terenów rekreacyjnych i dogodna komunikacja<br> </li> </ul><br> Po więcej informacji zapraszam do kontaktu.<br><br>&nbsp;Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
+        "description": "Biuro nieruchomości Eagles Estate prezentuje Państwu 2-pokojowe mieszkanie o powierzchni 41 m², usytuowane na 1 piętrze w nowoczesnym bloku z windą, wybudowanym w 2024 roku. Nieruchomość znajduje się w Osiedlu Dworzysko Park przy ul. Technologicznej w Rzeszowie. Mieszkanie dostępne jest od ręki.<br><br> W SKŁAD NIERUCHOMOŚCI WCHODZI:<br> <ul> <li> Salon z aneksem kuchennym<br> </li> <li> Sypialnia<br> </li> <li> Łazienka<br> </li><li>Przedpokój</li> <li> Balkon<br> </li> </ul><br>&nbsp;ATUTY NIERUCHOMOŚCI:<br> <ul> <li> Wysoki standard wykończenia<br> </li> <li> Mieszkanie w pełni umeblowane i wyposażone w sprzęty AGD&nbsp;<br> </li> <li> Nowoczesne budownictwo z 2024 roku, z windą<br> </li> <li> Bezpieczeństwo zapewnia wideofon<br> </li> <li>Duży balkon, idealny do wypoczynku na świeżym powietrzu&nbsp;<br> </li> </ul><br>&nbsp;Dodatkowe informacje:<br> <ul> <li> Mieszkanie dostępne od września<br> </li> <li> Niskie koszty utrzymania<br> </li> <li> Bliskość terenów rekreacyjnych i dogodna komunikacja<br> </li> </ul><br> Po więcej informacji <b>zapraszam do kontaktu</b>.<br>&nbsp;Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
         "elevator": 1,
         "floor_no": 1,
         "garage": 0,
@@ -10387,7 +10387,7 @@
         "no_of_floors": 12,
         "actualisation_date": "2025-09-04 13:54:26",
         "agentId": 76926,
-        "last_updated": "2025-09-22 14:16:49"
+        "last_updated": "2025-09-22 14:47:35"
     },
     {
         "id": 11976775,
@@ -10457,7 +10457,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-04 11:18:11",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:10:52"
+        "last_updated": "2025-09-22 14:41:30"
     },
     {
         "id": 12330782,
@@ -10562,7 +10562,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-03 11:00:59",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:11:38"
+        "last_updated": "2025-09-22 14:42:18"
     },
     {
         "id": 12252823,
@@ -10572,7 +10572,7 @@
         "building_type": "Mieszkanie",
         "isForSaleOrRental": true,
         "country_name": "Polska",
-        "description": "Biuro Nieruchomości <b>Eagles Estate</b> prezentuje Państwu 3-pokojowe mieszkanie o powierzchni 68 m² usytuowane na 3 piętrze niskiego bloku, wybudowanego w 2009 roku. Nieruchomość zlokalizowana jest przy ul. Gromskiego na osiedlu Staromieście w Rzeszowie.<br> Mieszkanie znajduje się w cichej i spokojnej części miasta, z pięknym widokiem na panoramę Rzeszowa oraz most Mazowieckiego.<br><br><b> W SKŁAD NIERUCHOMOŚCI WCHODZI: </b><ul> <li> salon z aneksem kuchennym<br> </li> <li> 2 oddzielne pokoje<br> </li> <li> łazienka<br> </li> <li>toaleta<br> </li> <li> garderoba<br> </li> <li> przedpokój<br> </li> </ul><br><b>&nbsp;ATUTY NIERUCHOMOŚCI</b>: <ul> <li> funkcjonalny układ pomieszczeń – osobne sypialnie, salon z aneksem kuchennym<br> </li> <li> garderoba zapewniająca dodatkową przestrzeń do przechowywania<br> </li> <li> przepiękny widok na panoramę miasta i most Mazowieckiego<br> </li> <li> niska zabudowa – kameralny blok&nbsp;</li> <li> spokojna i dobrze skomunikowana okolica – szybki dojazd do centrum Rzeszowa</li> </ul><br><br> Mieszkanie <b>idealne</b> dla rodzin, par lub jako inwestycja pod wynajem. Rozkład pozwala na <b>wygodne zagospodarowanie przestrzeni</b>, a dodatkowa garderoba to praktyczne udogodnienie. Dużym atutem jest widok z okien, który rozciąga się na <b>całe miasto</b> oraz nowoczesny most Mazowieckiego.&nbsp; Staromieście zapewnia ciszę, spokój oraz dobrą infrastrukturę.<br><br>&nbsp;Po więcej informacji zapraszam do kontaktu.<br>&nbsp;Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
+        "description": "Biuro Nieruchomości <b>Eagles Estate</b> prezentuje Państwu 3-pokojowe mieszkanie o powierzchni 68 m² usytuowane na 3 piętrze niskiego bloku, wybudowanego w 2009 roku. Nieruchomość zlokalizowana jest przy ul. Gromskiego na osiedlu Staromieście w Rzeszowie.<br> Mieszkanie znajduje się w<b> cichej i spokojne</b>j części miasta, z pięknym widokiem na panoramę Rzeszowa oraz most Mazowieckiego.<br><br><b> W SKŁAD NIERUCHOMOŚCI WCHODZI: </b><ul> <li> salon z aneksem kuchennym<br> </li> <li> 2 oddzielne pokoje<br> </li> <li> łazienka<br> </li> <li>toaleta<br> </li> <li> garderoba<br> </li> <li> przedpokój<br> </li> </ul><br><b>&nbsp;ATUTY NIERUCHOMOŚCI</b>: <ul> <li> funkcjonalny układ pomieszczeń – osobne sypialnie, salon z aneksem kuchennym<br> </li> <li> garderoba zapewniająca dodatkową przestrzeń do przechowywania<br> </li> <li> przepiękny widok na panoramę miasta i most Mazowieckiego<br> </li> <li> niska zabudowa – kameralny blok&nbsp;</li> <li> spokojna i dobrze skomunikowana okolica – szybki dojazd do centrum Rzeszowa</li> </ul><br><br> Mieszkanie <b>idealne</b> dla rodzin, par lub jako inwestycja pod wynajem. Rozkład pozwala na <b>wygodne zagospodarowanie przestrzeni</b>, a dodatkowa garderoba to praktyczne udogodnienie. Dużym atutem jest widok z okien, który rozciąga się na <b>całe miasto</b> oraz nowoczesny most Mazowieckiego.&nbsp; Staromieście zapewnia ciszę, spokój oraz dobrą infrastrukturę.<br><br>&nbsp;Po więcej informacji <b>zapraszam do kontaktu</b>.<br>&nbsp;Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
         "elevator": 0,
         "floor_no": 3,
         "garage": 0,
@@ -10667,7 +10667,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-09-02 16:36:30",
         "agentId": 76926,
-        "last_updated": "2025-09-22 14:19:23"
+        "last_updated": "2025-09-22 14:50:13"
     },
     {
         "id": 11990059,
@@ -10752,7 +10752,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-09-01 18:33:16",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:04:49"
+        "last_updated": "2025-09-22 14:35:29"
     },
     {
         "id": 11981173,
@@ -10842,7 +10842,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-09-01 18:33:06",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:10:57"
+        "last_updated": "2025-09-22 14:41:34"
     },
     {
         "id": 12103068,
@@ -10942,7 +10942,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-09-01 18:32:35",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:14:23"
+        "last_updated": "2025-09-22 14:45:04"
     },
     {
         "id": 12204942,
@@ -11072,7 +11072,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-09-01 16:17:13",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:17:40"
+        "last_updated": "2025-09-22 14:48:33"
     },
     {
         "id": 11932313,
@@ -11272,7 +11272,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-09-01 13:00:32",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:06:05"
+        "last_updated": "2025-09-22 14:36:45"
     },
     {
         "id": 11896304,
@@ -11362,7 +11362,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-09-01 12:07:24",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:04:44"
+        "last_updated": "2025-09-22 14:35:24"
     },
     {
         "id": 12291528,
@@ -11372,13 +11372,13 @@
         "building_type": "Mieszkanie",
         "isForSaleOrRental": true,
         "country_name": "Polska",
-        "description": "Biuro nieruchomości Eagles Estate prezentuje Państwu 1-pokojowe mieszkanie o powierzchni 34,84 m², usytuowane na 2. piętrze niskiego bloku, wybudowanego w latach 60.<br> Nieruchomość zlokalizowana jest przy pl. Ofiar Getta na osiedlu Śródmieście.<br> Mieszkanie znajduje się w niedalekiej odległości od Rynku, terenów zielonych, a także posiada doskonały dostęp do pełnej infrastruktury miejskiej: sklepów, kawiarni, restauracji, aptek oraz przystanków komunikacji miejskiej.<br><br>W SKŁAD NIERUCHOMOŚCI WCHODZI:<br> <ul> <li> salon<br> </li> <li> oddzielna kuchnia<br> </li> <li> łazienka z WC<br> </li> <li> przedpokój<br> </li> </ul><br>&nbsp;ATUTY NIERUCHOMOŚCI:<br> <ul> <li> centrum miasta<br> </li> <li> gotowe do wprowadzenia<br> </li> <li> idealne pod inwestycję<br> </li> </ul><br>&nbsp;Do mieszkania przynależy piwnica oraz miejsce postojowe za szlabanem (dla mieszkańców).<br> Mieszkanie jest w pełni umeblowane i wyposażone – idealna propozycja zarówno do zamieszkania, jak i jako lokata kapitału. Układ z oddzielną kuchnią zwiększa komfort użytkowania oraz atrakcyjność najmu.<br><br>&nbsp;Po więcej informacji zapraszam do kontaktu.<br><br>&nbsp;Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
+        "description": "Biuro nieruchomości <b>Eagles Estate</b> prezentuje Państwu 1-pokojowe mieszkanie o powierzchni 34,84 m², usytuowane na 2. piętrze niskiego bloku, wybudowanego w latach 60.<br> Nieruchomość zlokalizowana jest przy pl. Ofiar Getta na osiedlu Śródmieście.<br> Mieszkanie znajduje się w niedalekiej odległości od <b>Rynku</b>, terenów zielonych, a także posiada doskonały dostęp do pełnej infrastruktury miejskiej: sklepów, kawiarni, restauracji, aptek oraz przystanków komunikacji miejskiej.<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI:<br> </b><ul> <li> salon<br> </li> <li> oddzielna kuchnia<br> </li> <li> łazienka z WC<br> </li> <li> przedpokój<br> </li> </ul><br><b>&nbsp;ATUTY NIERUCHOMOŚCI:<br> </b><ul> <li> centrum miasta<br> </li> <li> gotowe do wprowadzenia<br> </li> <li> idealne pod inwestycję<br> </li> </ul><br>Do mieszkania przynależy <b>piwnica</b> oraz <b>miejsce postojowe za szlabanem</b> (dla mieszkańców).<br> Mieszkanie jest w pełni umeblowane i wyposażone – idealna propozycja zarówno do zamieszkania, jak i jako lokata kapitału. Układ z oddzielną kuchnią zwiększa komfort użytkowania oraz atrakcyjność najmu.<br><br><br>Po więcej informacji <b>zapraszam do kontaktu</b>.<br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
         "elevator": 0,
         "floor_no": 2,
         "garage": 0,
         "garage_parking_price": null,
-        "short_description": "Plac Ofiar Getta – inwestycyjna okazja.",
-        "headerAdvertisement": "Plac Ofiar Getta – inwestycyjna okazja.",
+        "short_description": "Plac Ofiar Getta – inwestycyjna okazja",
+        "headerAdvertisement": "Plac Ofiar Getta – inwestycyjna okazja",
         "kitchen_type": null,
         "location_name": "/Podkarpackie/Rzeszów/Śródmieście",
         "location_province": "Podkarpackie",
@@ -11447,7 +11447,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-29 12:08:43",
         "agentId": 76926,
-        "last_updated": "2025-09-22 14:04:20"
+        "last_updated": "2025-09-22 14:34:55"
     },
     {
         "id": 11969229,
@@ -11587,7 +11587,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-28 14:43:19",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:02:47"
+        "last_updated": "2025-09-22 14:33:18"
     },
     {
         "id": 12068607,
@@ -11742,7 +11742,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-28 13:24:58",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:13:43"
+        "last_updated": "2025-09-22 14:44:24"
     },
     {
         "id": 12207649,
@@ -11822,7 +11822,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-27 20:29:37",
         "agentId": 77474,
-        "last_updated": "2025-09-22 14:17:47"
+        "last_updated": "2025-09-22 14:48:41"
     },
     {
         "id": 12319657,
@@ -11982,7 +11982,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-27 14:38:27",
         "agentId": 77474,
-        "last_updated": "2025-09-22 14:00:15"
+        "last_updated": "2025-09-22 14:30:12"
     },
     {
         "id": 12070097,
@@ -12067,7 +12067,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-26 11:43:01",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:13:48"
+        "last_updated": "2025-09-22 14:44:28"
     },
     {
         "id": 12310252,
@@ -12257,7 +12257,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-08-23 15:36:00",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:06:12"
+        "last_updated": "2025-09-22 14:36:54"
     },
     {
         "id": 12195908,
@@ -12357,7 +12357,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-23 13:06:28",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:16:51"
+        "last_updated": "2025-09-22 14:47:39"
     },
     {
         "id": 12015333,
@@ -12442,7 +12442,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-22 23:12:46",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:12:20"
+        "last_updated": "2025-09-22 14:42:54"
     },
     {
         "id": 12302040,
@@ -12452,7 +12452,7 @@
         "building_type": "Mieszkanie",
         "isForSaleOrRental": true,
         "country_name": "Polska",
-        "description": "Biuro nieruchomości <b>Eagles Estate</b> prezentuje Państwu 3 pokojowe mieszkanie o powierzchni <b>65,30 m²</b>, usytuowane na 5. piętrze wysokiego bloku z windą. Nieruchomość zlokalizowana jest przy ul. Jacka Malczewskiego na osiedlu Kmity w Rzeszowie. Mieszkanie znajduje się w dynamicznie rozwijającej się części miasta, oferującej <b>doskonały dostęp do infrastruktury</b> – sklepy, szkoły, przystanki MPK, tereny zielone.<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI: </b><ul> <li> przestronny salon z panoramicznym widokiem<br> </li> <li> dwie niezależne sypialnie<br> </li> <li> osobna kuchnia<br> </li> <li> łazienka<br> </li> <li> osobna toaleta<br> </li> <li> przedpokój<br> </li> <li> balkon z ekspozycją na panoramę miasta<br> </li> <li> piwnica (w cenie)</li> </ul><br><br><b>  ATUTY NIERUCHOMOŚCI: </b><ul> <li> mieszkanie trzystronne, co zapewnia świetne doświetlenie i komfort użytkowy<br> </li> <li> piękny widok z balkonu, w tym panorama miasta i osiedla</li> <li> ogrzewanie miejskie, bez piecyka gazowego<br> </li> <li> jasna, oddzielna&nbsp; kuchnia – można zaaranżować według potrzeb<br> </li> <li> idealna lokalizacja – bliskość sklepów, szkół i transportu komunikacją miejską<br> </li> <li> blok zadbany z windą i dobrze utrzymanymi klatkami schodowymi</li></ul><br><br>Po więcej informacji zapraszam do kontaktu.<br> Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
+        "description": "Biuro nieruchomości <b>Eagles Estate</b> prezentuje Państwu 3 pokojowe mieszkanie o powierzchni <b>65,30 m²</b>, usytuowane na 5. piętrze wysokiego bloku z windą. Nieruchomość zlokalizowana jest przy ul. Jacka Malczewskiego na osiedlu Kmity w Rzeszowie. Mieszkanie znajduje się w dynamicznie rozwijającej się części miasta, oferującej <b>doskonały dostęp do infrastruktury</b> – sklepy, szkoły, przystanki MPK, tereny zielone.<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI: </b><ul> <li> przestronny salon z panoramicznym widokiem<br> </li> <li> dwie niezależne sypialnie<br> </li> <li> osobna kuchnia<br> </li> <li> łazienka<br> </li> <li> osobna toaleta<br> </li> <li> przedpokój<br> </li> <li> balkon z ekspozycją na panoramę miasta<br> </li> <li> piwnica (w cenie)</li> </ul><br><br><b>  ATUTY NIERUCHOMOŚCI: </b><ul> <li> mieszkanie trzystronne, co zapewnia świetne doświetlenie i komfort użytkowy<br> </li> <li> piękny widok z balkonu, w tym panorama miasta i osiedla</li> <li> ogrzewanie miejskie, bez piecyka gazowego<br> </li> <li> jasna, oddzielna&nbsp; kuchnia – można zaaranżować według potrzeb<br> </li> <li> idealna lokalizacja – bliskość sklepów, szkół i transportu komunikacją miejską<br> </li> <li> blok zadbany z windą i dobrze utrzymanymi klatkami schodowymi</li></ul><br><br>Po więcej informacji <b>zapraszam do kontaktu</b>.<br> Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
         "elevator": 1,
         "floor_no": 5,
         "garage": 0,
@@ -12537,7 +12537,7 @@
         "no_of_floors": 11,
         "actualisation_date": "2025-08-22 14:50:18",
         "agentId": 76926,
-        "last_updated": "2025-09-22 14:05:23"
+        "last_updated": "2025-09-22 14:36:02"
     },
     {
         "id": 12315974,
@@ -12742,7 +12742,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-08-22 12:20:16",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:06:17"
+        "last_updated": "2025-09-22 14:37:09"
     },
     {
         "id": 12101818,
@@ -12837,7 +12837,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-19 12:51:42",
         "agentId": 74243,
-        "last_updated": "2025-09-22 14:14:19"
+        "last_updated": "2025-09-22 14:44:58"
     },
     {
         "id": 12117244,
@@ -12902,7 +12902,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 12:48:30",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:01:08"
+        "last_updated": "2025-09-22 14:31:40"
     },
     {
         "id": 12023609,
@@ -13002,7 +13002,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-19 10:29:31",
         "agentId": 74243,
-        "last_updated": "2025-09-22 14:12:48"
+        "last_updated": "2025-09-22 14:43:27"
     },
     {
         "id": 12096686,
@@ -13087,7 +13087,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-19 10:24:01",
         "agentId": 74243,
-        "last_updated": "2025-09-22 14:14:04"
+        "last_updated": "2025-09-22 14:44:45"
     },
     {
         "id": 12120775,
@@ -13187,7 +13187,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-19 09:49:53",
         "agentId": 74243,
-        "last_updated": "2025-09-22 14:02:16"
+        "last_updated": "2025-09-22 14:32:48"
     },
     {
         "id": 12220827,
@@ -13332,7 +13332,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 09:47:25",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:18:02"
+        "last_updated": "2025-09-22 14:48:53"
     },
     {
         "id": 12208219,
@@ -13422,7 +13422,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-08-19 09:46:39",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:17:54"
+        "last_updated": "2025-09-22 14:48:44"
     },
     {
         "id": 12205021,
@@ -13512,7 +13512,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 09:46:14",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:17:42"
+        "last_updated": "2025-09-22 14:48:35"
     },
     {
         "id": 12201548,
@@ -13597,7 +13597,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 09:45:47",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:17:33"
+        "last_updated": "2025-09-22 14:48:26"
     },
     {
         "id": 12195964,
@@ -13682,7 +13682,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-19 09:45:26",
         "agentId": 74243,
-        "last_updated": "2025-09-22 14:16:58"
+        "last_updated": "2025-09-22 14:47:46"
     },
     {
         "id": 12197406,
@@ -13772,7 +13772,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-08-19 09:44:40",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:17:25"
+        "last_updated": "2025-09-22 14:48:20"
     },
     {
         "id": 12201608,
@@ -13907,7 +13907,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-19 09:43:50",
         "agentId": 74243,
-        "last_updated": "2025-09-22 14:17:35"
+        "last_updated": "2025-09-22 14:48:28"
     },
     {
         "id": 12125398,
@@ -14037,7 +14037,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-08-19 09:42:23",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:02:45"
+        "last_updated": "2025-09-22 14:33:16"
     },
     {
         "id": 12124316,
@@ -14132,7 +14132,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-19 09:41:56",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:02:35"
+        "last_updated": "2025-09-22 14:33:08"
     },
     {
         "id": 12300652,
@@ -14142,7 +14142,7 @@
         "building_type": "Mieszkanie",
         "isForSaleOrRental": true,
         "country_name": "Polska",
-        "description": "Biuro nieruchomości <b>Eagles Estate</b> prezentuje Państwu 3-pokojowe mieszkanie o powierzchni <b>66,80 m²,</b> usytuowane na 2. piętrze niskiego bloku bez windy, zlokalizowanego przy ul. <b>Krośnieńskiej</b> w Rzeszowie. Nieruchomość znajduje się na spokojnym, zielonym osiedlu z doskonałym dostępem do komunikacji miejskiej, szkół i sklepów – idealna lokalizacja zarówno dla rodzin, jak i osób poszukujących nieruchomości pod wynajem.<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI: </b><ul> <li> salon z wyjściem na balkon<br> </li> <li> osobna, jasna kuchnia<br> </li> <li> 2 niezależne sypialnie<br> </li> <li> łazienka z wanną<br> </li> <li>toaleta</li> <li> przedpokój<br> </li> <li> piwnica o powierzchni ok. 10 m²</li> </ul><br><br><b>  ATUTY NIERUCHOMOŚCI: </b><ul> <li> 3 niezależne pokoje – idealne dla rodziny lub pod wynajem<br> </li> <li> osobna kuchnia<br> </li> <li> duży balkon<br> </li> <li> osobna łazienka i WC – zwiększa komfort codziennego użytkowania<br> </li> <li> duża piwnica – ok. 10 m²<br> </li> <li> spokojna, dobrze skomunikowana okolica<br> </li> <li> pełna infrastruktura usługowo-edukacyjna w zasięgu spaceru<br> </li> </ul><br><br><b>  LOKALIZACJA: </b>W pobliżu znajdują się:<br>&nbsp;szkoła podstawowa<br>&nbsp;przedszkole<br>&nbsp;sklepy i punkty usługowe<br>&nbsp;przystanki MPK<br>&nbsp;place zabaw i tereny spacerowe<br><br>Funkcjonalne, ustawne mieszkanie z bardzo korzystnym układem – każde pomieszczenie jest niezależne. Duży balkon oraz osobna kuchnia to rzadkość w nowych inwestycjach.<br> Świetna opcja zarówno dla rodzin z dziećmi, jak i inwestorów szukających lokalu pod wynajem w dogodnej lokalizacji.<br> Mieszkanie nie wymaga dużych nakładów – jest gotowe do zamieszkania lub do odświeżenia według własnego gustu.<br>&nbsp;<br>Po więcej informacji zapraszam do kontaktu.<br> Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
+        "description": "Biuro nieruchomości <b>Eagles Estate</b> prezentuje Państwu 3-pokojowe mieszkanie o powierzchni <b>66,80 m²,</b> usytuowane na 2. piętrze niskiego bloku bez windy, zlokalizowanego przy ul. <b>Krośnieńskiej</b> w Rzeszowie. Nieruchomość znajduje się na spokojnym, zielonym osiedlu z doskonałym dostępem do komunikacji miejskiej, szkół i sklepów – idealna lokalizacja zarówno dla rodzin, jak i osób poszukujących nieruchomości pod wynajem.<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI: </b><ul> <li> salon z wyjściem na balkon<br> </li> <li> osobna, jasna kuchnia<br> </li> <li> 2 niezależne sypialnie<br> </li> <li> łazienka z wanną<br> </li> <li>toaleta</li> <li> przedpokój<br> </li> <li> piwnica o powierzchni ok. 10 m²</li> </ul><br><br><b>  ATUTY NIERUCHOMOŚCI: </b><ul> <li> 3 niezależne pokoje – idealne dla rodziny lub pod wynajem<br> </li> <li> osobna kuchnia<br> </li> <li> duży balkon<br> </li> <li> osobna łazienka i WC – zwiększa komfort codziennego użytkowania<br> </li> <li> duża piwnica – ok. 10 m²<br> </li> <li> spokojna, dobrze skomunikowana okolica<br> </li> <li> pełna infrastruktura usługowo-edukacyjna w zasięgu spaceru</li></ul><br><br>Funkcjonalne, ustawne mieszkanie z bardzo korzystnym układem – każde pomieszczenie jest <b>niezależne</b>. Duży balkon oraz osobna kuchnia to rzadkość w nowych inwestycjach.<br> Świetna opcja zarówno dla rodzin z dziećmi, jak i inwestorów szukających lokalu pod wynajem w dogodnej lokalizacji.<br> Mieszkanie nie wymaga dużych nakładów – jest gotowe do zamieszkania lub do odświeżenia według własnego gustu.<br>&nbsp;<br>Po więcej informacji <b>zapraszam do kontaktu</b>.<br> Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w sprzedaży/zakupie nieruchomości.<br>",
         "elevator": 0,
         "floor_no": 2,
         "garage": 0,
@@ -14232,7 +14232,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-19 09:41:29",
         "agentId": 76926,
-        "last_updated": "2025-09-22 14:04:31"
+        "last_updated": "2025-09-22 14:35:05"
     },
     {
         "id": 12047061,
@@ -14322,7 +14322,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-19 09:38:45",
         "agentId": 74395,
-        "last_updated": "2025-09-22 14:13:11"
+        "last_updated": "2025-09-22 14:43:51"
     },
     {
         "id": 11884666,
@@ -14422,7 +14422,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-13 15:02:05",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:03:37"
+        "last_updated": "2025-09-22 14:34:14"
     },
     {
         "id": 12108611,
@@ -14537,7 +14537,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-13 11:39:14",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:14:46"
+        "last_updated": "2025-09-22 14:45:27"
     },
     {
         "id": 12226346,
@@ -14662,7 +14662,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-13 09:58:26",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:18:19"
+        "last_updated": "2025-09-22 14:49:03"
     },
     {
         "id": 12046032,
@@ -14747,7 +14747,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-08-12 15:22:10",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:01:25"
+        "last_updated": "2025-09-22 14:31:58"
     },
     {
         "id": 12046057,
@@ -14852,7 +14852,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-12 15:21:08",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:01:27"
+        "last_updated": "2025-09-22 14:32:00"
     },
     {
         "id": 12299674,
@@ -14922,7 +14922,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-11 13:28:53",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:05:12"
+        "last_updated": "2025-09-22 14:35:49"
     },
     {
         "id": 11939038,
@@ -15022,7 +15022,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-11 11:48:50",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:07:09"
+        "last_updated": "2025-09-22 14:37:40"
     },
     {
         "id": 12239140,
@@ -15112,7 +15112,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-08-07 10:48:35",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:18:46"
+        "last_updated": "2025-09-22 14:49:33"
     },
     {
         "id": 12198463,
@@ -15217,7 +15217,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-07 09:28:38",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:17:12"
+        "last_updated": "2025-09-22 14:48:00"
     },
     {
         "id": 12300547,
@@ -15327,7 +15327,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-06 12:40:41",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:04:25"
+        "last_updated": "2025-09-22 14:35:03"
     },
     {
         "id": 12122950,
@@ -15382,7 +15382,7 @@
         "no_of_floors": 13,
         "actualisation_date": "2025-08-06 09:59:43",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:02:22"
+        "last_updated": "2025-09-22 14:32:55"
     },
     {
         "id": 12117411,
@@ -15452,7 +15452,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-05 13:41:40",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:01:13"
+        "last_updated": "2025-09-22 14:31:48"
     },
     {
         "id": 12288619,
@@ -15572,7 +15572,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-05 13:16:30",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:04:10"
+        "last_updated": "2025-09-22 14:34:45"
     },
     {
         "id": 12298645,
@@ -15672,7 +15672,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-08-05 12:08:28",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:04:33"
+        "last_updated": "2025-09-22 14:35:12"
     },
     {
         "id": 11932698,
@@ -15752,7 +15752,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-08-04 19:02:28",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:05:42"
+        "last_updated": "2025-09-22 14:36:25"
     },
     {
         "id": 11973264,
@@ -15822,7 +15822,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-04 18:40:23",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:10:36"
+        "last_updated": "2025-09-22 14:41:16"
     },
     {
         "id": 12003039,
@@ -15897,7 +15897,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-04 18:29:12",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:11:44"
+        "last_updated": "2025-09-22 14:42:22"
     },
     {
         "id": 12298035,
@@ -15987,7 +15987,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-08-04 12:18:25",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:04:15"
+        "last_updated": "2025-09-22 14:34:50"
     },
     {
         "id": 12224251,
@@ -16077,7 +16077,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-08-01 17:24:26",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:03:04"
+        "last_updated": "2025-09-22 14:33:37"
     },
     {
         "id": 12065816,
@@ -16157,7 +16157,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-07-31 15:51:32",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:12:58"
+        "last_updated": "2025-09-22 14:43:34"
     },
     {
         "id": 12065861,
@@ -16232,7 +16232,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-07-31 15:51:19",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:13:00"
+        "last_updated": "2025-09-22 14:43:40"
     },
     {
         "id": 12107390,
@@ -16307,7 +16307,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:49:39",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:14:34"
+        "last_updated": "2025-09-22 14:45:15"
     },
     {
         "id": 12107657,
@@ -16382,7 +16382,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:49:24",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:14:37"
+        "last_updated": "2025-09-22 14:45:17"
     },
     {
         "id": 12116693,
@@ -16452,7 +16452,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:48:51",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:01:03"
+        "last_updated": "2025-09-22 14:31:33"
     },
     {
         "id": 12116727,
@@ -16522,7 +16522,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:48:40",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:01:05"
+        "last_updated": "2025-09-22 14:31:38"
     },
     {
         "id": 12132803,
@@ -16602,7 +16602,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:47:08",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:04:55"
+        "last_updated": "2025-09-22 14:35:36"
     },
     {
         "id": 12250242,
@@ -16677,7 +16677,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:28:09",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:18:59"
+        "last_updated": "2025-09-22 14:49:51"
     },
     {
         "id": 12250243,
@@ -16752,7 +16752,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-31 15:27:29",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:19:05"
+        "last_updated": "2025-09-22 14:49:53"
     },
     {
         "id": 12253763,
@@ -16917,7 +16917,7 @@
         "no_of_floors": 16,
         "actualisation_date": "2025-07-30 09:53:53",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:19:33"
+        "last_updated": "2025-09-22 14:50:32"
     },
     {
         "id": 11974616,
@@ -17092,7 +17092,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-29 12:24:52",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:10:46"
+        "last_updated": "2025-09-22 14:41:22"
     },
     {
         "id": 11882210,
@@ -17182,7 +17182,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-28 14:23:41",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:03:25"
+        "last_updated": "2025-09-22 14:33:59"
     },
     {
         "id": 12278973,
@@ -17292,7 +17292,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-25 10:33:53",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:03:41"
+        "last_updated": "2025-09-22 14:34:18"
     },
     {
         "id": 12242522,
@@ -17402,7 +17402,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-24 12:28:06",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:02:00"
+        "last_updated": "2025-09-22 14:32:37"
     },
     {
         "id": 12279401,
@@ -17577,7 +17577,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-23 10:40:12",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:03:43"
+        "last_updated": "2025-09-22 14:34:23"
     },
     {
         "id": 12213928,
@@ -17627,7 +17627,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-23 10:27:41",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:17:57"
+        "last_updated": "2025-09-22 14:48:49"
     },
     {
         "id": 12286007,
@@ -17712,7 +17712,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-23 10:26:52",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:04:08"
+        "last_updated": "2025-09-22 14:34:43"
     },
     {
         "id": 12285845,
@@ -17822,7 +17822,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-23 08:05:54",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:04:03"
+        "last_updated": "2025-09-22 14:34:40"
     },
     {
         "id": 12285842,
@@ -17922,7 +17922,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-23 07:58:10",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:03:57"
+        "last_updated": "2025-09-22 14:34:37"
     },
     {
         "id": 12197287,
@@ -18017,7 +18017,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-22 16:32:33",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:17:10"
+        "last_updated": "2025-09-22 14:47:57"
     },
     {
         "id": 12285255,
@@ -18087,7 +18087,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-07-22 16:03:44",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:03:55"
+        "last_updated": "2025-09-22 14:34:35"
     },
     {
         "id": 12206451,
@@ -18257,7 +18257,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-22 10:15:25",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:17:45"
+        "last_updated": "2025-09-22 14:48:39"
     },
     {
         "id": 11870529,
@@ -18352,7 +18352,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-21 11:38:48",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:02:57"
+        "last_updated": "2025-09-22 14:33:27"
     },
     {
         "id": 11891290,
@@ -18447,7 +18447,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-15 12:29:59",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:04:35"
+        "last_updated": "2025-09-22 14:35:14"
     },
     {
         "id": 11891414,
@@ -18542,7 +18542,7 @@
         "no_of_floors": 10,
         "actualisation_date": "2025-07-15 12:28:54",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:04:37"
+        "last_updated": "2025-09-22 14:35:16"
     },
     {
         "id": 12271796,
@@ -18662,7 +18662,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-15 11:53:26",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:03:39"
+        "last_updated": "2025-09-22 14:34:16"
     },
     {
         "id": 12073870,
@@ -18747,7 +18747,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-07-08 17:47:11",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:13:52"
+        "last_updated": "2025-09-22 14:44:36"
     },
     {
         "id": 12233305,
@@ -18857,7 +18857,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 18:16:47",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:18:31"
+        "last_updated": "2025-09-22 14:49:17"
     },
     {
         "id": 12233360,
@@ -18967,7 +18967,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 18:16:35",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:18:34"
+        "last_updated": "2025-09-22 14:49:23"
     },
     {
         "id": 12259915,
@@ -19057,7 +19057,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 17:29:04",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:01:35"
+        "last_updated": "2025-09-22 14:32:13"
     },
     {
         "id": 12259099,
@@ -19152,7 +19152,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-07-03 16:19:13",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:19:40"
+        "last_updated": "2025-09-22 14:50:43"
     },
     {
         "id": 12263208,
@@ -19227,7 +19227,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 12:58:08",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:19:42"
+        "last_updated": "2025-09-22 14:50:46"
     },
     {
         "id": 12260335,
@@ -19312,7 +19312,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 12:44:13",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:01:37"
+        "last_updated": "2025-09-22 14:32:15"
     },
     {
         "id": 11982690,
@@ -19487,7 +19487,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 11:57:05",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:00:39"
+        "last_updated": "2025-09-22 14:31:14"
     },
     {
         "id": 11942394,
@@ -19572,7 +19572,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-07-03 10:12:14",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:08:16"
+        "last_updated": "2025-09-22 14:38:44"
     },
     {
         "id": 12074942,
@@ -19622,7 +19622,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-07-03 08:55:02",
         "agentId": 74243,
-        "last_updated": "2025-09-22 14:13:59"
+        "last_updated": "2025-09-22 14:44:39"
     },
     {
         "id": 12225225,
@@ -19747,7 +19747,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-07-02 12:28:57",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:18:16"
+        "last_updated": "2025-09-22 14:49:01"
     },
     {
         "id": 12244082,
@@ -19827,7 +19827,7 @@
         "no_of_floors": 0,
         "actualisation_date": "2025-07-01 08:41:48",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:18:52"
+        "last_updated": "2025-09-22 14:49:43"
     },
     {
         "id": 12131149,
@@ -20002,7 +20002,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-26 16:22:38",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:14:57"
+        "last_updated": "2025-09-22 14:45:39"
     },
     {
         "id": 12254049,
@@ -20112,7 +20112,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-25 12:30:44",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:19:28"
+        "last_updated": "2025-09-22 14:50:26"
     },
     {
         "id": 12252499,
@@ -20222,7 +20222,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-24 12:48:32",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:19:20"
+        "last_updated": "2025-09-22 14:50:02"
     },
     {
         "id": 12251299,
@@ -20332,7 +20332,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-23 15:08:20",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:19:14"
+        "last_updated": "2025-09-22 14:50:00"
     },
     {
         "id": 12251007,
@@ -20407,7 +20407,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:54:45",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:19:12"
+        "last_updated": "2025-09-22 14:49:58"
     },
     {
         "id": 12251003,
@@ -20477,7 +20477,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:34:05",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:19:07"
+        "last_updated": "2025-09-22 14:49:55"
     },
     {
         "id": 12250966,
@@ -20552,7 +20552,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-06-23 13:26:20",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:18:57"
+        "last_updated": "2025-09-22 14:49:49"
     },
     {
         "id": 11932116,
@@ -20632,7 +20632,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-06-23 11:13:22",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:05:52"
+        "last_updated": "2025-09-22 14:36:34"
     },
     {
         "id": 11932197,
@@ -20712,7 +20712,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-06-23 11:10:50",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:06:02"
+        "last_updated": "2025-09-22 14:36:43"
     },
     {
         "id": 11942057,
@@ -20797,7 +20797,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 11:09:16",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:08:00"
+        "last_updated": "2025-09-22 14:38:32"
     },
     {
         "id": 11970091,
@@ -20867,7 +20867,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:07:36",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:10:12"
+        "last_updated": "2025-09-22 14:40:48"
     },
     {
         "id": 11970097,
@@ -20937,7 +20937,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:07:11",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:10:14"
+        "last_updated": "2025-09-22 14:40:50"
     },
     {
         "id": 11970101,
@@ -21007,7 +21007,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:06:49",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:10:16"
+        "last_updated": "2025-09-22 14:40:52"
     },
     {
         "id": 11974234,
@@ -21077,7 +21077,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 11:06:24",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:10:38"
+        "last_updated": "2025-09-22 14:41:18"
     },
     {
         "id": 11982539,
@@ -21162,7 +21162,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:04:47",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:00:28"
+        "last_updated": "2025-09-22 14:30:56"
     },
     {
         "id": 11982597,
@@ -21247,7 +21247,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 11:04:10",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:00:30"
+        "last_updated": "2025-09-22 14:30:58"
     },
     {
         "id": 11982631,
@@ -21322,7 +21322,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-23 11:03:45",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:00:32"
+        "last_updated": "2025-09-22 14:31:04"
     },
     {
         "id": 11982660,
@@ -21397,7 +21397,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-23 11:03:15",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:00:35"
+        "last_updated": "2025-09-22 14:31:07"
     },
     {
         "id": 11982667,
@@ -21472,7 +21472,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-23 11:02:25",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:00:37"
+        "last_updated": "2025-09-22 14:31:09"
     },
     {
         "id": 11988684,
@@ -21572,7 +21572,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:58:36",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:02:50"
+        "last_updated": "2025-09-22 14:33:23"
     },
     {
         "id": 11991262,
@@ -21642,7 +21642,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:57:31",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:19:57"
+        "last_updated": "2025-09-22 14:50:56"
     },
     {
         "id": 11991275,
@@ -21712,7 +21712,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:57:06",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:20:00"
+        "last_updated": "2025-09-22 14:50:59"
     },
     {
         "id": 12006464,
@@ -21777,7 +21777,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:56:34",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:12:07"
+        "last_updated": "2025-09-22 14:42:44"
     },
     {
         "id": 12006475,
@@ -21847,7 +21847,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:56:11",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:12:12"
+        "last_updated": "2025-09-22 14:42:46"
     },
     {
         "id": 12047738,
@@ -21972,7 +21972,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-23 10:55:22",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:13:14"
+        "last_updated": "2025-09-22 14:43:53"
     },
     {
         "id": 12047959,
@@ -22082,7 +22082,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-23 10:54:56",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:13:21"
+        "last_updated": "2025-09-22 14:44:00"
     },
     {
         "id": 12167887,
@@ -22172,7 +22172,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-23 10:53:14",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:16:02"
+        "last_updated": "2025-09-22 14:46:47"
     },
     {
         "id": 11942225,
@@ -22252,7 +22252,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-23 10:08:56",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:08:03"
+        "last_updated": "2025-09-22 14:38:35"
     },
     {
         "id": 11950384,
@@ -22327,7 +22327,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:04:31",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:09:35"
+        "last_updated": "2025-09-22 14:40:06"
     },
     {
         "id": 11950388,
@@ -22402,7 +22402,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:03:57",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:09:43"
+        "last_updated": "2025-09-22 14:40:20"
     },
     {
         "id": 11976288,
@@ -22472,7 +22472,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-06-23 10:01:58",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:05:01"
+        "last_updated": "2025-09-22 14:35:39"
     },
     {
         "id": 12048843,
@@ -22587,7 +22587,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-22 17:05:18",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:13:31"
+        "last_updated": "2025-09-22 14:44:13"
     },
     {
         "id": 11966952,
@@ -22657,7 +22657,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:47:44",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:10:10"
+        "last_updated": "2025-09-22 14:40:43"
     },
     {
         "id": 11940324,
@@ -22732,7 +22732,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:46:03",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:07:27"
+        "last_updated": "2025-09-22 14:37:56"
     },
     {
         "id": 11942532,
@@ -22807,7 +22807,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-22 16:45:49",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:08:05"
+        "last_updated": "2025-09-22 14:38:37"
     },
     {
         "id": 12117566,
@@ -22882,7 +22882,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-22 16:38:45",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:01:15"
+        "last_updated": "2025-09-22 14:31:51"
     },
     {
         "id": 12165646,
@@ -22972,7 +22972,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-22 16:38:14",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:15:48"
+        "last_updated": "2025-09-22 14:46:32"
     },
     {
         "id": 12165653,
@@ -23062,7 +23062,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-22 15:42:08",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:15:50"
+        "last_updated": "2025-09-22 14:46:34"
     },
     {
         "id": 12063843,
@@ -23182,7 +23182,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-16 12:13:46",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:13:41"
+        "last_updated": "2025-09-22 14:44:22"
     },
     {
         "id": 12130277,
@@ -23317,7 +23317,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-06-16 10:51:15",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:14:54"
+        "last_updated": "2025-09-22 14:45:34"
     },
     {
         "id": 12006342,
@@ -23387,7 +23387,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:43:50",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:12:02"
+        "last_updated": "2025-09-22 14:42:40"
     },
     {
         "id": 12071964,
@@ -23457,7 +23457,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 15:07:00",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:13:50"
+        "last_updated": "2025-09-22 14:44:34"
     },
     {
         "id": 12166312,
@@ -23537,7 +23537,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 15:05:15",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:16:00"
+        "last_updated": "2025-09-22 14:46:45"
     },
     {
         "id": 12006360,
@@ -23627,7 +23627,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-12 14:29:09",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:12:04"
+        "last_updated": "2025-09-22 14:42:42"
     },
     {
         "id": 11873058,
@@ -23742,7 +23742,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-06-12 09:22:27",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:03:00"
+        "last_updated": "2025-09-22 14:33:32"
     },
     {
         "id": 11939123,
@@ -23812,7 +23812,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-11 09:19:30",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:07:11"
+        "last_updated": "2025-09-22 14:37:42"
     },
     {
         "id": 12237930,
@@ -23912,7 +23912,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-09 14:00:43",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:18:43"
+        "last_updated": "2025-09-22 14:49:30"
     },
     {
         "id": 12236296,
@@ -24012,7 +24012,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 15:21:48",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:18:38"
+        "last_updated": "2025-09-22 14:49:28"
     },
     {
         "id": 12235142,
@@ -24112,7 +24112,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-06 15:15:06",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:18:36"
+        "last_updated": "2025-09-22 14:49:26"
     },
     {
         "id": 12062536,
@@ -24162,7 +24162,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-06-05 15:20:40",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:09:55"
+        "last_updated": "2025-09-22 14:40:30"
     },
     {
         "id": 11940618,
@@ -24252,7 +24252,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:43:58",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:07:37"
+        "last_updated": "2025-09-22 14:38:15"
     },
     {
         "id": 11949561,
@@ -24337,7 +24337,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-04 09:37:26",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:09:24"
+        "last_updated": "2025-09-22 14:39:55"
     },
     {
         "id": 11949581,
@@ -24412,7 +24412,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-06-04 09:36:50",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:09:26"
+        "last_updated": "2025-09-22 14:39:58"
     },
     {
         "id": 12006107,
@@ -24522,7 +24522,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:32:29",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:11:51"
+        "last_updated": "2025-09-22 14:42:29"
     },
     {
         "id": 12174715,
@@ -24692,7 +24692,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:16:02",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:16:20"
+        "last_updated": "2025-09-22 14:47:02"
     },
     {
         "id": 12196425,
@@ -24777,7 +24777,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-04 09:14:36",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:17:05"
+        "last_updated": "2025-09-22 14:47:55"
     },
     {
         "id": 12229908,
@@ -24892,7 +24892,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-06-03 18:55:08",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:18:26"
+        "last_updated": "2025-09-22 14:49:13"
     },
     {
         "id": 11976787,
@@ -24962,7 +24962,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:34:55",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:10:55"
+        "last_updated": "2025-09-22 14:41:32"
     },
     {
         "id": 12048276,
@@ -25047,7 +25047,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-06-02 10:33:30",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:13:19"
+        "last_updated": "2025-09-22 14:43:55"
     },
     {
         "id": 12108087,
@@ -25122,7 +25122,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:31:43",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:14:39"
+        "last_updated": "2025-09-22 14:45:19"
     },
     {
         "id": 12108126,
@@ -25202,7 +25202,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:31:28",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:14:41"
+        "last_updated": "2025-09-22 14:45:25"
     },
     {
         "id": 12196031,
@@ -25327,7 +25327,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-06-02 10:29:04",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:17:01"
+        "last_updated": "2025-09-22 14:47:48"
     },
     {
         "id": 11970123,
@@ -25397,7 +25397,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-05-30 21:10:39",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:10:21"
+        "last_updated": "2025-09-22 14:40:54"
     },
     {
         "id": 12225525,
@@ -25502,7 +25502,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-05-29 10:00:34",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:18:14"
+        "last_updated": "2025-09-22 14:48:55"
     },
     {
         "id": 12003024,
@@ -25587,7 +25587,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-29 08:30:40",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:11:41"
+        "last_updated": "2025-09-22 14:42:20"
     },
     {
         "id": 12169075,
@@ -25662,7 +25662,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-29 08:25:47",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:16:10"
+        "last_updated": "2025-09-22 14:46:53"
     },
     {
         "id": 12181120,
@@ -25727,7 +25727,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-29 08:24:12",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:16:28"
+        "last_updated": "2025-09-22 14:47:18"
     },
     {
         "id": 11939884,
@@ -25827,7 +25827,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-05-28 17:09:08",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:07:21"
+        "last_updated": "2025-09-22 14:37:50"
     },
     {
         "id": 11950386,
@@ -25902,7 +25902,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-05-28 10:04:28",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:09:37"
+        "last_updated": "2025-09-22 14:40:18"
     },
     {
         "id": 11940282,
@@ -25977,7 +25977,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-28 09:59:54",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:07:24"
+        "last_updated": "2025-09-22 14:37:52"
     },
     {
         "id": 11932644,
@@ -26057,7 +26057,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-05-28 09:58:04",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:05:35"
+        "last_updated": "2025-09-22 14:36:20"
     },
     {
         "id": 11976484,
@@ -26127,7 +26127,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-28 09:48:05",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:07:47"
+        "last_updated": "2025-09-22 14:38:20"
     },
     {
         "id": 11987480,
@@ -26202,7 +26202,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-05-28 09:47:53",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:01:56"
+        "last_updated": "2025-09-22 14:32:33"
     },
     {
         "id": 12117406,
@@ -26277,7 +26277,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-28 09:45:50",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:01:10"
+        "last_updated": "2025-09-22 14:31:42"
     },
     {
         "id": 12224345,
@@ -26327,7 +26327,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-05-27 15:45:01",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:03:09"
+        "last_updated": "2025-09-22 14:33:40"
     },
     {
         "id": 12049106,
@@ -26427,7 +26427,7 @@
         "no_of_floors": 9,
         "actualisation_date": "2025-05-26 09:58:17",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:13:25"
+        "last_updated": "2025-09-22 14:44:08"
     },
     {
         "id": 12165640,
@@ -26507,7 +26507,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-05-23 18:29:53",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:15:46"
+        "last_updated": "2025-09-22 14:46:30"
     },
     {
         "id": 12217644,
@@ -26582,7 +26582,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-22 15:57:35",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:17:59"
+        "last_updated": "2025-09-22 14:48:51"
     },
     {
         "id": 11932681,
@@ -26662,7 +26662,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-05-20 13:46:19",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:05:37"
+        "last_updated": "2025-09-22 14:36:22"
     },
     {
         "id": 12124973,
@@ -26837,7 +26837,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-05-19 09:03:28",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:02:40"
+        "last_updated": "2025-09-22 14:33:13"
     },
     {
         "id": 11881491,
@@ -26957,7 +26957,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-18 19:33:37",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:03:14"
+        "last_updated": "2025-09-22 14:33:50"
     },
     {
         "id": 12205309,
@@ -27092,7 +27092,7 @@
         "no_of_floors": 12,
         "actualisation_date": "2025-05-15 15:34:14",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:16:53"
+        "last_updated": "2025-09-22 14:47:41"
     },
     {
         "id": 12132897,
@@ -27182,7 +27182,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-15 11:01:50",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:03:28"
+        "last_updated": "2025-09-22 14:34:03"
     },
     {
         "id": 11941815,
@@ -27277,7 +27277,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-05-07 10:17:14",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:07:54"
+        "last_updated": "2025-09-22 14:38:25"
     },
     {
         "id": 11946946,
@@ -27402,7 +27402,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 10:10:56",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:09:00"
+        "last_updated": "2025-09-22 14:39:29"
     },
     {
         "id": 11948164,
@@ -27487,7 +27487,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 10:02:15",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:09:06"
+        "last_updated": "2025-09-22 14:39:36"
     },
     {
         "id": 12021768,
@@ -27557,7 +27557,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 09:30:05",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:12:38"
+        "last_updated": "2025-09-22 14:43:16"
     },
     {
         "id": 12021777,
@@ -27632,7 +27632,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 09:29:01",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:12:44"
+        "last_updated": "2025-09-22 14:43:23"
     },
     {
         "id": 12043706,
@@ -27702,7 +27702,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 09:26:09",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:13:07"
+        "last_updated": "2025-09-22 14:43:43"
     },
     {
         "id": 12043793,
@@ -27777,7 +27777,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-07 09:25:51",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:13:09"
+        "last_updated": "2025-09-22 14:43:48"
     },
     {
         "id": 12163242,
@@ -27872,7 +27872,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-05-07 09:18:41",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:15:22"
+        "last_updated": "2025-09-22 14:45:59"
     },
     {
         "id": 12163257,
@@ -27947,7 +27947,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-05-07 09:17:55",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:15:25"
+        "last_updated": "2025-09-22 14:46:05"
     },
     {
         "id": 12168116,
@@ -28047,7 +28047,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-05-07 08:46:56",
         "agentId": 74243,
-        "last_updated": "2025-09-22 14:16:07"
+        "last_updated": "2025-09-22 14:46:50"
     },
     {
         "id": 11940625,
@@ -28137,7 +28137,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-05-06 14:42:03",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:07:43"
+        "last_updated": "2025-09-22 14:38:17"
     },
     {
         "id": 12166305,
@@ -28222,7 +28222,7 @@
         "no_of_floors": 7,
         "actualisation_date": "2025-05-06 09:39:36",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:15:58"
+        "last_updated": "2025-09-22 14:46:42"
     },
     {
         "id": 12123752,
@@ -28327,7 +28327,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-05-05 12:54:22",
         "agentId": 74243,
-        "last_updated": "2025-09-22 14:02:25"
+        "last_updated": "2025-09-22 14:32:57"
     },
     {
         "id": 12182093,
@@ -28392,7 +28392,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-04-28 17:16:50",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:16:32"
+        "last_updated": "2025-09-22 14:47:23"
     },
     {
         "id": 11998548,
@@ -28467,7 +28467,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-04-23 10:27:40",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:11:21"
+        "last_updated": "2025-09-22 14:41:52"
     },
     {
         "id": 12011072,
@@ -28552,7 +28552,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-04-22 12:35:06",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:02:12"
+        "last_updated": "2025-09-22 14:32:40"
     },
     {
         "id": 12164311,
@@ -28642,7 +28642,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-04-17 08:21:20",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:15:43"
+        "last_updated": "2025-09-22 14:46:28"
     },
     {
         "id": 12166251,
@@ -28737,7 +28737,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-14 11:07:24",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:15:55"
+        "last_updated": "2025-09-22 14:46:40"
     },
     {
         "id": 12164753,
@@ -28832,7 +28832,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-11 14:19:17",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:14:52"
+        "last_updated": "2025-09-22 14:45:32"
     },
     {
         "id": 12164730,
@@ -28912,7 +28912,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-11 14:12:16",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:14:49"
+        "last_updated": "2025-09-22 14:45:29"
     },
     {
         "id": 12164135,
@@ -29007,7 +29007,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-11 11:48:05",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:15:31"
+        "last_updated": "2025-09-22 14:46:14"
     },
     {
         "id": 12164163,
@@ -29102,7 +29102,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-04-11 11:47:22",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:15:36"
+        "last_updated": "2025-09-22 14:46:19"
     },
     {
         "id": 12160079,
@@ -29182,7 +29182,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-04-08 14:20:04",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:14:11"
+        "last_updated": "2025-09-22 14:44:49"
     },
     {
         "id": 12101755,
@@ -29257,7 +29257,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-04-07 13:26:16",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:14:13"
+        "last_updated": "2025-09-22 14:44:55"
     },
     {
         "id": 11951393,
@@ -29332,7 +29332,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-03-26 09:46:12",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:09:45"
+        "last_updated": "2025-09-22 14:40:23"
     },
     {
         "id": 11987477,
@@ -29407,7 +29407,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-03-26 09:17:40",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:01:54"
+        "last_updated": "2025-09-22 14:32:30"
     },
     {
         "id": 12120906,
@@ -29462,7 +29462,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-03-24 15:54:19",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:02:14"
+        "last_updated": "2025-09-22 14:32:42"
     },
     {
         "id": 12026644,
@@ -29547,7 +29547,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-03-21 20:00:59",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:12:56"
+        "last_updated": "2025-09-22 14:43:32"
     },
     {
         "id": 12074599,
@@ -29632,7 +29632,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-03-20 15:53:18",
         "agentId": 74243,
-        "last_updated": "2025-09-22 14:14:01"
+        "last_updated": "2025-09-22 14:44:42"
     },
     {
         "id": 12062985,
@@ -29727,7 +29727,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-03-20 14:42:15",
         "agentId": 74243,
-        "last_updated": "2025-09-22 14:11:02"
+        "last_updated": "2025-09-22 14:41:43"
     },
     {
         "id": 12006114,
@@ -29797,7 +29797,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-03-20 14:36:50",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:11:53"
+        "last_updated": "2025-09-22 14:42:31"
     },
     {
         "id": 12006332,
@@ -29867,7 +29867,7 @@
         "no_of_floors": 1,
         "actualisation_date": "2025-03-20 14:36:01",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:11:56"
+        "last_updated": "2025-09-22 14:42:37"
     },
     {
         "id": 11912983,
@@ -29942,7 +29942,7 @@
         "no_of_floors": null,
         "actualisation_date": "2025-03-20 11:03:51",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:04:47"
+        "last_updated": "2025-09-22 14:35:26"
     },
     {
         "id": 12021923,
@@ -30012,7 +30012,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-03-19 13:05:17",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:12:34"
+        "last_updated": "2025-09-22 14:43:10"
     },
     {
         "id": 12017609,
@@ -30107,7 +30107,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-03-03 13:23:04",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:12:32"
+        "last_updated": "2025-09-22 14:43:08"
     },
     {
         "id": 12016148,
@@ -30212,7 +30212,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-02-27 08:04:02",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:12:24"
+        "last_updated": "2025-09-22 14:42:58"
     },
     {
         "id": 11883496,
@@ -30302,7 +30302,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-02-20 19:41:46",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:03:31"
+        "last_updated": "2025-09-22 14:34:08"
     },
     {
         "id": 11882283,
@@ -30392,7 +30392,7 @@
         "no_of_floors": 3,
         "actualisation_date": "2025-02-12 16:24:46",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:03:26"
+        "last_updated": "2025-09-22 14:34:01"
     },
     {
         "id": 11881502,
@@ -30492,7 +30492,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-02-06 08:48:57",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:03:16"
+        "last_updated": "2025-09-22 14:33:52"
     },
     {
         "id": 11882107,
@@ -30672,7 +30672,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-02-05 11:29:41",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:03:19"
+        "last_updated": "2025-09-22 14:33:54"
     },
     {
         "id": 11999873,
@@ -30812,7 +30812,7 @@
         "no_of_floors": 0,
         "actualisation_date": "2025-02-05 09:48:25",
         "agentId": 74041,
-        "last_updated": "2025-09-22 14:11:29"
+        "last_updated": "2025-09-22 14:42:06"
     },
     {
         "id": 12009357,
@@ -30917,7 +30917,7 @@
         "no_of_floors": 4,
         "actualisation_date": "2025-01-30 11:45:30",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:12:14"
+        "last_updated": "2025-09-22 14:42:51"
     },
     {
         "id": 12001413,
@@ -31002,7 +31002,7 @@
         "no_of_floors": 12,
         "actualisation_date": "2025-01-23 14:45:03",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:03:12"
+        "last_updated": "2025-09-22 14:33:45"
     },
     {
         "id": 11983753,
@@ -31077,7 +31077,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-01-15 08:05:17",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:00:58"
+        "last_updated": "2025-09-22 14:31:29"
     },
     {
         "id": 11945439,
@@ -31152,7 +31152,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:26:30",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:08:20"
+        "last_updated": "2025-09-22 14:38:50"
     },
     {
         "id": 11945447,
@@ -31227,7 +31227,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:24:00",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:08:23"
+        "last_updated": "2025-09-22 14:38:53"
     },
     {
         "id": 11945461,
@@ -31302,7 +31302,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:23:45",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:08:28"
+        "last_updated": "2025-09-22 14:38:55"
     },
     {
         "id": 11945472,
@@ -31377,7 +31377,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:23:26",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:08:30"
+        "last_updated": "2025-09-22 14:38:57"
     },
     {
         "id": 11946080,
@@ -31452,7 +31452,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:23:11",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:08:40"
+        "last_updated": "2025-09-22 14:39:11"
     },
     {
         "id": 11947197,
@@ -31522,7 +31522,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:22:44",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:08:48"
+        "last_updated": "2025-09-22 14:39:16"
     },
     {
         "id": 11947234,
@@ -31592,7 +31592,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:22:30",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:08:50"
+        "last_updated": "2025-09-22 14:39:21"
     },
     {
         "id": 11947299,
@@ -31662,7 +31662,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:22:13",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:08:52"
+        "last_updated": "2025-09-22 14:39:24"
     },
     {
         "id": 11947354,
@@ -31732,7 +31732,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:22:00",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:08:57"
+        "last_updated": "2025-09-22 14:39:26"
     },
     {
         "id": 11948315,
@@ -31807,7 +31807,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:21:44",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:09:08"
+        "last_updated": "2025-09-22 14:39:39"
     },
     {
         "id": 11948335,
@@ -31882,7 +31882,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:21:30",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:09:11"
+        "last_updated": "2025-09-22 14:39:41"
     },
     {
         "id": 11948377,
@@ -31957,7 +31957,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:21:16",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:09:17"
+        "last_updated": "2025-09-22 14:39:48"
     },
     {
         "id": 11950380,
@@ -32032,7 +32032,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-12 11:20:01",
         "agentId": 72735,
-        "last_updated": "2025-09-22 14:09:33"
+        "last_updated": "2025-09-22 14:40:01"
     },
     {
         "id": 11983061,
@@ -32112,7 +32112,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-01-11 13:48:50",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:00:50"
+        "last_updated": "2025-09-22 14:31:21"
     },
     {
         "id": 11983073,
@@ -32192,7 +32192,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-01-11 13:48:28",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:00:52"
+        "last_updated": "2025-09-22 14:31:27"
     },
     {
         "id": 11982929,
@@ -32277,7 +32277,7 @@
         "no_of_floors": 6,
         "actualisation_date": "2025-01-11 08:25:40",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:00:45"
+        "last_updated": "2025-09-22 14:31:17"
     },
     {
         "id": 11983035,
@@ -32357,7 +32357,7 @@
         "no_of_floors": 17,
         "actualisation_date": "2025-01-11 08:24:38",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:00:47"
+        "last_updated": "2025-09-22 14:31:19"
     },
     {
         "id": 11954302,
@@ -32427,7 +32427,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-01-08 09:17:11",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:01:51"
+        "last_updated": "2025-09-22 14:32:24"
     },
     {
         "id": 11954595,
@@ -32497,7 +32497,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-01-08 09:16:38",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:01:40"
+        "last_updated": "2025-09-22 14:32:17"
     },
     {
         "id": 11954620,
@@ -32567,7 +32567,7 @@
         "no_of_floors": 2,
         "actualisation_date": "2025-01-08 09:16:17",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:01:46"
+        "last_updated": "2025-09-22 14:32:20"
     },
     {
         "id": 11932136,
@@ -32647,7 +32647,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:10:09",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:05:57"
+        "last_updated": "2025-09-22 14:36:36"
     },
     {
         "id": 11932184,
@@ -32727,7 +32727,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:09:55",
         "agentId": 72795,
-        "last_updated": "2025-09-22 14:06:00"
+        "last_updated": "2025-09-22 14:36:41"
     },
     {
         "id": 11932736,
@@ -32807,7 +32807,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:07:22",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:05:44"
+        "last_updated": "2025-09-22 14:36:27"
     },
     {
         "id": 11932742,
@@ -32887,7 +32887,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:07:01",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:05:48"
+        "last_updated": "2025-09-22 14:36:30"
     },
     {
         "id": 11932745,
@@ -32967,7 +32967,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:06:17",
         "agentId": 72664,
-        "last_updated": "2025-09-22 14:05:50"
+        "last_updated": "2025-09-22 14:36:32"
     },
     {
         "id": 11935344,
@@ -33047,7 +33047,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 09:00:42",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:07:00"
+        "last_updated": "2025-09-22 14:37:33"
     },
     {
         "id": 11937430,
@@ -33122,7 +33122,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 08:59:32",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:07:02"
+        "last_updated": "2025-09-22 14:37:35"
     },
     {
         "id": 11939127,
@@ -33197,7 +33197,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 08:59:19",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:07:14"
+        "last_updated": "2025-09-22 14:37:45"
     },
     {
         "id": 11939150,
@@ -33272,7 +33272,7 @@
         "no_of_floors": 8,
         "actualisation_date": "2025-01-08 08:59:03",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:07:16"
+        "last_updated": "2025-09-22 14:37:47"
     },
     {
         "id": 11954689,
@@ -33337,7 +33337,7 @@
         "no_of_floors": null,
         "actualisation_date": "2024-12-17 14:52:39",
         "agentId": 72665,
-        "last_updated": "2025-09-22 14:01:49"
+        "last_updated": "2025-09-22 14:32:22"
     },
     {
         "id": 11942825,
@@ -33412,6 +33412,6 @@
         "no_of_floors": 4,
         "actualisation_date": "2024-12-07 08:05:50",
         "agentId": 72663,
-        "last_updated": "2025-09-22 14:08:11"
+        "last_updated": "2025-09-22 14:38:42"
     }
 ]
