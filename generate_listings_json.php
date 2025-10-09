@@ -308,6 +308,7 @@ foreach ($idList as $index => $item) {
         'no_of_floors' => isset($l['noOfFloors']) ? $l['noOfFloors'] : null,
         'actualisation_date' => isset($l['actualisationDate']) ? $l['actualisationDate'] : null,
         'agentId' => isset($l['agent']) && isset($l['agent']['id']) ? $l['agent']['id'] : null,
+        'developerlink' => isset($l['customField_31331']) ? $l['customField_31331'] : null,
         'last_updated' => date('Y-m-d H:i:s'),
     ];
 
