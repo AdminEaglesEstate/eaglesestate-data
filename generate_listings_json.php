@@ -214,6 +214,11 @@ foreach ($idList as $index => $item) {
     $l = isset($json['data']) ? $json['data'] : null;
     if (!$l || !isset($l['id'])) continue;
 
+    if (isset($l['status']) && in_array($l['status'], ['Pending', 'Closed'])) {
+    logInfo("Pomijam listing $listingId - status {$l['status']}");
+    continue;
+}
+
     if (isset($l['section']) && $l['section'] === 'Investment') {
         logInfo("Pomijam listing $listingId - sekcja Investment");
         continue;
