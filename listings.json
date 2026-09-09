@@ -1,5 +1,545 @@
 [
     {
+        "id": 12288619,
+        "title": "",
+        "price": 474012,
+        "is_special": 1,
+        "building_type": "Mieszkanie",
+        "isForSaleOrRental": true,
+        "country_name": "Polska",
+        "description": "<b>Wyłącznie w ofercie biura Eagles Estate przedstawiamy Państwu atrakcyjne trzypokojowe mieszkanie w stanie deweloperskim o powierzchni 51,99 m², zlokalizowane w spokojnej okolicy przy ul. Staroniwskiej w Kielanówce.</b><br>Prezentowana nieruchomość to doskonała propozycja zarówno dla osób szukających mieszkania dla siebie, jak i dla inwestorów. Mieszkanie znajduje się na pierwszym piętrze niskiego, trzypiętrowego budynku o nowoczesnej architekturze.<br>Ogrzewanie i ciepła woda realizowane są za pomocą gazowego pieca dwufunkcyjnego. Dodatkowym atutem jest zamontowane ogrzewanie podłogowe na całej powierzchni lokalu oraz przygotowana instalacja pod klimatyzację.<br>Sprzedaż mieszkania odbywa się na zasadzie cesji. Planowane zakończenie inwestycji przypada na IV kwartał 2025 roku.<br><b>Mieszkanie składa się z:</b><br><ul><li>salonu z aneksem kuchennym</li><li>dwóch sypialni</li><li>łazienki z WC</li><li>przedpokoju</li></ul><b>Atuty nieruchomości:</b><br><ul><li>dwa balkony: 6,93 m² oraz 4,24 m²</li><li>stan deweloperski – do własnej aranżacji</li><li>ogrzewanie podłogowe w całym mieszkaniu</li><li>instalacja klimatyzacji</li><li>spokojna i zielona okolica z szybkim dojazdem do centrum Rzeszowa</li><li><b>2 miejsca postojowe dodatkowo płatne – 2 × 15 000 zł</b></li></ul> W bezpośrednim sąsiedztwie znajdują się sklepy, punkty usługowe, placówki medyczne, a także żłobki, przedszkola i szkoły – co czyni tę lokalizację niezwykle komfortową do codziennego życia.<br>&nbsp;<br>Zapraszamy do kontaktu oraz prezentacji nieruchomości.&nbsp;<br><i><br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości.&nbsp;<br></i><br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny. <br><br>Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.",
+        "elevator": 0,
+        "floor_no": 1,
+        "garage": 1,
+        "garage_parking_price": 30000,
+        "short_description": "Nowe 3 pokoje w Kielanówce – 2 balkony",
+        "headerAdvertisement": "Nowe 3 pokoje w Kielanówce – 2 balkony",
+        "kitchen_type": "Adjoining",
+        "location_name": "/Podkarpackie/Rzeszów/Staroniwa",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Staroniwa",
+        "material": "Other",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": 2,
+        "price_m2": 9117.37,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "statusChangeDate": "2025-07-28 11:58:34",
+        "total_area": 51.99,
+        "plot_area_a": null,
+        "lotForm": null,
+        "lotType": null,
+        "year_built": 2025,
+        "street_name": "Staroniwska",
+        "street_full_name": "ul. Staroniwska",
+        "images": [
+            {
+                "id": 106956881,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106956974,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107141045,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106956879,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106956877,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106956873,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107141044,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106956880,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 107141043,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106956871,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106956872,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106956870,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106956875,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106956876,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 106956878,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "1073/17058/OMS",
+        "no_of_floors": 3,
+        "actualisation_date": "2026-09-09 12:01:39",
+        "agentId": 72663,
+        "developerlink": null,
+        "last_updated": "2026-09-09 12:05:11"
+    },
+    {
+        "id": 12593353,
+        "title": "",
+        "price": 658000,
+        "is_special": 1,
+        "building_type": "Mieszkanie",
+        "isForSaleOrRental": true,
+        "country_name": "Polska",
+        "description": "Biuro Nieruchomości <b>Eagles Estate</b> ma przyjemność zaprezentować na wyłączność przestronne, <b>3-pokojowe, dwupoziomowe mieszkanie o powierzchni 66,53 m²</b>, zlokalizowane przy ul. Wieniawskiego, na <b>2. piętrze budynku z 2011 roku</b>.<br>To wyjątkowa propozycja dla osób, które cenią funkcjonalny układ, przestrzeń oraz niepowtarzalny klimat mieszkania z antresolą. Dwupoziomowy charakter nieruchomości zapewnia wyraźny podział na strefę dzienną i prywatną, a klimatyzacja gwarantuje komfort przez cały rok. Mieszkanie znajduje się w zadbanym, nowoczesnym budynku i jest gotowe do zamieszkania.<br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br><b>I poziom:</b><br>1. przedpokój – 6,89 m²<br>2. oddzielna kuchnia – 7,65 m²<br>3. przestronny salon – 19,29 m²<br>4. łazienka – 4,35 m²<br>5. pokój – 10,03 m²<br>6. klatka schodowa – 3,54 m²<br><b>II poziom:</b><br>1. antresola – 14,78 m² (idealna jako sypialnia, gabinet lub strefa relaksu)<br><b>Dodatkowo:</b><br>- 2 balkony francuskie (ok. 1 m² każdy)<br>- komórka lokatorska – 2,34 m²<br>- miejsce postojowe w garażu podziemnym – dodatkowo płatne <b>50 000 zł</b><br><b>ATUTY NIERUCHOMOŚCI:</b><br>- funkcjonalny, dwupoziomowy układ<br>- budynek z 2011 roku<br>- antresola zwiększająca możliwości aranżacyjne<br>- klimatyzacja<br>- dwa balkony francuskie zapewniające dobre doświetlenie wnętrz<br>- komórka lokatorska<br>- miejsce postojowe w garażu podziemnym<br>- mieszkanie idealne dla pary, rodziny lub jako inwestycja pod wynajem<br><b>LOKALIZACJA:</b><br>- spokojna i dobrze skomunikowana część miasta<br>- w pobliżu sklepy, szkoły, przedszkola oraz punkty usługowe<br>- szybki dojazd do centrum<br>- rozwinięta infrastruktura miejska w zasięgu kilku minut<br>To idealna propozycja dla osób poszukujących komfortowego, nietuzinkowego mieszkania z antresolą i dodatkową przestrzenią, które łączy funkcjonalność z wygodą codziennego życia.<br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości.<br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.<br>Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.&nbsp;<br>",
+        "elevator": 0,
+        "floor_no": 2,
+        "garage": 1,
+        "garage_parking_price": 50000,
+        "short_description": "3 pokoje z antresolą | Wieniawskiego",
+        "headerAdvertisement": "3 pokoje z antresolą | Wieniawskiego",
+        "kitchen_type": "Open",
+        "location_name": "/Podkarpackie/Rzeszów/Zalesie",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Zalesie",
+        "material": "AirBrick",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 3,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": 1,
+        "price_m2": 9890.28,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "statusChangeDate": "2026-02-23 12:22:44",
+        "total_area": 66.53,
+        "plot_area_a": null,
+        "lotForm": null,
+        "lotType": null,
+        "year_built": 2011,
+        "street_name": "Henryka Wieniawskiego",
+        "street_full_name": "ul. Henryka Wieniawskiego",
+        "images": [
+            {
+                "id": 113255380,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 110912422,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 113255379,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 113255368,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 113255378,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 113259664,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 113259666,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 113259665,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 113259667,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 113259668,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 113259669,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 113259670,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 113259671,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "1723/17058/OMS",
+        "no_of_floors": 2,
+        "actualisation_date": "2026-09-09 12:01:13",
+        "agentId": 72663,
+        "developerlink": null,
+        "last_updated": "2026-09-09 12:14:59"
+    },
+    {
+        "id": 12594243,
+        "title": "",
+        "price": 749000,
+        "is_special": 1,
+        "building_type": "Mieszkanie",
+        "isForSaleOrRental": true,
+        "country_name": "Polska",
+        "description": "Biuro Nieruchomości <b>Eagles Estate</b> ma przyjemność zaprezentować <b>czteropokojowe mieszkanie</b> o powierzchni <b>58,41 m²</b>, położone na <b>1. piętrze</b> 2-kondygnacyjnego budynku oddanego do użytkowania pod koniec ubiegłego roku, zlokalizowanego przy ul. <b>Gościnnej</b> na osiedlu <b>Drabinianka</b> w Rzeszowie.<br><br>Nieruchomość wykończona&nbsp;<b>pod klucz</b> według indywidualnego projektu <b>architekta wnętrz</b>, co gwarantuje spójność stylistyczną, wysoką jakość materiałów oraz przemyślaną funkcjonalność. Mieszkanie jest <b>nowe</b>, <b>nigdy niezamieszkałe</b> – gotowe do wprowadzenia bez dodatkowych nakładów finansowych.<br>Funkcjonalny układ <b>czterech niezależnych pokoi</b> sprawdzi się zarówno dla rodziny, jak i jako inwestycja pod wynajem.<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br>• salon z aneksem kuchennym i jadalnią – <b>17,92 m²</b><br>• pokój – <b>9,93 m²</b><br>• pokój – <b>8,11 m²</b><br>• pokój – <b>7,87 m²</b><br>• łazienka – <b>4,17 m²</b><br>• komunikacja – <b>3,94 m²</b><br>• klatka schodowa – <b>6,47 m²<br></b><br><b>DODATKOWO:</b><br>• <b>2 balkony</b><br>• <b>taras na dachu</b> – do własnej aranżacji<br><br><b>ATUTY NIERUCHOMOŚCI:</b><br>• wykończenie <b>pod klucz</b><br>• projekt <b>architekta wnętrz</b><br>• mieszkanie <b>nowe</b>, <b>nigdy niezamieszkałe</b><br>• <b>ogrzewanie podłogowe</b> na całej powierzchni<br>• <b>klimatyzacja</b><br>• funkcjonalny układ <b>4 pokoi</b><br>• kameralna, <b>2-kondygnacyjna zabudowa</b><br>• w bardzo bliskiej odległości <b>szkoła podstawowa</b> przy ul. <b>Jachowicza<br></b><br>To doskonała propozycja dla <b>rodzin z dziećmi</b> oraz osób poszukujących gotowej, <b>nowoczesnej nieruchomości</b> w jednej z najbardziej cenionych lokalizacji Rzeszowa, z dodatkową przestrzenią w postaci prywatnego <b>tarasu na dachu</b>.<br><b>PARKING:</b><br>• zewnętrzne miejsce postojowe – cena: <b>15 000 zł<br></b><br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości.<br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.<br>Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
+        "elevator": 0,
+        "floor_no": 1,
+        "garage": 1,
+        "garage_parking_price": 15000,
+        "short_description": "4 pokoje pod klucz z tarasem na dachu",
+        "headerAdvertisement": "4 pokoje pod klucz z tarasem na dachu",
+        "kitchen_type": "Adjoining",
+        "location_name": "/Podkarpackie/Rzeszów/Budziwój",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Budziwój",
+        "material": "AirBrick",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 4,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": 1,
+        "price_m2": 12823.15,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "statusChangeDate": "2026-02-25 14:11:28",
+        "total_area": 58.46,
+        "plot_area_a": null,
+        "lotForm": null,
+        "lotType": null,
+        "year_built": 2025,
+        "street_name": "Gościnna",
+        "street_full_name": "ul. Gościnna",
+        "images": [
+            {
+                "id": 114487513,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 110921220,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114487515,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114487516,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114487517,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114487514,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 113539600,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114487509,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114487503,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114487499,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114487506,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114487504,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114487508,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114487500,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114487501,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114487510,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114487502,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "1728/17058/OMS",
+        "no_of_floors": 1,
+        "actualisation_date": "2026-09-09 12:01:01",
+        "agentId": 72663,
+        "developerlink": null,
+        "last_updated": "2026-09-09 12:15:05"
+    },
+    {
+        "id": 12636819,
+        "title": "",
+        "price": 470000,
+        "is_special": 0,
+        "building_type": "Mieszkanie",
+        "isForSaleOrRental": true,
+        "country_name": "Polska",
+        "description": "Biuro Nieruchomości&nbsp;<b>Eagles Estate</b>&nbsp;ma przyjemność zaprezentować&nbsp;<b>2-pokojowe mieszkanie</b>&nbsp;o powierzchni&nbsp;<b>41,93 m²</b>, położone na&nbsp;<b>7. piętrze</b>&nbsp;w 8-piętrowym nowym bloku z tego roku. Zlokalizowane jest przy ul. <b>Lubelskiej&nbsp;</b>na osiedlu&nbsp;<b>Staromieście</b>&nbsp;w Rzeszowie.<br><br>Nieruchomość jest w stanie deweloperskim.<br>Funkcjonalny układ&nbsp;<b>dwóch niezależnych pokoi</b>&nbsp;sprawdzi się zarówno dla rodziny, jak i jako inwestycja pod wynajem.<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br>• 2 pokoje<br>• oddzielna kuchnia z oknem<br>• łazienka&nbsp;<br>• komunikacja&nbsp;<br>•&nbsp;<b>balkon - 13,6 m2</b><br><br><b>ATUTY NIERUCHOMOŚCI:<br></b><br>• mieszkanie <b>gotowe</b><br>•&nbsp;<b>ogrzewanie miejskie</b><br>• funkcjonalny układ&nbsp;<b>2 pokoi</b><br>• nowe, dobrze skomunikowane osiedle&nbsp;<b><br></b><br><b>Do mieszkania przynależy miejsce postojowe w garażu podziemnym w cenie 45 000 zł.<br><br>*Sprzedaż na zasadzie cesji.<br><br></b>Zapraszamy do kontaktu oraz umówienia się na prezentację nieruchomości.<br><i>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości.</i><b><br><br><br></b>",
+        "elevator": 1,
+        "floor_no": 7,
+        "garage": 1,
+        "garage_parking_price": 50000,
+        "short_description": "Gotowe 2 pokoje z osobną kuchnią z garażem",
+        "headerAdvertisement": "Gotowe 2 pokoje z osobną kuchnią z garażem",
+        "kitchen_type": "Separate",
+        "location_name": "/Podkarpackie/Rzeszów/Staromieście",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Staromieście",
+        "material": "Mixed",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 2,
+        "ownership_type": "Mortgage",
+        "parking_spaces_no": 1,
+        "price_m2": 11209.16,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "statusChangeDate": "2026-04-14 14:53:46",
+        "total_area": 41.93,
+        "plot_area_a": null,
+        "lotForm": null,
+        "lotType": null,
+        "year_built": 2026,
+        "street_name": "Lubelska",
+        "street_full_name": "ul. Lubelska",
+        "images": [
+            {
+                "id": 111553958,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 111915674,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 111553953,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 111915728,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 111915724,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 111553954,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 111915714,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 111915717,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 111915720,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 111915721,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 111915731,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "1872/17058/OMS",
+        "no_of_floors": 8,
+        "actualisation_date": "2026-09-09 12:00:50",
+        "agentId": 72663,
+        "developerlink": null,
+        "last_updated": "2026-09-09 12:12:19"
+    },
+    {
+        "id": 12818316,
+        "title": "",
+        "price": 619000,
+        "is_special": 1,
+        "building_type": "Mieszkanie",
+        "isForSaleOrRental": true,
+        "country_name": "Polska",
+        "description": "<b>Biuro Nieruchomości Eagles Estate</b> ma przyjemność zaprezentować na sprzedaż funkcjonalne, <b>3-pokojowe mieszkanie o powierzchni 56,7 m²</b>, położone przy ul. Elizy Orzeszkowej, w dzielnicy <b>Śródmieście – w ścisłym centrum Rzeszowa</b>. Lokal znajduje się na <b>1. piętrze solidnego budynku z cegły</b>, wybudowanego w 1965 roku.<br>Mieszkanie posiada praktyczny układ obejmujący <b>trzy niezależne pokoje oraz oddzielną kuchnię</b>. Osobna łazienka i toaleta zwiększają komfort codziennego użytkowania. Lokal jest <b>dwustronny, z ekspozycją okien na wschód i zachód</b>, dzięki czemu wnętrza są dobrze doświetlone o różnych porach dnia.<br>Nieruchomość sprawdzi się zarówno jako mieszkanie dla rodziny, jak i <b>inwestycja przeznaczona pod wynajem</b>.<br><b>W SKŁAD NIERUCHOMOŚCI WCHODZĄ:</b><br>• trzy niezależne pokoje<br>• oddzielna kuchnia<br>• łazienka<br>• osobna toaleta<br>• przedpokój<br>Dodatkowo do mieszkania przynależą <b>duża piwnica oraz dodatkowy schowek</b>, zapewniające wygodną przestrzeń do przechowywania. Mieszkańcy mają również możliwość korzystania z <b>miejsc postojowych znajdujących się za szlabanem</b>.<br><b>ATUTY NIERUCHOMOŚCI:</b><br>• funkcjonalny układ pomieszczeń<br>• trzy niezależne pokoje<br>• oddzielna kuchnia<br>• osobna łazienka i toaleta<br>• <b>dwustronna ekspozycja – wschód i zachód</b><br>• 1. piętro<br>• solidny budynek z cegły<br>• <b>duża piwnica i dodatkowy schowek</b><br>• miejsca postojowe dla mieszkańców za szlabanem<br>• ścisłe centrum Rzeszowa<br>• bliskość terenów rekreacyjnych nad Wisłokiem<br><b>LOKALIZACJA:</b><br>Nieruchomość znajduje się w dzielnicy <b>Śródmieście</b>, przy ul. Elizy Orzeszkowej. W najbliższej okolicy dostępna jest pełna infrastruktura miejska – sklepy, punkty usługowe, placówki edukacyjne, restauracje oraz przystanki komunikacji miejskiej.<br>Dużym atutem jest <b>bliskość Wisłoka i biegnącej wzdłuż rzeki ścieżki rowerowej</b>, zapewniającej szybki dostęp do terenów spacerowych i rekreacyjnych. To doskonałe połączenie centralnej lokalizacji z możliwością aktywnego wypoczynku.<br><b>Zapraszamy do kontaktu oraz umówienia się na prezentację nieruchomości.</b><br>&nbsp;<br><br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości.<br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.<br>Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.&nbsp;&nbsp;<br>&nbsp;",
+        "elevator": 0,
+        "floor_no": 1,
+        "garage": 0,
+        "garage_parking_price": null,
+        "short_description": "3 pokoje | Śródmieście | 1. piętro",
+        "headerAdvertisement": "3 pokoje | Śródmieście | 1. piętro",
+        "kitchen_type": "Separate",
+        "location_name": "/Podkarpackie/Rzeszów/Śródmieście",
+        "location_province": "Podkarpackie",
+        "location_locality": "Rzeszów",
+        "location_quarter": "Śródmieście",
+        "material": "Brick",
+        "mortgage_market": "Secondary",
+        "no_of_rooms": 3,
+        "ownership_type": "HousingCooperative",
+        "parking_spaces_no": null,
+        "price_m2": 10917.11,
+        "provision_amount": 0,
+        "section": "ApartmentSale",
+        "status": "Active",
+        "statusChangeDate": "2026-07-23 16:39:31",
+        "total_area": 56.7,
+        "plot_area_a": null,
+        "lotForm": null,
+        "lotType": null,
+        "year_built": 1965,
+        "street_name": "Elizy Orzeszkowej",
+        "street_full_name": "ul. Elizy Orzeszkowej",
+        "images": [
+            {
+                "id": 114097198,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114097728,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114097222,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114097199,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114097200,
+                "description": null,
+                "isScheme": false
+            },
+            {
+                "id": 114097201,
+                "description": null,
+                "isScheme": false
+            }
+        ],
+        "listing_offer_id": "2241/17058/OMS",
+        "no_of_floors": 4,
+        "actualisation_date": "2026-09-09 11:38:49",
+        "agentId": 72663,
+        "developerlink": null,
+        "last_updated": "2026-09-09 12:01:11"
+    },
+    {
         "id": 11932116,
         "title": "",
         "price": 721000,
@@ -68,7 +608,7 @@
         "actualisation_date": "2026-09-09 10:10:29",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:36:09"
+        "last_updated": "2026-09-09 12:06:10"
     },
     {
         "id": 12206451,
@@ -239,7 +779,7 @@
         "actualisation_date": "2026-09-09 09:38:19",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:10"
+        "last_updated": "2026-09-09 12:13:11"
     },
     {
         "id": 12781665,
@@ -320,7 +860,7 @@
         "actualisation_date": "2026-09-08 15:19:48",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:29"
+        "last_updated": "2026-09-09 12:01:28"
     },
     {
         "id": 12374338,
@@ -396,7 +936,7 @@
         "actualisation_date": "2026-09-08 15:00:40",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:17"
+        "last_updated": "2026-09-09 12:01:17"
     },
     {
         "id": 12833140,
@@ -477,7 +1017,7 @@
         "actualisation_date": "2026-09-08 14:59:34",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:46:12"
+        "last_updated": "2026-09-09 12:16:10"
     },
     {
         "id": 12720976,
@@ -588,7 +1128,7 @@
         "actualisation_date": "2026-09-08 13:53:31",
         "agentId": 72735,
         "developerlink": "https://domex-rzeszow.com.pl/inwestycje/osiedle-olbrachta-3-etap",
-        "last_updated": "2026-09-09 11:47:59"
+        "last_updated": "2026-09-09 12:18:01"
     },
     {
         "id": 12825135,
@@ -694,7 +1234,7 @@
         "actualisation_date": "2026-09-08 13:52:22",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:46:42"
+        "last_updated": "2026-09-09 12:16:40"
     },
     {
         "id": 12910086,
@@ -800,7 +1340,7 @@
         "actualisation_date": "2026-09-08 13:52:12",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:52:13"
+        "last_updated": "2026-09-09 12:22:14"
     },
     {
         "id": 12825141,
@@ -906,7 +1446,7 @@
         "actualisation_date": "2026-09-08 13:51:21",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:46:45"
+        "last_updated": "2026-09-09 12:16:43"
     },
     {
         "id": 12826262,
@@ -987,7 +1527,7 @@
         "actualisation_date": "2026-09-08 13:50:44",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:48:45"
+        "last_updated": "2026-09-09 12:18:49"
     },
     {
         "id": 12826860,
@@ -1063,7 +1603,7 @@
         "actualisation_date": "2026-09-08 13:50:27",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:32:30"
+        "last_updated": "2026-09-09 12:02:31"
     },
     {
         "id": 12827554,
@@ -1159,7 +1699,7 @@
         "actualisation_date": "2026-09-08 13:50:09",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:48"
+        "last_updated": "2026-09-09 12:14:51"
     },
     {
         "id": 12827589,
@@ -1240,7 +1780,7 @@
         "actualisation_date": "2026-09-08 13:49:47",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:51"
+        "last_updated": "2026-09-09 12:14:55"
     },
     {
         "id": 12838897,
@@ -1346,7 +1886,7 @@
         "actualisation_date": "2026-09-08 12:38:30",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:33"
+        "last_updated": "2026-09-09 12:20:34"
     },
     {
         "id": 12722778,
@@ -1452,7 +1992,7 @@
         "actualisation_date": "2026-09-08 11:40:10",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:35"
+        "last_updated": "2026-09-09 12:01:33"
     },
     {
         "id": 12595519,
@@ -1583,7 +2123,7 @@
         "actualisation_date": "2026-09-08 09:18:11",
         "agentId": 82098,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:45:12"
+        "last_updated": "2026-09-09 12:15:13"
     },
     {
         "id": 12818124,
@@ -1689,138 +2229,7 @@
         "actualisation_date": "2026-09-08 09:11:14",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:08"
-    },
-    {
-        "id": 12594243,
-        "title": "",
-        "price": 749000,
-        "is_special": 1,
-        "building_type": "Mieszkanie",
-        "isForSaleOrRental": true,
-        "country_name": "Polska",
-        "description": "Biuro Nieruchomości <b>Eagles Estate</b> ma przyjemność zaprezentować <b>czteropokojowe mieszkanie</b> o powierzchni <b>58,41 m²</b>, położone na <b>1. piętrze</b> 2-kondygnacyjnego budynku oddanego do użytkowania pod koniec ubiegłego roku, zlokalizowanego przy ul. <b>Gościnnej</b> na osiedlu <b>Drabinianka</b> w Rzeszowie.<br><br>Nieruchomość wykończona&nbsp;<b>pod klucz</b> według indywidualnego projektu <b>architekta wnętrz</b>, co gwarantuje spójność stylistyczną, wysoką jakość materiałów oraz przemyślaną funkcjonalność. Mieszkanie jest <b>nowe</b>, <b>nigdy niezamieszkałe</b> – gotowe do wprowadzenia bez dodatkowych nakładów finansowych.<br>Funkcjonalny układ <b>czterech niezależnych pokoi</b> sprawdzi się zarówno dla rodziny, jak i jako inwestycja pod wynajem.<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br>• salon z aneksem kuchennym i jadalnią – <b>17,92 m²</b><br>• pokój – <b>9,93 m²</b><br>• pokój – <b>8,11 m²</b><br>• pokój – <b>7,87 m²</b><br>• łazienka – <b>4,17 m²</b><br>• komunikacja – <b>3,94 m²</b><br>• klatka schodowa – <b>6,47 m²<br></b><br><b>DODATKOWO:</b><br>• <b>2 balkony</b><br>• <b>taras na dachu</b> – do własnej aranżacji<br><br><b>ATUTY NIERUCHOMOŚCI:</b><br>• wykończenie <b>pod klucz</b><br>• projekt <b>architekta wnętrz</b><br>• mieszkanie <b>nowe</b>, <b>nigdy niezamieszkałe</b><br>• <b>ogrzewanie podłogowe</b> na całej powierzchni<br>• <b>klimatyzacja</b><br>• funkcjonalny układ <b>4 pokoi</b><br>• kameralna, <b>2-kondygnacyjna zabudowa</b><br>• w bardzo bliskiej odległości <b>szkoła podstawowa</b> przy ul. <b>Jachowicza<br></b><br>To doskonała propozycja dla <b>rodzin z dziećmi</b> oraz osób poszukujących gotowej, <b>nowoczesnej nieruchomości</b> w jednej z najbardziej cenionych lokalizacji Rzeszowa, z dodatkową przestrzenią w postaci prywatnego <b>tarasu na dachu</b>.<br><b>PARKING:</b><br>• zewnętrzne miejsce postojowe – cena: <b>15 000 zł<br></b><br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości.<br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.<br>Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
-        "elevator": 0,
-        "floor_no": 1,
-        "garage": 1,
-        "garage_parking_price": 15000,
-        "short_description": "4 pokoje pod klucz z tarasem na dachu",
-        "headerAdvertisement": "4 pokoje pod klucz z tarasem na dachu",
-        "kitchen_type": "Adjoining",
-        "location_name": "/Podkarpackie/Rzeszów/Budziwój",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "Budziwój",
-        "material": "AirBrick",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 4,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": 1,
-        "price_m2": 12823.15,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "statusChangeDate": "2026-02-25 14:11:28",
-        "total_area": 58.46,
-        "plot_area_a": null,
-        "lotForm": null,
-        "lotType": null,
-        "year_built": 2025,
-        "street_name": "Gościnna",
-        "street_full_name": "ul. Gościnna",
-        "images": [
-            {
-                "id": 114487513,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 110921220,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114487515,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114487516,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114487517,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114487514,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 113539600,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114487509,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114487503,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114487499,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114487506,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114487504,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114487508,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114487500,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114487501,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114487510,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114487502,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "1728/17058/OMS",
-        "no_of_floors": 1,
-        "actualisation_date": "2026-09-07 16:03:15",
-        "agentId": 72663,
-        "developerlink": null,
-        "last_updated": "2026-09-09 11:45:06"
+        "last_updated": "2026-09-09 12:01:09"
     },
     {
         "id": 12822833,
@@ -1906,7 +2315,7 @@
         "actualisation_date": "2026-09-07 15:47:27",
         "agentId": 80453,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:34:20"
+        "last_updated": "2026-09-09 12:04:23"
     },
     {
         "id": 12819587,
@@ -1987,7 +2396,7 @@
         "actualisation_date": "2026-09-07 10:33:21",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:21"
+        "last_updated": "2026-09-09 12:03:20"
     },
     {
         "id": 12689775,
@@ -2098,7 +2507,7 @@
         "actualisation_date": "2026-09-04 14:41:31",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:42"
+        "last_updated": "2026-09-09 12:14:43"
     },
     {
         "id": 11976362,
@@ -2169,7 +2578,7 @@
         "actualisation_date": "2026-09-04 13:35:19",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:35:57"
+        "last_updated": "2026-09-09 12:05:58"
     },
     {
         "id": 12897283,
@@ -2265,7 +2674,7 @@
         "actualisation_date": "2026-09-04 07:01:10",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:55"
+        "last_updated": "2026-09-09 12:21:55"
     },
     {
         "id": 12721018,
@@ -2366,7 +2775,7 @@
         "actualisation_date": "2026-09-03 20:48:28",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:48:02"
+        "last_updated": "2026-09-09 12:18:04"
     },
     {
         "id": 12839002,
@@ -2447,7 +2856,7 @@
         "actualisation_date": "2026-09-03 19:31:15",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:47:16"
+        "last_updated": "2026-09-09 12:17:19"
     },
     {
         "id": 12550219,
@@ -2518,7 +2927,7 @@
         "actualisation_date": "2026-09-03 19:03:10",
         "agentId": 72795,
         "developerlink": "https://ardom-deweloper.pl/#",
-        "last_updated": "2026-09-09 11:34:07"
+        "last_updated": "2026-09-09 12:04:06"
     },
     {
         "id": 12734983,
@@ -2684,7 +3093,7 @@
         "actualisation_date": "2026-09-03 13:59:22",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:48:05"
+        "last_updated": "2026-09-09 12:18:07"
     },
     {
         "id": 12735100,
@@ -2855,7 +3264,7 @@
         "actualisation_date": "2026-09-03 13:58:40",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:48:13"
+        "last_updated": "2026-09-09 12:18:15"
     },
     {
         "id": 12903059,
@@ -2916,7 +3325,7 @@
         "actualisation_date": "2026-09-03 11:27:43",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:07"
+        "last_updated": "2026-09-09 12:20:07"
     },
     {
         "id": 12895154,
@@ -3012,7 +3421,7 @@
         "actualisation_date": "2026-09-02 18:21:54",
         "agentId": 76926,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:52"
+        "last_updated": "2026-09-09 12:21:53"
     },
     {
         "id": 11932313,
@@ -3133,7 +3542,7 @@
         "actualisation_date": "2026-09-02 13:42:22",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:36:11"
+        "last_updated": "2026-09-09 12:06:13"
     },
     {
         "id": 12251007,
@@ -3209,7 +3618,7 @@
         "actualisation_date": "2026-09-02 13:41:21",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:40"
+        "last_updated": "2026-09-09 12:13:41"
     },
     {
         "id": 12250966,
@@ -3280,7 +3689,7 @@
         "actualisation_date": "2026-09-02 13:41:01",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:34"
+        "last_updated": "2026-09-09 12:13:36"
     },
     {
         "id": 12251003,
@@ -3351,7 +3760,7 @@
         "actualisation_date": "2026-09-02 13:40:43",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:36"
+        "last_updated": "2026-09-09 12:13:39"
     },
     {
         "id": 12252888,
@@ -3417,7 +3826,7 @@
         "actualisation_date": "2026-09-02 13:40:20",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:48"
+        "last_updated": "2026-09-09 12:13:49"
     },
     {
         "id": 12252882,
@@ -3488,7 +3897,7 @@
         "actualisation_date": "2026-09-02 13:39:59",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:45"
+        "last_updated": "2026-09-09 12:13:46"
     },
     {
         "id": 12388109,
@@ -3634,7 +4043,7 @@
         "actualisation_date": "2026-09-02 13:01:29",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:32:27"
+        "last_updated": "2026-09-09 12:02:28"
     },
     {
         "id": 12631668,
@@ -3775,7 +4184,7 @@
         "actualisation_date": "2026-09-02 12:57:42",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:46:48"
+        "last_updated": "2026-09-09 12:16:48"
     },
     {
         "id": 12734895,
@@ -3886,7 +4295,7 @@
         "actualisation_date": "2026-09-02 12:55:21",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:48:11"
+        "last_updated": "2026-09-09 12:18:13"
     },
     {
         "id": 12831640,
@@ -3952,7 +4361,7 @@
         "actualisation_date": "2026-09-02 12:53:53",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:46:21"
+        "last_updated": "2026-09-09 12:16:24"
     },
     {
         "id": 12877106,
@@ -4018,7 +4427,7 @@
         "actualisation_date": "2026-09-02 12:53:10",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:49"
+        "last_updated": "2026-09-09 12:20:49"
     },
     {
         "id": 12877108,
@@ -4084,7 +4493,7 @@
         "actualisation_date": "2026-09-02 12:52:51",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:52"
+        "last_updated": "2026-09-09 12:20:53"
     },
     {
         "id": 12877114,
@@ -4225,7 +4634,7 @@
         "actualisation_date": "2026-09-02 12:52:32",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:55"
+        "last_updated": "2026-09-09 12:20:56"
     },
     {
         "id": 12900989,
@@ -4286,7 +4695,7 @@
         "actualisation_date": "2026-09-02 11:55:38",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:52:10"
+        "last_updated": "2026-09-09 12:22:11"
     },
     {
         "id": 12900972,
@@ -4347,7 +4756,7 @@
         "actualisation_date": "2026-09-02 11:51:28",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:52:07"
+        "last_updated": "2026-09-09 12:22:07"
     },
     {
         "id": 12773423,
@@ -4473,7 +4882,7 @@
         "actualisation_date": "2026-09-02 10:39:02",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:19"
+        "last_updated": "2026-09-09 12:20:19"
     },
     {
         "id": 12779591,
@@ -4574,7 +4983,7 @@
         "actualisation_date": "2026-09-02 10:38:35",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:02"
+        "last_updated": "2026-09-09 12:20:01"
     },
     {
         "id": 12779619,
@@ -4680,7 +5089,7 @@
         "actualisation_date": "2026-09-02 10:38:00",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:04"
+        "last_updated": "2026-09-09 12:20:05"
     },
     {
         "id": 12900669,
@@ -4741,7 +5150,7 @@
         "actualisation_date": "2026-09-02 10:20:33",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:52:04"
+        "last_updated": "2026-09-09 12:22:04"
     },
     {
         "id": 12831537,
@@ -4817,7 +5226,7 @@
         "actualisation_date": "2026-09-02 09:26:46",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:46:19"
+        "last_updated": "2026-09-09 12:16:21"
     },
     {
         "id": 12819399,
@@ -4908,7 +5317,7 @@
         "actualisation_date": "2026-09-02 09:17:03",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:19"
+        "last_updated": "2026-09-09 12:03:18"
     },
     {
         "id": 12897792,
@@ -4999,7 +5408,7 @@
         "actualisation_date": "2026-09-01 09:30:35",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:57"
+        "last_updated": "2026-09-09 12:21:58"
     },
     {
         "id": 12838664,
@@ -5070,7 +5479,7 @@
         "actualisation_date": "2026-08-31 18:26:51",
         "agentId": 74041,
         "developerlink": "widokikrasne.pl",
-        "last_updated": "2026-09-09 11:50:28"
+        "last_updated": "2026-09-09 12:20:28"
     },
     {
         "id": 12613313,
@@ -5181,7 +5590,7 @@
         "actualisation_date": "2026-08-31 15:22:05",
         "agentId": 80453,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:13"
+        "last_updated": "2026-09-09 12:13:13"
     },
     {
         "id": 12891016,
@@ -5267,7 +5676,7 @@
         "actualisation_date": "2026-08-31 15:12:44",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:41"
+        "last_updated": "2026-09-09 12:21:41"
     },
     {
         "id": 12619695,
@@ -5433,7 +5842,7 @@
         "actualisation_date": "2026-08-31 14:34:14",
         "agentId": 80453,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:46:30"
+        "last_updated": "2026-09-09 12:16:32"
     },
     {
         "id": 12695048,
@@ -5559,7 +5968,7 @@
         "actualisation_date": "2026-08-31 13:35:33",
         "agentId": 80453,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:45:27"
+        "last_updated": "2026-09-09 12:15:26"
     },
     {
         "id": 12891268,
@@ -5630,7 +6039,7 @@
         "actualisation_date": "2026-08-31 13:17:41",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:47"
+        "last_updated": "2026-09-09 12:21:47"
     },
     {
         "id": 12812377,
@@ -5786,7 +6195,7 @@
         "actualisation_date": "2026-08-31 13:08:21",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:36:24"
+        "last_updated": "2026-09-09 12:06:24"
     },
     {
         "id": 12802615,
@@ -5902,7 +6311,7 @@
         "actualisation_date": "2026-08-31 13:03:29",
         "agentId": 80453,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:57"
+        "last_updated": "2026-09-09 12:03:58"
     },
     {
         "id": 12797506,
@@ -6028,7 +6437,7 @@
         "actualisation_date": "2026-08-31 12:18:56",
         "agentId": 80453,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:14"
+        "last_updated": "2026-09-09 12:01:14"
     },
     {
         "id": 12818086,
@@ -6164,7 +6573,7 @@
         "actualisation_date": "2026-08-31 12:08:57",
         "agentId": 80453,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:05"
+        "last_updated": "2026-09-09 12:01:06"
     },
     {
         "id": 12873671,
@@ -6265,7 +6674,7 @@
         "actualisation_date": "2026-08-31 11:56:01",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:46"
+        "last_updated": "2026-09-09 12:20:47"
     },
     {
         "id": 12634281,
@@ -6376,7 +6785,7 @@
         "actualisation_date": "2026-08-31 11:36:38",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:41:00"
+        "last_updated": "2026-09-09 12:11:05"
     },
     {
         "id": 12872892,
@@ -6517,7 +6926,7 @@
         "actualisation_date": "2026-08-31 09:48:25",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:43"
+        "last_updated": "2026-09-09 12:20:44"
     },
     {
         "id": 12437219,
@@ -6663,7 +7072,7 @@
         "actualisation_date": "2026-08-30 12:41:31",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:32:55"
+        "last_updated": "2026-09-09 12:02:56"
     },
     {
         "id": 12121502,
@@ -6779,7 +7188,7 @@
         "actualisation_date": "2026-08-28 15:38:17",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:04"
+        "last_updated": "2026-09-09 12:03:05"
     },
     {
         "id": 11891807,
@@ -6850,7 +7259,7 @@
         "actualisation_date": "2026-08-28 15:35:45",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:35:38"
+        "last_updated": "2026-09-09 12:05:39"
     },
     {
         "id": 12161368,
@@ -6901,7 +7310,7 @@
         "actualisation_date": "2026-08-28 15:24:06",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:41:31"
+        "last_updated": "2026-09-09 12:11:32"
     },
     {
         "id": 12201478,
@@ -7047,7 +7456,7 @@
         "actualisation_date": "2026-08-28 15:23:50",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:03"
+        "last_updated": "2026-09-09 12:13:06"
     },
     {
         "id": 12338738,
@@ -7173,7 +7582,7 @@
         "actualisation_date": "2026-08-28 15:23:34",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:41:28"
+        "last_updated": "2026-09-09 12:11:30"
     },
     {
         "id": 12473279,
@@ -7264,7 +7673,7 @@
         "actualisation_date": "2026-08-28 15:23:23",
         "agentId": 76926,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:35"
+        "last_updated": "2026-09-09 12:03:37"
     },
     {
         "id": 12576504,
@@ -7350,7 +7759,7 @@
         "actualisation_date": "2026-08-28 15:23:07",
         "agentId": 76926,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:02"
+        "last_updated": "2026-09-09 12:14:02"
     },
     {
         "id": 12581300,
@@ -7431,7 +7840,7 @@
         "actualisation_date": "2026-08-28 15:22:36",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:19"
+        "last_updated": "2026-09-09 12:14:21"
     },
     {
         "id": 12631204,
@@ -7627,7 +8036,7 @@
         "actualisation_date": "2026-08-28 15:17:28",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:46:51"
+        "last_updated": "2026-09-09 12:16:51"
     },
     {
         "id": 12661301,
@@ -7763,7 +8172,7 @@
         "actualisation_date": "2026-08-28 15:17:02",
         "agentId": 80453,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:47:00"
+        "last_updated": "2026-09-09 12:16:59"
     },
     {
         "id": 12692083,
@@ -7879,7 +8288,7 @@
         "actualisation_date": "2026-08-28 15:16:46",
         "agentId": 82098,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:46"
+        "last_updated": "2026-09-09 12:14:45"
     },
     {
         "id": 12693666,
@@ -7985,7 +8394,7 @@
         "actualisation_date": "2026-08-28 15:16:00",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:59"
+        "last_updated": "2026-09-09 12:02:05"
     },
     {
         "id": 12723299,
@@ -8071,7 +8480,7 @@
         "actualisation_date": "2026-08-28 15:14:02",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:38"
+        "last_updated": "2026-09-09 12:01:36"
     },
     {
         "id": 12745684,
@@ -8182,7 +8591,7 @@
         "actualisation_date": "2026-08-28 15:13:34",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:48:29"
+        "last_updated": "2026-09-09 12:18:30"
     },
     {
         "id": 12806256,
@@ -8253,7 +8662,7 @@
         "actualisation_date": "2026-08-28 15:13:13",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:34:15"
+        "last_updated": "2026-09-09 12:04:15"
     },
     {
         "id": 12804768,
@@ -8379,7 +8788,7 @@
         "actualisation_date": "2026-08-28 14:03:04",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:34:10"
+        "last_updated": "2026-09-09 12:04:09"
     },
     {
         "id": 12887254,
@@ -8475,7 +8884,7 @@
         "actualisation_date": "2026-08-28 09:46:23",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:30"
+        "last_updated": "2026-09-09 12:21:33"
     },
     {
         "id": 12756052,
@@ -8571,7 +8980,7 @@
         "actualisation_date": "2026-08-28 08:22:50",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:49:15"
+        "last_updated": "2026-09-09 12:19:16"
     },
     {
         "id": 12757303,
@@ -8677,7 +9086,7 @@
         "actualisation_date": "2026-08-28 08:08:05",
         "agentId": 72795,
         "developerlink": "https://marland.pl/inwestycje-w-sprzedazy/aleja-mysliwska/",
-        "last_updated": "2026-09-09 11:49:40"
+        "last_updated": "2026-09-09 12:19:38"
     },
     {
         "id": 11882283,
@@ -8768,7 +9177,7 @@
         "actualisation_date": "2026-08-28 08:01:01",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:34:42"
+        "last_updated": "2026-09-09 12:04:42"
     },
     {
         "id": 12889468,
@@ -8864,7 +9273,7 @@
         "actualisation_date": "2026-08-28 07:58:55",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:36"
+        "last_updated": "2026-09-09 12:21:36"
     },
     {
         "id": 12833186,
@@ -8940,7 +9349,7 @@
         "actualisation_date": "2026-08-27 10:13:11",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:46:14"
+        "last_updated": "2026-09-09 12:16:14"
     },
     {
         "id": 12891132,
@@ -9051,7 +9460,7 @@
         "actualisation_date": "2026-08-26 14:03:23",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:44"
+        "last_updated": "2026-09-09 12:21:44"
     },
     {
         "id": 12890832,
@@ -9117,7 +9526,7 @@
         "actualisation_date": "2026-08-26 12:47:38",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:49"
+        "last_updated": "2026-09-09 12:21:50"
     },
     {
         "id": 12890508,
@@ -9213,7 +9622,7 @@
         "actualisation_date": "2026-08-26 12:29:28",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:38"
+        "last_updated": "2026-09-09 12:21:38"
     },
     {
         "id": 12757568,
@@ -9284,7 +9693,7 @@
         "actualisation_date": "2026-08-26 11:25:32",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:49:48"
+        "last_updated": "2026-09-09 12:19:46"
     },
     {
         "id": 11976307,
@@ -9355,7 +9764,7 @@
         "actualisation_date": "2026-08-26 10:28:27",
         "agentId": 72735,
         "developerlink": "https://osiedlewieniawskiego.eu",
-        "last_updated": "2026-09-09 11:35:54"
+        "last_updated": "2026-09-09 12:05:55"
     },
     {
         "id": 11976491,
@@ -9421,7 +9830,7 @@
         "actualisation_date": "2026-08-26 10:22:04",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:37:04"
+        "last_updated": "2026-09-09 12:07:05"
     },
     {
         "id": 11983760,
@@ -9502,7 +9911,7 @@
         "actualisation_date": "2026-08-26 10:07:09",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:30:53"
+        "last_updated": "2026-09-09 12:00:55"
     },
     {
         "id": 11970123,
@@ -9573,7 +9982,7 @@
         "actualisation_date": "2026-08-26 10:06:38",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:39:11"
+        "last_updated": "2026-09-09 12:09:15"
     },
     {
         "id": 11988372,
@@ -9679,7 +10088,7 @@
         "actualisation_date": "2026-08-26 10:02:48",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:12"
+        "last_updated": "2026-09-09 12:03:13"
     },
     {
         "id": 12046235,
@@ -9785,7 +10194,7 @@
         "actualisation_date": "2026-08-26 10:01:02",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:19"
+        "last_updated": "2026-09-09 12:01:19"
     },
     {
         "id": 12047996,
@@ -9881,7 +10290,7 @@
         "actualisation_date": "2026-08-26 09:59:34",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:40:38"
+        "last_updated": "2026-09-09 12:10:37"
     },
     {
         "id": 12164172,
@@ -9962,7 +10371,7 @@
         "actualisation_date": "2026-08-26 09:54:15",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:41:50"
+        "last_updated": "2026-09-09 12:11:48"
     },
     {
         "id": 12182647,
@@ -10038,7 +10447,7 @@
         "actualisation_date": "2026-08-26 09:53:10",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:29"
+        "last_updated": "2026-09-09 12:12:30"
     },
     {
         "id": 12198489,
@@ -10129,7 +10538,7 @@
         "actualisation_date": "2026-08-26 09:49:06",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:50"
+        "last_updated": "2026-09-09 12:12:50"
     },
     {
         "id": 12564344,
@@ -10240,7 +10649,7 @@
         "actualisation_date": "2026-08-26 09:46:45",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:41:06"
+        "last_updated": "2026-09-09 12:11:11"
     },
     {
         "id": 11932745,
@@ -10321,7 +10730,7 @@
         "actualisation_date": "2026-08-26 09:43:20",
         "agentId": 72664,
         "developerlink": "https://tiny.pl/c-711shp",
-        "last_updated": "2026-09-09 11:36:06"
+        "last_updated": "2026-09-09 12:06:07"
     },
     {
         "id": 12597908,
@@ -10457,7 +10866,7 @@
         "actualisation_date": "2026-08-26 09:42:44",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:50"
+        "last_updated": "2026-09-09 12:01:54"
     },
     {
         "id": 12637088,
@@ -10563,7 +10972,7 @@
         "actualisation_date": "2026-08-26 09:36:42",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:18"
+        "last_updated": "2026-09-09 12:13:19"
     },
     {
         "id": 12458752,
@@ -10684,7 +11093,7 @@
         "actualisation_date": "2026-08-26 09:36:38",
         "agentId": 80452,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:24"
+        "last_updated": "2026-09-09 12:03:26"
     },
     {
         "id": 12757065,
@@ -10795,7 +11204,7 @@
         "actualisation_date": "2026-08-26 09:29:23",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:49:28"
+        "last_updated": "2026-09-09 12:19:26"
     },
     {
         "id": 12757082,
@@ -10891,7 +11300,7 @@
         "actualisation_date": "2026-08-26 09:27:44",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:48:48"
+        "last_updated": "2026-09-09 12:18:51"
     },
     {
         "id": 12795570,
@@ -11037,7 +11446,7 @@
         "actualisation_date": "2026-08-26 09:24:27",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:28"
+        "last_updated": "2026-09-09 12:14:30"
     },
     {
         "id": 12885454,
@@ -11148,7 +11557,7 @@
         "actualisation_date": "2026-08-24 15:52:08",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:16"
+        "last_updated": "2026-09-09 12:21:18"
     },
     {
         "id": 12830545,
@@ -11229,7 +11638,7 @@
         "actualisation_date": "2026-08-24 12:38:05",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:45:30"
+        "last_updated": "2026-09-09 12:15:29"
     },
     {
         "id": 11882210,
@@ -11355,7 +11764,7 @@
         "actualisation_date": "2026-08-24 11:44:47",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:34:40"
+        "last_updated": "2026-09-09 12:04:39"
     },
     {
         "id": 12887164,
@@ -11461,7 +11870,7 @@
         "actualisation_date": "2026-08-24 09:30:15",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:27"
+        "last_updated": "2026-09-09 12:21:30"
     },
     {
         "id": 12886077,
@@ -11587,7 +11996,7 @@
         "actualisation_date": "2026-08-24 09:16:21",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:24"
+        "last_updated": "2026-09-09 12:21:27"
     },
     {
         "id": 12795504,
@@ -11663,7 +12072,7 @@
         "actualisation_date": "2026-08-24 09:03:56",
         "agentId": 76926,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:25"
+        "last_updated": "2026-09-09 12:14:27"
     },
     {
         "id": 12836816,
@@ -11764,7 +12173,7 @@
         "actualisation_date": "2026-08-22 22:24:49",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:47:39"
+        "last_updated": "2026-09-09 12:17:38"
     },
     {
         "id": 12885936,
@@ -11880,7 +12289,7 @@
         "actualisation_date": "2026-08-21 16:10:53",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:13"
+        "last_updated": "2026-09-09 12:21:13"
     },
     {
         "id": 12885542,
@@ -11991,7 +12400,7 @@
         "actualisation_date": "2026-08-21 16:01:38",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:19"
+        "last_updated": "2026-09-09 12:21:22"
     },
     {
         "id": 12885623,
@@ -12057,7 +12466,7 @@
         "actualisation_date": "2026-08-21 13:24:43",
         "agentId": 72664,
         "developerlink": "widokikrasne.pl",
-        "last_updated": "2026-09-09 11:51:22"
+        "last_updated": "2026-09-09 12:21:24"
     },
     {
         "id": 12838668,
@@ -12128,7 +12537,7 @@
         "actualisation_date": "2026-08-21 12:46:16",
         "agentId": 74041,
         "developerlink": "widokikrasne.pl",
-        "last_updated": "2026-09-09 11:50:31"
+        "last_updated": "2026-09-09 12:20:32"
     },
     {
         "id": 12839093,
@@ -12199,7 +12608,7 @@
         "actualisation_date": "2026-08-21 12:41:51",
         "agentId": 72665,
         "developerlink": "widokikrasne.pl",
-        "last_updated": "2026-09-09 11:47:18"
+        "last_updated": "2026-09-09 12:17:21"
     },
     {
         "id": 12784296,
@@ -12275,7 +12684,7 @@
         "actualisation_date": "2026-08-21 10:37:37",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:31"
+        "last_updated": "2026-09-09 12:01:30"
     },
     {
         "id": 12879682,
@@ -12406,7 +12815,7 @@
         "actualisation_date": "2026-08-20 13:43:01",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:11"
+        "last_updated": "2026-09-09 12:21:10"
     },
     {
         "id": 12576501,
@@ -12587,7 +12996,7 @@
         "actualisation_date": "2026-08-20 13:30:11",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:00"
+        "last_updated": "2026-09-09 12:14:00"
     },
     {
         "id": 12701476,
@@ -12708,7 +13117,7 @@
         "actualisation_date": "2026-08-20 12:59:18",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:45:32"
+        "last_updated": "2026-09-09 12:15:32"
     },
     {
         "id": 12879470,
@@ -12824,7 +13233,7 @@
         "actualisation_date": "2026-08-20 12:32:06",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:08"
+        "last_updated": "2026-09-09 12:21:08"
     },
     {
         "id": 12043793,
@@ -12900,7 +13309,7 @@
         "actualisation_date": "2026-08-20 11:43:12",
         "agentId": 72795,
         "developerlink": "https://legionistow.pl/mieszkania/",
-        "last_updated": "2026-09-09 11:40:28"
+        "last_updated": "2026-09-09 12:10:29"
     },
     {
         "id": 12043706,
@@ -12966,7 +13375,7 @@
         "actualisation_date": "2026-08-20 11:40:54",
         "agentId": 72795,
         "developerlink": "https://legionistow.pl/mieszkania/",
-        "last_updated": "2026-09-09 11:40:25"
+        "last_updated": "2026-09-09 12:10:27"
     },
     {
         "id": 12777006,
@@ -13077,7 +13486,7 @@
         "actualisation_date": "2026-08-20 10:57:15",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:25"
+        "last_updated": "2026-09-09 12:20:25"
     },
     {
         "id": 12756046,
@@ -13173,7 +13582,7 @@
         "actualisation_date": "2026-08-20 09:14:59",
         "agentId": 80453,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:49:13"
+        "last_updated": "2026-09-09 12:19:13"
     },
     {
         "id": 12757230,
@@ -13264,7 +13673,7 @@
         "actualisation_date": "2026-08-20 09:14:34",
         "agentId": 80452,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:49:31"
+        "last_updated": "2026-09-09 12:19:28"
     },
     {
         "id": 12757388,
@@ -13360,7 +13769,7 @@
         "actualisation_date": "2026-08-20 09:12:39",
         "agentId": 76926,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:49:46"
+        "last_updated": "2026-09-09 12:19:43"
     },
     {
         "id": 12671182,
@@ -13471,7 +13880,7 @@
         "actualisation_date": "2026-08-19 14:20:57",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:47:02"
+        "last_updated": "2026-09-09 12:17:02"
     },
     {
         "id": 12639709,
@@ -13572,7 +13981,7 @@
         "actualisation_date": "2026-08-19 12:38:53",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:46:54"
+        "last_updated": "2026-09-09 12:16:54"
     },
     {
         "id": 12673129,
@@ -13683,7 +14092,7 @@
         "actualisation_date": "2026-08-19 12:33:58",
         "agentId": 80452,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:47:11"
+        "last_updated": "2026-09-09 12:17:10"
     },
     {
         "id": 12877845,
@@ -13789,7 +14198,7 @@
         "actualisation_date": "2026-08-19 12:32:16",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:06"
+        "last_updated": "2026-09-09 12:21:05"
     },
     {
         "id": 12877531,
@@ -13860,7 +14269,7 @@
         "actualisation_date": "2026-08-19 10:00:35",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:51:00"
+        "last_updated": "2026-09-09 12:21:01"
     },
     {
         "id": 12877517,
@@ -13931,7 +14340,7 @@
         "actualisation_date": "2026-08-19 09:57:04",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:57"
+        "last_updated": "2026-09-09 12:20:59"
     },
     {
         "id": 12196400,
@@ -14007,7 +14416,7 @@
         "actualisation_date": "2026-08-18 20:09:50",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:42"
+        "last_updated": "2026-09-09 12:12:45"
     },
     {
         "id": 12777004,
@@ -14068,7 +14477,7 @@
         "actualisation_date": "2026-08-18 17:17:16",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:22"
+        "last_updated": "2026-09-09 12:20:22"
     },
     {
         "id": 12578100,
@@ -14174,7 +14583,7 @@
         "actualisation_date": "2026-08-18 11:17:30",
         "agentId": 80452,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:11"
+        "last_updated": "2026-09-09 12:14:13"
     },
     {
         "id": 12564069,
@@ -14265,7 +14674,7 @@
         "actualisation_date": "2026-08-17 10:12:22",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:41:03"
+        "last_updated": "2026-09-09 12:11:08"
     },
     {
         "id": 12870960,
@@ -14506,7 +14915,7 @@
         "actualisation_date": "2026-08-17 09:14:47",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:40"
+        "last_updated": "2026-09-09 12:20:41"
     },
     {
         "id": 12844629,
@@ -14597,7 +15006,7 @@
         "actualisation_date": "2026-08-17 09:10:39",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:36"
+        "last_updated": "2026-09-09 12:20:37"
     },
     {
         "id": 12589421,
@@ -14728,7 +15137,7 @@
         "actualisation_date": "2026-08-15 14:23:12",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:40"
+        "last_updated": "2026-09-09 12:14:40"
     },
     {
         "id": 12617958,
@@ -14799,7 +15208,7 @@
         "actualisation_date": "2026-08-15 14:22:30",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:46:28"
+        "last_updated": "2026-09-09 12:16:29"
     },
     {
         "id": 11999793,
@@ -14875,83 +15284,7 @@
         "actualisation_date": "2026-08-14 22:12:11",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:39:38"
-    },
-    {
-        "id": 12818316,
-        "title": "",
-        "price": 619000,
-        "is_special": 1,
-        "building_type": "Mieszkanie",
-        "isForSaleOrRental": true,
-        "country_name": "Polska",
-        "description": "<b>Biuro Nieruchomości Eagles Estate</b> ma przyjemność zaprezentować na sprzedaż funkcjonalne, <b>3-pokojowe mieszkanie o powierzchni 56,7 m²</b>, położone przy ul. Elizy Orzeszkowej, w dzielnicy <b>Śródmieście – w ścisłym centrum Rzeszowa</b>. Lokal znajduje się na <b>1. piętrze solidnego budynku z cegły</b>, wybudowanego w 1965 roku.<br>Mieszkanie posiada praktyczny układ obejmujący <b>trzy niezależne pokoje oraz oddzielną kuchnię</b>. Osobna łazienka i toaleta zwiększają komfort codziennego użytkowania. Lokal jest <b>dwustronny, z ekspozycją okien na wschód i zachód</b>, dzięki czemu wnętrza są dobrze doświetlone o różnych porach dnia.<br>Nieruchomość sprawdzi się zarówno jako mieszkanie dla rodziny, jak i <b>inwestycja przeznaczona pod wynajem</b>.<br><b>W SKŁAD NIERUCHOMOŚCI WCHODZĄ:</b><br>• trzy niezależne pokoje<br>• oddzielna kuchnia<br>• łazienka<br>• osobna toaleta<br>• przedpokój<br>Dodatkowo do mieszkania przynależą <b>duża piwnica oraz dodatkowy schowek</b>, zapewniające wygodną przestrzeń do przechowywania. Mieszkańcy mają również możliwość korzystania z <b>miejsc postojowych znajdujących się za szlabanem</b>.<br><b>ATUTY NIERUCHOMOŚCI:</b><br>• funkcjonalny układ pomieszczeń<br>• trzy niezależne pokoje<br>• oddzielna kuchnia<br>• osobna łazienka i toaleta<br>• <b>dwustronna ekspozycja – wschód i zachód</b><br>• 1. piętro<br>• solidny budynek z cegły<br>• <b>duża piwnica i dodatkowy schowek</b><br>• miejsca postojowe dla mieszkańców za szlabanem<br>• ścisłe centrum Rzeszowa<br>• bliskość terenów rekreacyjnych nad Wisłokiem<br><b>LOKALIZACJA:</b><br>Nieruchomość znajduje się w dzielnicy <b>Śródmieście</b>, przy ul. Elizy Orzeszkowej. W najbliższej okolicy dostępna jest pełna infrastruktura miejska – sklepy, punkty usługowe, placówki edukacyjne, restauracje oraz przystanki komunikacji miejskiej.<br>Dużym atutem jest <b>bliskość Wisłoka i biegnącej wzdłuż rzeki ścieżki rowerowej</b>, zapewniającej szybki dostęp do terenów spacerowych i rekreacyjnych. To doskonałe połączenie centralnej lokalizacji z możliwością aktywnego wypoczynku.<br><b>Zapraszamy do kontaktu oraz umówienia się na prezentację nieruchomości.</b><br>&nbsp;<br><br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości.<br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.<br>Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.&nbsp;&nbsp;<br>&nbsp;",
-        "elevator": 0,
-        "floor_no": 1,
-        "garage": 0,
-        "garage_parking_price": null,
-        "short_description": "3 pokoje | Śródmieście | 1. piętro",
-        "headerAdvertisement": "3 pokoje | Śródmieście | 1. piętro",
-        "kitchen_type": "Separate",
-        "location_name": "/Podkarpackie/Rzeszów/Śródmieście",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "Śródmieście",
-        "material": "Brick",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 3,
-        "ownership_type": "HousingCooperative",
-        "parking_spaces_no": null,
-        "price_m2": 10917.11,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "statusChangeDate": "2026-07-23 16:39:31",
-        "total_area": 56.7,
-        "plot_area_a": null,
-        "lotForm": null,
-        "lotType": null,
-        "year_built": 1965,
-        "street_name": "Elizy Orzeszkowej",
-        "street_full_name": "ul. Elizy Orzeszkowej",
-        "images": [
-            {
-                "id": 114097198,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114097728,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114097222,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114097199,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114097200,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 114097201,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "2241/17058/OMS",
-        "no_of_floors": 4,
-        "actualisation_date": "2026-08-13 18:33:30",
-        "agentId": 72663,
-        "developerlink": null,
-        "last_updated": "2026-09-09 11:31:11"
+        "last_updated": "2026-09-09 12:09:37"
     },
     {
         "id": 12742424,
@@ -15052,7 +15385,7 @@
         "actualisation_date": "2026-08-13 12:01:21",
         "agentId": 80453,
         "developerlink": "https://beskiddevelopment.pl/",
-        "last_updated": "2026-09-09 11:48:19"
+        "last_updated": "2026-09-09 12:18:21"
     },
     {
         "id": 12742448,
@@ -15143,7 +15476,7 @@
         "actualisation_date": "2026-08-13 12:00:42",
         "agentId": 80453,
         "developerlink": "https://beskiddevelopment.pl/",
-        "last_updated": "2026-09-09 11:48:22"
+        "last_updated": "2026-09-09 12:18:24"
     },
     {
         "id": 12839103,
@@ -15214,7 +15547,7 @@
         "actualisation_date": "2026-08-10 11:32:00",
         "agentId": 72665,
         "developerlink": "widokikrasne.pl",
-        "last_updated": "2026-09-09 11:47:21"
+        "last_updated": "2026-09-09 12:17:25"
     },
     {
         "id": 12735132,
@@ -15370,7 +15703,7 @@
         "actualisation_date": "2026-08-10 11:06:30",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:48:16"
+        "last_updated": "2026-09-09 12:18:18"
     },
     {
         "id": 12818804,
@@ -15451,7 +15784,7 @@
         "actualisation_date": "2026-08-08 16:19:27",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:32:02"
+        "last_updated": "2026-09-09 12:02:08"
     },
     {
         "id": 12836429,
@@ -15532,7 +15865,7 @@
         "actualisation_date": "2026-08-07 10:03:56",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:45:09"
+        "last_updated": "2026-09-09 12:15:08"
     },
     {
         "id": 12827595,
@@ -15613,7 +15946,7 @@
         "actualisation_date": "2026-08-07 09:53:34",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:56"
+        "last_updated": "2026-09-09 12:14:57"
     },
     {
         "id": 12769359,
@@ -15709,7 +16042,7 @@
         "actualisation_date": "2026-08-06 14:53:32",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:15"
+        "last_updated": "2026-09-09 12:20:16"
     },
     {
         "id": 12832987,
@@ -15775,7 +16108,7 @@
         "actualisation_date": "2026-08-05 08:12:11",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:45:46"
+        "last_updated": "2026-09-09 12:15:45"
     },
     {
         "id": 12822265,
@@ -15856,7 +16189,7 @@
         "actualisation_date": "2026-08-04 14:37:35",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:34:23"
+        "last_updated": "2026-09-09 12:04:26"
     },
     {
         "id": 12831711,
@@ -15932,7 +16265,7 @@
         "actualisation_date": "2026-08-04 14:29:00",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:46:25"
+        "last_updated": "2026-09-09 12:16:27"
     },
     {
         "id": 12830464,
@@ -16018,7 +16351,7 @@
         "actualisation_date": "2026-08-03 16:43:38",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:45:18"
+        "last_updated": "2026-09-09 12:15:18"
     },
     {
         "id": 12830405,
@@ -16109,7 +16442,7 @@
         "actualisation_date": "2026-08-03 16:42:57",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:45:15"
+        "last_updated": "2026-09-09 12:15:16"
     },
     {
         "id": 12830015,
@@ -16190,7 +16523,7 @@
         "actualisation_date": "2026-08-03 16:42:15",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:45:21"
+        "last_updated": "2026-09-09 12:15:21"
     },
     {
         "id": 12830600,
@@ -16271,7 +16604,7 @@
         "actualisation_date": "2026-08-03 16:39:56",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:45:43"
+        "last_updated": "2026-09-09 12:15:43"
     },
     {
         "id": 12830572,
@@ -16357,7 +16690,7 @@
         "actualisation_date": "2026-08-03 16:32:49",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:45:41"
+        "last_updated": "2026-09-09 12:15:40"
     },
     {
         "id": 12757323,
@@ -16453,7 +16786,7 @@
         "actualisation_date": "2026-08-02 09:13:44",
         "agentId": 72795,
         "developerlink": "https://marland.pl/inwestycje-w-sprzedazy/aleja-mysliwska-iii-etap/",
-        "last_updated": "2026-09-09 11:49:43"
+        "last_updated": "2026-09-09 12:19:40"
     },
     {
         "id": 12290779,
@@ -16519,7 +16852,7 @@
         "actualisation_date": "2026-08-02 09:09:24",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:35:18"
+        "last_updated": "2026-09-09 12:05:19"
     },
     {
         "id": 12719714,
@@ -16595,7 +16928,7 @@
         "actualisation_date": "2026-08-02 08:51:09",
         "agentId": 80453,
         "developerlink": "https://www.hijj.pl/osiedle-malownicza/",
-        "last_updated": "2026-09-09 11:47:42"
+        "last_updated": "2026-09-09 12:17:41"
     },
     {
         "id": 12757010,
@@ -16681,7 +17014,7 @@
         "actualisation_date": "2026-08-02 08:46:55",
         "agentId": 72665,
         "developerlink": "www.grandresidence.pl",
-        "last_updated": "2026-09-09 11:49:25"
+        "last_updated": "2026-09-09 12:19:22"
     },
     {
         "id": 12757096,
@@ -16767,7 +17100,7 @@
         "actualisation_date": "2026-08-02 08:45:55",
         "agentId": 74243,
         "developerlink": "www.grandresidence.pl",
-        "last_updated": "2026-09-09 11:48:57"
+        "last_updated": "2026-09-09 12:18:58"
     },
     {
         "id": 12758495,
@@ -16858,7 +17191,7 @@
         "actualisation_date": "2026-08-02 08:43:46",
         "agentId": 76926,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:49:53"
+        "last_updated": "2026-09-09 12:19:49"
     },
     {
         "id": 12758745,
@@ -16934,7 +17267,7 @@
         "actualisation_date": "2026-08-02 08:43:24",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:49:56"
+        "last_updated": "2026-09-09 12:19:52"
     },
     {
         "id": 12765160,
@@ -17005,7 +17338,7 @@
         "actualisation_date": "2026-08-02 08:43:07",
         "agentId": 80452,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:10"
+        "last_updated": "2026-09-09 12:20:10"
     },
     {
         "id": 12796836,
@@ -17096,7 +17429,7 @@
         "actualisation_date": "2026-07-31 10:08:05",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:37"
+        "last_updated": "2026-09-09 12:14:37"
     },
     {
         "id": 12198131,
@@ -17227,7 +17560,7 @@
         "actualisation_date": "2026-07-30 12:10:32",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:52"
+        "last_updated": "2026-09-09 12:12:53"
     },
     {
         "id": 12823936,
@@ -17338,7 +17671,7 @@
         "actualisation_date": "2026-07-30 10:36:51",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:34:29"
+        "last_updated": "2026-09-09 12:04:29"
     },
     {
         "id": 12757279,
@@ -17439,7 +17772,7 @@
         "actualisation_date": "2026-07-29 10:40:43",
         "agentId": 72664,
         "developerlink": "https://marland.pl/inwestycje-w-sprzedazy/aleja-mysliwska/",
-        "last_updated": "2026-09-09 11:49:34"
+        "last_updated": "2026-09-09 12:19:31"
     },
     {
         "id": 12821243,
@@ -17515,7 +17848,7 @@
         "actualisation_date": "2026-07-28 16:55:19",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:34:17"
+        "last_updated": "2026-09-09 12:04:17"
     },
     {
         "id": 12699724,
@@ -17611,7 +17944,7 @@
         "actualisation_date": "2026-07-28 16:54:28",
         "agentId": 82098,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:45:48"
+        "last_updated": "2026-09-09 12:15:51"
     },
     {
         "id": 12336794,
@@ -17747,7 +18080,7 @@
         "actualisation_date": "2026-07-28 15:34:41",
         "agentId": 76926,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:41:16"
+        "last_updated": "2026-09-09 12:11:19"
     },
     {
         "id": 12518677,
@@ -17928,7 +18261,7 @@
         "actualisation_date": "2026-07-28 12:53:37",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:34:56"
+        "last_updated": "2026-09-09 12:04:56"
     },
     {
         "id": 12817794,
@@ -18044,7 +18377,7 @@
         "actualisation_date": "2026-07-27 10:21:48",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:30:21"
+        "last_updated": "2026-09-09 12:00:22"
     },
     {
         "id": 12036161,
@@ -18130,7 +18463,7 @@
         "actualisation_date": "2026-07-24 10:23:58",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:40:17"
+        "last_updated": "2026-09-09 12:10:18"
     },
     {
         "id": 12816623,
@@ -18201,7 +18534,7 @@
         "actualisation_date": "2026-07-22 15:39:37",
         "agentId": 72663,
         "developerlink": "https://wmsprogres.pl/",
-        "last_updated": "2026-09-09 11:30:13"
+        "last_updated": "2026-09-09 12:00:14"
     },
     {
         "id": 12816130,
@@ -18272,7 +18605,7 @@
         "actualisation_date": "2026-07-22 15:27:05",
         "agentId": 72663,
         "developerlink": "https://wmsprogres.pl/",
-        "last_updated": "2026-09-09 11:30:10"
+        "last_updated": "2026-09-09 12:00:11"
     },
     {
         "id": 12809857,
@@ -18368,7 +18701,7 @@
         "actualisation_date": "2026-07-20 13:44:37",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:35:46"
+        "last_updated": "2026-09-09 12:05:45"
     },
     {
         "id": 12621442,
@@ -18494,7 +18827,7 @@
         "actualisation_date": "2026-07-20 13:34:57",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:46:39"
+        "last_updated": "2026-09-09 12:16:37"
     },
     {
         "id": 12621434,
@@ -18600,7 +18933,7 @@
         "actualisation_date": "2026-07-20 13:13:58",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:46:33"
+        "last_updated": "2026-09-09 12:16:35"
     },
     {
         "id": 12224345,
@@ -18651,7 +18984,7 @@
         "actualisation_date": "2026-07-17 12:59:56",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:34:12"
+        "last_updated": "2026-09-09 12:04:12"
     },
     {
         "id": 12796749,
@@ -18777,7 +19110,7 @@
         "actualisation_date": "2026-07-16 11:12:05",
         "agentId": 76926,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:35"
+        "last_updated": "2026-09-09 12:14:35"
     },
     {
         "id": 12220827,
@@ -18918,7 +19251,7 @@
         "actualisation_date": "2026-07-15 13:07:27",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:16"
+        "last_updated": "2026-09-09 12:13:16"
     },
     {
         "id": 12746650,
@@ -18994,7 +19327,7 @@
         "actualisation_date": "2026-07-15 13:03:18",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:48:31"
+        "last_updated": "2026-09-09 12:18:32"
     },
     {
         "id": 12801043,
@@ -19060,7 +19393,7 @@
         "actualisation_date": "2026-07-14 14:22:58",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:48"
+        "last_updated": "2026-09-09 12:03:50"
     },
     {
         "id": 12526780,
@@ -19171,7 +19504,7 @@
         "actualisation_date": "2026-07-14 14:09:12",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:35:31"
+        "last_updated": "2026-09-09 12:05:29"
     },
     {
         "id": 12748278,
@@ -19242,7 +19575,7 @@
         "actualisation_date": "2026-07-14 13:54:44",
         "agentId": 72663,
         "developerlink": "https://hegra-deweloper.pl/",
-        "last_updated": "2026-09-09 11:48:43"
+        "last_updated": "2026-09-09 12:18:46"
     },
     {
         "id": 12755962,
@@ -19353,7 +19686,7 @@
         "actualisation_date": "2026-07-14 13:54:19",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:49:07"
+        "last_updated": "2026-09-09 12:19:07"
     },
     {
         "id": 12756004,
@@ -19449,7 +19782,7 @@
         "actualisation_date": "2026-07-14 13:53:13",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:49:10"
+        "last_updated": "2026-09-09 12:19:11"
     },
     {
         "id": 12757092,
@@ -19540,7 +19873,7 @@
         "actualisation_date": "2026-07-14 13:52:30",
         "agentId": 72663,
         "developerlink": "www.grandresidence.pl",
-        "last_updated": "2026-09-09 11:48:54"
+        "last_updated": "2026-09-09 12:18:54"
     },
     {
         "id": 12071266,
@@ -19611,7 +19944,7 @@
         "actualisation_date": "2026-07-14 13:10:46",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:40:51"
+        "last_updated": "2026-09-09 12:10:52"
     },
     {
         "id": 12062536,
@@ -19662,7 +19995,7 @@
         "actualisation_date": "2026-07-14 11:31:47",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:38:52"
+        "last_updated": "2026-09-09 12:08:52"
     },
     {
         "id": 12436530,
@@ -19768,7 +20101,7 @@
         "actualisation_date": "2026-07-14 11:29:32",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:32:52"
+        "last_updated": "2026-09-09 12:02:53"
     },
     {
         "id": 12458951,
@@ -19859,7 +20192,7 @@
         "actualisation_date": "2026-07-14 11:27:51",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:27"
+        "last_updated": "2026-09-09 12:03:29"
     },
     {
         "id": 12694998,
@@ -19950,7 +20283,7 @@
         "actualisation_date": "2026-07-14 11:25:32",
         "agentId": 72664,
         "developerlink": "https://hegra-deweloper.pl/",
-        "last_updated": "2026-09-09 11:45:24"
+        "last_updated": "2026-09-09 12:15:23"
     },
     {
         "id": 12702261,
@@ -20066,7 +20399,7 @@
         "actualisation_date": "2026-07-14 11:24:04",
         "agentId": 82098,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:45:54"
+        "last_updated": "2026-09-09 12:15:56"
     },
     {
         "id": 11951457,
@@ -20162,7 +20495,7 @@
         "actualisation_date": "2026-07-13 21:43:51",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:38:43"
+        "last_updated": "2026-09-09 12:08:43"
     },
     {
         "id": 11951483,
@@ -20253,7 +20586,7 @@
         "actualisation_date": "2026-07-13 21:43:42",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:38:46"
+        "last_updated": "2026-09-09 12:08:46"
     },
     {
         "id": 11983035,
@@ -20334,7 +20667,7 @@
         "actualisation_date": "2026-07-13 21:43:34",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:30:44"
+        "last_updated": "2026-09-09 12:00:46"
     },
     {
         "id": 11983061,
@@ -20415,7 +20748,7 @@
         "actualisation_date": "2026-07-13 21:43:25",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:30:47"
+        "last_updated": "2026-09-09 12:00:50"
     },
     {
         "id": 11983073,
@@ -20496,7 +20829,7 @@
         "actualisation_date": "2026-07-13 21:43:15",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:30:51"
+        "last_updated": "2026-09-09 12:00:52"
     },
     {
         "id": 12164730,
@@ -20577,7 +20910,7 @@
         "actualisation_date": "2026-07-13 21:42:47",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:41:21"
+        "last_updated": "2026-09-09 12:11:24"
     },
     {
         "id": 12182093,
@@ -20643,7 +20976,7 @@
         "actualisation_date": "2026-07-13 21:42:01",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:23"
+        "last_updated": "2026-09-09 12:12:21"
     },
     {
         "id": 12197287,
@@ -20739,7 +21072,7 @@
         "actualisation_date": "2026-07-13 21:41:43",
         "agentId": 72663,
         "developerlink": "https://www.lasmarcina.pl/",
-        "last_updated": "2026-09-09 11:42:44"
+        "last_updated": "2026-09-09 12:12:48"
     },
     {
         "id": 12205309,
@@ -20875,7 +21208,7 @@
         "actualisation_date": "2026-07-13 21:41:32",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:34"
+        "last_updated": "2026-09-09 12:12:37"
     },
     {
         "id": 12449485,
@@ -20961,7 +21294,7 @@
         "actualisation_date": "2026-07-13 21:39:12",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:32:57"
+        "last_updated": "2026-09-09 12:02:59"
     },
     {
         "id": 12457748,
@@ -21062,7 +21395,7 @@
         "actualisation_date": "2026-07-13 21:38:19",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:45"
+        "last_updated": "2026-09-09 12:01:47"
     },
     {
         "id": 12575906,
@@ -21138,7 +21471,7 @@
         "actualisation_date": "2026-07-13 21:37:32",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:36:39"
+        "last_updated": "2026-09-09 12:06:40"
     },
     {
         "id": 12606704,
@@ -21204,7 +21537,7 @@
         "actualisation_date": "2026-07-13 21:36:48",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:38:49"
+        "last_updated": "2026-09-09 12:08:49"
     },
     {
         "id": 12606692,
@@ -21270,7 +21603,7 @@
         "actualisation_date": "2026-07-13 21:36:38",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:38:37"
+        "last_updated": "2026-09-09 12:08:37"
     },
     {
         "id": 12701579,
@@ -21346,7 +21679,7 @@
         "actualisation_date": "2026-07-13 21:34:08",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:45:35"
+        "last_updated": "2026-09-09 12:15:34"
     },
     {
         "id": 12701610,
@@ -21417,7 +21750,7 @@
         "actualisation_date": "2026-07-13 21:33:58",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:45:38"
+        "last_updated": "2026-09-09 12:15:37"
     },
     {
         "id": 12703099,
@@ -21588,7 +21921,7 @@
         "actualisation_date": "2026-07-13 21:33:48",
         "agentId": 82098,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:46:09"
+        "last_updated": "2026-09-09 12:16:07"
     },
     {
         "id": 12748050,
@@ -21659,7 +21992,7 @@
         "actualisation_date": "2026-07-13 21:32:55",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:48:40"
+        "last_updated": "2026-09-09 12:18:40"
     },
     {
         "id": 12753347,
@@ -21765,7 +22098,7 @@
         "actualisation_date": "2026-07-13 21:32:35",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:49:01"
+        "last_updated": "2026-09-09 12:19:01"
     },
     {
         "id": 12756092,
@@ -21831,7 +22164,7 @@
         "actualisation_date": "2026-07-13 21:31:53",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:49:18"
+        "last_updated": "2026-09-09 12:19:19"
     },
     {
         "id": 12759310,
@@ -21902,7 +22235,7 @@
         "actualisation_date": "2026-07-13 21:31:15",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:49:59"
+        "last_updated": "2026-09-09 12:19:58"
     },
     {
         "id": 11883496,
@@ -21983,7 +22316,7 @@
         "actualisation_date": "2026-07-13 21:26:24",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:34:47"
+        "last_updated": "2026-09-09 12:04:48"
     },
     {
         "id": 11940625,
@@ -22074,7 +22407,7 @@
         "actualisation_date": "2026-07-13 21:20:52",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:36:55"
+        "last_updated": "2026-09-09 12:06:54"
     },
     {
         "id": 11974616,
@@ -22250,7 +22583,7 @@
         "actualisation_date": "2026-07-13 21:12:26",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:39:26"
+        "last_updated": "2026-09-09 12:09:27"
     },
     {
         "id": 11990302,
@@ -22336,7 +22669,7 @@
         "actualisation_date": "2026-07-13 21:06:19",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:05"
+        "last_updated": "2026-09-09 12:14:06"
     },
     {
         "id": 11990349,
@@ -22412,7 +22745,7 @@
         "actualisation_date": "2026-07-13 21:05:44",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:31"
+        "last_updated": "2026-09-09 12:14:32"
     },
     {
         "id": 12006107,
@@ -22508,7 +22841,7 @@
         "actualisation_date": "2026-07-13 21:04:48",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:39:44"
+        "last_updated": "2026-09-09 12:09:48"
     },
     {
         "id": 12006114,
@@ -22579,7 +22912,7 @@
         "actualisation_date": "2026-07-13 21:04:24",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:39:47"
+        "last_updated": "2026-09-09 12:09:51"
     },
     {
         "id": 12132897,
@@ -22670,7 +23003,7 @@
         "actualisation_date": "2026-07-13 21:00:22",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:34:45"
+        "last_updated": "2026-09-09 12:04:46"
     },
     {
         "id": 12163257,
@@ -22746,7 +23079,7 @@
         "actualisation_date": "2026-07-13 20:55:22",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:41:33"
+        "last_updated": "2026-09-09 12:11:35"
     },
     {
         "id": 12288008,
@@ -22972,7 +23305,7 @@
         "actualisation_date": "2026-07-13 20:49:46",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:35:01"
+        "last_updated": "2026-09-09 12:05:02"
     },
     {
         "id": 12426913,
@@ -23068,7 +23401,7 @@
         "actualisation_date": "2026-07-13 20:48:47",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:32:43"
+        "last_updated": "2026-09-09 12:02:44"
     },
     {
         "id": 12522453,
@@ -23144,7 +23477,7 @@
         "actualisation_date": "2026-07-13 20:46:12",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:35:21"
+        "last_updated": "2026-09-09 12:05:23"
     },
     {
         "id": 12522917,
@@ -23230,7 +23563,7 @@
         "actualisation_date": "2026-07-13 20:46:01",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:35:24"
+        "last_updated": "2026-09-09 12:05:26"
     },
     {
         "id": 12531763,
@@ -23296,7 +23629,7 @@
         "actualisation_date": "2026-07-13 20:45:29",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:35:35"
+        "last_updated": "2026-09-09 12:05:37"
     },
     {
         "id": 12555001,
@@ -23362,7 +23695,7 @@
         "actualisation_date": "2026-07-13 19:12:41",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:36:21"
+        "last_updated": "2026-09-09 12:06:21"
     },
     {
         "id": 12674998,
@@ -23448,7 +23781,7 @@
         "actualisation_date": "2026-07-13 19:11:54",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:47:13"
+        "last_updated": "2026-09-09 12:17:12"
     },
     {
         "id": 12720911,
@@ -23539,7 +23872,7 @@
         "actualisation_date": "2026-07-13 18:56:29",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:47:54"
+        "last_updated": "2026-09-09 12:17:58"
     },
     {
         "id": 12578155,
@@ -23680,7 +24013,7 @@
         "actualisation_date": "2026-07-09 16:23:11",
         "agentId": 76926,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:13"
+        "last_updated": "2026-09-09 12:14:16"
     },
     {
         "id": 12613123,
@@ -23761,7 +24094,7 @@
         "actualisation_date": "2026-07-09 16:21:21",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:00"
+        "last_updated": "2026-09-09 12:13:00"
     },
     {
         "id": 12682020,
@@ -23842,7 +24175,7 @@
         "actualisation_date": "2026-07-09 16:20:25",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:32:12"
+        "last_updated": "2026-09-09 12:02:16"
     },
     {
         "id": 12009357,
@@ -23948,7 +24281,7 @@
         "actualisation_date": "2026-07-09 16:07:29",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:40:04"
+        "last_updated": "2026-09-09 12:10:05"
     },
     {
         "id": 12252499,
@@ -24054,7 +24387,7 @@
         "actualisation_date": "2026-07-09 15:52:40",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:42"
+        "last_updated": "2026-09-09 12:13:44"
     },
     {
         "id": 12322601,
@@ -24130,7 +24463,7 @@
         "actualisation_date": "2026-07-09 15:51:11",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:54"
+        "last_updated": "2026-09-09 12:03:56"
     },
     {
         "id": 12582872,
@@ -24241,7 +24574,7 @@
         "actualisation_date": "2026-07-09 15:46:36",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:22"
+        "last_updated": "2026-09-09 12:14:24"
     },
     {
         "id": 12721534,
@@ -24342,7 +24675,7 @@
         "actualisation_date": "2026-07-09 15:42:18",
         "agentId": 72735,
         "developerlink": "https://domex-rzeszow.com.pl/inwestycje/osiedle-olbrachta-3-etap",
-        "last_updated": "2026-09-09 11:30:16"
+        "last_updated": "2026-09-09 12:00:16"
     },
     {
         "id": 12298035,
@@ -24448,7 +24781,7 @@
         "actualisation_date": "2026-07-09 09:21:27",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:35:13"
+        "last_updated": "2026-09-09 12:05:14"
     },
     {
         "id": 12400093,
@@ -24519,7 +24852,7 @@
         "actualisation_date": "2026-07-09 09:19:05",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:26"
+        "last_updated": "2026-09-09 12:01:25"
     },
     {
         "id": 12400939,
@@ -24590,7 +24923,7 @@
         "actualisation_date": "2026-07-09 09:18:11",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:32:15"
+        "last_updated": "2026-09-09 12:02:19"
     },
     {
         "id": 12471530,
@@ -24681,7 +25014,7 @@
         "actualisation_date": "2026-07-09 09:16:37",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:32"
+        "last_updated": "2026-09-09 12:03:34"
     },
     {
         "id": 12734761,
@@ -24797,7 +25130,7 @@
         "actualisation_date": "2026-07-09 09:14:52",
         "agentId": 82098,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:48:08"
+        "last_updated": "2026-09-09 12:18:10"
     },
     {
         "id": 12018088,
@@ -24893,7 +25226,7 @@
         "actualisation_date": "2026-07-09 09:13:46",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:40:10"
+        "last_updated": "2026-09-09 12:10:12"
     },
     {
         "id": 12074599,
@@ -24979,7 +25312,7 @@
         "actualisation_date": "2026-07-09 09:12:35",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:40:57"
+        "last_updated": "2026-09-09 12:10:57"
     },
     {
         "id": 12120775,
@@ -25080,7 +25413,7 @@
         "actualisation_date": "2026-07-09 09:11:47",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:00"
+        "last_updated": "2026-09-09 12:03:02"
     },
     {
         "id": 12168116,
@@ -25181,7 +25514,7 @@
         "actualisation_date": "2026-07-09 09:10:44",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:02"
+        "last_updated": "2026-09-09 12:12:03"
     },
     {
         "id": 12182516,
@@ -25262,7 +25595,7 @@
         "actualisation_date": "2026-07-09 09:10:17",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:32"
+        "last_updated": "2026-09-09 12:12:34"
     },
     {
         "id": 12195964,
@@ -25348,7 +25681,7 @@
         "actualisation_date": "2026-07-09 09:10:00",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:37"
+        "last_updated": "2026-09-09 12:12:40"
     },
     {
         "id": 12336551,
@@ -25429,7 +25762,7 @@
         "actualisation_date": "2026-07-09 09:09:14",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:41:09"
+        "last_updated": "2026-09-09 12:11:14"
     },
     {
         "id": 12639808,
@@ -25525,7 +25858,7 @@
         "actualisation_date": "2026-07-09 09:08:18",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:46:57"
+        "last_updated": "2026-09-09 12:16:56"
     },
     {
         "id": 12672216,
@@ -25606,7 +25939,7 @@
         "actualisation_date": "2026-07-09 09:08:06",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:47:08"
+        "last_updated": "2026-09-09 12:17:07"
     },
     {
         "id": 12720545,
@@ -25682,7 +26015,7 @@
         "actualisation_date": "2026-07-09 09:07:41",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:47:52"
+        "last_updated": "2026-09-09 12:17:55"
     },
     {
         "id": 11999873,
@@ -25823,7 +26156,7 @@
         "actualisation_date": "2026-07-09 08:41:27",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:39:40"
+        "last_updated": "2026-09-09 12:09:40"
     },
     {
         "id": 12164311,
@@ -25914,7 +26247,7 @@
         "actualisation_date": "2026-07-09 08:40:17",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:41:52"
+        "last_updated": "2026-09-09 12:11:52"
     },
     {
         "id": 12278973,
@@ -26025,7 +26358,7 @@
         "actualisation_date": "2026-07-09 08:38:36",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:34:58"
+        "last_updated": "2026-09-09 12:04:59"
     },
     {
         "id": 12433135,
@@ -26096,7 +26429,7 @@
         "actualisation_date": "2026-07-09 08:38:02",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:32:49"
+        "last_updated": "2026-09-09 12:02:50"
     },
     {
         "id": 12291429,
@@ -26192,7 +26525,7 @@
         "actualisation_date": "2026-07-09 08:34:38",
         "agentId": 76926,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:35:15"
+        "last_updated": "2026-09-09 12:05:17"
     },
     {
         "id": 12321680,
@@ -26303,7 +26636,7 @@
         "actualisation_date": "2026-07-09 08:34:24",
         "agentId": 76926,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:07"
+        "last_updated": "2026-09-09 12:03:08"
     },
     {
         "id": 12390039,
@@ -26454,7 +26787,7 @@
         "actualisation_date": "2026-07-09 08:30:36",
         "agentId": 76926,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:32:32"
+        "last_updated": "2026-09-09 12:02:34"
     },
     {
         "id": 12459687,
@@ -26645,7 +26978,7 @@
         "actualisation_date": "2026-07-09 08:29:46",
         "agentId": 76926,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:30"
+        "last_updated": "2026-09-09 12:03:32"
     },
     {
         "id": 12472855,
@@ -26786,7 +27119,7 @@
         "actualisation_date": "2026-07-09 08:29:34",
         "agentId": 76926,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:40"
+        "last_updated": "2026-09-09 12:03:39"
     },
     {
         "id": 12499211,
@@ -26932,7 +27265,7 @@
         "actualisation_date": "2026-07-09 08:28:53",
         "agentId": 76926,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:59"
+        "last_updated": "2026-09-09 12:04:01"
     },
     {
         "id": 12517742,
@@ -27058,7 +27391,7 @@
         "actualisation_date": "2026-07-09 08:28:29",
         "agentId": 76926,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:34:37"
+        "last_updated": "2026-09-09 12:04:37"
     },
     {
         "id": 12607257,
@@ -27214,7 +27547,7 @@
         "actualisation_date": "2026-07-09 08:27:39",
         "agentId": 76926,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:40:48"
+        "last_updated": "2026-09-09 12:10:49"
     },
     {
         "id": 11947318,
@@ -27285,7 +27618,7 @@
         "actualisation_date": "2026-07-08 16:12:12",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:37:57"
+        "last_updated": "2026-09-09 12:07:57"
     },
     {
         "id": 12047061,
@@ -27401,7 +27734,7 @@
         "actualisation_date": "2026-07-08 16:10:33",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:40:31"
+        "last_updated": "2026-09-09 12:10:32"
     },
     {
         "id": 12124316,
@@ -27497,7 +27830,7 @@
         "actualisation_date": "2026-07-08 16:09:41",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:09"
+        "last_updated": "2026-09-09 12:03:10"
     },
     {
         "id": 12197406,
@@ -27588,7 +27921,7 @@
         "actualisation_date": "2026-07-08 16:08:08",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:55"
+        "last_updated": "2026-09-09 12:12:55"
     },
     {
         "id": 12415220,
@@ -27694,7 +28027,7 @@
         "actualisation_date": "2026-07-08 16:02:35",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:32:38"
+        "last_updated": "2026-09-09 12:02:40"
     },
     {
         "id": 12559667,
@@ -27795,7 +28128,7 @@
         "actualisation_date": "2026-07-08 16:00:03",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:39:31"
+        "last_updated": "2026-09-09 12:09:31"
     },
     {
         "id": 12579487,
@@ -27876,7 +28209,7 @@
         "actualisation_date": "2026-07-08 15:59:03",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:16"
+        "last_updated": "2026-09-09 12:14:18"
     },
     {
         "id": 12766681,
@@ -27977,7 +28310,7 @@
         "actualisation_date": "2026-07-08 15:55:44",
         "agentId": 74395,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:50:13"
+        "last_updated": "2026-09-09 12:20:13"
     },
     {
         "id": 12582641,
@@ -28103,7 +28436,7 @@
         "actualisation_date": "2026-07-08 12:47:43",
         "agentId": 80452,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:57"
+        "last_updated": "2026-09-09 12:12:58"
     },
     {
         "id": 12596365,
@@ -28254,7 +28587,7 @@
         "actualisation_date": "2026-07-08 12:47:14",
         "agentId": 80452,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:30:19"
+        "last_updated": "2026-09-09 12:00:19"
     },
     {
         "id": 12601294,
@@ -28370,7 +28703,7 @@
         "actualisation_date": "2026-07-08 12:46:39",
         "agentId": 80452,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:51"
+        "last_updated": "2026-09-09 12:03:53"
     },
     {
         "id": 12628810,
@@ -28491,7 +28824,7 @@
         "actualisation_date": "2026-07-08 12:46:12",
         "agentId": 80452,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:45:03"
+        "last_updated": "2026-09-09 12:15:02"
     },
     {
         "id": 12672935,
@@ -28612,7 +28945,7 @@
         "actualisation_date": "2026-07-08 12:45:08",
         "agentId": 80452,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:47:05"
+        "last_updated": "2026-09-09 12:17:05"
     },
     {
         "id": 11884666,
@@ -28723,7 +29056,7 @@
         "actualisation_date": "2026-07-06 16:53:26",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:34:53"
+        "last_updated": "2026-09-09 12:04:50"
     },
     {
         "id": 12117411,
@@ -28829,7 +29162,7 @@
         "actualisation_date": "2026-07-06 14:41:42",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:02"
+        "last_updated": "2026-09-09 12:01:04"
     },
     {
         "id": 11881502,
@@ -28930,7 +29263,7 @@
         "actualisation_date": "2026-07-03 08:49:47",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:34:34"
+        "last_updated": "2026-09-09 12:04:34"
     },
     {
         "id": 12743289,
@@ -29046,7 +29379,7 @@
         "actualisation_date": "2026-06-30 11:50:37",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:48:25"
+        "last_updated": "2026-09-09 12:18:27"
     },
     {
         "id": 11976484,
@@ -29132,7 +29465,7 @@
         "actualisation_date": "2026-06-30 11:36:54",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:37:01"
+        "last_updated": "2026-09-09 12:07:02"
     },
     {
         "id": 12124973,
@@ -29308,7 +29641,7 @@
         "actualisation_date": "2026-06-24 11:17:59",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:16"
+        "last_updated": "2026-09-09 12:03:15"
     },
     {
         "id": 12757301,
@@ -29474,7 +29807,7 @@
         "actualisation_date": "2026-06-24 08:57:53",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:49:37"
+        "last_updated": "2026-09-09 12:19:34"
     },
     {
         "id": 11946084,
@@ -29570,7 +29903,7 @@
         "actualisation_date": "2026-06-17 11:39:43",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:37:44"
+        "last_updated": "2026-09-09 12:07:45"
     },
     {
         "id": 11946045,
@@ -29661,7 +29994,7 @@
         "actualisation_date": "2026-06-17 11:32:08",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:37:33"
+        "last_updated": "2026-09-09 12:07:33"
     },
     {
         "id": 11976288,
@@ -29732,7 +30065,7 @@
         "actualisation_date": "2026-06-17 11:27:01",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:35:50"
+        "last_updated": "2026-09-09 12:05:53"
     },
     {
         "id": 12388880,
@@ -29833,118 +30166,7 @@
         "actualisation_date": "2026-06-15 11:36:10",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:43"
-    },
-    {
-        "id": 12593353,
-        "title": "",
-        "price": 658000,
-        "is_special": 1,
-        "building_type": "Mieszkanie",
-        "isForSaleOrRental": true,
-        "country_name": "Polska",
-        "description": "Biuro Nieruchomości <b>Eagles Estate</b> ma przyjemność zaprezentować na wyłączność przestronne, <b>3-pokojowe, dwupoziomowe mieszkanie o powierzchni 66,53 m²</b>, zlokalizowane przy ul. Wieniawskiego, na <b>2. piętrze budynku z 2011 roku</b>.<br>To wyjątkowa propozycja dla osób, które cenią funkcjonalny układ, przestrzeń oraz niepowtarzalny klimat mieszkania z antresolą. Dwupoziomowy charakter nieruchomości zapewnia wyraźny podział na strefę dzienną i prywatną, a klimatyzacja gwarantuje komfort przez cały rok. Mieszkanie znajduje się w zadbanym, nowoczesnym budynku i jest gotowe do zamieszkania.<br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br><b>I poziom:</b><br>1. przedpokój – 6,89 m²<br>2. oddzielna kuchnia – 7,65 m²<br>3. przestronny salon – 19,29 m²<br>4. łazienka – 4,35 m²<br>5. pokój – 10,03 m²<br>6. klatka schodowa – 3,54 m²<br><b>II poziom:</b><br>1. antresola – 14,78 m² (idealna jako sypialnia, gabinet lub strefa relaksu)<br><b>Dodatkowo:</b><br>- 2 balkony francuskie (ok. 1 m² każdy)<br>- komórka lokatorska – 2,34 m²<br>- miejsce postojowe w garażu podziemnym – dodatkowo płatne <b>50 000 zł</b><br><b>ATUTY NIERUCHOMOŚCI:</b><br>- funkcjonalny, dwupoziomowy układ<br>- budynek z 2011 roku<br>- antresola zwiększająca możliwości aranżacyjne<br>- klimatyzacja<br>- dwa balkony francuskie zapewniające dobre doświetlenie wnętrz<br>- komórka lokatorska<br>- miejsce postojowe w garażu podziemnym<br>- mieszkanie idealne dla pary, rodziny lub jako inwestycja pod wynajem<br><b>LOKALIZACJA:</b><br>- spokojna i dobrze skomunikowana część miasta<br>- w pobliżu sklepy, szkoły, przedszkola oraz punkty usługowe<br>- szybki dojazd do centrum<br>- rozwinięta infrastruktura miejska w zasięgu kilku minut<br>To idealna propozycja dla osób poszukujących komfortowego, nietuzinkowego mieszkania z antresolą i dodatkową przestrzenią, które łączy funkcjonalność z wygodą codziennego życia.<br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości.<br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny.<br>Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.&nbsp;<br>",
-        "elevator": 0,
-        "floor_no": 2,
-        "garage": 1,
-        "garage_parking_price": 50000,
-        "short_description": "3 pokoje z antresolą | Wieniawskiego",
-        "headerAdvertisement": "3 pokoje z antresolą | Wieniawskiego",
-        "kitchen_type": "Open",
-        "location_name": "/Podkarpackie/Rzeszów/Zalesie",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "Zalesie",
-        "material": "AirBrick",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 3,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": 1,
-        "price_m2": 9890.28,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "statusChangeDate": "2026-02-23 12:22:44",
-        "total_area": 66.53,
-        "plot_area_a": null,
-        "lotForm": null,
-        "lotType": null,
-        "year_built": 2011,
-        "street_name": "Henryka Wieniawskiego",
-        "street_full_name": "ul. Henryka Wieniawskiego",
-        "images": [
-            {
-                "id": 113255380,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 110912422,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 113255379,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 113255368,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 113255378,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 113259664,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 113259666,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 113259665,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 113259667,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 113259668,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 113259669,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 113259670,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 113259671,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "1723/17058/OMS",
-        "no_of_floors": 2,
-        "actualisation_date": "2026-06-15 01:30:07",
-        "agentId": 72663,
-        "developerlink": null,
-        "last_updated": "2026-09-09 11:45:00"
+        "last_updated": "2026-09-09 12:01:44"
     },
     {
         "id": 12719297,
@@ -30020,7 +30242,7 @@
         "actualisation_date": "2026-06-11 12:12:11",
         "agentId": 72795,
         "developerlink": "https://www.hijj.pl/osiedle-malownicza/",
-        "last_updated": "2026-09-09 11:47:49"
+        "last_updated": "2026-09-09 12:17:52"
     },
     {
         "id": 12719180,
@@ -30096,108 +30318,7 @@
         "actualisation_date": "2026-06-11 12:08:30",
         "agentId": 72795,
         "developerlink": "https://www.hijj.pl/osiedle-malownicza/",
-        "last_updated": "2026-09-09 11:47:46"
-    },
-    {
-        "id": 12636819,
-        "title": "",
-        "price": 470000,
-        "is_special": 0,
-        "building_type": "Mieszkanie",
-        "isForSaleOrRental": true,
-        "country_name": "Polska",
-        "description": "Biuro Nieruchomości&nbsp;<b>Eagles Estate</b>&nbsp;ma przyjemność zaprezentować&nbsp;<b>2-pokojowe mieszkanie</b>&nbsp;o powierzchni&nbsp;<b>41,93 m²</b>, położone na&nbsp;<b>7. piętrze</b>&nbsp;w 8-piętrowym nowym bloku z tego roku. Zlokalizowane jest przy ul. <b>Lubelskiej&nbsp;</b>na osiedlu&nbsp;<b>Staromieście</b>&nbsp;w Rzeszowie.<br><br>Nieruchomość jest w stanie deweloperskim.<br>Funkcjonalny układ&nbsp;<b>dwóch niezależnych pokoi</b>&nbsp;sprawdzi się zarówno dla rodziny, jak i jako inwestycja pod wynajem.<br><br><b>W SKŁAD NIERUCHOMOŚCI WCHODZI:</b><br>• 2 pokoje<br>• oddzielna kuchnia z oknem<br>• łazienka&nbsp;<br>• komunikacja&nbsp;<br>•&nbsp;<b>balkon - 13,6 m2</b><br><br><b>ATUTY NIERUCHOMOŚCI:<br></b><br>• mieszkanie <b>gotowe</b><br>•&nbsp;<b>ogrzewanie miejskie</b><br>• funkcjonalny układ&nbsp;<b>2 pokoi</b><br>• nowe, dobrze skomunikowane osiedle&nbsp;<b><br></b><br><b>Do mieszkania przynależy miejsce postojowe w garażu podziemnym w cenie 45 000 zł.<br><br>*Sprzedaż na zasadzie cesji.<br><br></b>Zapraszamy do kontaktu oraz umówienia się na prezentację nieruchomości.<br><i>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości.</i><b><br><br><br></b>",
-        "elevator": 1,
-        "floor_no": 7,
-        "garage": 1,
-        "garage_parking_price": 50000,
-        "short_description": "Gotowe 2 pokoje z osobną kuchnią z garażem",
-        "headerAdvertisement": "Gotowe 2 pokoje z osobną kuchnią z garażem",
-        "kitchen_type": "Separate",
-        "location_name": "/Podkarpackie/Rzeszów/Staromieście",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "Staromieście",
-        "material": "Mixed",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 2,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": 1,
-        "price_m2": 11209.16,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "statusChangeDate": "2026-04-14 14:53:46",
-        "total_area": 41.93,
-        "plot_area_a": null,
-        "lotForm": null,
-        "lotType": null,
-        "year_built": 2026,
-        "street_name": "Lubelska",
-        "street_full_name": "ul. Lubelska",
-        "images": [
-            {
-                "id": 111553958,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 111915674,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 111553953,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 111915728,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 111915724,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 111553954,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 111915714,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 111915717,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 111915720,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 111915721,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 111915731,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "1872/17058/OMS",
-        "no_of_floors": 8,
-        "actualisation_date": "2026-06-11 10:17:22",
-        "agentId": 72663,
-        "developerlink": null,
-        "last_updated": "2026-09-09 11:42:18"
+        "last_updated": "2026-09-09 12:17:46"
     },
     {
         "id": 12063843,
@@ -30318,7 +30439,7 @@
         "actualisation_date": "2026-06-09 07:17:32",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:40:45"
+        "last_updated": "2026-09-09 12:10:46"
     },
     {
         "id": 12747186,
@@ -30429,7 +30550,7 @@
         "actualisation_date": "2026-06-02 12:46:57",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:48:37"
+        "last_updated": "2026-09-09 12:18:37"
     },
     {
         "id": 12747164,
@@ -30540,7 +30661,7 @@
         "actualisation_date": "2026-06-02 12:18:21",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:48:35"
+        "last_updated": "2026-09-09 12:18:35"
     },
     {
         "id": 12006464,
@@ -30616,7 +30737,7 @@
         "actualisation_date": "2026-06-01 14:31:47",
         "agentId": 72795,
         "developerlink": "https://lwowska-tarasy.pl/etap-iii/",
-        "last_updated": "2026-09-09 11:39:58"
+        "last_updated": "2026-09-09 12:09:59"
     },
     {
         "id": 12260335,
@@ -30712,7 +30833,7 @@
         "actualisation_date": "2026-06-01 13:21:32",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:56"
+        "last_updated": "2026-09-09 12:02:01"
     },
     {
         "id": 12719732,
@@ -30798,7 +30919,7 @@
         "actualisation_date": "2026-05-21 13:57:00",
         "agentId": 72663,
         "developerlink": "https://www.hijj.pl/osiedle-malownicza/",
-        "last_updated": "2026-09-09 11:31:48"
+        "last_updated": "2026-09-09 12:01:51"
     },
     {
         "id": 12319553,
@@ -30894,7 +31015,7 @@
         "actualisation_date": "2026-05-19 14:15:38",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:30:24"
+        "last_updated": "2026-09-09 12:00:25"
     },
     {
         "id": 12167887,
@@ -31010,7 +31131,7 @@
         "actualisation_date": "2026-05-16 12:32:12",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:00"
+        "last_updated": "2026-09-09 12:12:00"
     },
     {
         "id": 12718881,
@@ -31081,7 +31202,7 @@
         "actualisation_date": "2026-05-14 11:51:18",
         "agentId": 72795,
         "developerlink": "https://krogulskiegopark.pl/",
-        "last_updated": "2026-09-09 11:47:24"
+        "last_updated": "2026-09-09 12:17:27"
     },
     {
         "id": 12718936,
@@ -31152,7 +31273,7 @@
         "actualisation_date": "2026-05-14 11:48:45",
         "agentId": 72795,
         "developerlink": "https://krogulskiegopark.pl/",
-        "last_updated": "2026-09-09 11:47:36"
+        "last_updated": "2026-09-09 12:17:36"
     },
     {
         "id": 12718924,
@@ -31223,7 +31344,7 @@
         "actualisation_date": "2026-05-14 11:46:07",
         "agentId": 72795,
         "developerlink": "https://krogulskiegopark.pl/",
-        "last_updated": "2026-09-09 11:47:33"
+        "last_updated": "2026-09-09 12:17:33"
     },
     {
         "id": 12718915,
@@ -31294,7 +31415,7 @@
         "actualisation_date": "2026-05-14 11:43:16",
         "agentId": 72795,
         "developerlink": "https://krogulskiegopark.pl/",
-        "last_updated": "2026-09-09 11:47:27"
+        "last_updated": "2026-09-09 12:17:30"
     },
     {
         "id": 11912983,
@@ -31370,7 +31491,7 @@
         "actualisation_date": "2026-05-06 15:51:47",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:35:44"
+        "last_updated": "2026-09-09 12:05:43"
     },
     {
         "id": 12702873,
@@ -31441,7 +31562,7 @@
         "actualisation_date": "2026-05-06 13:57:27",
         "agentId": 72665,
         "developerlink": "https://krogulskiegopark.pl/",
-        "last_updated": "2026-09-09 11:46:05"
+        "last_updated": "2026-09-09 12:16:04"
     },
     {
         "id": 12702831,
@@ -31512,7 +31633,7 @@
         "actualisation_date": "2026-05-06 13:46:43",
         "agentId": 72665,
         "developerlink": "https://krogulskiegopark.pl/",
-        "last_updated": "2026-09-09 11:46:02"
+        "last_updated": "2026-09-09 12:16:01"
     },
     {
         "id": 12702779,
@@ -31583,7 +31704,7 @@
         "actualisation_date": "2026-05-06 13:42:35",
         "agentId": 72665,
         "developerlink": "https://krogulskiegopark.pl/",
-        "last_updated": "2026-09-09 11:45:59"
+        "last_updated": "2026-09-09 12:15:59"
     },
     {
         "id": 12047738,
@@ -31709,7 +31830,7 @@
         "actualisation_date": "2026-05-06 11:26:30",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:40:34"
+        "last_updated": "2026-09-09 12:10:34"
     },
     {
         "id": 12702131,
@@ -31780,7 +31901,7 @@
         "actualisation_date": "2026-05-06 10:49:00",
         "agentId": 72665,
         "developerlink": "https://krogulskiegopark.pl/",
-        "last_updated": "2026-09-09 11:45:51"
+        "last_updated": "2026-09-09 12:15:54"
     },
     {
         "id": 12681802,
@@ -31851,7 +31972,7 @@
         "actualisation_date": "2026-05-06 09:20:52",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:32:10"
+        "last_updated": "2026-09-09 12:02:13"
     },
     {
         "id": 12164753,
@@ -31947,7 +32068,7 @@
         "actualisation_date": "2026-05-05 14:04:10",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:41:25"
+        "last_updated": "2026-09-09 12:11:26"
     },
     {
         "id": 12006360,
@@ -32028,7 +32149,7 @@
         "actualisation_date": "2026-04-22 16:36:45",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:39:55"
+        "last_updated": "2026-09-09 12:09:56"
     },
     {
         "id": 12286007,
@@ -32109,7 +32230,7 @@
         "actualisation_date": "2026-04-20 11:39:40",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:35:06"
+        "last_updated": "2026-09-09 12:05:09"
     },
     {
         "id": 12181203,
@@ -32185,7 +32306,7 @@
         "actualisation_date": "2026-04-14 13:29:57",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:15"
+        "last_updated": "2026-09-09 12:12:16"
     },
     {
         "id": 11982539,
@@ -32271,7 +32392,7 @@
         "actualisation_date": "2026-04-10 12:17:51",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:30:30"
+        "last_updated": "2026-09-09 12:00:33"
     },
     {
         "id": 12346317,
@@ -32397,7 +32518,7 @@
         "actualisation_date": "2026-03-04 14:57:33",
         "agentId": 80453,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:30:07"
+        "last_updated": "2026-09-09 12:00:08"
     },
     {
         "id": 12597518,
@@ -32508,7 +32629,7 @@
         "actualisation_date": "2026-02-26 09:55:55",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:22"
+        "last_updated": "2026-09-09 12:01:22"
     },
     {
         "id": 11940575,
@@ -32614,7 +32735,7 @@
         "actualisation_date": "2026-02-16 13:34:29",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:36:50"
+        "last_updated": "2026-09-09 12:06:50"
     },
     {
         "id": 11988684,
@@ -32715,7 +32836,7 @@
         "actualisation_date": "2026-02-03 20:10:48",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:33:43"
+        "last_updated": "2026-09-09 12:03:42"
     },
     {
         "id": 12048843,
@@ -32831,7 +32952,7 @@
         "actualisation_date": "2026-01-27 12:05:17",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:40:43"
+        "last_updated": "2026-09-09 12:10:43"
     },
     {
         "id": 12310252,
@@ -33022,7 +33143,7 @@
         "actualisation_date": "2026-01-23 13:53:32",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:36:14"
+        "last_updated": "2026-09-09 12:06:15"
     },
     {
         "id": 12412486,
@@ -33173,7 +33294,7 @@
         "actualisation_date": "2026-01-20 14:57:16",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:32:35"
+        "last_updated": "2026-09-09 12:02:38"
     },
     {
         "id": 11942532,
@@ -33249,7 +33370,7 @@
         "actualisation_date": "2026-01-14 09:30:21",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:37:12"
+        "last_updated": "2026-09-09 12:07:12"
     },
     {
         "id": 11987480,
@@ -33325,7 +33446,7 @@
         "actualisation_date": "2026-01-14 09:27:33",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:32:18"
+        "last_updated": "2026-09-09 12:02:21"
     },
     {
         "id": 12164135,
@@ -33421,7 +33542,7 @@
         "actualisation_date": "2026-01-14 09:26:10",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:41:42"
+        "last_updated": "2026-09-09 12:11:39"
     },
     {
         "id": 12165646,
@@ -33512,7 +33633,7 @@
         "actualisation_date": "2026-01-14 09:25:28",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:41:55"
+        "last_updated": "2026-09-09 12:11:54"
     },
     {
         "id": 12165653,
@@ -33603,7 +33724,7 @@
         "actualisation_date": "2026-01-14 09:24:29",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:41:57"
+        "last_updated": "2026-09-09 12:11:57"
     },
     {
         "id": 11940282,
@@ -33679,7 +33800,7 @@
         "actualisation_date": "2026-01-14 09:21:35",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:36:42"
+        "last_updated": "2026-09-09 12:06:43"
     },
     {
         "id": 12179685,
@@ -33745,7 +33866,7 @@
         "actualisation_date": "2026-01-14 09:21:01",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:10"
+        "last_updated": "2026-09-09 12:12:10"
     },
     {
         "id": 12315974,
@@ -33951,128 +34072,7 @@
         "actualisation_date": "2025-12-01 13:13:33",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:36:18"
-    },
-    {
-        "id": 12288619,
-        "title": "",
-        "price": 474012,
-        "is_special": 1,
-        "building_type": "Mieszkanie",
-        "isForSaleOrRental": true,
-        "country_name": "Polska",
-        "description": "<b>Wyłącznie w ofercie biura Eagles Estate przedstawiamy Państwu atrakcyjne trzypokojowe mieszkanie w stanie deweloperskim o powierzchni 51,99 m², zlokalizowane w spokojnej okolicy przy ul. Staroniwskiej w Kielanówce.</b><br>Prezentowana nieruchomość to doskonała propozycja zarówno dla osób szukających mieszkania dla siebie, jak i dla inwestorów. Mieszkanie znajduje się na pierwszym piętrze niskiego, trzypiętrowego budynku o nowoczesnej architekturze.<br>Ogrzewanie i ciepła woda realizowane są za pomocą gazowego pieca dwufunkcyjnego. Dodatkowym atutem jest zamontowane ogrzewanie podłogowe na całej powierzchni lokalu oraz przygotowana instalacja pod klimatyzację.<br>Sprzedaż mieszkania odbywa się na zasadzie cesji. Planowane zakończenie inwestycji przypada na IV kwartał 2025 roku.<br><b>Mieszkanie składa się z:</b><br><ul><li>salonu z aneksem kuchennym</li><li>dwóch sypialni</li><li>łazienki z WC</li><li>przedpokoju</li></ul><b>Atuty nieruchomości:</b><br><ul><li>dwa balkony: 6,93 m² oraz 4,24 m²</li><li>stan deweloperski – do własnej aranżacji</li><li>ogrzewanie podłogowe w całym mieszkaniu</li><li>instalacja klimatyzacji</li><li>spokojna i zielona okolica z szybkim dojazdem do centrum Rzeszowa</li><li><b>2 miejsca postojowe dodatkowo płatne – 2 × 15 000 zł</b></li></ul> W bezpośrednim sąsiedztwie znajdują się sklepy, punkty usługowe, placówki medyczne, a także żłobki, przedszkola i szkoły – co czyni tę lokalizację niezwykle komfortową do codziennego życia.<br>&nbsp;<br>Zapraszamy do kontaktu oraz prezentacji nieruchomości.&nbsp;<br><i><br>Na rynku wtórnym pobieramy wynagrodzenie z tytułu usługi pośrednictwa w zakupie nieruchomości.&nbsp;<br></i><br>Niniejsze ogłoszenie nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego oraz innych właściwych przepisów prawnych, a dane w nim zawarte mają jedynie charakter informacyjny. <br><br>Jeśli są Państwo zainteresowani finansowaniem zakupu nieruchomości, z przyjemnością informujemy, że dzięki naszemu działowi finansowemu mają Państwo możliwość uzyskania kredytu w jednym miejscu, z pełną obsługą na każdym etapie.",
-        "elevator": 0,
-        "floor_no": 1,
-        "garage": 1,
-        "garage_parking_price": 30000,
-        "short_description": "Nowe 3 pokoje w Kielanówce – 2 balkony",
-        "headerAdvertisement": "Nowe 3 pokoje w Kielanówce – 2 balkony",
-        "kitchen_type": "Adjoining",
-        "location_name": "/Podkarpackie/Rzeszów/Staroniwa",
-        "location_province": "Podkarpackie",
-        "location_locality": "Rzeszów",
-        "location_quarter": "Staroniwa",
-        "material": "Other",
-        "mortgage_market": "Secondary",
-        "no_of_rooms": 3,
-        "ownership_type": "Mortgage",
-        "parking_spaces_no": 2,
-        "price_m2": 9117.37,
-        "provision_amount": 0,
-        "section": "ApartmentSale",
-        "status": "Active",
-        "statusChangeDate": "2025-07-28 11:58:34",
-        "total_area": 51.99,
-        "plot_area_a": null,
-        "lotForm": null,
-        "lotType": null,
-        "year_built": 2025,
-        "street_name": "Staroniwska",
-        "street_full_name": "ul. Staroniwska",
-        "images": [
-            {
-                "id": 106956881,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106956974,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 107141045,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106956879,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106956877,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106956873,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 107141044,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106956880,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 107141043,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106956871,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106956872,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106956870,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106956875,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106956876,
-                "description": null,
-                "isScheme": false
-            },
-            {
-                "id": 106956878,
-                "description": null,
-                "isScheme": false
-            }
-        ],
-        "listing_offer_id": "1073/17058/OMS",
-        "no_of_floors": 3,
-        "actualisation_date": "2025-12-01 12:46:35",
-        "agentId": 72663,
-        "developerlink": null,
-        "last_updated": "2026-09-09 11:35:10"
+        "last_updated": "2026-09-09 12:06:18"
     },
     {
         "id": 12006475,
@@ -34143,7 +34143,7 @@
         "actualisation_date": "2025-11-21 13:22:56",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:40:00"
+        "last_updated": "2026-09-09 12:10:01"
     },
     {
         "id": 12429318,
@@ -34279,7 +34279,7 @@
         "actualisation_date": "2025-11-09 20:18:25",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:32:46"
+        "last_updated": "2026-09-09 12:02:47"
     },
     {
         "id": 11935344,
@@ -34360,7 +34360,7 @@
         "actualisation_date": "2025-10-01 09:55:43",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:36:29"
+        "last_updated": "2026-09-09 12:06:32"
     },
     {
         "id": 11950384,
@@ -34436,7 +34436,7 @@
         "actualisation_date": "2025-09-26 08:55:48",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:38:29"
+        "last_updated": "2026-09-09 12:08:27"
     },
     {
         "id": 11950388,
@@ -34512,7 +34512,7 @@
         "actualisation_date": "2025-09-26 08:55:23",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:38:34"
+        "last_updated": "2026-09-09 12:08:34"
     },
     {
         "id": 11970091,
@@ -34583,7 +34583,7 @@
         "actualisation_date": "2025-09-26 08:43:57",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:39:03"
+        "last_updated": "2026-09-09 12:09:03"
     },
     {
         "id": 11970097,
@@ -34654,7 +34654,7 @@
         "actualisation_date": "2025-09-26 08:43:40",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:39:06"
+        "last_updated": "2026-09-09 12:09:09"
     },
     {
         "id": 11970101,
@@ -34725,7 +34725,7 @@
         "actualisation_date": "2025-09-26 08:43:26",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:39:09"
+        "last_updated": "2026-09-09 12:09:13"
     },
     {
         "id": 11991262,
@@ -34796,7 +34796,7 @@
         "actualisation_date": "2025-09-26 08:42:20",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:52:16"
+        "last_updated": "2026-09-09 12:22:16"
     },
     {
         "id": 11991275,
@@ -34867,7 +34867,7 @@
         "actualisation_date": "2025-09-26 08:42:04",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:52:19"
+        "last_updated": "2026-09-09 12:22:19"
     },
     {
         "id": 12253501,
@@ -34978,7 +34978,7 @@
         "actualisation_date": "2025-09-19 09:07:07",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:57"
+        "last_updated": "2026-09-09 12:13:57"
     },
     {
         "id": 12181741,
@@ -35054,7 +35054,7 @@
         "actualisation_date": "2025-09-18 14:07:48",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:26"
+        "last_updated": "2026-09-09 12:12:27"
     },
     {
         "id": 11935221,
@@ -35135,7 +35135,7 @@
         "actualisation_date": "2025-09-16 15:23:39",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:36:27"
+        "last_updated": "2026-09-09 12:06:29"
     },
     {
         "id": 12164141,
@@ -35211,7 +35211,7 @@
         "actualisation_date": "2025-09-16 14:26:55",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:41:46"
+        "last_updated": "2026-09-09 12:11:44"
     },
     {
         "id": 12179603,
@@ -35277,7 +35277,7 @@
         "actualisation_date": "2025-09-11 12:58:25",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:07"
+        "last_updated": "2026-09-09 12:12:07"
     },
     {
         "id": 12117244,
@@ -35343,7 +35343,7 @@
         "actualisation_date": "2025-08-19 12:48:30",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:30:59"
+        "last_updated": "2026-09-09 12:01:01"
     },
     {
         "id": 12201608,
@@ -35479,7 +35479,7 @@
         "actualisation_date": "2025-08-19 09:43:50",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:07"
+        "last_updated": "2026-09-09 12:13:09"
     },
     {
         "id": 11939038,
@@ -35585,7 +35585,7 @@
         "actualisation_date": "2025-08-11 11:48:50",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:36:37"
+        "last_updated": "2026-09-09 12:06:38"
     },
     {
         "id": 12065816,
@@ -35666,7 +35666,7 @@
         "actualisation_date": "2025-07-31 15:51:32",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:40:15"
+        "last_updated": "2026-09-09 12:10:16"
     },
     {
         "id": 12116727,
@@ -35737,7 +35737,7 @@
         "actualisation_date": "2025-07-31 15:48:40",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:30:56"
+        "last_updated": "2026-09-09 12:00:58"
     },
     {
         "id": 12285842,
@@ -35838,7 +35838,7 @@
         "actualisation_date": "2025-07-23 07:58:10",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:35:04"
+        "last_updated": "2026-09-09 12:05:06"
     },
     {
         "id": 12259915,
@@ -35929,7 +35929,7 @@
         "actualisation_date": "2025-07-03 17:29:04",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:31:53"
+        "last_updated": "2026-09-09 12:01:56"
     },
     {
         "id": 12259099,
@@ -36025,7 +36025,7 @@
         "actualisation_date": "2025-07-03 16:19:13",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:44:07"
+        "last_updated": "2026-09-09 12:14:11"
     },
     {
         "id": 12074942,
@@ -36101,7 +36101,7 @@
         "actualisation_date": "2025-07-03 08:55:02",
         "agentId": 74243,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:40:54"
+        "last_updated": "2026-09-09 12:10:55"
     },
     {
         "id": 12254049,
@@ -36212,7 +36212,7 @@
         "actualisation_date": "2025-06-25 12:30:44",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:50"
+        "last_updated": "2026-09-09 12:13:51"
     },
     {
         "id": 11982597,
@@ -36298,7 +36298,7 @@
         "actualisation_date": "2025-06-23 11:04:10",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:30:33"
+        "last_updated": "2026-09-09 12:00:35"
     },
     {
         "id": 11982631,
@@ -36374,7 +36374,7 @@
         "actualisation_date": "2025-06-23 11:03:45",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:30:36"
+        "last_updated": "2026-09-09 12:00:38"
     },
     {
         "id": 11982660,
@@ -36450,7 +36450,7 @@
         "actualisation_date": "2025-06-23 11:03:15",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:30:39"
+        "last_updated": "2026-09-09 12:00:41"
     },
     {
         "id": 11982667,
@@ -36526,7 +36526,7 @@
         "actualisation_date": "2025-06-23 11:02:25",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:30:41"
+        "last_updated": "2026-09-09 12:00:44"
     },
     {
         "id": 12237930,
@@ -36627,7 +36627,7 @@
         "actualisation_date": "2025-06-09 14:00:43",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:27"
+        "last_updated": "2026-09-09 12:13:30"
     },
     {
         "id": 12236296,
@@ -36728,7 +36728,7 @@
         "actualisation_date": "2025-06-06 15:21:48",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:24"
+        "last_updated": "2026-09-09 12:13:24"
     },
     {
         "id": 12235142,
@@ -36829,7 +36829,7 @@
         "actualisation_date": "2025-06-06 15:15:06",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:43:21"
+        "last_updated": "2026-09-09 12:13:21"
     },
     {
         "id": 11949561,
@@ -36915,7 +36915,7 @@
         "actualisation_date": "2025-06-04 09:37:26",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:38:16"
+        "last_updated": "2026-09-09 12:08:17"
     },
     {
         "id": 11949581,
@@ -36991,7 +36991,7 @@
         "actualisation_date": "2025-06-04 09:36:50",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:38:18"
+        "last_updated": "2026-09-09 12:08:19"
     },
     {
         "id": 12196031,
@@ -37117,7 +37117,7 @@
         "actualisation_date": "2025-06-02 10:29:04",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:39"
+        "last_updated": "2026-09-09 12:12:42"
     },
     {
         "id": 12181120,
@@ -37183,7 +37183,7 @@
         "actualisation_date": "2025-05-29 08:24:12",
         "agentId": 74041,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:42:12"
+        "last_updated": "2026-09-09 12:12:14"
     },
     {
         "id": 11950386,
@@ -37259,7 +37259,7 @@
         "actualisation_date": "2025-05-28 10:04:28",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:38:31"
+        "last_updated": "2026-09-09 12:08:30"
     },
     {
         "id": 12049106,
@@ -37360,7 +37360,7 @@
         "actualisation_date": "2025-05-26 09:58:17",
         "agentId": 72663,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:40:40"
+        "last_updated": "2026-09-09 12:10:40"
     },
     {
         "id": 11881491,
@@ -37481,7 +37481,7 @@
         "actualisation_date": "2025-05-18 19:33:37",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:34:31"
+        "last_updated": "2026-09-09 12:04:31"
     },
     {
         "id": 11941815,
@@ -37577,7 +37577,7 @@
         "actualisation_date": "2025-05-07 10:17:14",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:37:07"
+        "last_updated": "2026-09-09 12:07:08"
     },
     {
         "id": 11951393,
@@ -37653,7 +37653,7 @@
         "actualisation_date": "2025-03-26 09:46:12",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:38:39"
+        "last_updated": "2026-09-09 12:08:40"
     },
     {
         "id": 12006332,
@@ -37724,7 +37724,7 @@
         "actualisation_date": "2025-03-20 14:36:01",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:39:53"
+        "last_updated": "2026-09-09 12:09:53"
     },
     {
         "id": 12016148,
@@ -37830,7 +37830,7 @@
         "actualisation_date": "2025-02-27 08:04:02",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:40:06"
+        "last_updated": "2026-09-09 12:10:08"
     },
     {
         "id": 11945439,
@@ -37906,7 +37906,7 @@
         "actualisation_date": "2025-01-12 11:26:30",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:37:21"
+        "last_updated": "2026-09-09 12:07:20"
     },
     {
         "id": 11945447,
@@ -37982,7 +37982,7 @@
         "actualisation_date": "2025-01-12 11:24:00",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:37:23"
+        "last_updated": "2026-09-09 12:07:22"
     },
     {
         "id": 11945461,
@@ -38058,7 +38058,7 @@
         "actualisation_date": "2025-01-12 11:23:45",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:37:26"
+        "last_updated": "2026-09-09 12:07:26"
     },
     {
         "id": 11945472,
@@ -38134,7 +38134,7 @@
         "actualisation_date": "2025-01-12 11:23:26",
         "agentId": 72795,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:37:29"
+        "last_updated": "2026-09-09 12:07:28"
     },
     {
         "id": 11946080,
@@ -38210,7 +38210,7 @@
         "actualisation_date": "2025-01-12 11:23:11",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:37:41"
+        "last_updated": "2026-09-09 12:07:41"
     },
     {
         "id": 11947197,
@@ -38281,7 +38281,7 @@
         "actualisation_date": "2025-01-12 11:22:44",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:37:47"
+        "last_updated": "2026-09-09 12:07:49"
     },
     {
         "id": 11947234,
@@ -38352,7 +38352,7 @@
         "actualisation_date": "2025-01-12 11:22:30",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:37:51"
+        "last_updated": "2026-09-09 12:07:52"
     },
     {
         "id": 11947299,
@@ -38423,7 +38423,7 @@
         "actualisation_date": "2025-01-12 11:22:13",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:37:53"
+        "last_updated": "2026-09-09 12:07:55"
     },
     {
         "id": 11947354,
@@ -38494,7 +38494,7 @@
         "actualisation_date": "2025-01-12 11:22:00",
         "agentId": 72664,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:38:00"
+        "last_updated": "2026-09-09 12:08:01"
     },
     {
         "id": 11948315,
@@ -38570,7 +38570,7 @@
         "actualisation_date": "2025-01-12 11:21:44",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:38:03"
+        "last_updated": "2026-09-09 12:08:04"
     },
     {
         "id": 11948335,
@@ -38646,7 +38646,7 @@
         "actualisation_date": "2025-01-12 11:21:30",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:38:06"
+        "last_updated": "2026-09-09 12:08:07"
     },
     {
         "id": 11948377,
@@ -38722,7 +38722,7 @@
         "actualisation_date": "2025-01-12 11:21:16",
         "agentId": 72665,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:38:11"
+        "last_updated": "2026-09-09 12:08:12"
     },
     {
         "id": 11950380,
@@ -38798,6 +38798,6 @@
         "actualisation_date": "2025-01-12 11:20:01",
         "agentId": 72735,
         "developerlink": null,
-        "last_updated": "2026-09-09 11:38:26"
+        "last_updated": "2026-09-09 12:08:25"
     }
 ]
